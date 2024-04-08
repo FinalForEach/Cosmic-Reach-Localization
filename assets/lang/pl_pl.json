@@ -11,7 +11,6 @@
   "fovSlider": "FOV: ",
   "keybindsButton": "Skóty klawiszowe",
   "doneButton": "Gotowe",
-
   "languagesButton": "Język",
   "dutchButton": "Niderlandzki",
   "englishButton": "Angielski",
@@ -23,8 +22,7 @@
   "portugueseButton": "Portugalski",
   "russianButton": "Rosyjski",
   "spanishButton": "Hiszpański",
-  "ukrainianButton": "Ukraiński", 
-
+  "ukrainianButton": "Ukraiński",
   "preAlphaText": "!Witam w Cosmic Reach! \n Ta gra jest w bardzo wczesnym rozwoju, brakuje w niej funkcji i nie jest jeszcze kompletna \n oraz prawdopodobnie będzie zawierać błędy, usterki, awarie i zniszczenia światów. \n Wszystko może ulec zmianie i nie jest reprezentatywne z ostateczną wersją gry. \n Możesz w nią grać, dzięki czemu możesz wyrazić opinię, która pomoże wyznaczyć przyszłość gry. \n Miłego testowania... i psucia gry!",
   "okButton": "Ok",
   "Lighting": "Oświtlenie: ",
@@ -75,7 +73,6 @@
   "Screenshot_info": "Zapisano zrzut ekranu do ",
   "Loading": "Ładowanie",
   "RuntimeException": "Nie udało się wczytać świata: ",
-  
   "Tip1": "Pokrywanie siatki wypustkami...",
   "Tip2": "Zgniatanie wierzchołków...",
   "Tip3": "Kształtowanie świata...",
@@ -90,7 +87,6 @@
   "Tip12": "Porządkowanie ekwipunku...",
   "Tip13": "Potwierdzanie Fresnela...",
   "Tip14": "Kolonizowanie planet...",
-  
   "Tip15": "Wskazówka: Podnieś blok, używając kółka myszki!",
   "Tip16": "Wskazówka: Spróbuj zmienić różne tryby oświetlenia w menu pauzy!",
   "Tip17": "Wskazówka: Naciśnij '",
@@ -104,7 +100,6 @@
   "Tip21": "Wskazówka: Naciśnij '",
   "Tip21.1": "', aby otworzyć ekwipunek!",
   "Tip22": "Wskazówka: Sprintuj o ściane by 'biec po ścianie', dojdziesz dalej, niż tylko skacząc.",
-  
   "OddTip1": "Przeszczepianie komórek...",
   "OddTip2": "Inkubacja...",
   "OddTip3": "Poświęcanie obiektów badań...",
