@@ -1,0 +1,26 @@
+== Cosmic Reach Font Texture ==
+* FinalForEach
+* DAHASAG
+
+== English Localization ==
+* FinalForEach
+* LagBB
+
+== Spanish Localization ==
+* LagBB
+
+== Latin America Spanish Localization ==
+* Wesly
+
+== French Localization ==
+* lvllaby
+
+== German Localization ==
+* Matze (Matze997)
+* Zedritsch
+
+== Ukrainian Localization ==
+* DAHASAG
+
+== Norwegian Localization ==
+* MarAlNor
