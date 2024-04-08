@@ -1,0 +1,16 @@
+== Cosmic Reach Font Texture ==
+* FinalForEach
+* DAHASAG
+
+== English Localization ==
+* FinalForEach
+* LagBB
+
+== Spanish Localization ==
+* LagBB
+
+== French Localization ==
+* lvllaby
+
+== Ukrainian Localization ==
+* DAHASAG
