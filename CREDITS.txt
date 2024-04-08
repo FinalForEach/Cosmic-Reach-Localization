@@ -1,5 +1,6 @@
 == Cosmic Reach Font Texture ==
 * FinalForEach
+* DAHASAG
 
 == English Localization ==
 * FinalForEach
@@ -10,3 +11,6 @@
 
 == French Localization ==
 * lvllaby
+
+== Ukrainian Localization ==
+* DAHASAG
