@@ -9,6 +9,9 @@
 == Spanish Localization ==
 * LagBB
 
+== Latin America Spanish Localization ==
+* Wesly
+
 == French Localization ==
 * lvllaby
 
