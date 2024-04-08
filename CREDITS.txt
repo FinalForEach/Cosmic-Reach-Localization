@@ -1,5 +1,6 @@
 == Cosmic Reach Font Texture ==
 * FinalForEach
+* DAHASAG
 
 == English Localization ==
 * FinalForEach
@@ -14,3 +15,6 @@
 == German Localization ==
 * Matze (Matze997)
 * Zedritsch
+
+== Ukrainian Localization ==
+* DAHASAG
