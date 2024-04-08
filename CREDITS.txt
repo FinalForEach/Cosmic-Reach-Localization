@@ -10,3 +10,6 @@
 
 == French Localization ==
 * lvllaby
+
+== Norwegian Localization ==
+* MarAlNor
