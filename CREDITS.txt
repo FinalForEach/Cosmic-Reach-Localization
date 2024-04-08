@@ -1,0 +1,9 @@
+== Cosmic Reach Font Texture ==
+* FinalForEach
+
+== English Localization ==
+* FinalForEach
+* LagBB
+
+== Spanish Localization ==
+* LagBB
