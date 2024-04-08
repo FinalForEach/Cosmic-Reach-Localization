@@ -7,3 +7,6 @@
 
 == Spanish Localization ==
 * LagBB
+
+== French Localization ==
+* lvllaby
