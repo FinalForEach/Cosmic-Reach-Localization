@@ -12,5 +12,9 @@
 == French Localization ==
 * lvllaby
 
+== German Localization ==
+* Matze (Matze997)
+* Zedritsch
+
 == Ukrainian Localization ==
 * DAHASAG
