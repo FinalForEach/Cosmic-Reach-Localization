@@ -8,6 +8,7 @@
 
 == Spanish Localization ==
 * LagBB
+* AlfonsoLVG
 
 == Latin America Spanish Localization ==
 * Wesly
