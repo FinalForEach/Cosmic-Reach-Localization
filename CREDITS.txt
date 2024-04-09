@@ -25,3 +25,6 @@
 
 == Norwegian Localization ==
 * MarAlNor
+
+== Russian Localization ==
+* Svuvi
