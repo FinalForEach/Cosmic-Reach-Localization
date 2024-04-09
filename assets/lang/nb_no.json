@@ -1,4 +1,8 @@
 {
+  "metadata":
+  {
+    "name": "Norsk"
+  },
   "startButton": "Start",
   "loadButton": "Åpne lagringsmappen",
   "optionsButton": "Innstillinger",

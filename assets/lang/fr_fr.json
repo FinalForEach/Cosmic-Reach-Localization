@@ -1,4 +1,8 @@
 {
+  "metadata":
+  {
+    "name": "Français"
+  },
   "startButton": "Démarrer",
   "loadButton": "Ouvrir le répertoire de sauvegarde",
   "optionsButton": "Options",

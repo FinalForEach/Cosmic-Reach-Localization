@@ -1,4 +1,8 @@
 {
+  "metadata":
+  {
+    "name": "Español"
+  },
   "startButton": "Jugar",
   "loadButton": "Abrir directorio de guardado",
   "optionsButton": "Opciones",

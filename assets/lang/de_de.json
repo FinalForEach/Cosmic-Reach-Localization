@@ -1,4 +1,8 @@
 {
+  "metadata":
+  {
+    "name": "Deutsch"
+  },
   "startButton": "Starten",
   "loadButton": "Spielstandordner öffnen",
   "optionsButton": "Optionen",

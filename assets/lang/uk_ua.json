@@ -1,4 +1,8 @@
 {
+  "metadata":
+  {
+    "name": "Українська"
+  },
   "startButton": "Старт",
   "loadButton": "Відкрити Розташування Збережень",
   "optionsButton": "Налаштування",
