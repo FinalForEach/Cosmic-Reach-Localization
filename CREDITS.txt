@@ -21,6 +21,7 @@
 
 == Ukrainian Localization ==
 * DAHASAG
+* al-Basyreusz
 
 == Norwegian Localization ==
 * MarAlNor
