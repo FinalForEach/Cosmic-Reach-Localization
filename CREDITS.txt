@@ -29,3 +29,6 @@
 
 == Russian Localization ==
 * Svuvi
+
+== Pirate English Localization ==
+* Eatham - https://github.com/realeatham
