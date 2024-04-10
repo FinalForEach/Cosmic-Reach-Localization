@@ -15,6 +15,7 @@
 
 == French Localization ==
 * lvllaby
+* Joxh26
 
 == German Localization ==
 * Matze (Matze997)
