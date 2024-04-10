@@ -8,6 +8,7 @@
 
 == Spanish Localization ==
 * LagBB
+* AlfonsoLVG
 
 == Latin America Spanish Localization ==
 * Wesly
@@ -21,6 +22,10 @@
 
 == Ukrainian Localization ==
 * DAHASAG
+* al-Basyreusz
 
 == Norwegian Localization ==
 * MarAlNor
+
+== Russian Localization ==
+* Svuvi
