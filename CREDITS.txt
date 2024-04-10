@@ -33,3 +33,6 @@
 
 == Pirate English Localization ==
 * Eatham - https://github.com/realeatham
+
+== Polish Localization ==
+* ImpSteve
