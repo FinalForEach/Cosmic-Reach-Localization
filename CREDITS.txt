@@ -15,6 +15,7 @@
 
 == French Localization ==
 * lvllaby
+* Joxh26
 
 == German Localization ==
 * Matze (Matze997)
@@ -29,3 +30,6 @@
 
 == Russian Localization ==
 * Svuvi
+
+== Pirate English Localization ==
+* Eatham - https://github.com/realeatham
