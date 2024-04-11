@@ -36,3 +36,6 @@
 
 == Polish Localization ==
 * ImpSteve
+
+== Portuguese Localization ==
+* DarkenLM
