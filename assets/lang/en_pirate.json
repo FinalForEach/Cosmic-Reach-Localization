@@ -1,4 +1,8 @@
 {
+    "metadata":
+    {
+      "name": "English (Pirate)"
+    },
     "startButton": "Embark",
     "loadButton": "Open Save Directory",
     "optionsButton": "Options",
