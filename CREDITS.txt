@@ -36,3 +36,6 @@
 
 == Polish Localization ==
 * ImpSteve
+
+== Brazilian Portuguese Localization ==
+* Samuel Deboni
