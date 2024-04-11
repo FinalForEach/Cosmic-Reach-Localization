@@ -39,3 +39,6 @@
 
 == Brazilian Portuguese Localization ==
 * Samuel Deboni
+
+== Portuguese Localization ==
+* DarkenLM
