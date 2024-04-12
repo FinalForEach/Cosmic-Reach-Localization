@@ -2,7 +2,7 @@
   "metadata":
   {
     "name": "Español (España)",
-    "fallbacks": ["es_419"]
+    "fallbacks": ["es_es"]
   },
   "startButton": "Jugar",
   "loadButton": "Abrir directorio de guardado",
