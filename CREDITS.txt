@@ -47,3 +47,4 @@
 
 == Dutch Localization ==
 * Lelebees
+* Luke-Kr
