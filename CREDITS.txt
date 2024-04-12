@@ -36,3 +36,6 @@
 
 == Polish Localization ==
 * ImpSteve
+
+== Dutch Localization ==
+* Lelebees
