@@ -37,5 +37,11 @@
 == Polish Localization ==
 * ImpSteve
 
+== Brazilian Portuguese Localization ==
+* Samuel Deboni
+
+== Portuguese Localization ==
+* DarkenLM
+
 == Dutch Localization ==
 * Lelebees
