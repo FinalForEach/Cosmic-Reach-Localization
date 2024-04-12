@@ -8,6 +8,7 @@
 
 == Spanish Localization ==
 * LagBB
+* Wesly
 * AlfonsoLVG
 
 == Latin America Spanish Localization ==
@@ -20,6 +21,7 @@
 == German Localization ==
 * Matze (Matze997)
 * Zedritsch
+* Max Henning Junghans
 
 == Ukrainian Localization ==
 * DAHASAG
