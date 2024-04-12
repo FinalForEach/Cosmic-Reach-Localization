@@ -1,7 +1,8 @@
 {
     "metadata":
     {
-      "name": "English (Pirate)"
+      "name": "English (Pirate)",
+      "fallbacks": ["en_us"]
     },
     "startButton": "Embark",
     "loadButton": "Open Save Directory",
@@ -16,12 +17,6 @@
     "keybindsButton": "Keybinds",
     "languagesButton": "Lingo",
     "doneButton": "Done",
-    "spanishButton": "Spanish",
-    "frenchButton": "French",
-    "englishButton": "English",
-    "norwegianButton": "Norwegian",
-    "germanButton": "German",
-    "portugueseButton": "Portuguese",
     "preAlphaText": "Aye Matey, Welcome to Cosmic Reach! \n The ship is still being built, it is missing sails, is nowhere near done, \n and will have bugs, glitches, sinkages and world corruption.\n Everything is subject to change and is not lookin like the final ship.\n It's here for you to steer so that you can give feedback to help steer the future of ta ship \n Happy testing... and ship-sinking!",
     "okButton": "Yarr",
     "Lighting": "Lighting: ",
@@ -59,7 +54,6 @@
     "worldType": "Ocean Type: ",
     "Return_to_Main_Menu": "Retreat",
     "returnButton": "Retreat",
-    "polishButton": "Polish",
     "Open_Worlds_Directory": "Open Ocean Directory",
     "YT_Channel": "Watch the devlogs at youtube.com/@finalforeach",
     "Game_version": "Ship Build Pre-alpha-",

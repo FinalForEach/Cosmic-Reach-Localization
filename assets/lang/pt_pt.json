@@ -1,7 +1,8 @@
 {
   "metadata":
   {
-    "name": "Português"
+    "name": "Português",
+    "fallbacks": ["pt_br"]
   },
   "startButton": "Começar",
   "loadButton": "Abrir pasta de mundos",
