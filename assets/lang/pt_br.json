@@ -1,7 +1,8 @@
 {
   "metadata":
   {
-    "name": "Portuguese BR"
+    "name": "Portuguese BR",
+    "fallbacks": ["pt_pt"]
   },
   "startButton": "Iniciar",
   "loadButton": "Abrir save diretorio",
