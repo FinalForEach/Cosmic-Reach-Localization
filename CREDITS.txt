@@ -29,6 +29,7 @@
 
 == Norwegian Localization ==
 * MarAlNor
+* Sebbog
 
 == Russian Localization ==
 * Svuvi
