@@ -20,6 +20,7 @@
 == German Localization ==
 * Matze (Matze997)
 * Zedritsch
+* Max Henning Junghans
 
 == Ukrainian Localization ==
 * DAHASAG
