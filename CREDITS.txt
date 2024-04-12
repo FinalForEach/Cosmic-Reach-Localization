@@ -43,3 +43,6 @@
 
 == Portuguese Localization ==
 * DarkenLM
+
+== Dutch Localization ==
+* Lelebees
