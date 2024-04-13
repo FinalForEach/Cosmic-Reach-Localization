@@ -11,8 +11,11 @@
   "renderDistSlider": "Distance de Rendu: ",
   "invertedMouseButton": "Inverser la souris: ",
   "mouseSensitivitySlider": "Sensibilité de la Souris: ",
-  "soundButton": "Volume: ",
+  "soundButton": "Son: ",
   "fovSlider": "Champ de vision: ",
+  "maxFPS": "FPS max. : ",
+  "maxFPSUnlimited": "FPS max. : illimité",
+  "debugCrashButton": "Débogage : Crash du jeu",
   "keybindsButton": "Touches",
   "languagesButton": "Langue",
   "doneButton": "Valider",
@@ -53,8 +56,6 @@
   "worldType": "Type de monde: ",
   "Return_to_Main_Menu": "Retourner au Menu Principal",
   "returnButton": "Retour",
-  "polishButton": "Polonais",
-  "polishButtonAlt": "Polonais Alt",
   "Open_Worlds_Directory": "Ouvrir le répertoire des mondes",
   "YT_Channel": "Regarder les devlogs sur youtube.com/@finalforeach",
   "Game_version": "Cosmic Reach Version Pre-alpha-",
@@ -100,5 +101,5 @@
   "OddTip8": "Observation des tricéphales...",
   "OddTip9": "Répétition des essais...",
   "OddTip10": "Catégorisation des spécimens...",
-  "OddTip11": "Conseil: Tu ne peux pas lutter contre l'entropie.",
+  "OddTip11": "Conseil: Tu ne peux pas lutter contre l'entropie."
 }
