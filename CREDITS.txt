@@ -1,6 +1,7 @@
-== Cosmic Reach Font Texture ==
+== Cosmic Reach Font Textures ==
 * FinalForEach
 * DAHASAG
+* ImpSteve
 
 == English Localization ==
 * FinalForEach
