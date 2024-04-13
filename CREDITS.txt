@@ -51,5 +51,5 @@
 * Lelebees
 * Luke-Kr
 
-== Contibuters Guide ==
+== Contributor's Guide ==
 * Eatham - https://github.com/realeatham
