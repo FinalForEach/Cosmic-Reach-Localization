@@ -50,3 +50,6 @@
 == Dutch Localization ==
 * Lelebees
 * Luke-Kr
+
+== Contibuters Guide ==
+* Eatham - https://github.com/realeatham
