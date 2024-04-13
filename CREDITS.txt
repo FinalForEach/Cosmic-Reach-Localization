@@ -56,3 +56,7 @@
 
 == Turkish Localization ==
 * Runterya
+
+== Hungarian Localization ==
+* Dettomi
+* Renka
