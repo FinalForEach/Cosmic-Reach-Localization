@@ -53,6 +53,7 @@
 == Dutch Localization ==
 * Lelebees
 * Luke-Kr
+* Neliz
 
 == Turkish Localization ==
 * Runterya
