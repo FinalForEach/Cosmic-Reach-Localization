@@ -49,3 +49,6 @@
 == Dutch Localization ==
 * Lelebees
 * Luke-Kr
+
+== Turkish Localization ==
+* Runterya
