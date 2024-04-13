@@ -3,6 +3,9 @@
 * DAHASAG
 * ImpSteve
 
+== Contributor's Guide ==
+* Eatham - https://github.com/realeatham
+
 == English Localization ==
 * FinalForEach
 * LagBB
@@ -51,5 +54,5 @@
 * Lelebees
 * Luke-Kr
 
-== Contributor's Guide ==
-* Eatham - https://github.com/realeatham
+== Turkish Localization ==
+* Runterya
