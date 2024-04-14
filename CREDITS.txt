@@ -46,6 +46,7 @@
 
 == Polish Localization ==
 * ImpSteve
+* SSMichal
 
 == Brazilian Portuguese Localization ==
 * Samuel Deboni
