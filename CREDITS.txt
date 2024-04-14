@@ -27,6 +27,9 @@
 * Zedritsch
 * Max Henning Junghans
 
+== Italian Localization ==
+* zPippo
+
 == Ukrainian Localization ==
 * DAHASAG
 * al-Basyreusz
