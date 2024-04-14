@@ -1,7 +1,8 @@
 {
   "metadata":
   {
-    "name": "LOLCAT"
+    "name": "English (LOLCAT)",
+    "fallbacks": ["en_us"]
   },
   "startButton": "Start",
   "loadButton": "Opn Saev Foldr",
