@@ -67,3 +67,4 @@
 
 == toki pona Localization ==
 * jan Jami
+* jan Katan (Chopbirb)
