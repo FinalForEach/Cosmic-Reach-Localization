@@ -4,7 +4,7 @@
 * ImpSteve
 
 == Contributor's Guide ==
-* Eatham - https://github.com/realeatham
+* Eatham - https://realeatham.github.io/
 
 == English Localization ==
 * FinalForEach
@@ -42,7 +42,7 @@
 * Svuvi
 
 == Pirate English Localization ==
-* Eatham - https://github.com/realeatham
+* Eatham - https://realeatham.github.io/
 
 == Polish Localization ==
 * ImpSteve
@@ -64,3 +64,6 @@
 == Hungarian Localization ==
 * Dettomi
 * Renka
+
+== Pig Latin Localization ==
+* Eatham - https://realeatham.github.io/
