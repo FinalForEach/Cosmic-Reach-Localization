@@ -43,6 +43,7 @@
 
 == Pirate English Localization ==
 * Eatham - https://github.com/realeatham
+* Peteryhs 
 
 == Polish Localization ==
 * ImpSteve
@@ -67,3 +68,6 @@
 
 == Danish Localization ==
 * Abcras - https://github.com/abcras 
+
+== Chinese (Simplified) Localization == 
+* Peteryhs 
