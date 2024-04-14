@@ -27,6 +27,9 @@
 * Zedritsch
 * Max Henning Junghans
 
+== Italian Localization ==
+* zPippo
+
 == Ukrainian Localization ==
 * DAHASAG
 * al-Basyreusz
@@ -53,6 +56,11 @@
 == Dutch Localization ==
 * Lelebees
 * Luke-Kr
+* Neliz
 
 == Turkish Localization ==
 * Runterya
+
+== Hungarian Localization ==
+* Dettomi
+* Renka
