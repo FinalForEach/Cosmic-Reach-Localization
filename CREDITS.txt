@@ -1,6 +1,10 @@
-== Cosmic Reach Font Texture ==
+== Cosmic Reach Font Textures ==
 * FinalForEach
 * DAHASAG
+* ImpSteve
+
+== Contributor's Guide ==
+* Eatham - https://github.com/realeatham
 
 == English Localization ==
 * FinalForEach
@@ -22,6 +26,9 @@
 * Matze (Matze997)
 * Zedritsch
 * Max Henning Junghans
+
+== Italian Localization ==
+* zPippo
 
 == Ukrainian Localization ==
 * DAHASAG
@@ -49,3 +56,11 @@
 == Dutch Localization ==
 * Lelebees
 * Luke-Kr
+* Neliz
+
+== Turkish Localization ==
+* Runterya
+
+== Hungarian Localization ==
+* Dettomi
+* Renka

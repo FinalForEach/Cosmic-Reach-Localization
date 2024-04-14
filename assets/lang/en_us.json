@@ -1,7 +1,7 @@
 {
   "metadata":
   {
-    "name": "English"
+    "name": "English (United States)"
   },
   "startButton": "Start",
   "loadButton": "Open Save Directory",
@@ -67,6 +67,7 @@
   "off_state": "Off",
   "World_name": "World-",
   "Screenshot_info": "Saved screenshot to ",
+  "Screenshot_error": "Error saving screenshot.",
   "Loading": "Loading",
   "RuntimeException": "Could not load world: ",
   "Tip1": "Reticulating splines...",
