@@ -67,3 +67,6 @@
 
 == Danish Localization ==
 * Abcras - https://github.com/abcras 
+
+== Catalan Localization ==
+* JoanRios - https://joanriosipla.github.io/
