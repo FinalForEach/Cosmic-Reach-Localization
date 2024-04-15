@@ -27,7 +27,7 @@ You should end up on a screen something like this after around 30 seconds:
 
 7. Click on en-us.json and then click ctrl + A and ctrl + C to copy it. On mac use command instead of ctrl.
 
-8. Go to the new file you made and clck ctrl + V (Command + V on mac) to paste the english language files in.
+8. Go to the new file you made and click ctrl + V (Command + V on mac) to paste the english language files in.
 
 9. Change these files by translating the english text to your chosen language.
 
