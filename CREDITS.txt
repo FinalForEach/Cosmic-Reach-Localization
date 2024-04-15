@@ -67,3 +67,6 @@
 
 == Danish Localization ==
 * Abcras - https://github.com/abcras 
+
+== Traditional Chinese Localization ==
+* Jahseh - https://github.com/JahsehJ
