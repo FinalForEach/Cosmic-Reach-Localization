@@ -67,3 +67,6 @@
 
 == Danish Localization ==
 * Abcras - https://github.com/abcras 
+
+== Swedish Localization ==
+* Isak Lindgren
