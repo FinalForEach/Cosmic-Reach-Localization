@@ -67,3 +67,6 @@
 
 == Danish Localization ==
 * Abcras - https://github.com/abcras 
+
+== Swedish Localization ==
+* fabbe50 - https://github.com/fabbe50
