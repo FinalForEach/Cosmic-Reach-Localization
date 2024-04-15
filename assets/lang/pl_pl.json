@@ -67,6 +67,7 @@
   "off_state": "Wył.",
   "World_name": "Świat-",
   "Screenshot_info": "Zapisano zrzut ekranu do ",
+  "Screenshot_error": "Błąd podczas zapisywania zrzutu ekranu.",
   "Loading": "Ładowanie",
   "RuntimeException": "Nie udało się wczytać świata: ",
   "Tip1": "Pokrywanie siatki wypustkami...",

@@ -27,6 +27,9 @@
 * Zedritsch
 * Max Henning Junghans
 
+== Italian Localization ==
+* zPippo
+
 == Ukrainian Localization ==
 * DAHASAG
 * al-Basyreusz
@@ -61,3 +64,6 @@
 == Hungarian Localization ==
 * Dettomi
 * Renka
+
+== Danish Localization ==
+* Abcras - https://github.com/abcras 
