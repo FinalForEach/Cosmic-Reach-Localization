@@ -29,6 +29,7 @@
 
 == Italian Localization ==
 * zPippo
+* Vinx335 (Pgr_Fth_)
 
 == Ukrainian Localization ==
 * DAHASAG
@@ -46,9 +47,12 @@
 
 == Polish Localization ==
 * ImpSteve
+* SSMichal
 
 == Brazilian Portuguese Localization ==
+* Heybrine
 * Samuel Deboni
+* José Siqueira
 
 == Portuguese Localization ==
 * DarkenLM
@@ -67,3 +71,9 @@
 
 == Croatian Localization ==
 * SvGaming - https://github.com/svgaming234
+
+== Danish Localization ==
+* Abcras - https://github.com/abcras
+
+== Sicilian Localization ==
+* Vinx335 (Pgr_Fth_)
