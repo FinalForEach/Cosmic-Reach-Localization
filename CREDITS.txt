@@ -80,3 +80,7 @@
 
 == Catalan Localization ==
 * JoanRios - https://joanriosipla.github.io/
+
+== Swedish Localization ==
+* fabbe50 - https://github.com/fabbe50
+
