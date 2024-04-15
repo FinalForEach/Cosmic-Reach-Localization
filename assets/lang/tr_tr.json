@@ -67,6 +67,7 @@
   "off_state": "Kapalı",
   "World_name": "Dünya-",
   "Screenshot_info": "Ekran Görüntüsü kaydedildi: ",
+  "Screenshot_error": "Ekran Görüntüsü kaydedilirken hata oluştu.",
   "Loading": "Yükleniyor",
   "RuntimeException": "Dünya yüklenemiyor: ",
   "Tip1": "Reticulating splines...",

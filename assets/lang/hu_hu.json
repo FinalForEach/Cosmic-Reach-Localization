@@ -67,6 +67,7 @@
   "off_state": "Ki",
   "World_name": "Világ-",
   "Screenshot_info": "Képernyőkép mentve ide: ",
+  "Screenshot_error": "Hiba történt a képernyőkép mentésében.",
   "Loading": "Betöltés",
   "RuntimeException": "Nem sikerült betölteni a világot: ",
   "Tip1": "Splinok retikulása...",

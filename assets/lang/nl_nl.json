@@ -67,6 +67,7 @@
   "off_state": "UIT",
   "World_name": "Wereld-",
   "Screenshot_info": "Schermafbeelding opgeslagen in ",
+  "Screenshot_error": "Fout bij opslaan schermafbeelding.",
   "Loading": "Laden",
   "RuntimeException": "Kon wereld niet laden: ",
   "Tip1": "Splines verknopen...",

@@ -40,6 +40,7 @@
 
 == Russian Localization ==
 * Svuvi
+* 11q3 - https://github.com/11q3
 
 == Pirate English Localization ==
 * Eatham - https://github.com/realeatham
@@ -67,3 +68,6 @@
 
 == Danish Localization ==
 * Abcras - https://github.com/abcras 
+
+== Localization Refactor ==
+* 11q3 - https://github.com/11q3

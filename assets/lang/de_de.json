@@ -67,6 +67,7 @@
   "off_state": "Aus",
   "World_name": "Welt-",
   "Screenshot_info": "Screenshot gespeichert unter ",
+  "Screenshot_error": "Fehler beim Speichern des Screenshots.",
   "Loading": "Welt wird geladen",
   "RuntimeException": "Welt konnte nicht geladen werden: ",
   "Tip1": "Verlege Netze...",
