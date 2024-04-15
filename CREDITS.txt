@@ -64,3 +64,6 @@
 == Hungarian Localization ==
 * Dettomi
 * Renka
+
+== Croatian Localization ==
+* SvGaming - https://github.com/svgaming234
