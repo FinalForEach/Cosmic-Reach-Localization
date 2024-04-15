@@ -49,7 +49,9 @@
 * SSMichal
 
 == Brazilian Portuguese Localization ==
+* Heybrine
 * Samuel Deboni
+* José Siqueira
 
 == Portuguese Localization ==
 * DarkenLM
