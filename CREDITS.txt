@@ -54,7 +54,7 @@
 * Heybrine
 * Samuel Deboni
 * José Siqueira
-* Tobias Aaron
+* Tobias Aaron Hurter
 
 == Portuguese Localization ==
 * DarkenLM
