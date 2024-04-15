@@ -67,3 +67,6 @@
 
 == Danish Localization ==
 * Abcras - https://github.com/abcras 
+
+== Hebrew Localization ==
+* Michael Levin (ThePro)
