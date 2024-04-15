@@ -77,3 +77,6 @@
 
 == Sicilian Localization ==
 * Vinx335 (Pgr_Fth_)
+
+== Catalan Localization ==
+* JoanRios - https://joanriosipla.github.io/
