@@ -1,6 +1,10 @@
-== Cosmic Reach Font Texture ==
+== Cosmic Reach Font Textures ==
 * FinalForEach
 * DAHASAG
+* ImpSteve
+
+== Contributor's Guide ==
+* Eatham - https://github.com/realeatham
 
 == English Localization ==
 * FinalForEach
@@ -8,6 +12,7 @@
 
 == Spanish Localization ==
 * LagBB
+* Wesly
 * AlfonsoLVG
 
 == Latin America Spanish Localization ==
@@ -20,6 +25,12 @@
 == German Localization ==
 * Matze (Matze997)
 * Zedritsch
+* Max Henning Junghans
+
+== Italian Localization ==
+* zPippo
+* Vinx335 (Pgr_Fth_)
+* Simone Chiarlo (simonechiarlo)
 
 == Ukrainian Localization ==
 * DAHASAG
@@ -27,6 +38,7 @@
 
 == Norwegian Localization ==
 * MarAlNor
+* Sebbog
 
 == Russian Localization ==
 * Svuvi
@@ -36,3 +48,40 @@
 
 == Polish Localization ==
 * ImpSteve
+* SSMichal
+
+== Brazilian Portuguese Localization ==
+* Heybrine
+* Samuel Deboni
+* José Siqueira
+
+== Portuguese Localization ==
+* DarkenLM
+
+== Dutch Localization ==
+* Lelebees
+* Luke-Kr
+* Neliz
+
+== Turkish Localization ==
+* Runterya
+
+== Hungarian Localization ==
+* Dettomi
+* Renka
+
+== Croatian Localization ==
+* SvGaming - https://github.com/svgaming234
+
+== Danish Localization ==
+* Abcras - https://github.com/abcras
+
+== Sicilian Localization ==
+* Vinx335 (Pgr_Fth_)
+
+== Catalan Localization ==
+* JoanRios - https://joanriosipla.github.io/
+
+== Swedish Localization ==
+* fabbe50 - https://github.com/fabbe50
+

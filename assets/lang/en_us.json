@@ -1,7 +1,7 @@
 {
   "metadata":
   {
-    "name": "English"
+    "name": "English (United States)"
   },
   "startButton": "Start",
   "loadButton": "Open Save Directory",
@@ -56,7 +56,6 @@
   "worldType": "World Type: ",
   "Return_to_Main_Menu": "Return to Main Menu",
   "returnButton": "Back",
-  "polishButton": "Polish",
   "Open_Worlds_Directory": "Open Worlds Directory",
   "YT_Channel": "Watch the devlogs at youtube.com/@finalforeach",
   "Game_version": "Cosmic Reach Version Pre-alpha-",
@@ -68,6 +67,7 @@
   "off_state": "Off",
   "World_name": "World-",
   "Screenshot_info": "Saved screenshot to ",
+  "Screenshot_error": "Error saving screenshot.",
   "Loading": "Loading",
   "RuntimeException": "Could not load world: ",
   "Tip1": "Reticulating splines...",
