@@ -5,6 +5,7 @@ Language translations and localization utilities for the game Cosmic Reach
 When creating a pull request MAKE SURE THAT:
 1) Your name is added to CREDITS.txt
 2) You modify AS FEW FILES AS POSSIBLE! For example, don't modify german to fix typos if your pull request is supposed to be adding spanish translations. Make TWO separate pull requests instead.
+3) (OPTIONAL) If adding a new language, post the entire alphabet if possible. This will make it easier to add relevant font glyphs for the language.
 
 ## How to help
 
