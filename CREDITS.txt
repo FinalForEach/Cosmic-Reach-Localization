@@ -91,6 +91,6 @@
 * Niko
 * Dimitar
 
-== Česká lokalizace ==
+== Czech Localization ==
 * Překladatel: Shadow (Discord: hiiragi_shinoa_64)
 * Korekce: 
