@@ -1,7 +1,8 @@
 {
   "metadata":
   {
-    "name": "Norsk bokmål"
+    "name": "Norsk bokmål",
+    "fallbacks": ["nn_no"]
   },
   "startButton": "Start",
   "loadButton": "Åpne lagringsmappen",
@@ -69,6 +70,7 @@
   "off_state": "Av",
   "World_name": "Verden-",
   "Screenshot_info": "Lagret skjermbildet til ",
+  "Screenshot_error": "Feil under lagringen av skjermbildet.",
   "Loading": "Laster inn",
   "RuntimeException": "Kunne ikke laste inn verdenen: ",
   "Tip1": "Rekonstruerer kurver...",
@@ -84,7 +86,7 @@
   "Tip11": "De-emulgerer månen...",
   "Tip12": "Rydder opp i inventarer...",
   "Tip13": "Fresnel-ifiserer...",
-  "Tip14": "koloniserer planeter...",
+  "Tip14": "Koloniserer planeter...",
   "Tip15": "Tips: Kopier blokker med midtre museknapp!",
   "Tip16": "Tips: Prøv ut de ulike lyssettingene i pausemenyen!",
   "Tip17": "Tips: Trykk «$keybind_hideUI» for å gjemme grensesnittet",
