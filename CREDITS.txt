@@ -42,6 +42,7 @@
 
 == Russian Localization ==
 * Svuvi
+* 11q3 - https://github.com/11q3
 
 == Pirate English Localization ==
 * Eatham - https://github.com/realeatham
@@ -54,6 +55,7 @@
 * Heybrine
 * Samuel Deboni
 * José Siqueira
+* Tobias Aaron Hurter
 
 == Portuguese Localization ==
 * DarkenLM
