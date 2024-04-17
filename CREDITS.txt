@@ -51,6 +51,9 @@
 * ImpSteve
 * SSMichal
 
+== Polish in the Silesian dialect Localisation ==
+* FactoryCrafter
+
 == Brazilian Portuguese Localization ==
 * Heybrine
 * Samuel Deboni
