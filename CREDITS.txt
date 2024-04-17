@@ -94,3 +94,6 @@
 == Czech Localization ==
 * Překladatel: Shadow (Discord: hiiragi_shinoa_64)
 * Korekce: 
+
+== Hebrew Localization ==
+* TennoAntenno - https://github.com/TennoAntenno
