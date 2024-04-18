@@ -97,3 +97,6 @@
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
+
+== Serbian Localization ==
+* Ukizam_Tukizam
