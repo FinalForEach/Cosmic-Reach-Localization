@@ -21,6 +21,7 @@
 == French Localization ==
 * lvllaby
 * Joxh26
+* adracode
 
 == German Localization ==
 * Matze (Matze997)
