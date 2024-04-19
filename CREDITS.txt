@@ -97,3 +97,6 @@
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
+
+== Greenlandic Localization ==
+* Inuujuk (Discord: notcooltony_2)
