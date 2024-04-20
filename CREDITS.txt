@@ -11,6 +11,7 @@
 * LagBB
 
 == Spanish Localization ==
+* Nanrech
 * LagBB
 * Wesly
 * AlfonsoLVG
