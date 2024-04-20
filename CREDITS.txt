@@ -102,3 +102,6 @@
 
 == Serbian Localization ==
 * Ukizam_Tukizam
+
+== Welsh Localization ==
+* Spicylemon2623 (Discord: _spicylemon_)
