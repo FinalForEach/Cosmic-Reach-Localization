@@ -70,6 +70,7 @@
 == Turkish Localization ==
 * Runterya
 * Ensgnnc
+* ilbailba
 
 == Hungarian Localization ==
 * Dettomi
