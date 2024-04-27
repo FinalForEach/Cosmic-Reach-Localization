@@ -67,6 +67,9 @@
 * Luke-Kr
 * Neliz
 
+== Dutch Belgium Localization ==
+* Mulderkever
+
 == Turkish Localization ==
 * Runterya
 * Ensgnnc
@@ -107,3 +110,9 @@
 
 == Welsh Localization ==
 * Spicylemon2623 (Discord: _spicylemon_)
+
+== English United Kingdom Localization ==
+* Crab-K1ng
+
+== Italian Localization ==
+* MastroCaleb
