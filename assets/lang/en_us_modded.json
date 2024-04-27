@@ -1,0 +1,52 @@
+{
+  "language_tag": "en-US",
+  "major_version": 1,
+  "minor_version": 0,
+  "ids": [
+      "fluxapi"
+  ],
+  "fluxapi": {
+      "priority": 1000,
+      "format_templates": {
+          "config_menu": {
+              "button": [
+                  "name"
+              ]
+          },
+          "flux_options": {
+              "msaa": [
+                  "msaa"
+              ],
+              "use_alternative_font" : [
+                  "use_alt_font"
+              ]
+          }
+      },
+      "strings": {
+          "menu": {
+              "on": "On",
+              "off": "Off",
+              "cancel": "Cancel",
+              "back": "Back",
+              "save": "Save",
+              "ok": "Ok",
+              "done": "Done",
+              "return_to_main_menu": "Return to Main Menu",
+              "return_to_game": "Return to Game"
+          },
+          "config_menu": {
+              "title": "Config Menu",
+              "button": "{name}"
+          },
+          "main_menu": {
+              "config_menu": "Mod Configs"
+          },
+          "flux_options": {
+              "name": "Flux Options",
+              "msaa": "MSAA {msaa}x",
+              "use_alternative_font": "Use Alternative Font: {use_alt_font}",
+              "languages": "Languages"
+          }
+      }
+  }
+}
