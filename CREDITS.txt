@@ -24,6 +24,9 @@
 * Joxh26
 * adracode
 
+== Canadian French Localization ==
+* Sinvay
+
 == German Localization ==
 * Matze (Matze997)
 * Zedritsch

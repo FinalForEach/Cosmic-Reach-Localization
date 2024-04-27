@@ -4,7 +4,7 @@
     "name": "Français (Canada)"
   },
   "startButton": "Démarrer",
-  "loadButton": "Ouvrir le dossier de sauvegarde",
+  "loadButton": "Ouvrir le répertoire de sauvegarde",
   "optionsButton": "Options",
   "quitButton": "Quitter",
   "vSyncButton": "VSync : ",
@@ -19,7 +19,8 @@
   "keybindsButton": "Touches",
   "languagesButton": "Langues",
   "doneButton": "Valider",
-  "preAlphaText": "Bienvenue sur Cosmic Reach ! Le jeu est en phase de développement très précoce, il manque des fonctionnalités, il est loin d'être terminé et il est probable qu'il y ait des bugs, des problèmes techniques, des plantages et des corruptions de monde. Tout est sujet à modification et ne représente pas le jeu final. Ce jeu est à votre disposition pour que vous puissiez y jouer et donner votre avis, ce qui aidera à orienter l'avenir de ce jeu. Amusez-vous à tester le jeu... et à le pousser à ses limites !""okButton": "Ok",
+  "preAlphaText": "Bienvenue sur Cosmic Reach ! Le jeu est en phase de développement très précoce, il manque des fonctionnalités, il est loin d'être terminé et il est probable qu'il y ait des bugs, des problèmes techniques, des plantages et des corruptions de monde. Tout est sujet à modification et ne représente pas le jeu final. Ce jeu est à votre disposition pour que vous puissiez y jouer et donner votre avis, ce qui aidera à orienter l'avenir de ce jeu. Amusez-vous à tester le jeu... et à le pousser à ses limites !",
+  "okButton": "Ok",
   "Lighting": "Luminosité : ",
   "Respawn": "Réapparaître",
   "Return_To_Game": "Reprendre la partie",
