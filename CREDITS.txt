@@ -33,6 +33,7 @@
 * zPippo
 * Vinx335 (Pgr_Fth_)
 * Simone Chiarlo (simonechiarlo)
+* MastroCaleb
 
 == Ukrainian Localization ==
 * DAHASAG
