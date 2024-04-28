@@ -9,6 +9,7 @@
 == English Localization ==
 * FinalForEach
 * LagBB
+* Crab-K1ng (Discord: crabking)
 
 == Spanish Localization ==
 * Nanrech
