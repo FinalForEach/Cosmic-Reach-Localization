@@ -102,6 +102,7 @@
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
+* minidisque
 
 == Serbian Localization ==
 * Ukizam_Tukizam
