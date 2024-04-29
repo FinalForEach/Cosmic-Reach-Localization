@@ -108,3 +108,6 @@
 
 == Welsh Localization ==
 * Spicylemon2623 (Discord: _spicylemon_)
+
+== Latvian Localization ==
+* Sermins
