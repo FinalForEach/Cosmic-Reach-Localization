@@ -1,7 +1,7 @@
 {
   "metadata":
   {
-    "name": "Deutsch"
+    "name": "Deutsch (Deutschland)"
   },
   "startButton": "Starten",
   "loadButton": "Spielverzeichnis öffnen",
@@ -24,8 +24,8 @@
   "Lighting": "Beleuchtung: ",
   "Respawn": "Wiederbeleben",
   "Return_To_Game": "Zurück zum Spiel",
-  "Return_To_Menu": "Zurück zum Hauptmenü",
-  "Saving": "Welt wird gespeichert...",
+  "Return_To_Menu": "Zurück zum Spielmenü",
+  "Saving": "Wird gespeichert...",
   "Space_Day": "Weltraum bei Tag",
   "Dark_Night": "Dunkle Nacht",
   "Earth_Day": "Erde bei Tag",
@@ -67,6 +67,7 @@
   "off_state": "Aus",
   "World_name": "Welt-",
   "Screenshot_info": "Screenshot gespeichert unter ",
+  "Screenshot_error": "Screenshot konnte nicht gespeichert werden.",
   "Loading": "Welt wird geladen",
   "RuntimeException": "Welt konnte nicht geladen werden: ",
   "Tip1": "Verlege Netze...",
@@ -84,7 +85,7 @@
   "Tip13": "Mache das Licht an...",
   "Tip14": "Kolonialisiere Planeten...",
   "Tip15": "Tipp: Kopiere einen Block mit der mittleren Maustaste!",
-  "Tip16": "Tipp: Versuche die Beleuchtung im Pausemenü zu ändern!",
+  "Tip16": "Tipp: Versuche die Beleuchtung im Spielmenü zu ändern!",
   "Tip17": "Tipp: Drücke '$keybind_hideUI' um die Benutzeroberfläche zu verstecken.",
   "Tip18": "Tipp: Drücke '$keybind_screenshot' um einen Screenshot zu machen!",
   "Tip19": "Tipp: Drücke '$keybind_debugInfo' um dir Debug-Informationen anzusehen.",
