@@ -92,7 +92,7 @@
 == Swedish Localization ==
 * fabbe50 - https://github.com/fabbe50
 
-== Bulgarian Localisation ==
+== Bulgarian Localization ==
 * Niko
 * Dimitar
 
@@ -108,3 +108,6 @@
 
 == Welsh Localization ==
 * Spicylemon2623 (Discord: _spicylemon_)
+
+== Indonesian Localization ==
+* PPixelCoded (Discord: Pixelated_)
