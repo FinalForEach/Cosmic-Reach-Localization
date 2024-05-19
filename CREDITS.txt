@@ -111,3 +111,6 @@
 
 == Welsh Localization ==
 * Spicylemon2623 (Discord: _spicylemon_)
+
+== Estonian Localization ==
+* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
