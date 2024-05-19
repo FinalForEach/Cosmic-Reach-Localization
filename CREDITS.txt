@@ -24,6 +24,9 @@
 * Joxh26
 * adracode
 
+== Canadian French Localization ==
+* Sinvay
+
 == German Localization ==
 * Matze (Matze997)
 * Zedritsch
@@ -92,13 +95,13 @@
 == Swedish Localization ==
 * fabbe50 - https://github.com/fabbe50
 
-== Bulgarian Localisation ==
+== Bulgarian Localization ==
 * Niko
 * Dimitar
 
 == Czech Localization ==
-* Překladatel: Shadow (Discord: hiiragi_shinoa_64)
-* Korekce: 
+* Shadow (Discord: hiiragi_shinoa_64)
+* 32GBRat
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
@@ -110,4 +113,7 @@
 * Spicylemon2623 (Discord: _spicylemon_)
 
 == Finnish Localization ==
+* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+
+== Estonian Localization ==
 * HEPOSHEIKKI (Matrix: otto@protokolla.fi)
