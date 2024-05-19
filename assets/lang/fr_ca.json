@@ -1,7 +1,8 @@
 {
   "metadata":
   {
-    "name": "Français (Canada)"
+    "name": "Français (Canada)",
+    "fallbacks": ["fr_fr"]
   },
   "startButton": "Démarrer",
   "loadButton": "Ouvrir le répertoire de sauvegarde",
