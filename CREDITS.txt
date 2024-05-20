@@ -112,6 +112,9 @@
 == Welsh Localization ==
 * Spicylemon2623 (Discord: _spicylemon_)
 
+== Indonesian Localization ==
+* ayamkv (freqtions) - https://github.com/ayamkv
+
 == Finnish Localization ==
 * HEPOSHEIKKI (Matrix: otto@protokolla.fi)
 
@@ -120,3 +123,4 @@
 
 == Slovak Localization ==
 * Rock3tXer
+
