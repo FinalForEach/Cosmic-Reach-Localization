@@ -112,6 +112,9 @@
 == Welsh Localization ==
 * Spicylemon2623 (Discord: _spicylemon_)
 
+== Latvian Localization ==
+* Sermins
+
 == Indonesian Localization ==
 * ayamkv (freqtions) - https://github.com/ayamkv
 
