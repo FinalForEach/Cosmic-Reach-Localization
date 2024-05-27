@@ -80,6 +80,10 @@
 * Dettomi
 * Renka
 
+== toki pona Localization ==
+* jan Jami
+* jan Katan (Chopbirb)
+
 == Croatian Localization ==
 * SvGaming - https://github.com/svgaming234
 
