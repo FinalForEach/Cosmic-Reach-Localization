@@ -11,6 +11,7 @@
 * LagBB
 
 == Spanish Localization ==
+* Nanrech
 * LagBB
 * Wesly
 * AlfonsoLVG
@@ -21,6 +22,10 @@
 == French Localization ==
 * lvllaby
 * Joxh26
+* adracode
+
+== Canadian French Localization ==
+* Sinvay
 
 == German Localization ==
 * Matze (Matze997)
@@ -29,6 +34,9 @@
 
 == Italian Localization ==
 * zPippo
+* Vinx335 (Pgr_Fth_)
+* Simone Chiarlo (simonechiarlo)
+* MastroCaleb
 
 == Ukrainian Localization ==
 * DAHASAG
@@ -40,15 +48,20 @@
 
 == Russian Localization ==
 * Svuvi
+* 11q3 - https://github.com/11q3
 
 == Pirate English Localization ==
 * Eatham - https://github.com/realeatham
 
 == Polish Localization ==
 * ImpSteve
+* SSMichal
 
 == Brazilian Portuguese Localization ==
+* Heybrine
 * Samuel Deboni
+* José Siqueira
+* Tobias Aaron Hurter
 
 == Portuguese Localization ==
 * DarkenLM
@@ -60,6 +73,8 @@
 
 == Turkish Localization ==
 * Runterya
+* Ensgnnc
+* ilbailba
 
 == Hungarian Localization ==
 * Dettomi
@@ -68,3 +83,54 @@
 == toki pona Localization ==
 * jan Jami
 * jan Katan (Chopbirb)
+
+== Croatian Localization ==
+* SvGaming - https://github.com/svgaming234
+
+== Danish Localization ==
+* Abcras - https://github.com/abcras
+
+== Sicilian Localization ==
+* Vinx335 (Pgr_Fth_)
+
+== Catalan Localization ==
+* JoanRios - https://joanriosipla.github.io/
+
+== Swedish Localization ==
+* fabbe50 - https://github.com/fabbe50
+* Isak Lindgren
+
+== Bulgarian Localization ==
+* Niko
+* Dimitar
+
+== Czech Localization ==
+* Shadow (Discord: hiiragi_shinoa_64)
+* 32GBRat
+
+== Romanian Localization ==
+* RogueByte (Discord: roguebyte)
+* minidisque
+
+== Serbian Localization ==
+* Ukizam_Tukizam
+
+== Welsh Localization ==
+* Spicylemon2623 (Discord: _spicylemon_)
+
+== Latvian Localization ==
+* Sermins
+
+== Indonesian Localization ==
+* ayamkv (freqtions) - https://github.com/ayamkv
+* PPixelCoded (Discord: Pixelated_)
+
+== Finnish Localization ==
+* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+
+== Estonian Localization ==
+* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+
+== Slovak Localization ==
+* Rock3tXer
+
