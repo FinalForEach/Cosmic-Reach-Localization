@@ -41,6 +41,7 @@
 == Ukrainian Localization ==
 * DAHASAG
 * al-Basyreusz
+* danilwhale
 
 == Norwegian Localization ==
 * MarAlNor
