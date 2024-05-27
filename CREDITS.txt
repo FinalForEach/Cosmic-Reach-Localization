@@ -94,6 +94,7 @@
 
 == Swedish Localization ==
 * fabbe50 - https://github.com/fabbe50
+* Isak Lindgren
 
 == Bulgarian Localization ==
 * Niko
@@ -117,6 +118,7 @@
 
 == Indonesian Localization ==
 * ayamkv (freqtions) - https://github.com/ayamkv
+* PPixelCoded (Discord: Pixelated_)
 
 == Finnish Localization ==
 * HEPOSHEIKKI (Matrix: otto@protokolla.fi)
