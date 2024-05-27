@@ -94,6 +94,7 @@
 
 == Swedish Localization ==
 * fabbe50 - https://github.com/fabbe50
+* Isak Lindgren
 
 == Bulgarian Localization ==
 * Niko
