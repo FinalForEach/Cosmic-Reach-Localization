@@ -1,4 +1,5 @@
-"metadata":
+{
+    "metadata":
     {
       "name": "Română (România)"
     },
@@ -102,4 +103,4 @@
     "OddTip9": "Se repetă probele...",
     "OddTip10": "Se categorisesc specimenele...",
     "OddTip11": "Tip: Nu poți lupta împotriva entropiei."
-  }
+}
