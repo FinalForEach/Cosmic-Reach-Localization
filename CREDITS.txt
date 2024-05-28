@@ -108,6 +108,7 @@
 == Czech Localization ==
 * Shadow (Discord: hiiragi_shinoa_64)
 * 32GBRat
+* Jakub Augustýn (Discord: hackerkuba2009, GitHub: kubikaugustyn, E-mail: kubik.augustyn@post.cz, Website: https://jakub-augustyn.web.app/)
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
