@@ -25,6 +25,9 @@
 * Joxh26
 * adracode
 
+== Canadian French Localization ==
+* Sinvay
+
 == German Localization ==
 * Matze (Matze997)
 * Zedritsch
@@ -39,6 +42,7 @@
 == Ukrainian Localization ==
 * DAHASAG
 * al-Basyreusz
+* danilwhale
 
 == Norwegian Localization ==
 * MarAlNor
@@ -78,6 +82,10 @@
 * Dettomi
 * Renka
 
+== toki pona Localization ==
+* jan Jami
+* jan Katan (Chopbirb)
+
 == Croatian Localization ==
 * SvGaming - https://github.com/svgaming234
 
@@ -92,20 +100,40 @@
 
 == Swedish Localization ==
 * fabbe50 - https://github.com/fabbe50
+* Isak Lindgren
 
-== Bulgarian Localisation ==
+== Bulgarian Localization ==
 * Niko
 * Dimitar
 
 == Czech Localization ==
-* Překladatel: Shadow (Discord: hiiragi_shinoa_64)
-* Korekce: 
+* Shadow (Discord: hiiragi_shinoa_64)
+* 32GBRat
+* Jakub Augustýn (Discord: hackerkuba2009, GitHub: kubikaugustyn, E-mail: kubik.augustyn@post.cz, Website: https://jakub-augustyn.web.app/)
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
+* minidisque
 
 == Serbian Localization ==
 * Ukizam_Tukizam
 
 == Welsh Localization ==
 * Spicylemon2623 (Discord: _spicylemon_)
+
+== Latvian Localization ==
+* Sermins
+
+== Indonesian Localization ==
+* ayamkv (freqtions) - https://github.com/ayamkv
+* PPixelCoded (Discord: Pixelated_)
+
+== Finnish Localization ==
+* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+
+== Estonian Localization ==
+* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+
+== Slovak Localization ==
+* Rock3tXer
+
