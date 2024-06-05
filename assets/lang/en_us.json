@@ -106,7 +106,7 @@
   "Tip20": "Tip: Press '$keybind_dropItem' to drop the current item!",
   "Tip21": "Tip: Press '$keybind_openInventory' to open the inventory!",
   "Tip22": "Tip: Sprint against a wall to 'wall run', going farther than you would only by jumping.",
-  "Tip23": "Tip: Press '$keybind_swapGroupItem' to cycle through the different types of a item!",
+  "Tip23": "Tip: Press '$keybind_swapGroupItem' to cycle the different types of the current item!",
   "OddTip1": "Grafting cells...",
   "OddTip2": "Incubating...",
   "OddTip3": "Sacrificing subjects...",
