@@ -71,6 +71,21 @@
     "keybindsButton": {
       "type": "string"
     },
+    "difficultyButton": {
+      "type": "string"
+    },
+    "difficultyPeaceful": {
+      "type": "string"
+    },
+    "difficultyEasy": {
+      "type": "string"
+    },
+    "difficultyNormal": {
+      "type": "string"
+    },
+    "difficultyHard": {
+      "type": "string"
+    },
     "languagesButton": {
       "type": "string"
     },
@@ -153,6 +168,9 @@
       "type": "string"
     },
     "Inventory": {
+      "type": "string"
+    },
+    "Cycle_Item_Type": {
       "type": "string"
     },
     "Drop_Item": {
