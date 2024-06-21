@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/FinalForEach/Cosmic-Reach-Localization/tree/master/assets/lang/lang.schema.json",
+  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata": {
     "name": "Čeština"
   },

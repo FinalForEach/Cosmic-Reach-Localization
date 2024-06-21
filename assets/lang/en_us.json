@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata":
   {
     "name": "English (United States)"
