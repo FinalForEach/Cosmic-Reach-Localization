@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata":
   {
     "name": "Türkçe"
@@ -18,6 +19,11 @@
   "maxFPSUnlimited": "Azami FPS: Sınırsız",
   "debugCrashButton": "Hata Ayıklama: Oyunu çökert",
   "keybindsButton": "Tuş Atamaları",
+  "difficultyButton": "Zorluk: ",
+  "difficultyPeaceful": "Barışçıl",
+  "difficultyEasy": "Kolay",
+  "difficultyNormal": "Normal",
+  "difficultyHard": "Zor",
   "languagesButton": "Dil",
   "rendererButton": ":Görüş Mesafesi Düğmesi ",
   "rendererNaive": "Saf",
