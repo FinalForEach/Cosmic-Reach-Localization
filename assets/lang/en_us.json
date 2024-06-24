@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata":
   {
     "name": "English (United States)"
@@ -18,6 +19,11 @@
   "maxFPSUnlimited": "Max FPS: Unlimited",
   "debugCrashButton": "Debug: Crash the game",
   "keybindsButton": "Keybinds",
+  "difficultyButton": "Difficulty: ",
+  "difficultyPeaceful": "Peaceful",
+  "difficultyEasy": "Easy",
+  "difficultyNormal": "Normal",
+  "difficultyHard": "Hard",
   "languagesButton": "Language",
   "rendererButton": "Renderer: ",
   "rendererNaive": "Naive",
@@ -27,6 +33,7 @@
   "okButton": "Ok",
   "Lighting": "Lighting: ",
   "Respawn": "Respawn",
+  "YOU_ARE_DEAD": "YOU ARE DEAD.",
   "Return_To_Game": "Return To Game",
   "Return_To_Menu": "Return To Menu",
   "Saving": "Saving...",
