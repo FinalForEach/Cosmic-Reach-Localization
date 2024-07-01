@@ -136,3 +136,5 @@
 == Slovak Localization ==
 * Rock3tXer
 
+== Belarusian Localization ==
+* rotatingcranium
