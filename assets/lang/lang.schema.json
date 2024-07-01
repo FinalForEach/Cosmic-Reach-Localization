@@ -20,6 +20,10 @@
         "name": {
           "type": "string",
           "description": "The language's name shown in the language menu"
+        },
+        "fallbacks": {
+          "type": "string",
+          "description": "The language codes from which translations can be pulled from if missing keys in this file."
         }
       },
       "required": [

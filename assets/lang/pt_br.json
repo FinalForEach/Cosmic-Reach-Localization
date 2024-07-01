@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata":
   {
-    "name": "Português (Brasil)"
+    "name": "Português (Brasil)",
+    "fallbacks": ["pt_pt"]
   },
   "startButton": "Jogar",
   "loadButton": "Carregar mundo",
