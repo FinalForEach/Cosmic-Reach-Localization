@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata":
   {
     "name": "Українська"
@@ -18,6 +19,11 @@
   "maxFPSUnlimited": "Максимальні FPS: Необмежено",
   "debugCrashButton": "Налагодження: Крашнути гру",
   "keybindsButton": "Прив'язка клавіш",
+  "difficultyButton": "Складність: ",
+  "difficultyPeaceful": "Мирна",
+  "difficultyEasy": "Легка",
+  "difficultyNormal": "Звичайна",
+  "difficultyHard": "Складна",
   "languagesButton": "Мова",
   "rendererButton": "Відтворювач:",
   "rendererNaive": "Наївний",
@@ -27,6 +33,7 @@
   "okButton": "Окей",
   "Lighting": "Освітлення: ",
   "Respawn": "Відродитись",
+  "YOU_ARE_DEAD": "ВИ МЕРТВІ.",
   "Return_To_Game": "Повернутись до гри",
   "Return_To_Menu": "Повернутись до меню",
   "Saving": "Збереження...",
@@ -46,6 +53,7 @@
   "Sprint": "Біг",
   "Prone": "Лягти",
   "Inventory": "Інвентар",
+  "Cycle_Item_Type": "Змінити тип предмету",
   "Drop_Item": "Викинути предмет",
   "Hide_UI": "Приховати інтерфейс",
   "Screenshot": "Знімок екрану",
