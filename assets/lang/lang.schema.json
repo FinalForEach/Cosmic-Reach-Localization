@@ -1,0 +1,394 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/FinalForEach/Cosmic-Reach-Localization/tree/master/assets/lang/lang.schema.json",
+  "title": "Cosmic Reach language",
+  "description": "FinalForEach's Cosmic Reach game localization language schema",
+  "type": "object",
+  "additionalProperties": false,
+  "__HOW_TO_ADD_PROPERTY__": "First, copy-paste a previous property ({type: 'string'} etc.), then change its key. Then update the minProperties field below to match the total count of the defined properties. (e.g. add 1 if you add 1 text etc.)",
+  "minProperties": 120,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Special property defining this schema as the schema of the language, e.g. should be same to the root $id property. Since this field does count to the total root minProperties property, it is required."
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Special metadata property for the language",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The language's name shown in the language menu"
+        },
+        "fallbacks": {
+          "type": "string",
+          "description": "The language codes from which translations can be pulled from if missing keys in this file."
+        }
+      },
+      "required": [
+        "name"
+      ]
+    },
+    "startButton": {
+      "type": "string"
+    },
+    "loadButton": {
+      "type": "string"
+    },
+    "optionsButton": {
+      "type": "string"
+    },
+    "quitButton": {
+      "type": "string"
+    },
+    "vSyncButton": {
+      "type": "string"
+    },
+    "creditsButton": {
+      "type": "string"
+    },
+    "renderDistSlider": {
+      "type": "string"
+    },
+    "invertedMouseButton": {
+      "type": "string"
+    },
+    "mouseSensitivitySlider": {
+      "type": "string"
+    },
+    "soundButton": {
+      "type": "string"
+    },
+    "fovSlider": {
+      "type": "string"
+    },
+    "maxFPS": {
+      "type": "string"
+    },
+    "maxFPSUnlimited": {
+      "type": "string"
+    },
+    "debugCrashButton": {
+      "type": "string"
+    },
+    "keybindsButton": {
+      "type": "string"
+    },
+    "difficultyButton": {
+      "type": "string"
+    },
+    "difficultyPeaceful": {
+      "type": "string"
+    },
+    "difficultyEasy": {
+      "type": "string"
+    },
+    "difficultyNormal": {
+      "type": "string"
+    },
+    "difficultyHard": {
+      "type": "string"
+    },
+    "languagesButton": {
+      "type": "string"
+    },
+    "rendererButton": {
+      "type": "string"
+    },
+    "rendererNaive": {
+      "type": "string"
+    },
+    "rendererBatched": {
+      "type": "string"
+    },
+    "doneButton": {
+      "type": "string"
+    },
+    "preAlphaText": {
+      "type": "string"
+    },
+    "okButton": {
+      "type": "string"
+    },
+    "Lighting": {
+      "type": "string"
+    },
+    "Respawn": {
+      "type": "string"
+    },
+    "YOU_ARE_DEAD": {
+      "type": "string"
+    },
+    "Return_To_Game": {
+      "type": "string"
+    },
+    "Return_To_Menu": {
+      "type": "string"
+    },
+    "Saving": {
+      "type": "string"
+    },
+    "Dynamic_Sky": {
+      "type": "string"
+    },
+    "Space_Day": {
+      "type": "string"
+    },
+    "Dark_Night": {
+      "type": "string"
+    },
+    "Earth_Day": {
+      "type": "string"
+    },
+    "Orange_Sky": {
+      "type": "string"
+    },
+    "Pitch_Dark": {
+      "type": "string"
+    },
+    "Overcast": {
+      "type": "string"
+    },
+    "Forward": {
+      "type": "string"
+    },
+    "Backward": {
+      "type": "string"
+    },
+    "Left": {
+      "type": "string"
+    },
+    "Right": {
+      "type": "string"
+    },
+    "Jump": {
+      "type": "string"
+    },
+    "Crouch": {
+      "type": "string"
+    },
+    "Sprint": {
+      "type": "string"
+    },
+    "Prone": {
+      "type": "string"
+    },
+    "Inventory": {
+      "type": "string"
+    },
+    "Cycle_Item_Type": {
+      "type": "string"
+    },
+    "Drop_Item": {
+      "type": "string"
+    },
+    "Hide_UI": {
+      "type": "string"
+    },
+    "Screenshot": {
+      "type": "string"
+    },
+    "Debug_Info": {
+      "type": "string"
+    },
+    "Attack_Break": {
+      "type": "string"
+    },
+    "Pick_Block": {
+      "type": "string"
+    },
+    "Use_Place": {
+      "type": "string"
+    },
+    "No_Clip": {
+      "type": "string"
+    },
+    "Reload_Shaders": {
+      "type": "string"
+    },
+    "Fullscreen": {
+      "type": "string"
+    },
+    "Create_New_World": {
+      "type": "string"
+    },
+    "worldNameButton": {
+      "type": "string"
+    },
+    "defaultWorldName": {
+      "type": "string"
+    },
+    "worldSeedLabel": {
+      "type": "string"
+    },
+    "worldSeedLabel2": {
+      "type": "string"
+    },
+    "worldType": {
+      "type": "string"
+    },
+    "Return_to_Main_Menu": {
+      "type": "string"
+    },
+    "returnButton": {
+      "type": "string"
+    },
+    "Open_Worlds_Directory": {
+      "type": "string"
+    },
+    "YT_Channel": {
+      "type": "string"
+    },
+    "Game_version": {
+      "type": "string"
+    },
+    "MAC_warning": {
+      "type": "string"
+    },
+    "Controller": {
+      "type": "string"
+    },
+    "Controllers": {
+      "type": "string"
+    },
+    "Controller_info": {
+      "type": "string"
+    },
+    "on_state": {
+      "type": "string"
+    },
+    "off_state": {
+      "type": "string"
+    },
+    "World_name": {
+      "type": "string"
+    },
+    "Screenshot_info": {
+      "type": "string"
+    },
+    "Screenshot_error": {
+      "type": "string"
+    },
+    "Loading": {
+      "type": "string"
+    },
+    "mouseLeftButton": {
+      "type": "string"
+    },
+    "mouseMiddleButton": {
+      "type": "string"
+    },
+    "mouseRightButton": {
+      "type": "string"
+    },
+    "mouseBackButton": {
+      "type": "string"
+    },
+    "mouseForwardButton": {
+      "type": "string"
+    },
+    "RuntimeException": {
+      "type": "string"
+    },
+    "Tip1": {
+      "type": "string"
+    },
+    "Tip2": {
+      "type": "string"
+    },
+    "Tip3": {
+      "type": "string"
+    },
+    "Tip4": {
+      "type": "string"
+    },
+    "Tip5": {
+      "type": "string"
+    },
+    "Tip6": {
+      "type": "string"
+    },
+    "Tip7": {
+      "type": "string"
+    },
+    "Tip8": {
+      "type": "string"
+    },
+    "Tip9": {
+      "type": "string"
+    },
+    "Tip10": {
+      "type": "string"
+    },
+    "Tip11": {
+      "type": "string"
+    },
+    "Tip12": {
+      "type": "string"
+    },
+    "Tip13": {
+      "type": "string"
+    },
+    "Tip14": {
+      "type": "string"
+    },
+    "Tip15": {
+      "type": "string"
+    },
+    "Tip16": {
+      "type": "string"
+    },
+    "Tip17": {
+      "type": "string"
+    },
+    "Tip18": {
+      "type": "string"
+    },
+    "Tip19": {
+      "type": "string"
+    },
+    "Tip20": {
+      "type": "string"
+    },
+    "Tip21": {
+      "type": "string"
+    },
+    "Tip22": {
+      "type": "string"
+    },
+    "OddTip1": {
+      "type": "string"
+    },
+    "OddTip2": {
+      "type": "string"
+    },
+    "OddTip3": {
+      "type": "string"
+    },
+    "OddTip4": {
+      "type": "string"
+    },
+    "OddTip5": {
+      "type": "string"
+    },
+    "OddTip6": {
+      "type": "string"
+    },
+    "OddTip7": {
+      "type": "string"
+    },
+    "OddTip8": {
+      "type": "string"
+    },
+    "OddTip9": {
+      "type": "string"
+    },
+    "OddTip10": {
+      "type": "string"
+    },
+    "OddTip11": {
+      "type": "string"
+    }
+  }
+}
