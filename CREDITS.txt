@@ -138,3 +138,6 @@
 
 == Belarusian Localization ==
 * rotatingcranium
+
+== Greek Localization ==
+* EXgaming
