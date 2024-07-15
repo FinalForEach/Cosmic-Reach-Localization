@@ -58,6 +58,7 @@
 == Polish Localization ==
 * ImpSteve
 * SSMichal
+* Dart25
 
 == Brazilian Portuguese Localization ==
 * Heybrine
