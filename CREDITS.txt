@@ -2,6 +2,7 @@
 * FinalForEach
 * DAHASAG
 * ImpSteve
+* EXgaming
 
 == Contributor's Guide ==
 * Eatham - https://github.com/realeatham
@@ -41,6 +42,7 @@
 == Ukrainian Localization ==
 * DAHASAG
 * al-Basyreusz
+* danilwhale
 
 == Norwegian Localization ==
 * MarAlNor
@@ -107,6 +109,7 @@
 == Czech Localization ==
 * Shadow (Discord: hiiragi_shinoa_64)
 * 32GBRat
+* Jakub Augustýn (Discord: hackerkuba2009, GitHub: kubikaugustyn, E-mail: kubik.augustyn@post.cz, Website: https://jakub-augustyn.web.app/)
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
@@ -134,3 +137,8 @@
 == Slovak Localization ==
 * Rock3tXer
 
+== Belarusian Localization ==
+* rotatingcranium
+
+== Greek Localization ==
+* EXgaming
