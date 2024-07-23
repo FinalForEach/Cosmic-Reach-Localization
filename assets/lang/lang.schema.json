@@ -6,7 +6,7 @@
   "type": "object",
   "additionalProperties": false,
   "__HOW_TO_ADD_PROPERTY__": "First, copy-paste a previous property ({type: 'string'} etc.), then change its key. Then update the minProperties field below to match the total count of the defined properties. (e.g. add 1 if you add 1 text etc.)",
-  "minProperties": 120,
+  "minProperties": 121,
   "properties": {
     "$schema": {
       "type": "string",
@@ -29,6 +29,9 @@
       "required": [
         "name"
       ]
+    },
+    "formatPercent": {
+      "type": "string"
     },
     "startButton": {
       "type": "string"

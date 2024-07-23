@@ -4,6 +4,7 @@
   {
     "name": "English (United States)"
   },
+  "formatPercent": "#%",
   "startButton": "Start",
   "loadButton": "Open Save Directory",
   "optionsButton": "Options",
