@@ -84,8 +84,8 @@
 * Renka
 
 == toki pona Localization ==
-* jan Jami
-* jan Katan (Chopbirb)
+* jan Jami (discord: @janjami)
+* jan Katan 
 
 == Croatian Localization ==
 * SvGaming - https://github.com/svgaming234
