@@ -4,6 +4,7 @@
   {
     "name": "Русский"
   },
+    "formatPercent": "#%",
     "startButton": "Играть",
     "loadButton": "Открыть папку с сохранениями",
     "optionsButton": "Настройки",
@@ -61,6 +62,7 @@
     "Attack_Break": "Атака / Сломать",
     "Pick_Block": "Поднять блок",
     "Use_Place": "Использовать / Поставить",
+    "Open_Chat": "Открыть чат",
     "No_Clip": "Ноуклип",
     "Reload_Shaders": "Перезагрузить шейдеры",
     "Fullscreen": "Полный экран",
