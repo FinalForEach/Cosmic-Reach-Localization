@@ -2,6 +2,7 @@
 * FinalForEach
 * DAHASAG
 * ImpSteve
+* EXgaming
 
 == Contributor's Guide ==
 * Eatham - https://github.com/realeatham
@@ -57,6 +58,7 @@
 == Polish Localization ==
 * ImpSteve
 * SSMichal
+* Dart25
 
 == Brazilian Portuguese Localization ==
 * Heybrine
@@ -82,8 +84,8 @@
 * Renka
 
 == toki pona Localization ==
-* jan Jami
-* jan Katan (Chopbirb)
+* jan Jami (discord: @janjami)
+* jan Katan 
 
 == Croatian Localization ==
 * SvGaming - https://github.com/svgaming234
@@ -138,3 +140,6 @@
 
 == Belarusian Localization ==
 * rotatingcranium
+
+== Greek Localization ==
+* EXgaming

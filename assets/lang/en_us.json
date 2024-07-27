@@ -4,6 +4,7 @@
   {
     "name": "English (United States)"
   },
+  "formatPercent": "#%",
   "startButton": "Start",
   "loadButton": "Open Save Directory",
   "optionsButton": "Options",
@@ -61,6 +62,7 @@
   "Attack_Break": "Attack / Break",
   "Pick_Block": "Pick Block",
   "Use_Place": "Use / Place",
+  "Open_Chat": "Open Chat",
   "No_Clip": "No-Clip",
   "Reload_Shaders": "Reload Shaders",
   "Fullscreen": "Fullscreen",
