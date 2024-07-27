@@ -4,6 +4,7 @@
   {
     "name": "Polski"
   },
+  "formatPercent": "#%",
   "startButton": "Rozpocznij",
   "loadButton": "Otwórz katalog zapisu",
   "optionsButton": "Ustawienia",
@@ -61,6 +62,7 @@
   "Attack_Break": "Atak / Niszcz",
   "Pick_Block": "Wybierz blok",
   "Use_Place": "Użyj / Postaw",
+  "Open_Chat": "Otwórz czat",
   "No_Clip": "No-Clip",
   "Reload_Shaders": "Przeładuj shadery",
   "Fullscreen": "Pełny ekran",
