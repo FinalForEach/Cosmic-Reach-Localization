@@ -204,6 +204,9 @@
     "Use_Place": {
       "type": "string"
     },
+    "Open_Chat": {
+      "type": "string"
+    },
     "No_Clip": {
       "type": "string"
     },
