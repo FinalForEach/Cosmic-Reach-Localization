@@ -4,6 +4,7 @@
   {
     "name": "Türkçe"
   },
+  "formatPercent": "%#",
   "startButton": "Başla",
   "loadButton": "Kayıt Klasörünü Aç",
   "optionsButton": "Ayarlar",
@@ -61,6 +62,7 @@
   "Attack_Break": "Saldır / Kır",
   "Pick_Block": "Blok Seç",
   "Use_Place": "Kullan / Yerleştir",
+  "Open_Chat": "Sohbeti Aç",
   "No_Clip": "Duvardan Geçme",
   "Reload_Shaders": "Gölgelendirmeleri Yeniden Yükle",
   "Fullscreen": "Tam Ekran",
