@@ -3,8 +3,9 @@
   {
     "name": "Nederlands"
   },
+  "formatPercent": "#%",
   "startButton": "Starten",
-  "loadButton": "Opslamap openen",
+  "loadButton": "Opslagmap openen",
   "optionsButton": "Instellingen",
   "quitButton": "Spel afsluiten",
   "vSyncButton": "VSync: ",
@@ -60,6 +61,7 @@
   "Attack_Break": "Aanvallen / Vernietigen",
   "Pick_Block": "Blok kiezen",
   "Use_Place": "Gebruiken / Plaatsen",
+  "Open_Chat": "Chat openen",
   "No_Clip": "Vrij bewegen",
   "Reload_Shaders": "Shaders herladen",
   "Fullscreen": "Volledig scherm",
