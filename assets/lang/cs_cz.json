@@ -1,8 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata": {
-    "name": "Čeština"
+    "name": "Čeština",
+    "fallbacks": [
+      "sk_sk",
+      "en_us"
+    ]
   },
+  "formatPercent": "# %",
   "startButton": "Hrát",
   "loadButton": "Otevřít ukládací adresář",
   "optionsButton": "Nastavení",
@@ -60,6 +65,7 @@
   "Attack_Break": "Útok/ničení",
   "Pick_Block": "Vzít blok",
   "Use_Place": "Položit blok",
+  "Open_Chat": "Otevřít chat",
   "No_Clip": "Spectator",
   "Reload_Shaders": "Znovu načíst shadery",
   "Fullscreen": "Na celou obrazovku",
