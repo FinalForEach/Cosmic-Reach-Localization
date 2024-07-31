@@ -143,3 +143,6 @@
 
 == Greek Localization ==
 * EXgaming
+
+== Esperanto Localization ==
+* Wilbur Williams (GitHub: ThisCatLikesCrypto)
