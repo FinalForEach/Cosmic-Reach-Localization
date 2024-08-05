@@ -19,6 +19,7 @@
 
 == Latin America Spanish Localization ==
 * Wesly
+* Santum
 
 == French Localization ==
 * lvllaby
