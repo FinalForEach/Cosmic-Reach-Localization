@@ -86,7 +86,7 @@
 
 == toki pona Localization ==
 * jan Jami (discord: @janjami)
-* jan Katan 
+* jan Katan
 
 == Croatian Localization ==
 * SvGaming - https://github.com/svgaming234
@@ -103,6 +103,8 @@
 == Swedish Localization ==
 * fabbe50 - https://github.com/fabbe50
 * Isak Lindgren
+* CPUOverheating
+* ComputerFanMotor
 
 == Bulgarian Localization ==
 * Niko
