@@ -3,6 +3,7 @@
 * DAHASAG
 * ImpSteve
 * EXgaming
+* XiLeF2211
 
 == Contributor's Guide ==
 * Eatham - https://github.com/realeatham
