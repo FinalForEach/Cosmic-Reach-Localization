@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata":
   {
-    "name": "Filipino (Filipinas)"
+    "name": "Filipino (Filipinas)",
+    "fallbacks": ["tl_ph"]
   },
   "formatPercent": "#%",
   "startButton": "Maglaro",
