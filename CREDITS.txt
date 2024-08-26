@@ -11,6 +11,7 @@
 == English Localization ==
 * FinalForEach
 * LagBB
+* Wesly
 
 == Spanish Localization ==
 * Nanrech
