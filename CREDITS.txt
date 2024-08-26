@@ -150,3 +150,9 @@
 
 == Esperanto Localization ==
 * Wilbur Williams (GitHub: ThisCatLikesCrypto)
+
+== Filipino Localization ==
+* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+
+== Tagalog Localization ==
+* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
