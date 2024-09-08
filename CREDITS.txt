@@ -5,7 +5,7 @@
 * EXgaming
 * XiLeF2211
 
-== Contributor's Guide ==
+== Localization Contributor's Guide ==
 * Eatham - https://github.com/realeatham
 
 == English Localization ==
