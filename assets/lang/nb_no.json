@@ -1,9 +1,11 @@
 {
+  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/lang/lang.schema.json",
   "metadata":
   {
     "name": "Norsk bokmål",
     "fallbacks": ["nn_no"]
   },
+  "formatPercent": "#%",
   "startButton": "Start",
   "loadButton": "Åpne lagringsmappen",
   "optionsButton": "Innstillinger",
@@ -19,8 +21,8 @@
   "maxFPSUnlimited": "Maks FPS: Ubegrenset",
   "debugCrashButton": "Feilsøking: Krasj spillet",
   "keybindsButton": "Tastaturbindinger",
-  "difficultyButton": "vanskelighetsgrad: ",
-  "difficultyPeaceful": "fredelig",
+  "difficultyButton": "Vanskelighetsgrad: ",
+  "difficultyPeaceful": "Fredelig",
   "difficultyEasy": "Lett",
   "difficultyNormal": "Normal",
   "difficultyHard": "Vanskelig",
@@ -61,6 +63,7 @@
   "Attack_Break": "Angrip / Ødelegg",
   "Pick_Block": "Kopier blokker",
   "Use_Place": "Bruk / Plasser",
+  "Open_Chat": "Åpne kommandolinjen",
   "No_Clip": "Spøkelsesmodus",
   "Reload_Shaders": "Last inn Shaders på nytt",
   "Fullscreen": "Fullskjerm",
@@ -93,6 +96,10 @@
   "mouseBackButton" : "Bakre museknapp",
   "mouseForwardButton" : "Fremre museknapp",
   "RuntimeException": "Kunne ikke laste inn verdenen: ",
+  "creditsGameBy": "SPILLSKAPER:",
+  "creditsMusic": "MUSIKK:",
+  "creditsAdditionalProgramming": "EKSTRA PROGRAMMERING:",
+  "creditsLocalization": "LOKALISERING:",
   "Tip1": "Rekonstruerer kurver...",
   "Tip2": "Knuser hjørner...",
   "Tip3": "Former verdenen...",
