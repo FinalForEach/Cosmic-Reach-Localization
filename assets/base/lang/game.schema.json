@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/FinalForEach/Cosmic-Reach-Localization/tree/master/assets/lang/lang.schema.json",
+  "$id": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
   "title": "Cosmic Reach language",
   "description": "FinalForEach's Cosmic Reach game localization language schema",
   "type": "object",
   "additionalProperties": false,
   "__HOW_TO_ADD_PROPERTY__": "First, copy-paste a previous property ({type: 'string'} etc.), then change its key. Then update the minProperties field below to match the total count of the defined properties. (e.g. add 1 if you add 1 text etc.)",
   "__SCHEMA_DOCS__": "https://json-schema.org/understanding-json-schema/reference",
-  "minProperties": 103,
+  "minProperties": 92,
   "properties": {
     "$schema": {
       "type": "string",
@@ -314,39 +314,6 @@
       "type": "string"
     },
     "RuntimeException": {
-      "type": "string"
-    },
-    "OddTip1": {
-      "type": "string"
-    },
-    "OddTip2": {
-      "type": "string"
-    },
-    "OddTip3": {
-      "type": "string"
-    },
-    "OddTip4": {
-      "type": "string"
-    },
-    "OddTip5": {
-      "type": "string"
-    },
-    "OddTip6": {
-      "type": "string"
-    },
-    "OddTip7": {
-      "type": "string"
-    },
-    "OddTip8": {
-      "type": "string"
-    },
-    "OddTip9": {
-      "type": "string"
-    },
-    "OddTip10": {
-      "type": "string"
-    },
-    "OddTip11": {
       "type": "string"
     }
   }

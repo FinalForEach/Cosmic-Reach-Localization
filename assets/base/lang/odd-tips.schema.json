@@ -1,82 +1,49 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/tip.schema.json",
+  "$id": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/odd-tips.schema.json",
   "title": "Cosmic Reach language",
   "description": "FinalForEach's Cosmic Reach game localization language schema",
   "type": "object",
   "additionalProperties": false,
   "__HOW_TO_ADD_PROPERTY__": "First, copy-paste a previous property ({type: 'string'} etc.), then change its key. Then update the minProperties field below to match the total count of the defined properties. (e.g. add 1 if you add 1 text etc.)",
   "__SCHEMA_DOCS__": "https://json-schema.org/understanding-json-schema/reference",
-  "minProperties": 23,
+  "minProperties": 11,
   "properties": {
     "$schema": {
       "type": "string",
       "description": "Special property defining this schema as the schema of the language, e.g. should be same to the root $id property. Since this field does count to the total root minProperties property, it is required."
     },
-    "Tip1": {
+    "OddTip1": {
       "type": "string"
     },
-    "Tip2": {
+    "OddTip2": {
       "type": "string"
     },
-    "Tip3": {
+    "OddTip3": {
       "type": "string"
     },
-    "Tip4": {
+    "OddTip4": {
       "type": "string"
     },
-    "Tip5": {
+    "OddTip5": {
       "type": "string"
     },
-    "Tip6": {
+    "OddTip6": {
       "type": "string"
     },
-    "Tip7": {
+    "OddTip7": {
       "type": "string"
     },
-    "Tip8": {
+    "OddTip8": {
       "type": "string"
     },
-    "Tip9": {
+    "OddTip9": {
       "type": "string"
     },
-    "Tip10": {
+    "OddTip10": {
       "type": "string"
     },
-    "Tip11": {
-      "type": "string"
-    },
-    "Tip12": {
-      "type": "string"
-    },
-    "Tip13": {
-      "type": "string"
-    },
-    "Tip14": {
-      "type": "string"
-    },
-    "Tip15": {
-      "type": "string"
-    },
-    "Tip16": {
-      "type": "string"
-    },
-    "Tip17": {
-      "type": "string"
-    },
-    "Tip18": {
-      "type": "string"
-    },
-    "Tip19": {
-      "type": "string"
-    },
-    "Tip20": {
-      "type": "string"
-    },
-    "Tip21": {
-      "type": "string"
-    },
-    "Tip22": {
+    "OddTip11": {
       "type": "string"
     }
   }
