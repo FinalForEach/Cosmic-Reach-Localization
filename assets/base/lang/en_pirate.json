@@ -5,10 +5,10 @@
       "fallbacks": ["en_us"]
     },
     "startButton": "Embark",
-    "loadButton": "Open Save Directory",
-    "optionsButton": "Options",
+    "loadButton": "Open Yer Loot Folder",
+    "optionsButton": "Settin's",
     "quitButton": "Retreat",
-    "vSyncButton": "Vsync: ",
+    "vSyncButton": "Sail Sync:",
     "renderDistSlider": "Vision distance: ",
     "invertedMouseButton": "Flipped Wheel: ",
     "mouseSensitivitySlider": "Wheel Sensitivity: ",

@@ -57,6 +57,7 @@
 
 == Pirate English Localization ==
 * Eatham - https://github.com/realeatham
+* Peteryhs
 
 == Polish Localization ==
 * ImpSteve
@@ -161,3 +162,6 @@
 
 == Tagalog Localization ==
 * Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+
+== Chinese (Simplified) Localization ==
+* Peteryhs
