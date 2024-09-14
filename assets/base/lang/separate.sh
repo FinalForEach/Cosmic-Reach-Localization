@@ -9,12 +9,12 @@ for dir in "$BASE_DIR"/*/; do
     GAME_JSON="${dir}game.json"
     
     # Path to tip.json
-    TIP_JSON="${dir}tip.json"
+    TIP_JSON="${dir}odd-tips.json"
 
     # Check if game.json exists in the folder
     if [ -f "$GAME_JSON" ]; then
         # Extract lines starting with "Tip"
-        grep '^\s*\"Tip' "$GAME_JSON" > tips_temp.txt
+        grep '^\s*\"OddTip' "$GAME_JSON" > tips_temp.txt
 
         # Start writing to tip.json, wrapping in valid JSON
         echo "{" > "$TIP_JSON"

@@ -93,15 +93,4 @@
   "mouseBackButton" : "Bouton retour",
   "mouseForwardButton" : "Bouton avant",
   "RuntimeException": "Impossible de charger le monde : ",
-  "OddTip1": "Greffe de cellules...",
-  "OddTip2": "Incubation...",
-  "OddTip3": "Sacrifice des sujets...",
-  "OddTip4": "Comptage de moutons ...",
-  "OddTip5": "Élimination des tissus décédés...",
-  "OddTip6": "Prélèvement de cellules souches...",
-  "OddTip7": "Collecte d'organes généreusement \"donnés\"...",
-  "OddTip8": "Observation des tricéphales...",
-  "OddTip9": "Répétition des essais...",
-  "OddTip10": "Catégorisation des spécimens...",
-  "OddTip11": "Conseil : Tu ne peux pas lutter contre l'entropie."
 }

@@ -70,15 +70,4 @@
   "Screenshot_error": "Virhe tallentaessa kuvakaappausta.",
   "Loading": "Ladataan",
   "RuntimeException": "Maailman lataus epäonnistui: ",
-  "OddTip1": "Siirretään soluja...",
-  "OddTip2": "Haudotaan...",
-  "OddTip3": "Suoritetaan uhrauksia...",
-  "OddTip4": "Lasketaan lampaita...",
-  "OddTip5": "Hävitetään kuollutta kudosta...",
-  "OddTip6": "Kerätään kantasoluja...",
-  "OddTip7": "Kerätään \"elinluovutuksia\"...",
-  "OddTip8": "Tarkkailaan tricephalousta...",
-  "OddTip9": "Toistetaan kokeita...",
-  "OddTip10": "Luokitellaan näytteitä...",
-  "OddTip11": "Vihje: entropiaa vastaan kamppailu on turhaa."
 }

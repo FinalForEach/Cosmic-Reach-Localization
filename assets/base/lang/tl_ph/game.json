@@ -94,15 +94,4 @@
   "mouseBackButton" : "Paatras na Pindutan",
   "mouseForwardButton" : "Pasulong na Pindutan",
   "RuntimeException": "Hindi ma-load ang mundong: ",
-  "OddTip1": "Naghuhugpong ng mga cells...",
-  "OddTip2": "Nag-iincubate...",
-  "OddTip3": "Sinasakripisyo ang mga sakop...",
-  "OddTip4": "Nagbibilang ng tupa...",
-  "OddTip5": "Tinatanggal ang mga patay na tisyu...",
-  "OddTip6": "Umaani ng mga stem cells...",
-  "OddTip7": "Kumukolekta ng mga \"donasyong\" laman-loob...",
-  "OddTip8": "Pinagmamasdan ang mga tricephalous...",
-  "OddTip9": "Inuulit-ulit ang mga pagsubok...",
-  "OddTip10": "Nagkakategorya ng mga ispesimen...",
-  "OddTip11": "Payo: Hindi mo malalabanan ang entropy."
 }

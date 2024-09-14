@@ -2,7 +2,7 @@
 
 # Define the base directory and the regex pattern
 BASE_DIR="."
-REGEX="^\s*\"Tip"
+REGEX="^\s*\"OddTip"
 
 # Loop through each game.json file in the subdirectories
 find "$BASE_DIR" -type f -name "game.json" | while read -r file; do
