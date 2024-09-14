@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # The line to be inserted
-insert_line='  "$schema": "https://https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/tip.schema.json",'
+insert_line='  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/tip.schema.json",'
 
 # Loop through each folder and find game.json files
 find . -type f -name "tip.json" | while read -r file; do
