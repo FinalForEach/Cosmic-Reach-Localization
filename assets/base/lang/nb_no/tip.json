@@ -1,4 +1,5 @@
 {
+  "$schema": "https://https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/tip.schema.json",
   "Tip1": "Rekonstruerer kurver...",
   "Tip2": "Knuser hjørner...",
   "Tip3": "Former verdenen...",
