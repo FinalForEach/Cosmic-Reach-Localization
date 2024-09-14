@@ -1,7 +1,8 @@
 {
   "metadata":
   {
-    "name": "Nederlands"
+    "name": "Nederlands",
+    "fallbacks": ["nl_be"]
   },
   "formatPercent": "#%",
   "startButton": "Starten",

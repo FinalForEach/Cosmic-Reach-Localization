@@ -1,7 +1,8 @@
 {
   "metadata":
   {
-    "name": "Nederlands (België)"
+    "name": "Nederlands (België)",
+    "fallbacks": ["nl_nl"]
   },
   "startButton": "Start",
   "loadButton": "Open Opslagmap",
