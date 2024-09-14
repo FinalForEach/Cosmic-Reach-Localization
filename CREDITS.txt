@@ -113,6 +113,9 @@
 * Niko
 * Dimitar
 
+== Japanese Localization ==
+* Neuxs | Discord: neuxs | Github: Neuxs0
+
 == Czech Localization ==
 * Shadow (Discord: hiiragi_shinoa_64)
 * 32GBRat
