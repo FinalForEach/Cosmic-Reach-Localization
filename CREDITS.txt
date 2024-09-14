@@ -75,6 +75,7 @@
 * Lelebees
 * Luke-Kr
 * Neliz
+* Mulderkever
 
 == Turkish Localization ==
 * Runterya
