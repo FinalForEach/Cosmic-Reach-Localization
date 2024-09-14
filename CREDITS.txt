@@ -3,8 +3,10 @@
 * DAHASAG
 * ImpSteve
 * Y0UR-U5ERNAME
+* EXgaming
+* XiLeF2211
 
-== Contributor's Guide ==
+== Localization Contributor's Guide ==
 * Eatham - https://github.com/realeatham
 
 == English Localization ==
@@ -19,6 +21,7 @@
 
 == Latin America Spanish Localization ==
 * Wesly
+* Santum
 
 == French Localization ==
 * lvllaby
@@ -58,6 +61,7 @@
 == Polish Localization ==
 * ImpSteve
 * SSMichal
+* Dart25
 
 == Brazilian Portuguese Localization ==
 * Heybrine
@@ -72,6 +76,7 @@
 * Lelebees
 * Luke-Kr
 * Neliz
+* Mulderkever
 
 == Turkish Localization ==
 * Runterya
@@ -83,8 +88,8 @@
 * Renka
 
 == toki pona Localization ==
-* jan Jami
-* jan Katan (Chopbirb)
+* jan Jami (discord: @janjami)
+* jan Katan
 
 == Croatian Localization ==
 * SvGaming - https://github.com/svgaming234
@@ -101,6 +106,8 @@
 == Swedish Localization ==
 * fabbe50 - https://github.com/fabbe50
 * Isak Lindgren
+* CPUOverheating
+* ComputerFanMotor
 
 == Bulgarian Localization ==
 * Niko
@@ -139,3 +146,15 @@
 
 == Belarusian Localization ==
 * rotatingcranium
+
+== Greek Localization ==
+* EXgaming
+
+== Esperanto Localization ==
+* Wilbur Williams (GitHub: ThisCatLikesCrypto)
+
+== Filipino Localization ==
+* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+
+== Tagalog Localization ==
+* Jack Gabriel Acodili (@StartsMercury @acodili-jg)

@@ -6,7 +6,8 @@
   "type": "object",
   "additionalProperties": false,
   "__HOW_TO_ADD_PROPERTY__": "First, copy-paste a previous property ({type: 'string'} etc.), then change its key. Then update the minProperties field below to match the total count of the defined properties. (e.g. add 1 if you add 1 text etc.)",
-  "minProperties": 120,
+  "__SCHEMA_DOCS__": "https://json-schema.org/understanding-json-schema/reference",
+  "minProperties": 125,
   "properties": {
     "$schema": {
       "type": "string",
@@ -22,13 +23,22 @@
           "description": "The language's name shown in the language menu"
         },
         "fallbacks": {
-          "type": "string",
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true,
+          "minItems": 0,
+          "maxItems": 4,
           "description": "The language codes from which translations can be pulled from if missing keys in this file."
         }
       },
       "required": [
         "name"
       ]
+    },
+    "formatPercent": {
+      "type": "string"
     },
     "startButton": {
       "type": "string"
@@ -46,6 +56,18 @@
       "type": "string"
     },
     "creditsButton": {
+      "type": "string"
+    },
+    "creditsGameBy": {
+      "type": "string"
+    },
+    "creditsMusic": {
+      "type": "string"
+    },
+    "creditsAdditionalProgramming": {
+      "type": "string"
+    },
+    "creditsLocalization": {
       "type": "string"
     },
     "renderDistSlider": {
@@ -199,6 +221,9 @@
       "type": "string"
     },
     "Use_Place": {
+      "type": "string"
+    },
+    "Open_Chat": {
       "type": "string"
     },
     "No_Clip": {
