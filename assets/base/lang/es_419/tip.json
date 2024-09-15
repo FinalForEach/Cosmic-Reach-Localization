@@ -10,7 +10,7 @@
   "Tip8": "Acumulando polvo espacial...",
   "Tip9": "Orbitando bloques...",
   "Tip10": "Procesando chunks...",
-  "Tip11": "Cuajando la luna...",
+  "Tip11": "Cuajando la Luna...",
   "Tip12": "Limpiando inventarios...",
   "Tip13": "Fresnelificando...",
   "Tip14": "Colonizando planetas...",
@@ -21,5 +21,5 @@
   "Tip19": "Consejo: presiona \"$keybind_debugInfo\" para ver información de desarrollo.",
   "Tip20": "Consejo: presiona \"$keybind_dropItem\" para soltar el objeto que tienes seleccionado.",
   "Tip21": "Consejo: presiona \"$keybind_openInventory\" para abrir el inventario.",
-  "Tip22": "Consejo: corre contra una pared para llegar más lejos de lo que lograrías solo saltando.",
+  "Tip22": "Consejo: corre contra una pared para llegar más lejos de lo que lograrías solo saltando."
 }
