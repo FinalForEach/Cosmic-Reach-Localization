@@ -35,6 +35,7 @@
 * Matze (Matze997)
 * Zedritsch
 * Max Henning Junghans
+* Fiiral
 
 == Italian Localization ==
 * zPippo
