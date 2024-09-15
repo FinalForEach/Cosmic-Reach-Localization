@@ -93,5 +93,9 @@
     "mouseBackButton" : "Кнопка мыши назад",
     "mouseForwardButton" : "Кнопка мыши вперёд",
     "RuntimeException": "Не удалось загрузить мир: ",
+    "creditsGameBy": "ИГРА СДЕЛАНА:",
+    "creditsMusic": "МУЗЫКА:",
+    "creditsAdditionalProgramming": "ПОМОЩЬ В РАЗРАБОТКЕ:",
+    "creditsLocalization": "ЛОКАЛИЗАЦИЯ:"
   }
   

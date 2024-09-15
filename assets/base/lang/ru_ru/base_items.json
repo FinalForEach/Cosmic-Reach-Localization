@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Алюминиевый топор",
+    "base:axe_iron": "Железный топор",
+    "base:axe_stone": "Каменный топор",
+    "base:pickaxe_aluminium": "Алюминиевая кирка",
+    "base:pickaxe_iron": "Железная кирка",
+    "base:pickaxe_stone": "Каменная кирка",
+    "base:shovel_aluminium": "Алюминиевая лопата",
+    "base:shovel_iron": "Железная лопата",
+    "base:shovel_stone": "Каменная лопата",
+    "base:ingot_aluminium": "Алюминиевый слиток",
+    "base:ingot_iron": "Железный слиток",
+    "base:ingot_gold": "Золотой слиток",
+
+    "base:medkit": "Аптечка",
+    "base:medkit_gold": "Золотая аптечка",
+    "base:stick": "Палка"
+}
