@@ -1,7 +1,7 @@
 {
     "base:air": "Aire",
     "base:aluminium_panel": "Aluminio",
-    "base:asphalt": "Bitumen",
+    "base:asphalt": "Betún",
     "base:ore_bauxite": "Bauxita",
     "base:c4": "C-4",
     "base:cheese": "Queso",
@@ -55,7 +55,7 @@
     "base:boombox": "Radiocasete",
     "base:water": "Agua",
     "base:snow": "Nieve",
-    "base:grass": "Hierba",
+    "base:grass": "Césped",
     "base:sand": "Arena",
     "base:hazard": "Rayas de peligro",
     "base:dirt": "Tierra"
