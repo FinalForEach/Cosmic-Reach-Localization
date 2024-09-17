@@ -12,6 +12,7 @@
 == English Localization ==
 * FinalForEach
 * LagBB
+* JimmBuck
 
 == Spanish Localization ==
 * Nanrech
