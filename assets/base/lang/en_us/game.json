@@ -96,5 +96,8 @@
   "creditsGameBy": "GAME BY:",
   "creditsMusic": "MUSIC:",
   "creditsAdditionalProgramming": "ADDITIONAL PROGRAMMING:",
-  "creditsLocalization": "LOCALIZATION:"
+  "creditsLocalization": "LOCALIZATION:",
+  "multiplayerButton": "Multiplayer",
+  "multiplayerAddressButton": "Address: ",
+  "multiplayerJoinButton": "Join"
 }
