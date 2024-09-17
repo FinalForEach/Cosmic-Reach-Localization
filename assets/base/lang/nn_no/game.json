@@ -99,5 +99,8 @@
   "creditsGameBy": "SPELSKAPAR:",
   "creditsMusic": "MUSIKK:",
   "creditsAdditionalProgramming": "EKSTRA PROGRAMMERING:",
-  "creditsLocalization": "LOKALISERING:"
+  "creditsLocalization": "LOKALISERING:",
+  "multiplayerButton": "Flerspiller",
+  "multiplayerAddressButton": "Tenaradresse: ",
+  "multiplayerJoinButton": "Vert med"
 }
