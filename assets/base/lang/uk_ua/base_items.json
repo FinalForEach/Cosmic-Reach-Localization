@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Алюмінієва сокира",
+    "base:axe_iron": "Залізна сокира",
+    "base:axe_stone": "Кам'яна сокира",
+    "base:pickaxe_aluminium": "Алюмінієве кайло",
+    "base:pickaxe_iron": "Залізне кайло",
+    "base:pickaxe_stone": "Кам'яне кайло",
+    "base:shovel_aluminium": "Алюмінієва лопата",
+    "base:shovel_iron": "Залізна лопата",
+    "base:shovel_stone": "Кам'яна лопата",
+    "base:ingot_aluminium": "Зливок алюмінію",
+    "base:ingot_iron": "Зливок заліза",
+    "base:ingot_gold": "Зливок золота",
+
+    "base:medkit": "Аптечка",
+    "base:medkit_gold": "Золота аптечка",
+    "base:stick": "Паличка"
+}
