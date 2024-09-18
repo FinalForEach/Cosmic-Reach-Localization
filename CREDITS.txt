@@ -22,6 +22,7 @@
 == Latin America Spanish Localization ==
 * Wesly
 * Santum
+* Jedo Man
 
 == French Localization ==
 * lvllaby
