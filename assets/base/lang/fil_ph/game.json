@@ -97,5 +97,8 @@
   "creditsGameBy": "LARO NI:",
   "creditsMusic": "MUSIKA:",
   "creditsAdditionalProgramming": "DAGDAG NA PROGRAMMING:",
-  "creditsLocalization": "LOKALISASYON:"
+  "creditsLocalization": "LOKALISASYON:",
+  "multiplayerButton": "Pang-maramihang Laro",
+  "multiplayerAddressButton": "Address: ",
+  "multiplayerJoinButton": "Sumali"
 }
