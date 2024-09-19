@@ -93,4 +93,11 @@
   "mouseBackButton" : "Botwm Yn ôl",
   "mouseForwardButton" : "Botwm Ymlaen",
   "RuntimeException": "Methu llwytho byd: ",
+  "creditsGameBy": "GÊM GAN:",
+  "creditsMusic": "CERDDORIAETH:",
+  "creditsAdditionalProgramming": "RHAGLENNU YCHWANEGOL:",
+  "creditsLocalization": "CYFIEITHIADAU:",
+  "multiplayerButton": "Aml-chwaraewr",
+  "multiplayerAddressButton": "Cyfeiriad: ",
+  "multiplayerJoinButton": "Ymuno"
 }
