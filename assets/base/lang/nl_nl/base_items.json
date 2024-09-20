@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Aluminium bijl",
+    "base:axe_iron": "Ijzeren bijl",
+    "base:axe_stone": "Stenen bijl",
+    "base:pickaxe_aluminium": "Aluminium houweel",
+    "base:pickaxe_iron": "Ijzeren houweel",
+    "base:pickaxe_stone": "Stenen houweel",
+    "base:shovel_aluminium": "Aluminium schep",
+    "base:shovel_iron": "Ijzeren schep",
+    "base:shovel_stone": "Stenen schep",
+    "base:ingot_aluminium": "Aluminiumstaaf",
+    "base:ingot_iron": "Ijzerstaaf",
+    "base:ingot_gold": "Goudstaaf",
+
+    "base:medkit": "Verbanddoos",
+    "base:medkit_gold": "Gouden verbanddoos",
+    "base:stick": "Stok"
+}
