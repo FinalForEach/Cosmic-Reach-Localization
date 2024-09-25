@@ -96,6 +96,9 @@
     "creditsGameBy": "ИГРА СДЕЛАНА:",
     "creditsMusic": "МУЗЫКА:",
     "creditsAdditionalProgramming": "ПОМОЩЬ В РАЗРАБОТКЕ:",
-    "creditsLocalization": "ЛОКАЛИЗАЦИЯ:"
+    "creditsLocalization": "ЛОКАЛИЗАЦИЯ:",
+    "multiplayerButton": "Сетевая игра",
+    "multiplayerAddressButton": "Адрес: ",
+    "multiplayerJoinButton": "Присоединиться"
   }
   
