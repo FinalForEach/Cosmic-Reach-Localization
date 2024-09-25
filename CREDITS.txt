@@ -138,7 +138,7 @@
 
 == Indonesian Localization ==
 * ayamkv (freqtions) - https://github.com/ayamkv
-* PPixelCoded (Discord: Pixelated_)
+* PPixelCoded (Discord: epicz_cool)
 
 == Finnish Localization ==
 * HEPOSHEIKKI (Matrix: otto@protokolla.fi)
