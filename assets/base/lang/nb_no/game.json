@@ -100,4 +100,7 @@
   "creditsMusic": "MUSIKK:",
   "creditsAdditionalProgramming": "EKSTRA PROGRAMMERING:",
   "creditsLocalization": "LOKALISERING:",
+  "multiplayerButton": "Flerspiller",
+  "multiplayerAddressButton": "Serveraddresse: ",
+  "multiplayerJoinButton": "Bli med"
 }
