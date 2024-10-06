@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Alüminyum Balta",
+    "base:axe_iron": "Demir Balta",
+    "base:axe_stone": "Taş Balta",
+    "base:pickaxe_aluminium": "Alüminyum Kazma",
+    "base:pickaxe_iron": "Demir Kazma",
+    "base:pickaxe_stone": "Taş Kazma",
+    "base:shovel_aluminium": "Alüminyum Kürek",
+    "base:shovel_iron": "Demir Kürek",
+    "base:shovel_stone": "Taş Kürek",
+    "base:ingot_aluminium": "Alüminyum Cevheri",
+    "base:ingot_iron": "Demir Cevgeri",
+    "base:ingot_gold": "Altın Cevheri",
+
+    "base:medkit": "Sağlık Çantası",
+    "base:medkit_gold": "Altın Sağlık Çantası",
+    "base:stick": "Çubuk"
+}
