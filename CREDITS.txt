@@ -159,10 +159,10 @@
 * Wilbur Williams (GitHub: ThisCatLikesCrypto)
 
 == Filipino Localization ==
-* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+* Jack Gabriel Acodili
 
 == Tagalog Localization ==
-* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+* Jack Gabriel Acodili
 
 == Chinese (Simplified) Localization ==
 * Peteryhs
