@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Alumíniumfejsze",
+    "base:axe_iron": "Vasfejsze",
+    "base:axe_stone": "Kőfejsze",
+    "base:pickaxe_aluminium": "Alumíniumcsákány",
+    "base:pickaxe_iron": "Vascsákány",
+    "base:pickaxe_stone": "Kőcsákány",
+    "base:shovel_aluminium": "Alumíniumásó",
+    "base:shovel_iron": "Vasásó",
+    "base:shovel_stone": "Kőásó",
+    "base:ingot_aluminium": "Alumíniumrúd",
+    "base:ingot_iron": "Vasrúd",
+    "base:ingot_gold": "Aranyrúd",
+
+    "base:medkit": "Elsősegély csomag",
+    "base:medkit_gold": "Arany elsősegély csomag",
+    "base:stick": "Bot"
+}
