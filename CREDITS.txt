@@ -2,8 +2,11 @@
 * FinalForEach
 * DAHASAG
 * ImpSteve
+* Y0UR-U5ERNAME
+* EXgaming
+* XiLeF2211
 
-== Contributor's Guide ==
+== Localization Contributor's Guide ==
 * Eatham - https://github.com/realeatham
 
 == English Localization ==
@@ -11,30 +14,39 @@
 * LagBB
 
 == Spanish Localization ==
+* Nanrech
 * LagBB
 * Wesly
 * AlfonsoLVG
 
 == Latin America Spanish Localization ==
 * Wesly
+* Santum
 
 == French Localization ==
 * lvllaby
 * Joxh26
+* adracode
+
+== Canadian French Localization ==
+* Sinvay
 
 == German Localization ==
 * Matze (Matze997)
 * Zedritsch
 * Max Henning Junghans
+* Fiiral
 
 == Italian Localization ==
 * zPippo
 * Vinx335 (Pgr_Fth_)
 * Simone Chiarlo (simonechiarlo)
+* MastroCaleb
 
 == Ukrainian Localization ==
 * DAHASAG
 * al-Basyreusz
+* danilwhale
 
 == Norwegian Localization ==
 * MarAlNor
@@ -46,10 +58,12 @@
 
 == Pirate English Localization ==
 * Eatham - https://github.com/realeatham
+* Peteryhs
 
 == Polish Localization ==
 * ImpSteve
 * SSMichal
+* Dart25
 
 == Brazilian Portuguese Localization ==
 * Heybrine
@@ -64,13 +78,20 @@
 * Lelebees
 * Luke-Kr
 * Neliz
+* Mulderkever
 
 == Turkish Localization ==
 * Runterya
+* Ensgnnc
+* ilbailba
 
 == Hungarian Localization ==
 * Dettomi
 * Renka
+
+== toki pona Localization ==
+* jan Jami (discord: @janjami)
+* jan Katan
 
 == Croatian Localization ==
 * SvGaming - https://github.com/svgaming234
@@ -86,17 +107,66 @@
 
 == Swedish Localization ==
 * fabbe50 - https://github.com/fabbe50
+* Isak Lindgren
+* CPUOverheating
+* ComputerFanMotor
 
-== Bulgarian Localisation ==
+== Bulgarian Localization ==
 * Niko
 * Dimitar
 
+== Japanese Localization ==
+* Neuxs | Discord: neuxs | Github: Neuxs0
+
 == Czech Localization ==
-* Překladatel: Shadow (Discord: hiiragi_shinoa_64)
-* Korekce: 
+* Shadow (Discord: hiiragi_shinoa_64)
+* 32GBRat
+* Jakub Augustýn (Discord: hackerkuba2009, GitHub: kubikaugustyn, E-mail: kubik.augustyn@post.cz, Website: https://jakub-augustyn.web.app/)
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
 
 == Greenlandic Localization ==
 * Inuujuk (Discord: snowykid_27)
+=======
+* minidisque
+
+== Serbian Localization ==
+* Ukizam_Tukizam
+
+== Welsh Localization ==
+* Spicylemon2623 (Discord: _spicylemon_)
+
+== Latvian Localization ==
+* Sermins
+
+== Indonesian Localization ==
+* ayamkv (freqtions) - https://github.com/ayamkv
+* PPixelCoded (Discord: Pixelated_)
+
+== Finnish Localization ==
+* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+
+== Estonian Localization ==
+* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+
+== Slovak Localization ==
+* Rock3tXer
+
+== Belarusian Localization ==
+* rotatingcranium
+
+== Greek Localization ==
+* EXgaming
+
+== Esperanto Localization ==
+* Wilbur Williams (GitHub: ThisCatLikesCrypto)
+
+== Filipino Localization ==
+* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+
+== Tagalog Localization ==
+* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+
+== Chinese (Simplified) Localization ==
+* Peteryhs
