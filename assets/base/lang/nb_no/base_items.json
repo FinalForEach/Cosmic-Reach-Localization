@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Aluminiumøks",
+    "base:axe_iron": "Jarnøks",
+    "base:axe_stone": "Steinøks",
+    "base:pickaxe_aluminium": "Aluminiumhakke",
+    "base:pickaxe_iron": "Jarnhakke",
+    "base:pickaxe_stone": "Steinhakke",
+    "base:shovel_aluminium": "Aluminiumspade",
+    "base:shovel_iron": "Jarnspade",
+    "base:shovel_stone": "Steinspade",
+    "base:ingot_aluminium": "Aluminiumbarre",
+    "base:ingot_iron": "Jarnbarre",
+    "base:ingot_gold": "Gullbarre",
+
+    "base:medkit": "Førstehjelpsskrin",
+    "base:medkit_gold": "Førstehjelpsskrin av gull",
+    "base:stick": "Pinne"
+}
