@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Kapak Aluminium",
+    "base:axe_iron": "Kapak Besi",
+    "base:axe_stone": "Kapak Batu",
+    "base:pickaxe_aluminium": "Beliung Aluminium",
+    "base:pickaxe_iron": "Beliung Besi",
+    "base:pickaxe_stone": "Beliung Batu",
+    "base:shovel_aluminium": "Sekop Aluminium",
+    "base:shovel_iron": "Sekop Besi",
+    "base:shovel_stone": "Sekop Batu",
+    "base:ingot_aluminium": "Batangan Aluminium",
+    "base:ingot_iron": "Besi Batangan",
+    "base:ingot_gold": "Emas Batangan",
+
+    "base:medkit": "Obat-obatan",
+    "base:medkit_gold": "Obat-obatan Emas",
+    "base:stick": "Tongkat"
+}
