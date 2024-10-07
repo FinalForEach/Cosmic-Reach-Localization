@@ -100,5 +100,6 @@
   "creditsLocalization": "TRADUCCIONES:",
   "multiplayerButton": "Multijugador",
   "multiplayerAddressButton": "Dirección: ",
-  "multiplayerJoinButton": "Entrar"
+  "multiplayerJoinButton": "Entrar",
+  "multiplayerBadDisconnect": "¡Desconectado! Motivo:"
 }
