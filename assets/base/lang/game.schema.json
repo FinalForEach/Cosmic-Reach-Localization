@@ -315,6 +315,18 @@
     },
     "RuntimeException": {
       "type": "string"
+    },
+    "multiplayerButton": {
+      "type": "string"
+    },
+    "multiplayerAddressButton": {
+      "type": "string"
+    },
+    "multiplayerJoinButton": {
+      "type": "string"
+    },
+    "multiplayerBadDisconnect": {
+      "type": "string"
     }
   }
 }
