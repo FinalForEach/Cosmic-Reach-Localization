@@ -100,5 +100,6 @@
   "creditsLocalization": "VERTALINGEN:",
   "multiplayerButton": "Samen spelen",
   "multiplayerAddressButton": "Adres: ",
-  "multiplayerJoinButton": "Deelnemen"
+  "multiplayerJoinButton": "Deelnemen",
+  "multiplayerBadDisconnect": "Verbinding verbroken! Reden:"
 }
