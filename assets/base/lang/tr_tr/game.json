@@ -99,5 +99,6 @@
   "creditsLocalization": "YERELLEŞTİRME:",
   "multiplayerButton": "Çok Oyunculu",
   "multiplayerAddressButton": "Adres: ",
-  "multiplayerJoinButton": "Katıl"
+  "multiplayerJoinButton": "Katıl",
+  "multiplayerBadDisconnect": "Bağlantı kesildi! Sebep:"
 }
