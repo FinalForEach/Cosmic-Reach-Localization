@@ -99,5 +99,6 @@
   "creditsLocalization": "Переклад:",
   "multiplayerButton": "Гра з ватагою",
   "multiplayerAddressButton": "Адреса: ",
-  "multiplayerJoinButton": "Доєднатись"
+  "multiplayerJoinButton": "Доєднатись",
+  "multiplayerBadDisconnect": "З'єднання розірвано! Причина:",
 }
