@@ -99,6 +99,7 @@
     "creditsLocalization": "ЛОКАЛИЗАЦИЯ:",
     "multiplayerButton": "Сетевая игра",
     "multiplayerAddressButton": "Адрес: ",
-    "multiplayerJoinButton": "Присоединиться"
-  }
+    "multiplayerJoinButton": "Присоединиться",
+    "multiplayerBadDisconnect": "Соединение потеряно! Причина:"
+}
   
