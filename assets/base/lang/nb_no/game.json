@@ -102,5 +102,6 @@
   "creditsLocalization": "LOKALISERING:",
   "multiplayerButton": "Flerspiller",
   "multiplayerAddressButton": "Serveraddresse: ",
-  "multiplayerJoinButton": "Bli med"
+  "multiplayerJoinButton": "Bli med",
+  "multiplayerBadDisconnect": "Frakoblet! Grunn:"
 }

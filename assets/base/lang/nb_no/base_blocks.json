@@ -53,10 +53,11 @@
     "base:tree_log": "Tretømmer",
     "base:stone_gravel": "Grus",
     "base:boombox": "Boombox",
-    "base:water": "Water",
+    "base:water": "Vann",
     "base:snow": "Snø",
     "base:grass": "Gress",
     "base:sand": "Sand",
     "base:hazard": "Farestriper",
-    "base:dirt": "Jord"
+    "base:dirt": "Jord",
+    "base:bricks": "Mur"
 }

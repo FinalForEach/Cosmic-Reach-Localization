@@ -102,5 +102,6 @@
   "creditsLocalization": "LOKALISERING:",
   "multiplayerButton": "Flerspiller",
   "multiplayerAddressButton": "Tenaradresse: ",
-  "multiplayerJoinButton": "Vert med"
+  "multiplayerJoinButton": "Vert med",
+  "multiplayerBadDisconnect": "Fråkopla! Grunn:"
 }
