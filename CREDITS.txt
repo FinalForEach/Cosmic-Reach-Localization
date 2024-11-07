@@ -28,6 +28,7 @@
 * lvllaby
 * Joxh26
 * adracode
+* Paolog - https://github.com/PaologGithub
 
 == Canadian French Localization ==
 * Sinvay
