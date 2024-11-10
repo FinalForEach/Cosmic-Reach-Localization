@@ -119,6 +119,7 @@
 
 == Japanese Localization ==
 * Neuxs | Discord: neuxs | Github: Neuxs0
+* PenpenMC
 
 == Czech Localization ==
 * Shadow (Discord: hiiragi_shinoa_64)
