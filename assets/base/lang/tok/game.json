@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
-  "metadata":
-  {
+  "metadata": {
     "name": "toki pona"
   },
+  "formatPercent": "",
   "startButton": "o musi",
   "loadButton": "poki pi musi awen",
   "optionsButton": "o ante",
@@ -29,7 +29,7 @@
   "rendererNaive": "o kulupu ala",
   "rendererBatched": "o kulupu",
   "doneButton": "pini",
-  "preAlphaText": "o kama pona tawa musi Cosmic Reach! \n musi ni li sin mute. pali pi musi ni li pini ala. \n ken suli la pakala mute li lon, kin la ma sina li ken kama pakala.\n ijo ale li ken kama ante, li pana ala e sona lon ijo pi musi ni pini. \n jan pali li pana e musi tan ni: sina ken alasa e pakala, li ken toki e ijo wile sina pi tenpo kama.  \n o musi pona... o pakala pona kin!",
+  "preAlphaText": "o kama pona tawa musi Cosmic Reach!  musi ni li sin mute. pali pi musi ni li pini ala.  ken suli la pakala mute li lon, kin la ma sina li ken kama pakala. ijo ale li ken kama ante, li pana ala e sona lon ijo pi musi ni pini.  jan pali li pana e musi tan ni: sina ken alasa e pakala, li ken toki e ijo wile sina pi tenpo kama.   o musi pona... o pakala pona kin!",
   "okButton": "pona",
   "Lighting": "nasin suno li ",
   "Respawn": "o tawa open ma",
@@ -61,6 +61,7 @@
   "Attack_Break": "o pakala e ijo",
   "Pick_Block": "o jo e leko sama",
   "Use_Place": "o kepeken",
+  "Open_Chat": "o toki",
   "No_Clip": "o kama jan kon",
   "Reload_Shaders": "o sin e namako lukin",
   "Fullscreen": "musi o kama suli",
@@ -78,7 +79,7 @@
   "MAC_warning": "O SONA: ilo Mac li pona ala tawa musi ni lon tenpo ni. ken suli la musi li pakala.",
   "Controller": "ilo lawa pi ilo musi",
   "Controllers": "ilo lawa pi ilo musi",
-  "Controller_info": " li lon!\nken pi ilo ni li wile e pali,\nli kama pona lon tenpo kama.",
+  "Controller_info": " li lon!ken pi ilo ni li wile e pali,li kama pona lon tenpo kama.",
   "on_state": "",
   "off_state": "ala",
   "World_name": "ma ",
@@ -91,4 +92,14 @@
   "mouseBackButton": "nena monsi",
   "mouseForwardButton": "nena sinpin",
   "RuntimeException": "mi ken ala open e ma ",
+  "creditsGameBy": "MUSI LI TAN:",
+  "creditsMusic": "KALAMA MUSI:",
+  "creditsAdditionalProgramming": "PALI ILO:",
+  "creditsLocalization": "ANTE TOKI:",
+  "multiplayerButton": "musi kulupu",
+  "multiplayerAddressButton": "nanpa:",
+  "multiplayerJoinButton": "o tawa!",
+  "multiplayerBadDisconnect": "sina weka tan ni:",
+  "polishButton": "",
+  "polishButtonAlt": ""
 }
