@@ -58,5 +58,6 @@
     "base:grass": "Трава",
     "base:sand": "Пісок",
     "base:hazard": "Попереджувальні смуги",
-    "base:dirt": "Ґрунт"
+    "base:dirt": "Ґрунт",
+    "base:bricks": "Цегла"
 }
