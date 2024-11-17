@@ -14,5 +14,6 @@
 
     "base:medkit": "Medkit",
     "base:medkit_gold": "Gold Medkit",
-    "base:stick": "Stick"
+    "base:stick": "Stick",
+    "base:fluid_vacuum": "Fluid Vacuum"
 }
