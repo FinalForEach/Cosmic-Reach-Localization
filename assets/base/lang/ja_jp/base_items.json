@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "アルミの斧",
+    "base:axe_iron": "鉄の斧",
+    "base:axe_stone": "石の斧",
+    "base:pickaxe_aluminium": "アルミのツルハシ",
+    "base:pickaxe_iron": "鉄のツルハシ",
+    "base:pickaxe_stone": "石のツルハシ",
+    "base:shovel_aluminium": "アルミのシャベル",
+    "base:shovel_iron": "鉄のシャベル",
+    "base:shovel_stone": "石のシャベル",
+    "base:ingot_aluminium": "アルミインゴット",
+    "base:ingot_iron": "鉄インゴット",
+    "base:ingot_gold": "金インゴット",
+
+    "base:medkit": "医療キット",
+    "base:medkit_gold": "金の医療キット",
+    "base:stick": "棒"
+}
