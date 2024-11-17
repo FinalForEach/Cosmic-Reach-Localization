@@ -4,6 +4,7 @@
  {
   "name": "日本語"
  },
+ "formatPercent": "#%",
  "startButton": "開始",
  "loadButton": "セーブデータを開く",
  "optionsButton": "オプション",
