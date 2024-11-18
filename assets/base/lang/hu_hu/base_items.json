@@ -14,5 +14,6 @@
 
     "base:medkit": "Elsősegély csomag",
     "base:medkit_gold": "Arany elsősegély csomag",
-    "base:stick": "Bot"
+    "base:stick": "Bot",
+    "base:fluid_vacuum": "Folyadékszívó"
 }
