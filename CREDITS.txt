@@ -18,6 +18,7 @@
 * LagBB
 * Wesly
 * AlfonsoLVG
+* Faurl852
 
 == Latin America Spanish Localization ==
 * Wesly
