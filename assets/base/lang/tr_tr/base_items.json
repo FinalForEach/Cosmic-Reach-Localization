@@ -14,5 +14,6 @@
 
     "base:medkit": "Sağlık Çantası",
     "base:medkit_gold": "Altın Sağlık Çantası",
-    "base:stick": "Çubuk"
+    "base:stick": "Çubuk",
+    "base:fluid_vacuum": "Sıvı Emici"
 }
