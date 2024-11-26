@@ -14,6 +14,10 @@
   "quitButton": "Ukončit",
   "vSyncButton": "Vertikální synchronizace: ",
   "creditsButton": "Zásluhy",
+  "creditsGameBy": "AUTOŘI HRY:",
+  "creditsMusic": "HUDBA:",
+  "creditsAdditionalProgramming": "DALŠÍ PROGRAMOVÁNÍ:",
+  "creditsLocalization": "LOKALIZACE:",
   "renderDistSlider": "Vzdálenost vykreslování: ",
   "invertedMouseButton": "Invertovat myš: ",
   "mouseSensitivitySlider": "Citlivost myši: ",
@@ -96,4 +100,8 @@
   "mouseBackButton": "Tlačítko dozadu",
   "mouseForwardButton": "Tlačítko dopředu",
   "RuntimeException": "Svět se nepovedlo načíst: ",
+  "multiplayerButton": "Multiplayer",
+  "multiplayerAddressButton": "Adresa serveru: ",
+  "multiplayerJoinButton": "Připojit",
+  "multiplayerBadDisconnect": "Byli jste odpojeni. Důvod:"
 }
