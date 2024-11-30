@@ -14,5 +14,6 @@
 
     "base:medkit": "医療キット",
     "base:medkit_gold": "金の医療キット",
-    "base:stick": "棒"
+    "base:stick": "棒",
+    "base:fluid_vacuum": "液体回収機"
 }
