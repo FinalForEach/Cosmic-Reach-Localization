@@ -97,5 +97,9 @@
   "creditsGameBy": "DESARROLLADO POR:",
   "creditsMusic": "MÚSICA:",
   "creditsAdditionalProgramming": "PROGRAMACIÓN ADICIONAL:",
-  "creditsLocalization": "TRADUCCIONES:"
+  "creditsLocalization": "TRADUCCIONES:",
+  "multiplayerButton": "Multijugador",
+  "multiplayerAddressButton": "Dirección: ",
+  "multiplayerJoinButton": "Entrar",
+  "multiplayerBadDisconnect": "¡Te has desconectado! Motivo:"
 }

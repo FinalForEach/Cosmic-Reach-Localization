@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Aluminijska Sjekira",
+    "base:axe_iron": "Željezna Sjekira",
+    "base:axe_stone": "Kamena Sjekira",
+    "base:pickaxe_aluminium": "Aluminijski Pijuk",
+    "base:pickaxe_iron": "Željezni Pijuk",
+    "base:pickaxe_stone": "Kameni Pijuk",
+    "base:shovel_aluminium": "Aluminijska Lopata",
+    "base:shovel_iron": "Željezna Lopata",
+    "base:shovel_stone": "Kamena Lopata",
+    "base:ingot_aluminium": "Aluminijska Poluga",
+    "base:ingot_iron": "Željezna Poluga",
+    "base:ingot_gold": "Zlatna Poluga",
+
+    "base:medkit": "Kutija Prve Pomoći",
+    "base:medkit_gold": "Zlatna Kutija Prve Pomoći",
+    "base:stick": "Štap"
+}

@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
-  "title": "Cosmic Reach language",
-  "description": "FinalForEach's Cosmic Reach game localization language schema",
+  "title": "Cosmic Reach language (game)",
+  "description": "FinalForEach's Cosmic Reach game localization language schema for game.json",
   "type": "object",
   "additionalProperties": false,
   "__HOW_TO_ADD_PROPERTY__": "First, copy-paste a previous property ({type: 'string'} etc.), then change its key. Then update the minProperties field below to match the total count of the defined properties. (e.g. add 1 if you add 1 text etc.)",
@@ -11,7 +11,8 @@
   "properties": {
     "$schema": {
       "type": "string",
-      "description": "Special property defining this schema as the schema of the language, e.g. should be same to the root $id property. Since this field does count to the total root minProperties property, it is required."
+      "description": "Special property defining this schema as the schema of the language, e.g. should be same to the root $id property. Since this field does count to the total root minProperties property, it is required.",
+      "const": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json"
     },
     "metadata": {
       "type": "object",
@@ -314,6 +315,18 @@
       "type": "string"
     },
     "RuntimeException": {
+      "type": "string"
+    },
+    "multiplayerButton": {
+      "type": "string"
+    },
+    "multiplayerAddressButton": {
+      "type": "string"
+    },
+    "multiplayerJoinButton": {
+      "type": "string"
+    },
+    "multiplayerBadDisconnect": {
       "type": "string"
     }
   }

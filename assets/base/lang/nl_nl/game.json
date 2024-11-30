@@ -97,5 +97,9 @@
   "creditsGameBy": "SPEL GEMAAKT DOOR:",
   "creditsMusic": "MUZIEK:",
   "creditsAdditionalProgramming": "AANVULLENDE PROGRAMMERING:",
-  "creditsLocalization": "VERTAALD DOOR:",
+  "creditsLocalization": "VERTALINGEN:",
+  "multiplayerButton": "Samen spelen",
+  "multiplayerAddressButton": "Adres: ",
+  "multiplayerJoinButton": "Deelnemen",
+  "multiplayerBadDisconnect": "Verbinding verbroken! Reden:"
 }

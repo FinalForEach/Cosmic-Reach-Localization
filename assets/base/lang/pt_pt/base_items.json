@@ -14,5 +14,6 @@
 
     "base:medkit": "Kit Médico",
     "base:medkit_gold": "Kit Médico Dourado",
-    "base:stick": "Pau"
+    "base:stick": "Pau",
+    "base:fluid_vacuum": "Aspirador de Fluidos"
 }

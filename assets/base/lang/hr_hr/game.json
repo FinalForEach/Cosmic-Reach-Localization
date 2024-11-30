@@ -4,6 +4,7 @@
     {
       "name": "Hrvatski"
     },
+    "formatPercent": "#%",
     "startButton": "Započni",
     "loadButton": "Otvori spremljene igre",
     "optionsButton": "Opcije",
@@ -91,5 +92,13 @@
     "mouseBackButton" : "Gumb za Natrag",
     "mouseForwardButton" : "Gumb za Naprijed",
     "RuntimeException": "Učitavanje svijeta neuspješno: ",
+    "creditsGameBy": "IGRU NAPRAVIO:",
+    "creditsMusic": "GLAZBA:",
+    "creditsAdditionalProgramming": "DODATNO PROGRAMIRANGE:",
+    "creditsLocalization": "LOKALIZACIJA:",
+    "multiplayerButton": "Igra s drugima",
+    "multiplayerAddressButton": "Adresa: ",
+    "multiplayerJoinButton": "Pridruži se",
+    "multiplayerBadDisconnect": "Odspojen od poslužitelja! Razlog:"
   }
   

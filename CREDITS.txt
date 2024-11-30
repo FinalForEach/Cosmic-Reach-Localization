@@ -18,15 +18,18 @@
 * LagBB
 * Wesly
 * AlfonsoLVG
+* Faurl
 
 == Latin America Spanish Localization ==
 * Wesly
 * Santum
+* Jedo Man
 
 == French Localization ==
 * lvllaby
 * Joxh26
 * adracode
+* Paolog - https://github.com/PaologGithub
 
 == Canadian French Localization ==
 * Sinvay
@@ -55,6 +58,7 @@
 == Russian Localization ==
 * Svuvi
 * 11q3 - https://github.com/11q3
+* zHoeshin
 
 == Pirate English Localization ==
 * Eatham - https://github.com/realeatham
@@ -117,6 +121,7 @@
 
 == Japanese Localization ==
 * Neuxs | Discord: neuxs | Github: Neuxs0
+* PenpenMC
 
 == Czech Localization ==
 * Shadow (Discord: hiiragi_shinoa_64)
@@ -138,7 +143,7 @@
 
 == Indonesian Localization ==
 * ayamkv (freqtions) - https://github.com/ayamkv
-* PPixelCoded (Discord: Pixelated_)
+* PPixelCoded (Discord: epicz_cool)
 
 == Finnish Localization ==
 * HEPOSHEIKKI (Matrix: otto@protokolla.fi)
@@ -159,10 +164,10 @@
 * Wilbur Williams (GitHub: ThisCatLikesCrypto)
 
 == Filipino Localization ==
-* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+* Jack Gabriel Acodili
 
 == Tagalog Localization ==
-* Jack Gabriel Acodili (@StartsMercury @acodili-jg)
+* Jack Gabriel Acodili
 
 == Chinese (Simplified) Localization ==
 * Peteryhs

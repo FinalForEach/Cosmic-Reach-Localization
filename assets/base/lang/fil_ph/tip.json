@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/tip.schema.json",
-  "Tip1": "Nag-rereticulate ng mga splines...",
+  "Tip1": "Nag-rereticulate ng mga splayn...",
   "Tip2": "Pinipisil ang mga vertices...",
   "Tip3": "Hinuhugis ang mundo...",
   "Tip4": "Kinukulayan ang mga ilaw...",
   "Tip5": "Hinahati ang mga tilad...",
   "Tip6": "Lumulikha ng mga bloke...",
   "Tip7": "Pinapatong ang mga tipak...",
-  "Tip8": "Nagtitipon ng mga pangkalawakang alikabok...",
+  "Tip8": "Nagtitipon ng gabok na pangkalawakan...",
   "Tip9": "Iniikotan ang mga ikubo...",
   "Tip10": "Binabatch ang mga tipak...",
   "Tip11": "I-kur-curdle ang buwan...",
@@ -21,5 +21,5 @@
   "Tip19": "Payo: Pindutin ang '$keybind_debugInfo' para makita ang mga impormasyong pang-debug",
   "Tip20": "Payo: Pindutin ang '$keybind_dropItem' para bitawan ang hinahawakang bagay!",
   "Tip21": "Payo: Pindutin ang '$keybind_openInventory' para mabuksan ang imbentaryo!",
-  "Tip22": "Payo: Tumakbo sa pader upang maka-wall-run, mas malayo ang patungo kesa sa pagtalon lang.",
+  "Tip22": "Payo: Tumakbo sa pader upang maka-wall-run, mas malayo ang patungo kesa sa pagtalon lang."
 }

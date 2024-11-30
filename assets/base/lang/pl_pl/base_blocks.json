@@ -58,5 +58,6 @@
     "base:grass": "Trawa",
     "base:sand": "Piasek",
     "base:hazard": "Pasy zagrożenia",
-    "base:dirt": "Gleba"
+    "base:dirt": "Gleba",
+    "base:bricks": "Cegły"
 }
