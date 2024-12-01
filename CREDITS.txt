@@ -18,6 +18,7 @@
 * LagBB
 * Wesly
 * AlfonsoLVG
+* Faurl
 
 == Latin America Spanish Localization ==
 * Wesly
@@ -28,6 +29,7 @@
 * lvllaby
 * Joxh26
 * adracode
+* Paolog - https://github.com/PaologGithub
 
 == Canadian French Localization ==
 * Sinvay
@@ -119,6 +121,7 @@
 
 == Japanese Localization ==
 * Neuxs | Discord: neuxs | Github: Neuxs0
+* PenpenMC
 
 == Czech Localization ==
 * Shadow (Discord: hiiragi_shinoa_64)

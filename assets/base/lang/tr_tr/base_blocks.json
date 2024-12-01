@@ -58,5 +58,6 @@
     "base:grass": "Cam",
     "base:sand": "Kum",
     "base:hazard": "Tehlike Çizgileri",
-    "base:dirt": "Toprak"
+    "base:dirt": "Toprak",
+    "base:bricks": "Tuğlalar"
 }
