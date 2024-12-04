@@ -58,5 +58,6 @@
     "base:grass": "Трава",
     "base:sand": "Песок",
     "base:hazard": "Полосы опасности",
-    "base:dirt": "Земля"
+    "base:dirt": "Земля",
+    "base:bricks": "Кирпичи"
 }
