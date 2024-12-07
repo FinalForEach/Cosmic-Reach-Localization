@@ -58,5 +58,6 @@
     "base:grass": "Gras",
     "base:sand": "Sand",
     "base:hazard": "Farestripar",
-    "base:dirt": "Mold"
+    "base:dirt": "Mold",
+    "base:bricks": "Mur"
 }
