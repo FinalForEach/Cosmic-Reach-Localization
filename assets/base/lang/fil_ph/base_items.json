@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Palakong Aluminyo",
+    "base:axe_iron": "Palakong Bakal",
+    "base:axe_stone": "Palakong Bato",
+    "base:pickaxe_aluminium": "Pikong Aluminyo",
+    "base:pickaxe_iron": "Pikong Bakal",
+    "base:pickaxe_stone": "Pikong Bato",
+    "base:shovel_aluminium": "palang Aluminyo",
+    "base:shovel_iron": "Palang Bakal",
+    "base:shovel_stone": "palang Bato",
+    "base:ingot_aluminium": "Aluminyo",
+    "base:ingot_iron": "Bakal",
+    "base:ingot_gold": "Ginto",
+
+    "base:medkit": "Medkit",
+    "base:medkit_gold": "Gintong Medkit",
+    "base:stick": "Tunkod"
+}

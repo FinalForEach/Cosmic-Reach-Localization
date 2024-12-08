@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Aluminiowy topór",
+    "base:axe_iron": "Żelazny topór",
+    "base:axe_stone": "Kamienny topór",
+    "base:pickaxe_aluminium": "Aluminiowy kilof",
+    "base:pickaxe_iron": "Żelazny kilof",
+    "base:pickaxe_stone": "Kamienny kilof",
+    "base:shovel_aluminium": "Aluminiowa łopata",
+    "base:shovel_iron": "Żelazna łopata",
+    "base:shovel_stone": "Kamienna łopata",
+    "base:ingot_aluminium": "Sztabka aluminium",
+    "base:ingot_iron": "Sztabka żelaza",
+    "base:ingot_gold": "Sztabka złota",
+
+    "base:medkit": "Apteczka",
+    "base:medkit_gold": "Złota apteczka",
+    "base:stick": "Patyk"
+}

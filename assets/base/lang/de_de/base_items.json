@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "Aluminiumaxt",
+    "base:axe_iron": "Eisenaxt",
+    "base:axe_stone": "Steinaxt",
+    "base:pickaxe_aluminium": "Aluminiumspitzhacke",
+    "base:pickaxe_iron": "Eisenspitzhacke",
+    "base:pickaxe_stone": "Steinspitzhacke",
+    "base:shovel_aluminium": "Aluminiumschaufel",
+    "base:shovel_iron": "Eisenschaufel",
+    "base:shovel_stone": "Steinschaufel",
+    "base:ingot_aluminium": "Aluminiumbarren",
+    "base:ingot_iron": "Eisenbarren",
+    "base:ingot_gold": "Goldbarren",
+
+    "base:medkit": "Medkit",
+    "base:medkit_gold": "Goldenes Medkit",
+    "base:stick": "Stock"
+}

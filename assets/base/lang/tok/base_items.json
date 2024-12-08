@@ -1,0 +1,17 @@
+{
+  "base:axe_aluminium": "ilo walo kasi",
+  "base:axe_iron": "ilo pimeja kasi",
+  "base:axe_stone": "ilo kiwen kasi",
+  "base:pickaxe_aluminium": "ilo walo kiwen",
+  "base:pickaxe_iron": "ilo pimeja kiwen",
+  "base:pickaxe_stone": "ilo kiwen kiwen",
+  "base:shovel_aluminium": "ilo walo ko",
+  "base:shovel_iron": "ilo pimeja ko",
+  "base:shovel_stone": "ilo kiwen ko",
+  "base:ingot_aluminium": "kiwen walo",
+  "base:ingot_iron": "kiwen pimeja",
+  "base:ingot_gold": "kiwen jelo",
+  "base:medkit": "poki pi pona sijelo",
+  "base:medkit_gold": "poki jelo pi pona sijelo",
+  "base:stick": "palisa"
+}

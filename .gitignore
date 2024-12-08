@@ -144,6 +144,9 @@ www-test/
 nbactions.xml
 nb-configuration.xml
 
+# VSCode
+/.vscode/
+
 ## OS-Specific:
 .DS_Store
 Thumbs.db
