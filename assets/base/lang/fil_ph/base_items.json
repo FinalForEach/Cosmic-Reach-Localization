@@ -1,18 +1,19 @@
 {
-    "base:axe_aluminium": "Palakong Aluminyo",
-    "base:axe_iron": "Palakong Bakal",
-    "base:axe_stone": "Palakong Bato",
-    "base:pickaxe_aluminium": "Pikong Aluminyo",
-    "base:pickaxe_iron": "Pikong Bakal",
-    "base:pickaxe_stone": "Pikong Bato",
-    "base:shovel_aluminium": "palang Aluminyo",
+    "base:axe_aluminium": "Palakol na Aluminyo",
+    "base:axe_iron": "Palakol na Bakal",
+    "base:axe_stone": "Palakol na Bato",
+    "base:pickaxe_aluminium": "Patik na Aluminyo",
+    "base:pickaxe_iron": "Patik na Bakal",
+    "base:pickaxe_stone": "Patik na Bato",
+    "base:shovel_aluminium": "Palang Aluminyo",
     "base:shovel_iron": "Palang Bakal",
-    "base:shovel_stone": "palang Bato",
+    "base:shovel_stone": "Palang Bato",
     "base:ingot_aluminium": "Aluminyo",
     "base:ingot_iron": "Bakal",
     "base:ingot_gold": "Ginto",
 
     "base:medkit": "Medkit",
     "base:medkit_gold": "Gintong Medkit",
-    "base:stick": "Tunkod"
+    "base:stick": "Tungkod",
+    "base:fluid_vacuum": "Panghigop ng Likido"
 }
