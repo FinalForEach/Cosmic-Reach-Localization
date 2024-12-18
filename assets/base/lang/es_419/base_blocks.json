@@ -58,6 +58,7 @@
     "base:grass": "Césped",
     "base:sand": "Arena",
     "base:hazard": "Franjas de advertencia",
-    "base:dirt": "Tierra"
-    "base:bricks": "Ladrillos"
+    "base:dirt": "Tierra",
+    "base:bricks": "Ladrillos",
+    "base:ice": "Hielo"
 }
