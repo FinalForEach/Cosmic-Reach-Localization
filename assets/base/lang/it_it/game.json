@@ -12,7 +12,7 @@
     "renderDistSlider": "Distanza di rendering: ",
     "invertedMouseButton": "Inverti il mouse: ",
     "mouseSensitivitySlider": "Sensibilità mouse: ",
-    "soundButton": "Suoni: ",
+    "soundSlider": "Suoni: ",
     "fovSlider": "Campo visivo: ",
     "maxFPS": "FPS massimi: ",
     "maxFPSUnlimited": "FPS massimi: illimitati",

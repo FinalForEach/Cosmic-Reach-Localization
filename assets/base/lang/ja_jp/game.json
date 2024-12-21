@@ -14,7 +14,7 @@
  "renderDistSlider": "描画距離: ",
  "invertedMouseButton": "マウス反転: ",
  "mouseSensitivitySlider": "マウス感度: ",
- "soundButton": "サウンド: ",
+ "soundSlider": "サウンド: ",
  "fovSlider": "視野角: ",
  "maxFPS": "最大FPS: ",
  "maxFPSUnlimited": "最大FPS: 無制限",

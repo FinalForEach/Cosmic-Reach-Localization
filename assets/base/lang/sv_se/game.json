@@ -13,7 +13,7 @@
   "renderDistSlider": "Renderingsavstånd: ",
   "invertedMouseButton": "Inverterad mus: ",
   "mouseSensitivitySlider": "Muskänslighet: ",
-  "soundButton": "Ljud: ",
+  "soundSlider": "Ljud: ",
   "fovSlider": "Synfält (FOV): ",
   "maxFPS": "Max FPS: ",
   "maxFPSUnlimited": "Max FPS: Oändligt",
