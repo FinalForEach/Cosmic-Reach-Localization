@@ -21,7 +21,7 @@
   "renderDistSlider": "Vzdálenost vykreslování: ",
   "invertedMouseButton": "Invertovat myš: ",
   "mouseSensitivitySlider": "Citlivost myši: ",
-  "soundButton": "Zvuk: ",
+  "soundSlider": "Zvuk: ",
   "fovSlider": "FOV: ",
   "maxFPS": "Limit FPS: ",
   "maxFPSUnlimited": "Limit FPS: Bez limitu",
