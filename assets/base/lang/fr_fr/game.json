@@ -93,4 +93,12 @@
   "mouseBackButton" : "Bouton retour",
   "mouseForwardButton" : "Bouton avant",
   "RuntimeException": "Impossible de charger le monde : ",
+  "creditsGameBy": "Jeu créé par:",
+  "creditsMusic": "Musique:",
+  "creditsAdditionalProgramming": "Programmation additionnelle:",
+  "creditsLocalization": "Localisation:",
+  "multiplayerButton": "Multijoueur",
+  "multiplayerAddressButton": "Adresse: ",
+  "multiplayerJoinButton": "Rejoindre",
+  "multiplayerBadDisconnect": "Déconnecté! Raison:"
 }

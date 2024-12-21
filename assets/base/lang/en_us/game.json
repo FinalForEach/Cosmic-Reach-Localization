@@ -99,5 +99,6 @@
   "creditsLocalization": "LOCALIZATION:",
   "multiplayerButton": "Multiplayer",
   "multiplayerAddressButton": "Address: ",
-  "multiplayerJoinButton": "Join"
+  "multiplayerJoinButton": "Join",
+  "multiplayerBadDisconnect": "Disconnected! Reason:"
 }

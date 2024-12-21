@@ -65,7 +65,7 @@
   "Use_Place": "Gumamit / Maglagay",
   "Open_Chat": "Buksan ang Chat",
   "No_Clip": "Walang Banggaan",
-  "Reload_Shaders": "I-reload ang Shaders",
+  "Reload_Shaders": "I-reload ang mga Shaders",
   "Fullscreen": "Fullscreen",
   "Create_New_World": "Gumawa ng Bagong Mudo",
   "worldNameButton": "Pangalan ng mundo: ",
@@ -94,4 +94,11 @@
   "mouseBackButton" : "Paatras na Pindutan",
   "mouseForwardButton" : "Pasulong na Pindutan",
   "RuntimeException": "Hindi ma-load ang mundong: ",
+  "creditsGameBy": "LARO NI:",
+  "creditsMusic": "MUSIKA:",
+  "creditsAdditionalProgramming": "DAGDAG NA PROGRAMMING:",
+  "creditsLocalization": "LOKALISASYON:",
+  "multiplayerButton": "Pang-maramihang Laro",
+  "multiplayerAddressButton": "Address: ",
+  "multiplayerJoinButton": "Sumali"
 }

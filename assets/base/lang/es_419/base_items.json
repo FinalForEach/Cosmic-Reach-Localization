@@ -12,7 +12,8 @@
     "base:ingot_iron": "Lingote de hierro",
     "base:ingot_gold": "Lingote de oro",
 
-    "base:medkit": "Botiquín médico",
-    "base:medkit_gold": "Botiquín médico dorado",
+    "base:medkit": "Botiquín",
+    "base:medkit_gold": "Botiquín dorado",
     "base:stick": "Palo"
+    "base:fluid_vacuum": "Aspirador de líquido"
 }

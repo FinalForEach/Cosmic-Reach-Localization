@@ -97,4 +97,8 @@
   "creditsMusic": "Музика:",
   "creditsAdditionalProgramming": "Додаткове програмування:",
   "creditsLocalization": "Переклад:",
+  "multiplayerButton": "Гра з ватагою",
+  "multiplayerAddressButton": "Адреса: ",
+  "multiplayerJoinButton": "Доєднатись",
+  "multiplayerBadDisconnect": "З'єднання розірвано! Причина:",
 }

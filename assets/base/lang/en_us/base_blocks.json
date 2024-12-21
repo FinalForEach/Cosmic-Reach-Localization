@@ -58,5 +58,7 @@
     "base:grass": "Grass",
     "base:sand": "Sand",
     "base:hazard": "Hazard Stripes",
-    "base:dirt": "Dirt"
+    "base:dirt": "Dirt",
+    "base:bricks": "Bricks",
+    "base:ice": "Ice"
 }

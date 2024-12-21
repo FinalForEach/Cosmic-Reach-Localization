@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
-  "metadata":
-  {
+  "metadata": {
     "name": "toki pona"
   },
+  "formatPercent": "#%",
   "startButton": "o musi",
   "loadButton": "poki pi musi awen",
   "optionsButton": "o ante",
@@ -59,8 +59,9 @@
   "Screenshot": "o awen e sitelen",
   "Debug_Info": "sona ilo",
   "Attack_Break": "o pakala e ijo",
-  "Pick_Block": "o jo e leko sama",
+  "Pick_Block": "o jo e leko ni",
   "Use_Place": "o kepeken",
+  "Open_Chat": "o toki",
   "No_Clip": "o kama jan kon",
   "Reload_Shaders": "o sin e namako lukin",
   "Fullscreen": "musi o kama suli",
@@ -76,9 +77,9 @@
   "YT_Channel": "o lukin e pali pi musi ni lon youtube.com/@finalforeach",
   "Game_version": "nasin pi musi Cosmic Reach ni li nasin pi sin mute nanpa ",
   "MAC_warning": "O SONA: ilo Mac li pona ala tawa musi ni lon tenpo ni. ken suli la musi li pakala.",
-  "Controller": "ilo lawa pi ilo musi",
-  "Controllers": "ilo lawa pi ilo musi",
-  "Controller_info": " li lon!\nken pi ilo ni li wile e pali,\nli kama pona lon tenpo kama.",
+  "Controller": "ilo lawa lili",
+  "Controllers": "ilo lawa lili",
+  "Controller_info": " li lon!\n ken pi ilo ni li wile e pali,\n li kama pona lon tenpo kama.",
   "on_state": "",
   "off_state": "ala",
   "World_name": "ma ",
@@ -90,5 +91,15 @@
   "mouseRightButton": "nena poka ante",
   "mouseBackButton": "nena monsi",
   "mouseForwardButton": "nena sinpin",
-  "RuntimeException": "mi ken ala open e ma ",
+  "RuntimeException": "mi ken ala open e ma",
+  "creditsGameBy": "MUSI LI TAN:",
+  "creditsMusic": "KALAMA MUSI:",
+  "creditsAdditionalProgramming": "PALI ILO:",
+  "creditsLocalization": "ANTE TOKI:",
+  "multiplayerButton": "musi kulupu",
+  "multiplayerAddressButton": "nanpa:",
+  "multiplayerJoinButton": "o tawa!",
+  "multiplayerBadDisconnect": "sina weka tan ni:",
+  "polishButton": "",
+  "polishButtonAlt": ""
 }
