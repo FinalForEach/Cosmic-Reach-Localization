@@ -5,8 +5,8 @@
     "base:ore_bauxite": "Boksit",
     "base:c4": "C4",
     "base:cheese": "Peynir",
-    "base:stone_limestone": "Kireç Taşí",
-    "base:crate_wooden": "Odun kasa",
+    "base:stone_limestone": "Kireç Taşı",
+    "base:crate_wooden": "Odun Kasa",
     "base:stone_gabbro": "Gabro",
     "base:wood_planks": "Tahta",
     "base:light": "Işık",
@@ -57,7 +57,8 @@
     "base:snow": "Kar",
     "base:grass": "Cam",
     "base:sand": "Kum",
-    "base:hazard": "Tehlike Çizgileri",
+    "base:hazard": "Tehlike Şeritleri",
     "base:dirt": "Toprak",
-    "base:bricks": "Tuğlalar"
+    "base:bricks": "Tuğlalar",
+    "base:ice": "Buz"
 }
