@@ -14,5 +14,6 @@
 
     "base:medkit": "Apteczka",
     "base:medkit_gold": "Złota apteczka",
-    "base:stick": "Patyk"
+    "base:stick": "Patyk",
+    "base:fluid_vacuum": "Pompa ssąca do płynów"
 }
