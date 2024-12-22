@@ -172,3 +172,6 @@
 
 == Chinese (Simplified) Localization ==
 * Peteryhs
+
+== Philippine Spanish Localization ==
+* Jack Gabriel Acodili
