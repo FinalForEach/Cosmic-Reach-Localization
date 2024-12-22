@@ -55,9 +55,10 @@
     "base:boombox": "音箱",
     "base:water": "水",
     "base:snow": "雪",
-    "base:grass": "草",
-    "base:sand": "沙",
+    "base:grass": "草方块",
+    "base:sand": "沙子",
     "base:hazard": "警告条纹",
     "base:dirt": "泥土",
-    "base:bricks": "砖头"
+    "base:bricks": "砖头",
+    "base:ice": "冰"
 }
