@@ -1,0 +1,18 @@
+{
+    "base:axe_aluminium": "铝斧",
+    "base:axe_iron": "铁斧",
+    "base:axe_stone": "石斧",
+    "base:pickaxe_aluminium": "铝镐",
+    "base:pickaxe_iron": "铁镐",
+    "base:pickaxe_stone": "石镐",
+    "base:shovel_aluminium": "铝锹",
+    "base:shovel_iron": "铁锹",
+    "base:shovel_stone": "石锹",
+    "base:ingot_aluminium": "铝锭",
+    "base:ingot_iron": "铁锭",
+    "base:ingot_gold": "金锭",
+    "base:medkit": "医疗包",
+    "base:medkit_gold": "金医疗包",
+    "base:stick": "木棍",
+    "base:fluid_vacuum": "吸液体器"
+}
