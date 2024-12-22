@@ -1,6 +1,6 @@
 {
     "base:air": "Himpapawíd",
-    "base:aluminium_panel": "Alumínyo",
+    "base:aluminium_panel": "Bloké ng Alumínyo",
     "base:asphalt": "Aspálto",
     "base:ore_bauxite": "Bauksíto",
     "base:c4": "C4",
@@ -59,5 +59,6 @@
     "base:sand": "Buhángin",
     "base:hazard": "Gúhit ng Pangánib",
     "base:dirt": "Lupà",
-    "base:bricks": "Laryó"
+    "base:bricks": "Laryó",
+    "base:ice": "Yélo"
 }
