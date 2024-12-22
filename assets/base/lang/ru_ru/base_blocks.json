@@ -59,5 +59,6 @@
     "base:sand": "Песок",
     "base:hazard": "Полосы опасности",
     "base:dirt": "Земля",
-    "base:bricks": "Кирпичи"
+    "base:bricks": "Кирпичи",
+    "base:ice": "Лёд"
 }
