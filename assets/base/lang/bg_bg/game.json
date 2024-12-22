@@ -12,7 +12,7 @@
   "renderDistSlider": "Видимост: ",
   "invertedMouseButton": "Обърната мишка: ",
   "mouseSensitivitySlider": "Чувствителност на мишката: ",
-  "soundButton": "Звук: ",
+  "soundSlider": "Звук: ",
   "fovSlider": "Зрит. поле: ",
   "maxFPS": "Макс. кадри/сек.: ",
   "maxFPSUnlimited": "Макс. кадри/сек.: Неограничен",

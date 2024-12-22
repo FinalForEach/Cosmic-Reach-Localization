@@ -12,7 +12,7 @@
   "renderDistSlider": "Renderöintietäisyys: ",
   "invertedMouseButton": "Käänteinen Hiiri: ",
   "mouseSensitivitySlider": "Hiiren Herkkyys: ",
-  "soundButton": "Äänet: ",
+  "soundSlider": "Äänet: ",
   "fovSlider": "Näkökenttä: ",
   "maxFPS": "Max FPS: ",
   "maxFPSUnlimited": "Max FPS: Rajaton",
