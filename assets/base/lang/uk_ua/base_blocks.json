@@ -59,5 +59,6 @@
     "base:sand": "Пісок",
     "base:hazard": "Попереджувальні смуги",
     "base:dirt": "Ґрунт",
-    "base:bricks": "Цегла"
+    "base:bricks": "Цегла",
+    "base:ice": "Крига"
 }
