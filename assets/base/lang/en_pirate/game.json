@@ -15,7 +15,7 @@
     "renderDistSlider": "Vision distance: ",
     "invertedMouseButton": "Flipped Wheel: ",
     "mouseSensitivitySlider": "Wheel Sensitivity: ",
-    "soundButton": "Noise: ",
+    "soundSlider": "Noise: ",
     "fovSlider": "FOV: ",
     "maxFPS": "Limit to yer frames: ",
     "maxFPSUnlimited": "Yer frames never end!",

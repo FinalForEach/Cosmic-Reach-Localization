@@ -59,5 +59,6 @@
     "base:sand": "Piasek",
     "base:hazard": "Pasy zagrożenia",
     "base:dirt": "Gleba",
-    "base:bricks": "Cegły"
+    "base:bricks": "Cegły",
+    "base:ice": "Lód"
 }
