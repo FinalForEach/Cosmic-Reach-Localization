@@ -59,5 +59,6 @@
     "base:sand": "Sable",
     "base:hazard": "Bandes de sécurité",
     "base:dirt": "Terre",
-    "base:bricks": "Briques"
+    "base:bricks": "Briques",
+    "base:ice": "Glace"
 }
