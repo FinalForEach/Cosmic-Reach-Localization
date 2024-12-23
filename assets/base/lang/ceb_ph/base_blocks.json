@@ -58,5 +58,6 @@
     "base:grass": "Sagbot",
     "base:sand": "Buhangin",
     "base:hazard": "Guhit sa Kakuyaw",
-    "base:dirt": "Yuta"
+    "base:dirt": "Yuta",
+    "base:bricks": "Ladrilyo"
 }
