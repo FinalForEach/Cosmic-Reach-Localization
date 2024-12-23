@@ -46,6 +46,7 @@
 * Vinx335 (Pgr_Fth_)
 * Simone Chiarlo (simonechiarlo)
 * MastroCaleb
+* CodeClimberNT
 
 == Ukrainian Localization ==
 * DAHASAG
