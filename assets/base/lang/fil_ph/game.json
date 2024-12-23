@@ -3,7 +3,7 @@
   "metadata":
   {
     "name": "Filipino (Filipinas)",
-    "fallbacks": ["tl_ph", "en_us"]
+    "fallbacks": ["tl_ph", "en_ph"]
   },
   "formatPercent": "#%",
   "startButton": "Magsimula",
