@@ -1,6 +1,6 @@
 {
     "base:air": "Aire",
-    "base:aluminium_panel": "Aluminio",
+    "base:aluminium_panel": "Bloque de aluminio",
     "base:asphalt": "Betún",
     "base:ore_bauxite": "Bauxita",
     "base:c4": "C-4",
@@ -58,6 +58,7 @@
     "base:grass": "Césped",
     "base:sand": "Arena",
     "base:hazard": "Franjas de advertencia",
-    "base:dirt": "Tierra"
-    "base:bricks": "Ladrillos"
+    "base:dirt": "Tierra",
+    "base:bricks": "Ladrillos",
+    "base:ice": "Hielo"
 }
