@@ -104,5 +104,6 @@
   "multiplayerButton": "Flerspiller",
   "multiplayerAddressButton": "Serveraddresse: ",
   "multiplayerJoinButton": "Bli med",
-  "multiplayerBadDisconnect": "Frakoblet! Grunn:"
+  "multiplayerBadDisconnect": "Frakoblet! Grunn:",
+  "textDisplayInput": "Skriv inn her..."
 }
