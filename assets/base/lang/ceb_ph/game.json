@@ -15,7 +15,8 @@
   "renderDistSlider": "Gilay-on sa Panan-aw: ",
   "invertedMouseButton": "Balihon ang Ilaga: ",
   "mouseSensitivitySlider": "Pagkatandogon sa Ilaga: ",
-  "soundButton": "Tingog: ",
+  "soundSlider": "Tingog: ",
+  "musicSlider": "Duyog: ",
   "fovSlider": "Natad sa Panglantaw: ",
   "maxFPS": "Kinadak-ang Pagdibuho kada Segundo: ",
   "maxFPSUnlimited": "Kinadak-ang Pagdibuho kada Segundo: Walay Kinutuban",
@@ -101,5 +102,5 @@
   "multiplayerButton": "Makigdula",
   "multiplayerAddressButton": "Puloy-anan: ",
   "multiplayerJoinButton": "Apil",
-  "multiplayerBadDisconnect": "Nadiskonekta! Hinungdan:"
+  "multiplayerBadDisconnect": "Naputol! Hinungdan:"
 }
