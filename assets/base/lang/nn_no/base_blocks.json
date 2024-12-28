@@ -60,5 +60,6 @@
     "base:hazard": "Farestripar",
     "base:dirt": "Mold",
     "base:bricks": "Mur",
-    "base:ice": "Is"
+    "base:ice": "Is",
+    "base:text_display": "Tekstboks"
 }
