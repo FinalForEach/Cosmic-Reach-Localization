@@ -101,5 +101,6 @@
   "multiplayerButton": "Multiplayer",
   "multiplayerAddressButton": "Address: ",
   "multiplayerJoinButton": "Join",
-  "multiplayerBadDisconnect": "Disconnected! Reason:"
+  "multiplayerBadDisconnect": "Disconnected! Reason:",
+  "textDisplayInput": "Type here..."
 }
