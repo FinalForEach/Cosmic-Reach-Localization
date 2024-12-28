@@ -60,5 +60,6 @@
     "base:hazard": "Franjas de advertencia",
     "base:dirt": "Tierra",
     "base:bricks": "Ladrillos",
-    "base:ice": "Hielo"
+    "base:ice": "Hielo",
+    "base:text_display": "Visualizador de texto"
 }
