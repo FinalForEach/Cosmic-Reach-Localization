@@ -89,6 +89,7 @@
 * Runterya
 * Ensgnnc
 * ilbailba
+* Scosaint
 
 == Hungarian Localization ==
 * Dettomi
