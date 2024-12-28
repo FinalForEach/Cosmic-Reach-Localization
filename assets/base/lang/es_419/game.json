@@ -102,5 +102,6 @@
   "multiplayerButton": "Multijugador",
   "multiplayerAddressButton": "Dirección: ",
   "multiplayerJoinButton": "Entrar",
-  "multiplayerBadDisconnect": "¡Te has desconectado! Motivo:"
+  "multiplayerBadDisconnect": "¡Te has desconectado! Motivo:",
+  "textDisplayInput": "Escribe aquí..."
 }
