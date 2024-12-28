@@ -1,0 +1,19 @@
+{
+    "base:axe_aluminium": "Ascia di Alluminio",
+    "base:axe_iron": "Ascia di Ferro",
+    "base:axe_stone": "Ascia di Pietra",
+    "base:pickaxe_aluminium": "Piccone di Alluminio",
+    "base:pickaxe_iron": "Piccone di Ferro",
+    "base:pickaxe_stone": "Piccone di Pietra",
+    "base:shovel_aluminium": "Pala di Alluminio",
+    "base:shovel_iron": "Pala di Ferro",
+    "base:shovel_stone": "Pala di Pietra",
+    "base:ingot_aluminium": "Lingotto di Alluminio",
+    "base:ingot_iron": "Lingotto di Ferro",
+    "base:ingot_gold": "Lingotto D'oro",
+
+    "base:medkit": "Kit Medico",
+    "base:medkit_gold": "Kit Medico Dorato",
+    "base:stick": "Bastone",
+    "base:fluid_vacuum": "Vuoto Fluido"
+}
