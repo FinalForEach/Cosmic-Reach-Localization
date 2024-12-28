@@ -40,6 +40,7 @@
 * Zedritsch
 * Max Henning Junghans
 * Fiiral
+* J0J0HA aka. JoJoJux
 
 == Italian Localization ==
 * zPippo
