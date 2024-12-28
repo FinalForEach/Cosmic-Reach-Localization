@@ -16,6 +16,7 @@
   "invertedMouseButton": "Inverter musa: ",
   "mouseSensitivitySlider": "Musesensitivitet: ",
   "soundSlider": "Lydar: ",
+  "musicSlider": "Musikk: ",
   "fovSlider": "Synsfelt: ",
   "maxFPS": "Maks tillatne FPS: ",
   "maxFPSUnlimited": "Maks FPS: Uavgrensa",
@@ -103,5 +104,6 @@
   "multiplayerButton": "Flerspiller",
   "multiplayerAddressButton": "Tenaradresse: ",
   "multiplayerJoinButton": "Vert med",
-  "multiplayerBadDisconnect": "Fråkopla! Grunn:"
+  "multiplayerBadDisconnect": "Fråkopla! Grunn:",
+  "textDisplayInput": "Skriv inn her..."
 }
