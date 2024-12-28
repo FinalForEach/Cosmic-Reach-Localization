@@ -60,5 +60,6 @@
     "base:hazard": "Hazard Stripes",
     "base:dirt": "Dirt",
     "base:bricks": "Bricks",
-    "base:ice": "Ice"
+    "base:ice": "Ice",
+    "base:text_display": "Text Display"
 }
