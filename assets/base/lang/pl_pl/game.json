@@ -101,5 +101,6 @@
   "multiplayerButton": "Tryb wieloosobowy",
   "multiplayerAddressButton": "Adres: ",
   "multiplayerJoinButton": "Dołącz"
-  "multiplayerBadDisconnect": "Rozłączono! Powód:"
+  "multiplayerBadDisconnect": "Rozłączono! Powód:",
+  "textDisplayInput": "Pisz tutaj..."
 }
