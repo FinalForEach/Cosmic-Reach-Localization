@@ -101,5 +101,6 @@
  "multiplayerButton": "マルチプレイ",
  "multiplayerAddressButton": "サーバーアドレス: ",
  "multiplayerJoinButton": "接続",
- "multiplayerBadDisconnect": "サーバーから切断されました！理由: "
+ "multiplayerBadDisconnect": "サーバーから切断されました！理由: ",
+ "textDisplayInput": "ここに入力..."
 }
