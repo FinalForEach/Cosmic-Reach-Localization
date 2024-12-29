@@ -60,5 +60,6 @@
     "base:hazard": "Pasy zagrożenia",
     "base:dirt": "Gleba",
     "base:bricks": "Cegły",
-    "base:ice": "Lód"
+    "base:ice": "Lód",
+    "base:text_display": "Wyświetlacz tekstu"
 }
