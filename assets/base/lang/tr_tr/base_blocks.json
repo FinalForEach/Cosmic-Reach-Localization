@@ -60,5 +60,6 @@
     "base:hazard": "Uyarı Şeritleri",
     "base:dirt": "Toprak",
     "base:bricks": "Tuğlalar",
-    "base:ice": "Buz"
+    "base:ice": "Buz",
+    "base:text_display": "Yazı Ekranı"
 }
