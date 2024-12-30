@@ -60,5 +60,6 @@
     "base:hazard": "警告条纹",
     "base:dirt": "泥土",
     "base:bricks": "砖头",
-    "base:ice": "冰"
+    "base:ice": "冰",
+    "base:text_display": "文本显示"
 }
