@@ -60,5 +60,6 @@
     "base:hazard": "Streipiau Perygl",
     "base:dirt": "Pridd",
     "base:bricks": "Briciau",
-    "base:ice": "Iâ"
+    "base:ice": "Iâ",
+    "base:text_display": "Arddangosiad Testun"
 }
