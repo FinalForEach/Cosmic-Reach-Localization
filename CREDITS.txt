@@ -15,6 +15,9 @@
 * LagBB
 * PenpenMC
 
+== English United Kingdom Localization ==
+* Crab-K1ng (Discord: crabking)
+
 == Spanish Localization ==
 * Nanrech
 * LagBB
