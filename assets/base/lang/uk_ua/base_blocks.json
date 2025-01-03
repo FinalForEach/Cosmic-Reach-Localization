@@ -60,5 +60,6 @@
     "base:hazard": "Попереджувальні смуги",
     "base:dirt": "Ґрунт",
     "base:bricks": "Цегла",
-    "base:ice": "Крига"
+    "base:ice": "Крига",
+    "base:text_display": "Текстове табло"
 }
