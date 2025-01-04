@@ -59,5 +59,6 @@
     "base:sand": "砂",
     "base:hazard": "バリケードテープブロック",
     "base:dirt": "土",
-    "base:bricks": "レンガ"
+    "base:bricks": "レンガ",
+    "base:ice": "氷"
 }

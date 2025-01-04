@@ -1,0 +1,19 @@
+{
+    "base:axe_aluminium": "Topor de Aluminiu",
+    "base:axe_iron": "Topor de Fier",
+    "base:axe_stone": "Topor de Piatră",
+    "base:pickaxe_aluminium": "Târnăcop de Aluminiu",
+    "base:pickaxe_iron": "Târnăcop de Fier",
+    "base:pickaxe_stone": "Târnăcop de Piatră",
+    "base:shovel_aluminium": "Lopată de Aluminiu",
+    "base:shovel_iron": "Lopată de Fier",
+    "base:shovel_stone": "Lopată de Piatră",
+    "base:ingot_aluminium": "Lingou de Aluminiu",
+    "base:ingot_iron": "Lingou de Fier",
+    "base:ingot_gold": "Lingou de Aur",
+
+    "base:medkit": "Medkit",
+    "base:medkit_gold": "Medkit de Aur",
+    "base:stick": "Băț",
+    "base:fluid_vacuum": "Vid de Lichid"
+}

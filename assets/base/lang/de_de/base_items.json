@@ -11,8 +11,8 @@
     "base:ingot_aluminium": "Aluminiumbarren",
     "base:ingot_iron": "Eisenbarren",
     "base:ingot_gold": "Goldbarren",
-
     "base:medkit": "Medkit",
     "base:medkit_gold": "Goldenes Medkit",
-    "base:stick": "Stock"
+    "base:stick": "Stock",
+    "base:fluid_vacuum": "Flüssigkeitssauger"
 }

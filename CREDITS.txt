@@ -13,6 +13,7 @@
 == English Localization ==
 * FinalForEach
 * LagBB
+* PenpenMC
 
 == Spanish Localization ==
 * Nanrech
@@ -40,12 +41,14 @@
 * Zedritsch
 * Max Henning Junghans
 * Fiiral
+* J0J0HA aka. JoJoJux
 
 == Italian Localization ==
 * zPippo
 * Vinx335 (Pgr_Fth_)
 * Simone Chiarlo (simonechiarlo)
 * MastroCaleb
+* CodeClimberNT
 
 == Ukrainian Localization ==
 * DAHASAG
@@ -89,6 +92,7 @@
 * Runterya
 * Ensgnnc
 * ilbailba
+* Scosaint
 
 == Hungarian Localization ==
 * Dettomi
@@ -132,6 +136,7 @@
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
 * minidisque
+* ReclipseTheOne (Discord: reclipse)
 
 == Serbian Localization ==
 * Ukizam_Tukizam

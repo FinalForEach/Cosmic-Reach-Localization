@@ -58,5 +58,7 @@
     "base:grass": "Gras",
     "base:sand": "Sand",
     "base:hazard": "Gefahrenstreifen",
-    "base:dirt": "Erde"
+    "base:dirt": "Erde",
+    "base:bricks": "Ziegel",
+    "base:ice": "Eis"
 }
