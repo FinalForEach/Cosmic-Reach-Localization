@@ -16,6 +16,7 @@
   "invertedMouseButton": "Inverter musa: ",
   "mouseSensitivitySlider": "Musesensitivitet: ",
   "soundSlider": "Lydar: ",
+  "musicSlider": "Musikk: ",
   "fovSlider": "Synsfelt: ",
   "maxFPS": "Maks tillatne FPS: ",
   "maxFPSUnlimited": "Maks FPS: Uavgrensa",
@@ -79,7 +80,7 @@
   "polishButtonAlt": "Polsk alternativt",
   "Open_Worlds_Directory": "Opne verdsmappa",
   "YT_Channel": "Følg med på utviklingsloggane av spelet på youtube.com/@finalforeach",
-  "Game_version": "Pre-alfa-versjon av Cosmic Reach: ",
+  "Game_version_prealpha": "Pre-alfa-versjon av Cosmic Reach: ",
   "MAC_warning": "ÅTVARING: Mac blir enno ikkje støtta. Spelet vil neppe fungera på Mac.",
   "Controller": "Kontrollar",
   "Controllers": "Kontrollera",
@@ -103,5 +104,6 @@
   "multiplayerButton": "Flerspiller",
   "multiplayerAddressButton": "Tenaradresse: ",
   "multiplayerJoinButton": "Vert med",
-  "multiplayerBadDisconnect": "Fråkopla! Grunn:"
+  "multiplayerBadDisconnect": "Fråkopla! Grunn:",
+  "textDisplayInput": "Skriv inn her..."
 }

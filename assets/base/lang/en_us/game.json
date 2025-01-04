@@ -77,7 +77,10 @@
   "returnButton": "Back",
   "Open_Worlds_Directory": "Open Worlds Directory",
   "YT_Channel": "Watch the devlogs at youtube.com/@finalforeach",
-  "Game_version": "Cosmic Reach Version Pre-alpha-",
+  "Game_version_prealpha": "Cosmic Reach Version Pre-alpha-",
+  "Game_version_alpha": "Cosmic Reach Version Alpha-",
+  "Game_version_beta": "Cosmic Reach Version Beta-",
+  "Game_version_release": "Cosmic Reach Version ",
   "MAC_warning": "WARNING: Mac is not supported at this time. The game is unlikely to work.",
   "Controller": "Controller",
   "Controllers": "Controllers",
@@ -97,9 +100,11 @@
   "creditsGameBy": "GAME BY:",
   "creditsMusic": "MUSIC:",
   "creditsAdditionalProgramming": "ADDITIONAL PROGRAMMING:",
+  "creditsAdditionalModelling": "ADDITIONAL MODELLING:",
   "creditsLocalization": "LOCALIZATION:",
   "multiplayerButton": "Multiplayer",
   "multiplayerAddressButton": "Address: ",
   "multiplayerJoinButton": "Join",
-  "multiplayerBadDisconnect": "Disconnected! Reason:"
+  "multiplayerBadDisconnect": "Disconnected! Reason:",
+  "textDisplayInput": "Type here..."
 }

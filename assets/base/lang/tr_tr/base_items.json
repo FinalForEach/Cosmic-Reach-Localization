@@ -12,8 +12,8 @@
     "base:ingot_iron": "Demir Cevgeri",
     "base:ingot_gold": "Altın Cevheri",
 
-    "base:medkit": "Sağlık Çantası",
-    "base:medkit_gold": "Altın Sağlık Çantası",
+    "base:medkit": "İlk Yardım Çantası",
+    "base:medkit_gold": "Altın İlk Yardım Çantası",
     "base:stick": "Çubuk",
-    "base:fluid_vacuum": "Sıvı Emici"
+    "base:fluid_vacuum": "Sıvı Emicisi"
 }

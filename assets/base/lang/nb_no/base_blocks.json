@@ -59,5 +59,7 @@
     "base:sand": "Sand",
     "base:hazard": "Farestriper",
     "base:dirt": "Jord",
-    "base:bricks": "Mur"
+    "base:bricks": "Mur",
+    "base:ice": "Is",
+    "base:text_display": "Tekstboks"
 }
