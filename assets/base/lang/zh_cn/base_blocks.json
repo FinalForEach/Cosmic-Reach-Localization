@@ -61,5 +61,6 @@
     "base:dirt": "泥土",
     "base:bricks": "砖头",
     "base:ice": "冰",
-    "base:text_display": "文本显示"
+    "base:text_display": "文本显示",
+    "base:rubber_block": "橡胶方块"
 }
