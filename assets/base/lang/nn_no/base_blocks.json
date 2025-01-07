@@ -61,5 +61,6 @@
     "base:dirt": "Mold",
     "base:bricks": "Mur",
     "base:ice": "Is",
-    "base:text_display": "Tekstboks"
+    "base:text_display": "Tekstboks",
+    "base:rubber_block": "Gummiblokk"
 }

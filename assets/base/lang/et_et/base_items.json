@@ -1,0 +1,19 @@
+{
+    "base:axe_aluminium": "Alumiiniumkirves",
+    "base:axe_iron": "Raudkirves",
+    "base:axe_stone": "Kivikirves",
+    "base:pickaxe_aluminium": "Alumiiniumkirka",
+    "base:pickaxe_iron": "Raudkirka",
+    "base:pickaxe_stone": "Kivikirka",
+    "base:shovel_aluminium": "Alumiiniumlabidas",
+    "base:shovel_iron": "Raudlabidas",
+    "base:shovel_stone": "Kivilabidas",
+    "base:ingot_aluminium": "Alumiiniumkang",
+    "base:ingot_iron": "Rauakang",
+    "base:ingot_gold": "Kullakang",
+
+    "base:medkit": "Ravipakend",
+    "base:medkit_gold": "Kuldne Ravipakend",
+    "base:stick": "Pulk",
+    "base:fluid_vacuum": "Vedelvaakum"
+}
