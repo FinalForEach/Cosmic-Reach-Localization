@@ -1,0 +1,19 @@
+{
+    "base:axe_aluminium": "Alumiinikirves",
+    "base:axe_iron": "Rautakirves",
+    "base:axe_stone": "Kivikirves",
+    "base:pickaxe_aluminium": "Alumiinihakku",
+    "base:pickaxe_iron": "Rautahakku",
+    "base:pickaxe_stone": "Kivihakku",
+    "base:shovel_aluminium": "Alumiinilapio",
+    "base:shovel_iron": "Rautalapio",
+    "base:shovel_stone": "Kivilapio",
+    "base:ingot_aluminium": "Alumiiniharkko",
+    "base:ingot_iron": "Rautaharkko",
+    "base:ingot_gold": "Kultaharkko",
+
+    "base:medkit": "Lääkintäpakkaus",
+    "base:medkit_gold": "Kultainen Lääkintäpakkaus",
+    "base:stick": "Tikku",
+    "base:fluid_vacuum": "Nestetyhjiö"
+}
