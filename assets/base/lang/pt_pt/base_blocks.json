@@ -60,5 +60,7 @@
     "base:hazard": "Riscas de Perigo",
     "base:dirt": "Terra",
     "base:bricks": "Tijolos",
-    "base:ice":"Gelo"
+    "base:ice": "Gelo",
+    "base:text_display": "Ecrã de Texto",
+    "base:rubber_block": "Bloco de Borracha"
 }
