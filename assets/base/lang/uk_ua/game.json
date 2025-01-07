@@ -77,7 +77,7 @@
   "returnButton": "Назад",
   "Open_Worlds_Directory": "Відкрити розташування світів",
   "YT_Channel": "Переглянути прогрес розробки можна на youtube.com/@finalforeach",
-  "Game_version": "Cosmic Reach Version Pre-alpha-",
+  "Game_version_prealpha": "Cosmic Reach Version Pre-alpha-",
   "MAC_warning": "УВАГА: MacOS наразі не підтримується. Гра скоріш за все не працюватиме.",
   "Controller": "Контролер",
   "Controllers": "Контролери",
@@ -102,4 +102,5 @@
   "multiplayerAddressButton": "Адреса: ",
   "multiplayerJoinButton": "Доєднатись",
   "multiplayerBadDisconnect": "З'єднання розірвано! Причина:",
+  "textDisplayInput": "Вводьте тут..."
 }

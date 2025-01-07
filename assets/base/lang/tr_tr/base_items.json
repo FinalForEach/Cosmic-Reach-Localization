@@ -15,5 +15,7 @@
     "base:medkit": "İlk Yardım Çantası",
     "base:medkit_gold": "Altın İlk Yardım Çantası",
     "base:stick": "Çubuk",
-    "base:fluid_vacuum": "Sıvı Emicisi"
+    "base:fluid_vacuum": "Sıvı Emicisi",
+    "base:latex": "Lateks",
+    "base:rubber_ball": "Kauçuk"
 }
