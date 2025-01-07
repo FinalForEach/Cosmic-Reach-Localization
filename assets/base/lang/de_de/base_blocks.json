@@ -60,5 +60,7 @@
     "base:hazard": "Gefahrenstreifen",
     "base:dirt": "Erde",
     "base:bricks": "Ziegel",
-    "base:ice": "Eis"
+    "base:ice": "Eis",
+    "base:text_display": "Text Display",
+    "base:rubber_block": "Gummiblock"
 }
