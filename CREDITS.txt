@@ -177,6 +177,7 @@
 
 == Chinese (Simplified) Localization ==
 * Peteryhs
+* XiLeF2211
 
 == Cebuano Localization ==
 * Jack Gabriel Acodili
