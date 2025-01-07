@@ -61,5 +61,6 @@
     "base:dirt": "Ґрунт",
     "base:bricks": "Цегла",
     "base:ice": "Крига",
-    "base:text_display": "Текстове табло"
+    "base:text_display": "Текстове табло",
+    "base:rubber_block": "Блок Ґуми"
 }
