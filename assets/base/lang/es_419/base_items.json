@@ -14,6 +14,8 @@
 
     "base:medkit": "Botiquín",
     "base:medkit_gold": "Botiquín dorado",
-    "base:stick": "Palo"
-    "base:fluid_vacuum": "Aspirador de líquido"
+    "base:stick": "Palo",
+    "base:fluid_vacuum": "Aspirador de líquido",
+    "base:latex": "Látex",
+    "base:rubber_ball": "Caucho"
 }
