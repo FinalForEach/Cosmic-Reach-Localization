@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
   "metadata":
   {
-    "name": "Deutsch"
+      "name": "Deutsch"
   },
   "formatPercent": "#%",
   "startButton": "Starten",
@@ -77,6 +77,9 @@
   "Open_Worlds_Directory": "Weltenordner öffnen",
   "YT_Channel": "Verfolge die Entwicklung auf youtube.com/@finalforeach",
   "Game_version_prealpha": "Cosmic Reach Version Pre-alpha-",
+  "Game_version_alpha": "Cosmic Reach Version Alpha-",
+  "Game_version_beta": "Cosmic Reach Version Beta-",
+  "Game_version_release": "Cosmic Reach Version ",
   "MAC_warning": "ACHTUNG: MacOS wird zurzeit nicht unterstützt! Das Spiel wird vermutlich nicht funktionieren.",
   "Controller": "Controller",
   "Controllers": "Controller",
@@ -96,9 +99,11 @@
   "creditsGameBy": "SPIEL VON:",
   "creditsMusic": "MUSIK:",
   "creditsAdditionalProgramming": "ZUSÄTZLICHE PROGRAMMIERUNG:",
+  "creditsAdditionalModelling": "ZUSÄTZLICHE MODELLIERUNG:",
   "creditsLocalization": "Lokalisation:",
   "multiplayerButton": "Mehrspieler",
   "multiplayerAddressButton": "Adresse:",
   "multiplayerJoinButton": "Beitreten",
-  "multiplayerBadDisconnect": "Verbindung getrennt! Grund:"
+  "multiplayerBadDisconnect": "Verbindung getrennt! Grund:",
+  "textDisplayInput": "Text eingeben..."
 }

@@ -152,10 +152,10 @@
 * PPixelCoded (Discord: epicz_cool)
 
 == Finnish Localization ==
-* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+* HEPOSHEIKKI (Matrix: otto@pikaviestin.fi)
 
 == Estonian Localization ==
-* HEPOSHEIKKI (Matrix: otto@protokolla.fi)
+* HEPOSHEIKKI (Matrix: otto@pikaviestin.fi)
 
 == Slovak Localization ==
 * Rock3tXer
@@ -178,6 +178,7 @@
 
 == Chinese (Simplified) Localization ==
 * Peteryhs
+* XiLeF2211
 
 == Cebuano Localization ==
 * Jack Gabriel Acodili
