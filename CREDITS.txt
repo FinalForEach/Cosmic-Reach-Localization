@@ -164,6 +164,7 @@
 * rotatingcranium
 
 == Greek Localization ==
+* Kunutza
 * EXgaming
 
 == Esperanto Localization ==

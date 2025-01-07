@@ -1,0 +1,19 @@
+{
+    "base:axe_aluminium": "Αλουμινένιο Τσεκούρι",
+    "base:axe_iron": "Σιδερένιο Τσεκούρι",
+    "base:axe_stone": "Πέτρινο Τσεκούρι",
+    "base:pickaxe_aluminium": "Αλουμινένια Αξίνα",
+    "base:pickaxe_iron": "Σιδερένια Αξίνα",
+    "base:pickaxe_stone": "Πέτρινη Αξίνα",
+    "base:shovel_aluminium": "Αλουμινένιο Φτυάρι",
+    "base:shovel_iron": "Σιδερένιο Φτυάρι",
+    "base:shovel_stone": "Πέτρινο Φτυάρι",
+    "base:ingot_aluminium": "Ράβδος Αλουμινίου",
+    "base:ingot_iron": "Ράβδος Σιδήρου",
+    "base:ingot_gold": "Ράβδος Χρυσού",
+
+    "base:medkit": "Κουτί Πρώτων Βοηθειών",
+    "base:medkit_gold": "Χρυσό Κουτί Πρώτων Βοηθειών",
+    "base:stick": "Ραβδί",
+    "base:fluid_vacuum": "Εξαγωγέας Υγρών"
+}
