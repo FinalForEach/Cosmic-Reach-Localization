@@ -61,5 +61,6 @@
     "base:dirt": "Gleba",
     "base:bricks": "Cegły",
     "base:ice": "Lód",
-    "base:text_display": "Wyświetlacz tekstu"
+    "base:text_display": "Wyświetlacz tekstu",
+    "base:rubber_block": "Blok gumy"
 }
