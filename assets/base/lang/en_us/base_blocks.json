@@ -62,5 +62,6 @@
     "base:bricks": "Bricks",
     "base:ice": "Ice",
     "base:text_display": "Text Display",
-    "base:rubber_block": "Block of Rubber"
+    "base:rubber_block": "Block of Rubber",
+    "base:gold_block": "Block of Gold"
 }
