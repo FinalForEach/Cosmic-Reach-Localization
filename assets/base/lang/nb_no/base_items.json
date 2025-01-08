@@ -15,5 +15,7 @@
     "base:medkit": "Førstehjelpsskrin",
     "base:medkit_gold": "Førstehjelpsskrin av gull",
     "base:stick": "Pinne",
-    "base:fluid_vacuum": "Væskesuger"
+    "base:fluid_vacuum": "Væskesuger",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Gummiball"
 }
