@@ -62,5 +62,6 @@
     "base:bricks": "Tijolos",
     "base:ice": "Gelo",
     "base:text_display": "Ecrã de Texto",
-    "base:rubber_block": "Bloco de Borracha"
+    "base:rubber_block": "Bloco de Borracha",
+    "base:gold_block": "Bloco de Ouro"
 }
