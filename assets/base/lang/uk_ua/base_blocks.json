@@ -62,5 +62,6 @@
     "base:bricks": "Цегла",
     "base:ice": "Крига",
     "base:text_display": "Текстове табло",
-    "base:rubber_block": "Блок Ґуми"
+    "base:rubber_block": "Блок ґуми",
+    "base:gold_block": "Блок золота"
 }
