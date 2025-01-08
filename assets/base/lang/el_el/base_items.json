@@ -15,5 +15,7 @@
     "base:medkit": "Κουτί Πρώτων Βοηθειών",
     "base:medkit_gold": "Χρυσό Κουτί Πρώτων Βοηθειών",
     "base:stick": "Ραβδί",
-    "base:fluid_vacuum": "Εξαγωγέας Υγρών"
+    "base:fluid_vacuum": "Εξαγωγέας Υγρών",
+    "base:latex": "Λάτεξ",
+    "base:rubber_ball": "Καουτσούκ"
 }
