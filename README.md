@@ -1,5 +1,6 @@
 # Cosmic-Reach-Localization
-Language translations and localization utilities for the game Cosmic Reach
+Language translations and localization utilities for the game Cosmic Reach. This project is licensed under [MIT](https://github.com/FinalForEach/Cosmic-Reach-Localization/blob/master/LICENSE).
+The font is mostly community contributed, with some sprites being loosely based off of [Twemoji](https://github.com/twitter/twemoji) which is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## IMPORTANT
 When creating a pull request MAKE SURE THAT:

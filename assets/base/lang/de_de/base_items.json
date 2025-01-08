@@ -14,5 +14,7 @@
     "base:medkit": "Medkit",
     "base:medkit_gold": "Goldenes Medkit",
     "base:stick": "Stock",
-    "base:fluid_vacuum": "Flüssigkeitssauger"
+    "base:fluid_vacuum": "Flüssigkeitssauger",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Gummiball"
 }
