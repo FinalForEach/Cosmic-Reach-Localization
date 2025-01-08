@@ -15,5 +15,7 @@
     "base:medkit": "Аптечка",
     "base:medkit_gold": "Золота аптечка",
     "base:stick": "Паличка",
-    "base:fluid_vacuum": "Рідинотяг"
+    "base:fluid_vacuum": "Рідинотяг",
+    "base:latex": "Латекс",
+    "base:rubber_ball": "Ґума"
 }
