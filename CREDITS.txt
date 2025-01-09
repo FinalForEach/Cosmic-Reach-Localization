@@ -9,6 +9,7 @@
 
 == Localization Contributor's Guide ==
 * Eatham - https://github.com/realeatham
+* Spicylemon2623
 
 == English Localization ==
 * FinalForEach
