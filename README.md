@@ -33,7 +33,7 @@ You should end up on a screen something like this after around 30 seconds:
 
 6. Go into assets/base/lang and duplicate the en_us folder. You should name the new folder the language code for your language, e.g. english is en and spanish is es. [You can find a list of language codes here.](https://www.fincher.org/Utilities/CountryLanguageList.shtml) For example en_gb would be English (United Kingdom)
 
-7. You can do this by left clicking on one of the en folders and then pressing ctrl + C to copy it.    (Command + C on mac)
+7. You can do this by left clicking on en_us and then pressing ctrl + C to copy it.    (Command + C on mac)
 
 8. To paste it you then press ctrl + V.                                                                (Command + V on mac)
 
