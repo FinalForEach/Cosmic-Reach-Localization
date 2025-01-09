@@ -53,4 +53,4 @@ You should end up on a screen something like this after around 30 seconds:
 
 16. Fill in the PR title and description then click create pull request ![image](https://github.com/realeatham/Cosmic-Reach-Localization/assets/136866675/8064c429-50a5-4254-9704-9d68b431f1d1)
 
-17. You are now finnished! Your changes will be implemented after approval. You and others can also make comments on your PR.
+17. You are now finished! Your changes will be implemented after approval. You and others can also make comments on your PR.
