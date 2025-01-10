@@ -31,15 +31,15 @@ You should end up on a screen something like this after around 30 seconds:
 
 ![image](https://github.com/realeatham/Cosmic-Reach-Localization/assets/136866675/662f7ad2-173b-4134-8e94-5a1bfe8413e2)
 
-6. Right-click on assets/lang and select new file. You should name it the language code for your language, e.g. english is en and spanish is es, with .json at the end
+6. Go into assets/base/lang and duplicate the en_us folder. You should name the new folder the language code for your language, e.g. english is en and spanish is es. [You can find a list of language codes here.](https://www.fincher.org/Utilities/CountryLanguageList.shtml) For example en_gb would be English (United Kingdom)
 
-7. Click on en-us.json and then click ctrl + A and ctrl + C to copy it. On mac use command instead of ctrl.
+7. You can do this by left clicking on en_us and then pressing ctrl + C to copy it. (Command + C on mac)
 
-8. Go to the new file you made and click ctrl + V (Command + V on mac) to paste the english language files in.
+8. To paste it you then press ctrl + V. (Command + V on mac)
 
-9. Change these files by translating the english text to your chosen language.
+9. You can now enter this new folder and change the files by translating the english text to your chosen language. [You can use a website like this to make it easier](https://cr-translator.vercel.app/)
 
-10. Add your name to credits.txt under the thing you helped with. If there is no line for what you helped with, add it
+10. After you are happy with your progress add your name to credits.txt under an appropiate heading. If required you may add a new heading.
 
 11. When you are done, click here: ![image](https://github.com/realeatham/Cosmic-Reach-Localization/assets/136866675/549c8e76-1551-499d-9b21-5e64283c57bc)
 
@@ -53,4 +53,4 @@ You should end up on a screen something like this after around 30 seconds:
 
 16. Fill in the PR title and description then click create pull request ![image](https://github.com/realeatham/Cosmic-Reach-Localization/assets/136866675/8064c429-50a5-4254-9704-9d68b431f1d1)
 
-17. You are now done! Now you just have to wait for FinalForEach to approve it. You and others can also make comments on your PR.
+17. You are now finished! Your changes will be implemented after approval. You and others can also make comments on your PR.
