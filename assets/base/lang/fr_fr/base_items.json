@@ -15,5 +15,7 @@
     "base:medkit": "Kit de soin",
     "base:medkit_gold": "Kit de soin doré",
     "base:stick": "Bâton",
-    "base:fluid_vacuum": "Aspirateur à liquide"
+    "base:fluid_vacuum": "Aspirateur à liquide",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Caoutchouc"
 }
