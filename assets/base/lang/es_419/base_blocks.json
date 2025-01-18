@@ -62,5 +62,6 @@
     "base:bricks": "Ladrillos",
     "base:ice": "Hielo",
     "base:text_display": "Visualizador de texto",
-    "base:rubber_block": "Bloque de caucho"
+    "base:rubber_block": "Bloque de caucho",
+    "base:gold_block": "Bloque de oro"
 }
