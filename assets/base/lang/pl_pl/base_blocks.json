@@ -62,5 +62,6 @@
     "base:bricks": "Cegły",
     "base:ice": "Lód",
     "base:text_display": "Wyświetlacz tekstu",
-    "base:rubber_block": "Blok gumy"
+    "base:rubber_block": "Blok gumy",
+    "base:gold_block": "Block złota"
 }

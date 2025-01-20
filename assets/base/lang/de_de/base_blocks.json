@@ -62,5 +62,6 @@
     "base:bricks": "Ziegel",
     "base:ice": "Eis",
     "base:text_display": "Text Display",
-    "base:rubber_block": "Gummiblock"
+    "base:rubber_block": "Gummiblock",
+    "base:gold_block": "Goldblock"
 }
