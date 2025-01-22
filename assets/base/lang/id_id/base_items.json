@@ -14,5 +14,8 @@
 
     "base:medkit": "Obat-obatan",
     "base:medkit_gold": "Obat-obatan Emas",
-    "base:stick": "Tongkat"
+    "base:stick": "Tongkat",
+    "base:fluid_vacuum": "Penyedot Cairan",
+    "base:latex": "Getah",
+    "base:rubber_ball": "Karet"
 }
