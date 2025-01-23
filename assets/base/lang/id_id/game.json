@@ -100,8 +100,12 @@
   "creditsGameBy": "PERMAINAN OLEH:",
   "creditsMusic": "MUSIK:",
   "creditsAdditionalProgramming": "PEMROGRAMAN TAMBAHAN:",
+  "creditsAdditionalModelling": "PEMODELAN TAMBAHAN:",
+  "creditsAdditionalTexturing": "TEKSTUR TAMBAHAN:",
   "creditsLocalization": "LOKALISASI:",
   "multiplayerButton": "Multipemain",
   "multiplayerAddressButton": "Alamat: ",
-  "multiplayerJoinButton": "Bergabung"
+  "multiplayerJoinButton": "Bergabung",
+  "multiplayerBadDisconnect": "Koneksi Terputus! Alasan:",
+  "textDisplayInput": "Ketik di sini..."
 }
