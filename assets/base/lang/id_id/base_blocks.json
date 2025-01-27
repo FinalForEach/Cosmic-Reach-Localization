@@ -58,5 +58,10 @@
     "base:grass": "Rumput",
     "base:sand": "Pasir",
     "base:hazard": "Garis Bahaya",
-    "base:dirt": "Tanah"
+    "base:dirt": "Tanah",
+    "base:bricks": "Batu bata",
+    "base:ice": "Es",
+    "base:text_display": "Tampilan Teks",
+    "base:rubber_block": "Balok Karet",
+    "base:gold_block": "Balok Emas"
 }
