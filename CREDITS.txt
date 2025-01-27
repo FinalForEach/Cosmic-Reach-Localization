@@ -151,6 +151,7 @@
 == Indonesian Localization ==
 * ayamkv (freqtions) - https://github.com/ayamkv
 * PPixelCoded (Discord: epicz_cool)
+* HorionDev-GG (Discord: horizondev_gg)
 
 == Finnish Localization ==
 * HEPOSHEIKKI (Matrix: otto@pikaviestin.fi)
