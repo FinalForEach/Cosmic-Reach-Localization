@@ -63,5 +63,6 @@
     "base:ice": "氷",
     "base:text_display": "テキストディスプレイ",
     "base:rubber_block": "ゴムブロック",
-    "base:gold_block": "金ブロック"
+    "base:gold_block": "金ブロック",
+    "base:wood_door": "木のドア"
 }
