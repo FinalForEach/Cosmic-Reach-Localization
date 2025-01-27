@@ -9,6 +9,7 @@
 
 == Localization Contributor's Guide ==
 * Eatham - https://github.com/realeatham
+* Spicylemon2623
 
 == English Localization ==
 * FinalForEach
@@ -142,7 +143,7 @@
 * Ukizam_Tukizam
 
 == Welsh Localization ==
-* Spicylemon2623 (Discord: _spicylemon_)
+* Spicylemon2623
 
 == Latvian Localization ==
 * Sermins
@@ -150,6 +151,7 @@
 == Indonesian Localization ==
 * ayamkv (freqtions) - https://github.com/ayamkv
 * PPixelCoded (Discord: epicz_cool)
+* HorionDev-GG (Discord: horizondev_gg)
 
 == Finnish Localization ==
 * HEPOSHEIKKI (Matrix: otto@pikaviestin.fi)

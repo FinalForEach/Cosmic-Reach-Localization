@@ -62,5 +62,6 @@
     "base:bricks": "Tuğlalar",
     "base:ice": "Buz",
     "base:text_display": "Yazı Ekranı",
-    "base:rubber_block": "Kauçuk Bloğu"
+    "base:rubber_block": "Kauçuk Bloğu",
+    "base:gold_block": "Altın Bloğu"
 }

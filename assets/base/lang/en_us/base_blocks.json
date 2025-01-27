@@ -63,5 +63,6 @@
     "base:ice": "Ice",
     "base:text_display": "Text Display",
     "base:rubber_block": "Block of Rubber",
-    "base:gold_block": "Block of Gold"
+    "base:gold_block": "Block of Gold",
+    "base:wood_door": "Wooden Door"
 }
