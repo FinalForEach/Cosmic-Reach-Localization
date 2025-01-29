@@ -15,5 +15,7 @@
     "base:medkit": "Medkit",
     "base:medkit_gold": "Gintong Medkit",
     "base:stick": "Tungkod",
-    "base:fluid_vacuum": "Panghigop ng Likido"
+    "base:fluid_vacuum": "Panghigop ng Likido",
+    "base:latex": "Lateks",
+    "base:rubber_ball": "Goma"
 }
