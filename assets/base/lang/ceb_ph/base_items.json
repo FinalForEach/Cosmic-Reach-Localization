@@ -15,5 +15,7 @@
     "base:medkit": "Tambal",
     "base:medkit_gold": "Bulawan nga Tambal",
     "base:stick": "Sungkod",
-    "base:fluid_vacuum": "Haw-ang sa Pluwido"
+    "base:fluid_vacuum": "Haw-ang sa Pluwido",
+    "base:latex": "Kumbal",
+    "base:rubber_ball": "Goma"
 }
