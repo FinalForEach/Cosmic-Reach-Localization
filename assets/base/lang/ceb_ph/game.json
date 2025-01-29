@@ -102,5 +102,6 @@
   "multiplayerButton": "Makigdula",
   "multiplayerAddressButton": "Puloy-anan: ",
   "multiplayerJoinButton": "Apil",
-  "multiplayerBadDisconnect": "Naputol! Hinungdan:"
+  "multiplayerBadDisconnect": "Naputol! Hinungdan:",
+  "textDisplayInput": "Dinhi pagsulat..."
 }
