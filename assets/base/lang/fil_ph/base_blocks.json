@@ -60,5 +60,6 @@
     "base:hazard": "Guhit ng Panganib",
     "base:dirt": "Lupa",
     "base:bricks": "Laryo",
-    "base:ice": "Yelo"
+    "base:ice": "Yelo",
+    "base:text_display": "Pangdisplay ng Teksto"
 }

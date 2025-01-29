@@ -102,5 +102,6 @@
   "multiplayerButton": "Pangmaramihang Laro",
   "multiplayerAddressButton": "Address: ",
   "multiplayerJoinButton": "Sumali",
-  "multiplayerBadDisconnect": "Nadisconnect! Dahilan:"
+  "multiplayerBadDisconnect": "Nadisconnect! Dahilan:",
+  "textDisplayInput": "Dito magsulat..."
 }
