@@ -136,6 +136,10 @@
 
 == Romanian Localization ==
 * RogueByte (Discord: roguebyte)
+
+== Greenlandic Localization ==
+* Inuujuk (Discord: snowykid_27)
+=======
 * minidisque
 * ReclipseTheOne (Discord: reclipse)
 
