@@ -27,6 +27,7 @@
 * Wesly
 * Santum
 * Jedo Man
+* Fett Ron
 
 == French Localization ==
 * lvllaby
