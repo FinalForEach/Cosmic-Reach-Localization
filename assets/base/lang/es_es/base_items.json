@@ -1,0 +1,20 @@
+{
+    "base:axe_aluminium": "Hacha de aluminio",
+    "base:axe_iron": "Hacha de hierro",
+    "base:axe_stone": "Hacha de piedra",
+    "base:pickaxe_aluminium": "Pico de Aluminio",
+    "base:pickaxe_iron": "Pico de hierro",
+    "base:pickaxe_stone": "Pico de piedra",
+    "base:shovel_aluminium": "Pala de aluminio",
+    "base:shovel_iron": "Pala de hierro",
+    "base:shovel_stone": "Pala de piedra",
+    "base:ingot_aluminium": "Lingote de aluminio",
+    "base:ingot_iron": "Lingote de hierro ",
+    "base:ingot_gold": "Lingote de oro",
+    "base:medkit": "Botiquín",
+    "base:medkit_gold": "Botiquín Dorado",
+    "base:stick": "Palo",
+    "base:fluid_vacuum": "Aspiradora de Líquidos",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Caucho"
+}
