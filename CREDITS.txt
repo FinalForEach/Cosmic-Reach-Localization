@@ -22,11 +22,13 @@
 * Wesly
 * AlfonsoLVG
 * Faurl
+* Fett Ron
 
 == Latin America Spanish Localization ==
 * Wesly
 * Santum
 * Jedo Man
+* Fett Ron
 
 == French Localization ==
 * lvllaby
