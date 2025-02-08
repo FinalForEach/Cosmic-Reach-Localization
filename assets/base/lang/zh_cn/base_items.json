@@ -17,5 +17,6 @@
     "base:stick": "木棍",
     "base:fluid_vacuum": "吸液体器",
     "base:latex": "乳胶",
-    "base:rubber_ball": "橡胶"
+    "base:rubber_ball": "橡胶",
+    "base:laser_gun": "镭射枪"
 }
