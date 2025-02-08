@@ -1,6 +1,6 @@
 {
     "base:air": "Himpapawid",
-    "base:aluminium_panel": "Aluminyum",
+    "base:aluminium_panel": "Bloke ng Aluminyo",
     "base:asphalt": "Aspalto",
     "base:ore_bauxite": "Bauxite",
     "base:c4": "C4",
@@ -59,5 +59,10 @@
     "base:sand": "Buhangin",
     "base:hazard": "Guhit ng Panganib",
     "base:dirt": "Lupa",
-    "base:bricks": "Laryo"
+    "base:bricks": "Laryo",
+    "base:ice": "Yelo",
+    "base:text_display": "Pangdisplay ng Teksto",
+    "base:rubber_block": "Bloke ng Goma",
+    "base:gold_block": "Bloke ng Ginto",
+    "base:wood_door": "Kahoy na Pinto"
 }
