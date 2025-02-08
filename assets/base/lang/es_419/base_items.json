@@ -17,5 +17,6 @@
     "base:stick": "Palo",
     "base:fluid_vacuum": "Aspirador de líquido",
     "base:latex": "Látex",
-    "base:rubber_ball": "Caucho"
+    "base:rubber_ball": "Caucho",
+    "base:laser_gun": "Pistola láser"
 }
