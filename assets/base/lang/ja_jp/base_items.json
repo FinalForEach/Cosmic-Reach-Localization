@@ -17,5 +17,6 @@
     "base:stick": "棒",
     "base:fluid_vacuum": "液体回収機",
     "base:latex": "ラテックス",
-    "base:rubber_ball": "ゴム"
+    "base:rubber_ball": "ゴム",
+    "base:laser_gun": "レーザーガン"
 }
