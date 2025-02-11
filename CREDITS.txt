@@ -6,6 +6,7 @@
 * EXgaming
 * XiLeF2211
 * Spicylemon2623
+* PenpenMC
 
 == Localization Contributor's Guide ==
 * Eatham - https://github.com/realeatham
