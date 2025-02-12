@@ -186,3 +186,6 @@
 
 == Cebuano Localization ==
 * Jack Gabriel Acodili
+
+== British Localization ==
+* Spicylemon2623
