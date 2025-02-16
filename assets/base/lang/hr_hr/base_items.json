@@ -11,8 +11,11 @@
     "base:ingot_aluminium": "Aluminijska Poluga",
     "base:ingot_iron": "Željezna Poluga",
     "base:ingot_gold": "Zlatna Poluga",
-
     "base:medkit": "Kutija Prve Pomoći",
     "base:medkit_gold": "Zlatna Kutija Prve Pomoći",
-    "base:stick": "Štap"
+    "base:stick": "Štap",
+    "base:fluid_vacuum": "Usisavač Tekućina",
+    "base:latex": "Lateks",
+    "base:rubber_ball": "Guma",
+    "base:laser_gun": "Laserska Puška"
 }
