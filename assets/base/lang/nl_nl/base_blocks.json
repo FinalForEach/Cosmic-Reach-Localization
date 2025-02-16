@@ -61,4 +61,8 @@
     "base:dirt": "Aarde",
     "base:bricks": "Bakstenen",
     "base:ice": "IJs",
+    "base:text_display": "Tekstdisplay",
+    "base:rubber_block": "Rubberblok",
+    "base:gold_block": "Goudblok",
+    "base:wood_door": "Houten deur"
 }
