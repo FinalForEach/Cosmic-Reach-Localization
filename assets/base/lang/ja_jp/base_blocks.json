@@ -64,5 +64,6 @@
     "base:text_display": "テキストディスプレイ",
     "base:rubber_block": "ゴムブロック",
     "base:gold_block": "金ブロック",
-    "base:wood_door": "木のドア"
+    "base:wood_door": "木のドア",
+    "base:laser_emitter": "レーザー発光器"
 }
