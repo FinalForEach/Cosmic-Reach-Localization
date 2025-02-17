@@ -64,5 +64,6 @@
     "base:text_display": "Tekstboks",
     "base:rubber_block": "Gummiblokk",
     "base:gold_block": "Gullblokk",
-    "base:wood_door": "Tredør"
+    "base:wood_door": "Tredør",
+    "base:laser_emitter": "Lasersender"
 }
