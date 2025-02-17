@@ -64,5 +64,6 @@
     "base:text_display": "Wyświetlacz tekstu",
     "base:rubber_block": "Blok gumy",
     "base:gold_block": "Block złota",
-    "base:wood_door": "Drewniane drzwi"
+    "base:wood_door": "Drewniane drzwi",
+    "base:laser_emitter": "Emiter laseru"
 }
