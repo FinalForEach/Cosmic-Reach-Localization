@@ -63,5 +63,6 @@
     "base:ice": "Gelo",
     "base:text_display": "Ecrã de Texto",
     "base:rubber_block": "Bloco de Borracha",
-    "base:gold_block": "Bloco de Ouro"
+    "base:gold_block": "Bloco de Ouro",
+    "base:wood_door": "Porta de Madeira"
 }

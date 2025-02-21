@@ -17,5 +17,6 @@
     "base:stick": "Patyk",
     "base:fluid_vacuum": "Pompa ssąca do płynów",
     "base:latex": "Lateks",
-    "base:rubber_ball": "Guma"
+    "base:rubber_ball": "Guma",
+    "base:laser_gun": "Miotacz laseru"
 }
