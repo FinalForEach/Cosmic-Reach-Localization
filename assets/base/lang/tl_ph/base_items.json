@@ -15,5 +15,8 @@
     "base:medkit": "Gamót",
     "base:medkit_gold": "Gintóng Gamót",
     "base:stick": "Tungkód",
-    "base:fluid_vacuum": "Awangín ng Lapúyot"
+    "base:fluid_vacuum": "Awangín ng Lapúyot",
+    "base:latex": "Láteks",
+    "base:rubber_ball": "Góma",
+    "base:laser_gun": "Baríl ng Laser"
 }

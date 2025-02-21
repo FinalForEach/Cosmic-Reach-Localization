@@ -16,5 +16,6 @@
     "base:stick": "Stock",
     "base:fluid_vacuum": "Flüssigkeitssauger",
     "base:latex": "Latex",
-    "base:rubber_ball": "Gummiball"
+    "base:rubber_ball": "Gummiball",
+    "base:laser_gun": "Laserpistole"
 }

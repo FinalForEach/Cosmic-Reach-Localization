@@ -16,6 +16,7 @@
   "invertedMouseButton": "Baliktarin ang Mouse: ",
   "mouseSensitivitySlider": "Paging sensitibo ng Mouse: ",
   "soundSlider": "Tinig: ",
+  "musicSlider": "Musika: ",
   "fovSlider": "FOV: ",
   "maxFPS": "Max FPS: ",
   "maxFPSUnlimited": "Max FPS: Walang Limitasyon",
@@ -97,9 +98,12 @@
   "creditsGameBy": "LARO NI:",
   "creditsMusic": "MUSIKA:",
   "creditsAdditionalProgramming": "KARAGDAGANG PAGPROGRAMA:",
+  "creditsAdditionalModelling": "KARAGDAGANG PAGMODELO:",
+  "creditsAdditionalTexturing": "KARAGDAGANG PAGTEKSTURA:",
   "creditsLocalization": "LOKALISASYON:",
   "multiplayerButton": "Pangmaramihang Laro",
   "multiplayerAddressButton": "Address: ",
   "multiplayerJoinButton": "Sumali",
-  "multiplayerBadDisconnect": "Nadisconnect! Dahilan:"
+  "multiplayerBadDisconnect": "Nadisconnect! Dahilan:",
+  "textDisplayInput": "Dito magsulat..."
 }
