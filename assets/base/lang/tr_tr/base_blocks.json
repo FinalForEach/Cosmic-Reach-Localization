@@ -64,5 +64,6 @@
     "base:text_display": "Yazı Ekranı",
     "base:rubber_block": "Kauçuk Bloğu",
     "base:gold_block": "Altın Bloğu",
-    "base:wood_door": "Tahta Kapı"
+    "base:wood_door": "Tahta Kapı",
+    "base:laser_emitter": "Lazer Yayıcı"
 }
