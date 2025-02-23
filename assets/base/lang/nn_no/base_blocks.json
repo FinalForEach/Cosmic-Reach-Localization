@@ -65,5 +65,6 @@
     "base:rubber_block": "Gummiblokk",
     "base:gold_block": "Gullblokk",
     "base:wood_door": "Tredør",
-    "base:laser_emitter": "Lasersender"
+    "base:laser_emitter": "Lasersender",
+    "base:laser_emitter::split": "Tosidig lasersender"
 }
