@@ -15,5 +15,8 @@
     "base:medkit": "Verbanddoos",
     "base:medkit_gold": "Gouden verbanddoos",
     "base:stick": "Stok",
-    "base:fluid_vacuum": "Vloeistofzuiger"
+    "base:fluid_vacuum": "Vloeistofzuiger",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Rubber",
+    "base:laser_gun": "Lasergun"
 }

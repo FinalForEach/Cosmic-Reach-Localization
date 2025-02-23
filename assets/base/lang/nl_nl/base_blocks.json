@@ -1,6 +1,6 @@
 {
     "base:air": "Lucht",
-    "base:aluminium_panel": "Aluminium blok",
+    "base:aluminium_panel": "Aluminiumblok",
     "base:asphalt": "Asfalt",
     "base:ore_bauxite": "Bauxiet",
     "base:c4": "C4",
@@ -43,7 +43,7 @@
     "base:glass": "Glas",
     "base:leaves": "Bladeren",
     "base:furnace": "Oven",
-    "base:metal_panel": "IJzeren blok",
+    "base:metal_panel": "IJzerblok",
     "base:leaves_poplar": "Populierenbladeren",
     "base:sapling_poplar": "Jonge populier",
     "base:magma": "Magma",
@@ -60,5 +60,10 @@
     "base:hazard": "Gevarenstrepen",
     "base:dirt": "Aarde",
     "base:bricks": "Bakstenen",
-    "base:ice": "Ijs"
+    "base:ice": "IJs",
+    "base:text_display": "Tekstdisplay",
+    "base:rubber_block": "Rubberblok",
+    "base:gold_block": "Goudblok",
+    "base:wood_door": "Houten deur",
+    "base:laser_emitter": "Laserzender"
 }

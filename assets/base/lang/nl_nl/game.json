@@ -79,6 +79,9 @@
   "Open_Worlds_Directory": "Wereldmap openen",
   "YT_Channel": "Bekijk de devlogs op youtube.com/@finalforeach",
   "Game_version_prealpha": "Cosmic Reach versie pre-alpha-",
+  "Game_version_alpha": "Cosmic Reach versie alpha-",
+  "Game_version_beta": "Cosmic Reach versie beta-",
+  "Game_version_release": "Cosmic Reach versie ",
   "MAC_warning": "WAARSCHUWING: Mac-apparaten worden nog niet ondersteund. Het spel zal waarschijnlijk niet werken.",
   "Controller": "Controller",
   "Controllers": "Controllers",
@@ -98,9 +101,13 @@
   "creditsGameBy": "SPEL GEMAAKT DOOR:",
   "creditsMusic": "MUZIEK:",
   "creditsAdditionalProgramming": "AANVULLENDE PROGRAMMERING:",
+  "creditsAdditionalModelling": "AANVULLENDE MODELVORMING:",
+  "creditsAdditionalTexturing": "AANVULLENDE VORMGEVING:",
+  "creditsAdditionalMobs": "AANVULLENDE WEZENS:",
   "creditsLocalization": "VERTALINGEN:",
   "multiplayerButton": "Samen spelen",
   "multiplayerAddressButton": "Adres: ",
   "multiplayerJoinButton": "Deelnemen",
-  "multiplayerBadDisconnect": "Verbinding verbroken! Reden:"
+  "multiplayerBadDisconnect": "Verbinding verbroken! Reden:",
+  "textDisplayInput": "Hier typen..."
 }
