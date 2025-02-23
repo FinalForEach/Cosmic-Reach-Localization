@@ -65,5 +65,6 @@
     "base:rubber_block": "Block of Rubber",
     "base:gold_block": "Block of Gold",
     "base:wood_door": "Wooden Door",
-    "base:laser_emitter": "Laser Emitter"
+    "base:laser_emitter": "Laser Emitter",
+    "base:laser_emitter::split": "Laser Splitter"
 }
