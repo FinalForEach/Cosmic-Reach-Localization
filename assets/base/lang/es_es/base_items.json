@@ -12,9 +12,10 @@
     "base:ingot_iron": "Lingote de hierro ",
     "base:ingot_gold": "Lingote de oro",
     "base:medkit": "Botiquín",
-    "base:medkit_gold": "Botiquín Dorado",
+    "base:medkit_gold": "Botiquín dorado",
     "base:stick": "Palo",
-    "base:fluid_vacuum": "Aspiradora de Líquidos",
+    "base:fluid_vacuum": "Aspiradora de líquidos",
     "base:latex": "Latex",
-    "base:rubber_ball": "Caucho"
+    "base:rubber_ball": "Caucho",
+    "base:laser_gun": "Pistola láser"
 }

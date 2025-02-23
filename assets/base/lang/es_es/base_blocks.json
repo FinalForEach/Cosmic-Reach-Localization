@@ -64,5 +64,6 @@
     "base:text_display": "Escriba aquí...",
     "base:rubber_block": "Bloque de caucho",
     "base:gold_block": "Bloque de oro",
-    "base:wood_door": "Puerta de madera"
+    "base:wood_door": "Puerta de madera",
+    "base:laser_emitter": "Emisor láser"
 }
