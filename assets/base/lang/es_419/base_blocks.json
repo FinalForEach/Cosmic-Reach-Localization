@@ -65,5 +65,6 @@
     "base:rubber_block": "Bloque de caucho",
     "base:gold_block": "Bloque de oro",
     "base:wood_door": "Puerta de madera",
-    "base:laser_emitter": "Emisor láser"
+    "base:laser_emitter": "Emisor láser",
+    "base:laser_emitter::split": "Dispersor de láser"
 }
