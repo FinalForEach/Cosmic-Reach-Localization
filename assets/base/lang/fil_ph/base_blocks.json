@@ -64,5 +64,6 @@
     "base:text_display": "Pangdisplay ng Teksto",
     "base:rubber_block": "Bloke ng Goma",
     "base:gold_block": "Bloke ng Ginto",
-    "base:wood_door": "Kahoy na Pinto"
+    "base:wood_door": "Kahoy na Pinto",
+    "base:laser_emitter": "Taga-emit ng Laser"
 }
