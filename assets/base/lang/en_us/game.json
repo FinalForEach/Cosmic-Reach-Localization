@@ -109,5 +109,6 @@
   "multiplayerAddressButton": "Address: ",
   "multiplayerJoinButton": "Join",
   "multiplayerBadDisconnect": "Disconnected! Reason:",
-  "textDisplayInput": "Type here..."
+  "textDisplayInput": "Type here...",
+  "skinChangeLabel": "Change Your Skin"
 }
