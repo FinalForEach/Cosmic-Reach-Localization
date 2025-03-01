@@ -59,9 +59,9 @@
     "Hide_UI": "隐藏界面",
     "Screenshot": "截图",
     "Debug_Info": "调试信息",
-    "Attack_Break": "攻击／摧毁",
+    "Attack_Break": "攻击 / 摧毁",
     "Pick_Block": "选取方块",
-    "Use_Place": "使用／放置",
+    "Use_Place": "使用 / 放置",
     "Open_Chat": "打开聊天栏",
     "No_Clip": "穿墙",
     "Reload_Shaders": "重新加载着色器",
@@ -106,5 +106,7 @@
     "multiplayerAddressButton": "地址:",
     "multiplayerJoinButton": "加入",
     "multiplayerBadDisconnect": "断开连接了! 原因:",
-    "textDisplayInput": "在这里输入..."
+    "textDisplayInput": "在这里输入...",
+    "creditsAdditionalMobs": "附加生物:",
+    "Change_Perspective": "切换视角"
 }
