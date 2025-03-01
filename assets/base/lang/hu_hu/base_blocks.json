@@ -1,6 +1,6 @@
 {
     "base:air": "Levegő",
-    "base:aluminium_panel": "Alumínium",
+    "base:aluminium_panel": "Alumíniumblokk",
     "base:asphalt": "Aszfalt",
     "base:ore_bauxite": "Bauxit",
     "base:c4": "C4",
@@ -21,7 +21,7 @@
     "base:light::on_azure": "Azúr fény",
     "base:light::on_blue": "Kék fény",
     "base:light::on_violet": "Lila fény",
-    "base:light::on_magenta": "Bíbor szín",
+    "base:light::on_magenta": "Bíbor fény",
     "base:light::on_rose": "Rózsaszín fény",
     "base:light::off_white": "Kikapcsolt fehér fény",
     "base:light::off_red": "Kikapcsolt vörös fény",
@@ -36,8 +36,8 @@
     "base:light::off_violet": "Kikapcsolt lila fény",
     "base:light::off_magenta": "Kikapcsolt bíbor fény",
     "base:light::off_rose": "Kikapcsolt rózsaszín fény",
-    "base:lunar_soil_packed": "Tömörített holdi talaj",
-    "base:lunar_soil": "Holdi talaj",
+    "base:lunar_soil_packed": "Tömörített hold talaj",
+    "base:lunar_soil": "Hold talaj",
     "base:debug": "Hibakeresés",
     "base:stone_basalt": "Bazalt",
     "base:glass": "Üveg",
@@ -58,5 +58,13 @@
     "base:grass": "Fű",
     "base:sand": "Homok",
     "base:hazard": "Veszélycsíkok",
-    "base:dirt": "Föld"
+    "base:dirt": "Föld",
+    "base:bricks": "Téglák",
+    "base:ice": "Jég",
+    "base:text_display": "Szövegmegjelenítő",
+    "base:rubber_block": "Gumiblokk",
+    "base:gold_block": "Aranyblokk",
+    "base:wood_door": "Fa ajtó",
+    "base:laser_emitter": "Lézerkibocsátó",
+    "base:laser_emitter::split": "Lézerosztó"
 }

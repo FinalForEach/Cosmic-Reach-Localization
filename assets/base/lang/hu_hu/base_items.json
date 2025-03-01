@@ -15,5 +15,8 @@
     "base:medkit": "Elsősegély csomag",
     "base:medkit_gold": "Arany elsősegély csomag",
     "base:stick": "Bot",
-    "base:fluid_vacuum": "Folyadékszívó"
+    "base:fluid_vacuum": "Folyadékszívó",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Gumi",
+    "base:laser_gun": "Lézer fegyver"
 }
