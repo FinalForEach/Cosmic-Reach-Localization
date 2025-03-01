@@ -358,6 +358,9 @@
     },
     "skinChangeLabel": {
       "type": "string"
+    },
+    "skinFileDesc": {
+      "type": "string"
     }
   }
 }

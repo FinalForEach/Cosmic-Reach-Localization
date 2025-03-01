@@ -110,5 +110,6 @@
   "multiplayerJoinButton": "Join",
   "multiplayerBadDisconnect": "Disconnected! Reason:",
   "textDisplayInput": "Type here...",
-  "skinChangeLabel": "Change Your Skin"
+  "skinChangeLabel": "Change Your Skin",
+  "skinFileDesc": "PNG file with 128x64 pixels"
 }
