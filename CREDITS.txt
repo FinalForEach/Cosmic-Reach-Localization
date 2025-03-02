@@ -6,7 +6,7 @@
 * EXgaming
 * XiLeF2211
 * Spicylemon2623
-* PenpenMC
+* Penpen
 
 == Localization Contributor's Guide ==
 * Eatham - https://github.com/realeatham
@@ -15,7 +15,7 @@
 == English Localization ==
 * FinalForEach
 * LagBB
-* PenpenMC
+* Penpen
 
 == Spanish Localization ==
 * Nanrech
@@ -130,7 +130,7 @@
 
 == Japanese Localization ==
 * Neuxs | Discord: neuxs | Github: Neuxs0
-* PenpenMC
+* Penpen
 
 == Czech Localization ==
 * Shadow (Discord: hiiragi_shinoa_64)
