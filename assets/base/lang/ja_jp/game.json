@@ -65,6 +65,7 @@
  "Use_Place": "アイテムの使用/設置",
  "Open_Chat": "チャットを開く",
  "No_Clip": "ノー クリップ",
+ "Change_Perspective": "視点を切り替える",
  "Reload_Shaders": "シェーダーをリロード",
  "Fullscreen": "フルスクリーン",
  "Create_New_World": "新しいワールドを作成",
@@ -108,5 +109,7 @@
  "multiplayerAddressButton": "サーバーアドレス: ",
  "multiplayerJoinButton": "接続",
  "multiplayerBadDisconnect": "サーバーから切断されました! 理由: ",
- "textDisplayInput": "ここに入力..."
+ "textDisplayInput": "ここに入力...",
+ "skinChangeLabel": "スキンを変える",
+ "skinFileDesc": "128x64ピクセルのPNGファイル"
 }
