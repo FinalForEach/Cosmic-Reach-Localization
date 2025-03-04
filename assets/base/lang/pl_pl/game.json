@@ -107,5 +107,7 @@
   "multiplayerAddressButton": "Adres: ",
   "multiplayerJoinButton": "Dołącz"
   "multiplayerBadDisconnect": "Rozłączono! Powód:",
-  "textDisplayInput": "Pisz tutaj..."
+  "textDisplayInput": "Pisz tutaj...",
+  "skinChangeLabel": "Zmień swoją skórkę",
+  "skinFileDesc": "Plik PNG o wymiarach 128x64 pixele"
 }
