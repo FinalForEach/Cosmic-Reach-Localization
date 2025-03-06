@@ -17,5 +17,6 @@
     "base:stick": "Tongkat",
     "base:fluid_vacuum": "Penyedot Cairan",
     "base:latex": "Getah",
-    "base:rubber_ball": "Karet"
+    "base:rubber_ball": "Karet",
+    "base:laser_gun": "Senjata Laser"
 }

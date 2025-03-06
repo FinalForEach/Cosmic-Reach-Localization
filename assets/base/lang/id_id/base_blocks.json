@@ -43,7 +43,7 @@
     "base:glass": "Kaca",
     "base:leaves": "Daun",
     "base:furnace": "Tungku",
-    "base:metal_panel": "Balok Besi",
+    "base:metal_panel": "Blok Besi",
     "base:leaves_poplar": "Daun Poplar",
     "base:sapling_poplar": "Pohon Muda Poplar",
     "base:magma": "Magma",
@@ -62,6 +62,9 @@
     "base:bricks": "Batu bata",
     "base:ice": "Es",
     "base:text_display": "Tampilan Teks",
-    "base:rubber_block": "Balok Karet",
-    "base:gold_block": "Balok Emas"
+    "base:rubber_block": "Blok Karet",
+    "base:gold_block": "Blok Emas",
+    "base:wood_door": "Pintu Kayu",
+    "base:laser_emitter": "Pemancar Laser",
+    "base:laser_emitter::split": "Pemisah Laser"
 }
