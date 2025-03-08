@@ -106,5 +106,10 @@
     "multiplayerAddressButton": "Endereço: ",
     "multiplayerJoinButton": "Entrar",
     "multiplayerBadDisconnect": "Desconectado! Motivo:",
-    "textDisplayInput": "Escreva aqui..."
+    "textDisplayInput": "Escreva aqui...",
+    "musicFreqSlider": "Frequência da Música Em Minutos: ",
+    "Change_Perspective": "Mudar Perspetiva",
+    "creditsAdditionalMobs": "MOBS ADICIONAIS:",
+    "skinChangeLabel": "Mude a sua Pele",
+    "skinFileDesc": "Ficheiro PNG com 128x64 pixeis"
 }

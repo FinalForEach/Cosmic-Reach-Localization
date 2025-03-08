@@ -6,7 +6,7 @@
     "fallbacks": ["es_es"]
   },
   "formatPercent": "# %",
-  "startButton": "Jugar",
+  "startButton": "Un jugador",
   "loadButton": "Abrir carpeta de guardado",
   "optionsButton": "Opciones",
   "quitButton": "Salir",
@@ -17,6 +17,7 @@
   "mouseSensitivitySlider": "Sensibilidad del mouse: ",
   "soundSlider": "Sonido: ",
   "musicSlider": "Música: ",
+  "musicFreqSlider": "Frecuencia de la música en minutos: ",
   "fovSlider": "FOV: ",
   "maxFPS": "FPS máximos: ",
   "maxFPSUnlimited": "FPS máximos: Sin límite",

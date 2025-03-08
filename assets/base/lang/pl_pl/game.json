@@ -16,6 +16,7 @@
   "mouseSensitivitySlider": "Czułość myszy: ",
   "soundSlider": "Dźwięk: ",
   "musicSlider": "Muzyka: ",
+  "musicFreqSlider": "Częstotliwość muzyki w minutach: ",
   "fovSlider": "FOV: ",
   "maxFPS": "Maks. FPS: ",
   "maxFPSUnlimited": "Maks. FPS: Nieograniczone",
