@@ -5,7 +5,7 @@
   "name": "日本語"
  },
  "formatPercent": "#%",
- "startButton": "開始",
+ "startButton": "シングルプレイ",
  "loadButton": "セーブデータを開く",
  "optionsButton": "オプション",
  "quitButton": "終了",
@@ -16,6 +16,7 @@
  "mouseSensitivitySlider": "マウス感度: ",
  "soundSlider": "サウンド: ",
  "musicSlider": "BGM: ",
+ "musicFreqSlider": "BGMの頻度 (分): ",
  "fovSlider": "視野角: ",
  "maxFPS": "最大FPS: ",
  "maxFPSUnlimited": "最大FPS: 無制限",
