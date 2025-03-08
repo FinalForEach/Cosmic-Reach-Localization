@@ -187,3 +187,6 @@
 
 == Cebuano Localization ==
 * Jack Gabriel Acodili
+
+== Philippine English Localization ==
+* Jack Gabriel Acodili
