@@ -63,8 +63,10 @@
     "base:ice": "Lód",
     "base:text_display": "Wyświetlacz tekstu",
     "base:rubber_block": "Blok gumy",
-    "base:gold_block": "Block złota",
+    "base:gold_block": "Blok złota",
     "base:wood_door": "Drewniane drzwi",
     "base:laser_emitter": "Emiter laseru",
-    "base:laser_emitter::split": "Rozszczepiający emiter laseru"
+    "base:laser_emitter::split": "Rozszczepiający emiter laseru",
+    "base:coal": "Blok węgla",
+    "base:torch": "Pochodnia"
 }
