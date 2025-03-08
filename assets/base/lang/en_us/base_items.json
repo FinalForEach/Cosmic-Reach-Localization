@@ -17,5 +17,6 @@
     "base:stick": "Stick",
     "base:fluid_vacuum": "Fluid Vacuum",
     "base:latex": "Latex",
-    "base:rubber_ball": "Rubber"
+    "base:rubber_ball": "Rubber",
+    "base:laser_gun": "Laser Gun"
 }

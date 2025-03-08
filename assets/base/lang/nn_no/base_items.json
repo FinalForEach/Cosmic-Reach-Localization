@@ -17,5 +17,6 @@
     "base:stick": "Pinne",
     "base:fluid_vacuum": "Væskesugar",
     "base:latex": "Latex",
-    "base:rubber_ball": "Gummiball"
+    "base:rubber_ball": "Gummiball",
+    "base:laser_gun": "Laserpistol"
 }

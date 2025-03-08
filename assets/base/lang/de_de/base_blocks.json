@@ -63,5 +63,6 @@
     "base:ice": "Eis",
     "base:text_display": "Text Display",
     "base:rubber_block": "Gummiblock",
-    "base:gold_block": "Goldblock"
+    "base:gold_block": "Goldblock",
+    "base:wood_door": "Holztür"
 }

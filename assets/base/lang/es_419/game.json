@@ -66,6 +66,7 @@
   "Use_Place": "Usar/Colocar",
   "Open_Chat": "Abrir chat",
   "No_Clip": "Sin colisión",
+  "Change_Perspective": "Cambiar perspectiva",
   "Reload_Shaders": "Recargar shaders",
   "Fullscreen": "Pantalla completa",
   "Create_New_World": "Crear un mundo nuevo",
@@ -103,10 +104,13 @@
   "creditsAdditionalProgramming": "PROGRAMACIÓN ADICIONAL:",
   "creditsAdditionalModelling": "CREACIÓN DE MODELOS ADICIONALES:",
   "creditsAdditionalTexturing": "CREACIÓN DE TEXTURAS ADICIONALES:",
+  "creditsAdditionalMobs": "CREACIÓN DE MOBS ADICIONALES:",
   "creditsLocalization": "TRADUCCIONES:",
   "multiplayerButton": "Multijugador",
   "multiplayerAddressButton": "Dirección: ",
   "multiplayerJoinButton": "Entrar",
   "multiplayerBadDisconnect": "¡Te has desconectado! Motivo:",
-  "textDisplayInput": "Escribe aquí..."
+  "textDisplayInput": "Escribe aquí...",
+  "skinChangeLabel": "Cambia tu aspecto",
+  "skinFileDesc": "Archivo PNG de 128 por 64 píxeles"
 }

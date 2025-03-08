@@ -65,6 +65,7 @@
   "Use_Place": "Gunakan / Tempatkan",
   "Open_Chat": "Buka Obrolan",
   "No_Clip": "No-Clip",
+  "Change_Perspective": "Ubah Perspektif",
   "Reload_Shaders": "Muat ulang Shader",
   "Fullscreen": "Layar penuh",
   "Create_New_World": "Buat Dunia Baru",
@@ -81,7 +82,7 @@
   "Game_version_alpha": "Cosmic Reach Versi Alpha-",
   "Game_version_beta": "Cosmic Reach Versi Beta-",
   "Game_version_release": "Cosmic Reach Versi ",
-  "MAC_warning": "PERINGATAN: Mac tidak didukung saat ini. Kemungkinan besar permainan ini tidak akan berjalan dengan baik.",
+  "MAC_warning": "PERINGATAN: Mac tidak didukung saat ini. Permainan ini kemungkinan besar tidak akan berjalan dengan baik.",
   "Controller": "Kontroler",
   "Controllers": "Kontroler",
   "Controller_info": " terdeteksi!\nDukungan kontroler saat ini belum lengkap,\ndan akan ditingkatkan pada pembaruan selanjutnya.",
@@ -102,10 +103,13 @@
   "creditsAdditionalProgramming": "PEMROGRAMAN TAMBAHAN:",
   "creditsAdditionalModelling": "PEMODELAN TAMBAHAN:",
   "creditsAdditionalTexturing": "TEKSTUR TAMBAHAN:",
+  "creditsAdditionalMobs": "MOB TAMBAHAN:",
   "creditsLocalization": "LOKALISASI:",
   "multiplayerButton": "Multipemain",
   "multiplayerAddressButton": "Alamat: ",
   "multiplayerJoinButton": "Bergabung",
   "multiplayerBadDisconnect": "Koneksi Terputus! Alasan:",
-  "textDisplayInput": "Ketik di sini..."
+  "textDisplayInput": "Ketik di sini...",
+  "skinChangeLabel": "Ubah Skin Anda",
+  "skinFileDesc": "File PNG dengan 128x64 piksel"
 }
