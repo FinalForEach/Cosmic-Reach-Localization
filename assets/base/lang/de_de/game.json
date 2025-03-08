@@ -16,6 +16,7 @@
   "mouseSensitivitySlider": "Mausempfindlichkeit: ",
   "soundSlider": "Ton: ",
   "musicSlider": "Musik: ",
+  "musicFreqSlider": "Musikhäufigkeit in Minuten: ",
   "fovSlider": "Sichtfeld: ",
   "maxFPS": "Maximale Bildrate: ",
   "maxFPSUnlimited": "Maximale Bildrate: Unbegrenzt",
@@ -65,6 +66,7 @@
   "Use_Place": "Nutzen / Platzieren",
   "Open_Chat": "Chat öffnen",
   "No_Clip": "Kollision umschalten",
+  "Change_Perspective": "Perspektive wechseln",
   "Reload_Shaders": "Shader neu laden",
   "Fullscreen": "Vollbild wechseln",
   "Create_New_World": "Neue Welt erstellen",
@@ -108,5 +110,7 @@
   "multiplayerAddressButton": "Adresse:",
   "multiplayerJoinButton": "Beitreten",
   "multiplayerBadDisconnect": "Verbindung getrennt! Grund:",
-  "textDisplayInput": "Text eingeben..."
+  "textDisplayInput": "Text eingeben...",
+  "skinChangeLabel": "Skin ändern",
+  "skinFileDesc": "PNG-Datei mit 128x64 Pixeln"
 }
