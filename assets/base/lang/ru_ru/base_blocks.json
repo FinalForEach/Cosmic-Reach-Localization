@@ -60,5 +60,13 @@
     "base:hazard": "Полосы опасности",
     "base:dirt": "Земля",
     "base:bricks": "Кирпичи",
-    "base:ice": "Лёд"
+    "base:ice": "Лёд",
+    "base:text_display": "Текстовый дисплей",
+    "base:rubber_block": "Блок резины",
+    "base:gold_block": "Блок золота",
+    "base:wood_door": "Деревянная дверь",
+    "base:laser_emitter": "Лазерный излучатель",
+    "base:laser_emitter::split": "Лазерный разделитель",
+    "base:coal": "Блок угля",
+    "base:torch": "Факел"
 }
