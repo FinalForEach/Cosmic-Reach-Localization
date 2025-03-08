@@ -64,5 +64,7 @@
     "base:text_display": "Text Display",
     "base:rubber_block": "Gummiblock",
     "base:gold_block": "Goldblock",
-    "base:wood_door": "Holztür"
+    "base:wood_door": "Holztür",
+    "base:laser_emitter": "Laserstrahler",
+    "base:laser_emitter::split": "Laser-Zerteiler"
 }
