@@ -4,7 +4,7 @@
         "name": "Cymraeg"
     },
     "formatPercent": "#%",
-    "startButton": "Dechrau",
+    "startButton": "Chwaraewr Sengl",
     "loadButton": "Agor Ffolder Gemau",
     "optionsButton": "Opsiynau",
     "quitButton": "Gadael",
@@ -107,5 +107,9 @@
     "multiplayerAddressButton": "Cyfeiriad: ",
     "multiplayerJoinButton": "Ymuno",
     "multiplayerBadDisconnect": "Datgysylltwyd! Rheswm: ",
-    "textDisplayInput": "Teipiwch yma..."
+    "textDisplayInput": "Teipiwch yma...",
+    "musicFreqSlider": "Amledd Cerddoriaeth Yn Funudau",
+    "Change_Perspective": "Newid Safbwynt",
+    "skinChangeLabel": "Newid Eich Edrychiad",
+    "skinFileDesc": "ffeil PNG gyda 128x64 picseli"
 }

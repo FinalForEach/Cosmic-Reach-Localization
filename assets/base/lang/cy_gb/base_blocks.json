@@ -66,5 +66,7 @@
     "base:gold_block": "Bloc Aur",
     "base:wood_door": "Drws Pren",
     "base:laser_emitter": "Allyrrydd Laser",
-    "base:laser_emitter::split": "Rhannwr Laser"
+    "base:laser_emitter::split": "Rhannwr Laser",
+    "base:coal": "Bloc Glo",
+    "base:torch": "Tors"
 }
