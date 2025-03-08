@@ -64,5 +64,9 @@
     "base:text_display": "Ecrã de Texto",
     "base:rubber_block": "Bloco de Borracha",
     "base:gold_block": "Bloco de Ouro",
-    "base:wood_door": "Porta de Madeira"
+    "base:wood_door": "Porta de Madeira",
+    "base:laser_emitter": "Emissor de Laser",
+    "base:laser_emitter::split": "Divisor de Laser",
+    "base:coal": "Bloco de Carvão",
+    "base:torch": "Tocha"
 }
