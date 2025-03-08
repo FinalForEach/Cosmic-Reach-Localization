@@ -5,7 +5,7 @@
     "name": "English (United States)"
   },
   "formatPercent": "#%",
-  "startButton": "Start",
+  "startButton": "Singleplayer",
   "loadButton": "Open Save Directory",
   "optionsButton": "Options",
   "quitButton": "Quit",
