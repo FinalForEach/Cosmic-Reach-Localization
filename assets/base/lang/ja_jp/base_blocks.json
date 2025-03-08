@@ -66,5 +66,7 @@
     "base:gold_block": "金ブロック",
     "base:wood_door": "木のドア",
     "base:laser_emitter": "レーザー発光機",
-    "base:laser_emitter::split": "レーザー分割機"
+    "base:laser_emitter::split": "レーザー分割機",
+    "base:coal": "石炭ブロック",
+    "base:torch": "松明"
 }
