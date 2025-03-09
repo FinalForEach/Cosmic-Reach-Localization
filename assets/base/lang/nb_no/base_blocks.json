@@ -66,5 +66,7 @@
     "base:gold_block": "Gullblokk",
     "base:wood_door": "Tredør",
     "base:laser_emitter": "Lasersender",
-    "base:laser_emitter::split": "Tosidig lasersender"
+    "base:laser_emitter::split": "Tosidig lasersender",
+    "base:coal": "Kullblokk",
+    "base:torch": "Fakkel"
 }
