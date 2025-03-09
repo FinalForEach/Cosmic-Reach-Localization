@@ -16,6 +16,7 @@
   "mouseSensitivitySlider": "Fare Hassasiyeti: ",
   "soundSlider": "Ses Düzeyi: ",
   "musicSlider": "Müzik: ",
+  "musicFreqSlider": "Dakikadaki Müzik Sıklığı: ",
   "fovSlider": "Görüş Açısı: ",
   "maxFPS": "Maksimum Kare Sayısı: ",
   "maxFPSUnlimited": "Maksimum Kare Sayısı: Sınırsız",
@@ -65,6 +66,7 @@
   "Use_Place": "Kullan / Yerleştir",
   "Open_Chat": "Sohbeti Aç",
   "No_Clip": "Duvardan Geçme",
+  "Change_Perspective": "Perspektifi Değiştir",
   "Reload_Shaders": "Gölgelendirmeleri Yenile",
   "Fullscreen": "Tam Ekran",
   "Create_New_World": "Yeni Dünya Oluştur",
@@ -102,10 +104,13 @@
   "creditsAdditionalProgramming": "İLAVE PROGRAMLAMA:",
   "creditsAdditionalModelling": "İLAVE MODELLEME:",
   "creditsAdditionalTexturing": "İLAVE DOKULANDIRMA:",
+  "creditsAdditionalMobs": "EK YARATIKLAR:",
   "creditsLocalization": "YERELLEŞTİRME:",
   "multiplayerButton": "Çok Oyunculu",
   "multiplayerAddressButton": "Adres: ",
   "multiplayerJoinButton": "Katıl",
   "multiplayerBadDisconnect": "Bağlantı kesildi! Sebep:",
-  "textDisplayInput": "Buraya yaz..."
+  "textDisplayInput": "Buraya yaz...",
+  "skinChangeLabel": "Skin Değiştir",
+  "skinFileDesc": "128'e 64 Pixel PNG dosyası"
 }
