@@ -63,5 +63,10 @@
     "base:ice": "Glace",
     "base:text_display": "Écran de texte",
     "base:rubber_block": "Bloc de caoutchouc",
-    "base:gold_block": "Bloc d'or"
+    "base:gold_block": "Bloc d'or",
+    "base:wood_door": "Porte en bois",
+    "base:laser_emitter": "Émetteur de laser",
+    "base:laser_emitter::split": "Diviseur de laser",
+    "base:coal": "Bloc de charbon",
+    "base:torch": "Torche"
 }
