@@ -113,5 +113,6 @@
   "multiplayerBadDisconnect": "¡Te has desconectado! Motivo:",
   "textDisplayInput": "Escribe aquí...",
   "skinChangeLabel": "Cambia tu aspecto",
-  "skinFileDesc": "Archivo PNG de 128 por 64 píxeles"
+  "skinFileDesc": "Archivo PNG de 128 por 64 píxeles",
+  "itemCatalogSearch": "Buscar..."
 }
