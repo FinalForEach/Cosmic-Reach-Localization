@@ -68,5 +68,6 @@
     "base:laser_emitter": "Emiter laseru",
     "base:laser_emitter::split": "Rozszczepiający emiter laseru",
     "base:coal": "Blok węgla",
-    "base:torch": "Pochodnia"
+    "base:torch": "Pochodnia",
+    "base:laser_switch": "Przełącznik laseru"
 }
