@@ -1,0 +1,22 @@
+{
+    "base:axe_aluminium": "Aluminiumyxa",
+    "base:axe_iron": "Järnyxa",
+    "base:axe_stone": "Stenyxa",
+    "base:pickaxe_aluminium": "Aluminiumhacka",
+    "base:pickaxe_iron": "Järnhacka",
+    "base:pickaxe_stone": "Stenhacka",
+    "base:shovel_aluminium": "Aluminiumspade",
+    "base:shovel_iron": "Järnspade",
+    "base:shovel_stone": "Stenspade",
+    "base:ingot_aluminium": "Aluminiumtacka",
+    "base:ingot_iron": "Järntacka",
+    "base:ingot_gold": "Guldtacka",
+
+    "base:medkit": "Mediciner",
+    "base:medkit_gold": "Gyllene Mediciner",
+    "base:stick": "Pinne",
+    "base:fluid_vacuum": "Vätskesugare",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Gummi",
+    "base:laser_gun": "Lasergevär"
+}
