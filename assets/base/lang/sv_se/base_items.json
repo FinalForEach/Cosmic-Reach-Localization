@@ -1,0 +1,22 @@
+{
+    "base:axe_aluminium": "Aluminum Axe",
+    "base:axe_iron": "Iron Axe",
+    "base:axe_stone": "Stone Axe",
+    "base:pickaxe_aluminium": "Aluminum Pickaxe",
+    "base:pickaxe_iron": "Iron Pickaxe",
+    "base:pickaxe_stone": "Stone Pickaxe",
+    "base:shovel_aluminium": "Aluminum Shovel",
+    "base:shovel_iron": "Iron Shovel",
+    "base:shovel_stone": "Stone Shovel",
+    "base:ingot_aluminium": "Aluminum Ingot",
+    "base:ingot_iron": "Iron Ingot",
+    "base:ingot_gold": "Gold Ingot",
+
+    "base:medkit": "Medkit",
+    "base:medkit_gold": "Gold Medkit",
+    "base:stick": "Stick",
+    "base:fluid_vacuum": "Fluid Vacuum",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Rubber",
+    "base:laser_gun": "Laser Gun"
+}
