@@ -66,6 +66,7 @@
   "Use_Place": "Bruk / Plasser",
   "Open_Chat": "Opne kommandolinja",
   "No_Clip": "Spøkjelsesmodus",
+  "Change_Perspective": "Skift perspektiv",
   "Reload_Shaders": "Last inn Shaders på nytt",
   "Fullscreen": "Fullskjerm",
   "Create_New_World": "Lag ny verd",
@@ -111,5 +112,8 @@
   "multiplayerAddressButton": "Tenaradresse: ",
   "multiplayerJoinButton": "Vert med",
   "multiplayerBadDisconnect": "Fråkopla! Grunn:",
-  "textDisplayInput": "Skriv inn her..."
+  "textDisplayInput": "Skriv inn her...",
+  "skinChangeLabel": "Endre utsjånad",
+  "skinFileDesc": "Teksturen må vera ein PNG på 128x64 pikslar",
+  "itemCatalogSearch": "Søk..."
 }
