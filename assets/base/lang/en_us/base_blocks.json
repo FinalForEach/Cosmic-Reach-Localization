@@ -68,5 +68,6 @@
     "base:laser_emitter": "Laser Emitter",
     "base:laser_emitter::split": "Laser Splitter",
     "base:coal": "Block of Coal",
-    "base:torch": "Torch"
+    "base:torch": "Torch",
+    "base:laser_switch": "Laser Switch"
 }
