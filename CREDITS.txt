@@ -123,6 +123,7 @@
 * Isak Lindgren
 * CPUOverheating
 * ComputerFanMotor
+* Helmersoft
 
 == Bulgarian Localization ==
 * Niko
