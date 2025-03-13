@@ -114,5 +114,6 @@
   "multiplayerBadDisconnect": "Fråkopla! Grunn:",
   "textDisplayInput": "Skriv inn her...",
   "skinChangeLabel": "Endre utsjånad",
-  "skinFileDesc": "Teksturen må vera ein PNG på 128x64 pikslar"
+  "skinFileDesc": "Teksturen må vera ein PNG på 128x64 pikslar",
+  "itemCatalogSearch": "Søk..."
 }
