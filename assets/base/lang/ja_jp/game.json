@@ -112,5 +112,6 @@
  "multiplayerBadDisconnect": "サーバーから切断されました! 理由: ",
  "textDisplayInput": "ここに入力...",
  "skinChangeLabel": "スキンを変える",
- "skinFileDesc": "128x64ピクセルのPNGファイル"
+ "skinFileDesc": "128x64ピクセルのPNGファイル",
+ "itemCatalogSearch": "検索..."
 }

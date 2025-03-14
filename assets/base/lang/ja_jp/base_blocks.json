@@ -68,5 +68,6 @@
     "base:laser_emitter": "レーザー発光機",
     "base:laser_emitter::split": "レーザー分割機",
     "base:coal": "石炭ブロック",
-    "base:torch": "松明"
+    "base:torch": "松明",
+    "base:laser_switch": "レーザースイッチ"
 }
