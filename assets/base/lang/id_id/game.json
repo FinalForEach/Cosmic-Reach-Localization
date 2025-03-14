@@ -112,5 +112,6 @@
   "multiplayerBadDisconnect": "Koneksi Terputus! Alasan:",
   "textDisplayInput": "Ketik di sini...",
   "skinChangeLabel": "Ubah Skin Anda",
-  "skinFileDesc": "File PNG dengan 128x64 piksel"
+  "skinFileDesc": "File PNG dengan 128x64 piksel",
+  "itemCatalogSearch": "Cari..."
 }
