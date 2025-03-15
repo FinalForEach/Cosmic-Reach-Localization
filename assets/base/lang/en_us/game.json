@@ -112,5 +112,6 @@
   "multiplayerBadDisconnect": "Disconnected! Reason:",
   "textDisplayInput": "Type here...",
   "skinChangeLabel": "Change Your Skin",
-  "skinFileDesc": "PNG file with 128x64 pixels"
+  "skinFileDesc": "PNG file with 128x64 pixels",
+  "itemCatalogSearch": "Search..."
 }
