@@ -68,5 +68,6 @@
     "base:laser_emitter": "Allyrrydd Laser",
     "base:laser_emitter::split": "Rhannwr Laser",
     "base:coal": "Bloc Glo",
-    "base:torch": "Tors"
+    "base:torch": "Tors",
+    "base:laser_switch": "Switsh Laser"
 }
