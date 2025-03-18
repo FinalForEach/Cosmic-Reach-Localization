@@ -111,5 +111,6 @@
     "Change_Perspective": "Mudar Perspetiva",
     "creditsAdditionalMobs": "MOBS ADICIONAIS:",
     "skinChangeLabel": "Mude a sua Pele",
-    "skinFileDesc": "Ficheiro PNG com 128x64 pixeis"
+    "skinFileDesc": "Ficheiro PNG com 128x64 pixeis",
+    "itemCatalogSearch": "Pesquisar..."
 }
