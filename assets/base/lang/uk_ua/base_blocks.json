@@ -64,5 +64,10 @@
     "base:text_display": "Текстове табло",
     "base:rubber_block": "Блок ґуми",
     "base:gold_block": "Блок золота",
-    "base:wood_door": "Дерев'яні двері"
+    "base:wood_door": "Дерев'яні двері",
+    "base:laser_emitter": "Лазерний випромінювач",
+    "base:laser_emitter::split": "Лазерний розподілювач",
+    "base:coal": "Блок вугілля",
+    "base:torch": "Факел",
+    "base:laser_switch": "Лазерний перемикач"
 }
