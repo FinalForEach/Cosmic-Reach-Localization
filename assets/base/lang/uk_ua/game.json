@@ -5,7 +5,7 @@
     "name": "Українська"
   },
   "formatPercent": "#%",
-  "startButton": "Почати",
+  "startButton": "Гра наодинці",
   "loadButton": "Відкрити розташування збережень",
   "optionsButton": "Налаштування",
   "quitButton": "Вихід",
@@ -16,6 +16,7 @@
   "mouseSensitivitySlider": "Чутливість миші: ",
   "soundSlider": "Звук: ",
   "musicSlider": "Музика: ",
+  "musicFreqSlider": "Частота програвання музики в хвилинах: ",
   "fovSlider": "Поле зору: ",
   "maxFPS": "Максимальні FPS: ",
   "maxFPSUnlimited": "Максимальні FPS: Необмежено",
@@ -65,6 +66,7 @@
   "Use_Place": "Використати / поставити",
   "Open_Chat": "Відкрити чат",
   "No_Clip": "Безперешкодний політ",
+  "Change_Perspective": "Змінити точку зору",
   "Reload_Shaders": "Перезавантажити шейдери",
   "Fullscreen": "Повний екран",
   "Create_New_World": "Створити новий світ",
@@ -104,5 +106,8 @@
   "multiplayerAddressButton": "Адреса: ",
   "multiplayerJoinButton": "Доєднатись",
   "multiplayerBadDisconnect": "З'єднання розірвано! Причина:",
-  "textDisplayInput": "Вводьте тут..."
+  "textDisplayInput": "Вводьте тут...",
+  "skinChangeLabel": "Змінити своє вбрання",
+  "skinFileDesc": "Файл формату PNG роздільної здатності 128x64 пікселів",
+  "itemCatalogSearch": "Пошук..."
 }
