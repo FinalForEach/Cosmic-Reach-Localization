@@ -18,5 +18,6 @@
     "base:fluid_vacuum": "Pompa ssąca do płynów",
     "base:latex": "Lateks",
     "base:rubber_ball": "Guma",
-    "base:laser_gun": "Miotacz laseru"
+    "base:laser_gun": "Miotacz laseru",
+    "base:jetpack": "Plecak odrzutowy"
 }
