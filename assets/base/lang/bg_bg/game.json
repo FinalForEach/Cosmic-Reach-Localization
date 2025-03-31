@@ -70,5 +70,5 @@
   "Screenshot_info": "Запазена снимка на екрана в ",
   "Screenshot_error": "Грешка при запазване на снимка.",
   "Loading": "Зареждане",
-  "RuntimeException": "Неуспешно зареждане на свят: ",
+  "RuntimeException": "Неуспешно зареждане на свят: "
 }

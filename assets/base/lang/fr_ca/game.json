@@ -71,5 +71,5 @@
   "Screenshot_info": "Capture d'écran enregistrée sous : ",
   "Screenshot_error": "Erreur lors de l'enregistrement de la capture d'écran.",
   "Loading": "Chargement",
-  "RuntimeException": "Impossible de charger le monde : ",
+  "RuntimeException": "Impossible de charger le monde : "
 }
