@@ -66,5 +66,8 @@
     "base:gold_block": "Blok Emas",
     "base:wood_door": "Pintu Kayu",
     "base:laser_emitter": "Pemancar Laser",
-    "base:laser_emitter::split": "Pemisah Laser"
+    "base:laser_emitter::split": "Pemisah Laser",
+    "base:coal": "Blok Batubara",
+    "base:torch": "Obor",
+    "base:laser_switch": "Saklar Laser"
 }

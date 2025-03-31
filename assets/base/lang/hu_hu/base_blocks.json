@@ -66,5 +66,8 @@
     "base:gold_block": "Aranyblokk",
     "base:wood_door": "Fa ajtó",
     "base:laser_emitter": "Lézerkibocsátó",
-    "base:laser_emitter::split": "Lézerosztó"
+    "base:laser_emitter::split": "Lézerosztó",
+    "base:coal": "Szénblokk",
+    "base:torch": "Fáklya",
+    "base:laser_switch": "Lézer kapcsoló"
 }

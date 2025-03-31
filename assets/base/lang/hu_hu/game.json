@@ -16,6 +16,7 @@
   "mouseSensitivitySlider": "Egér érzékenység: ",
   "soundSlider": "Hang: ",
   "musicSlider": "Zene: ",
+  "musicFreqSlider": "Zene frekvencia percekben: ",
   "fovSlider": "FOV: ",
   "maxFPS": "Max FPS: ",
   "maxFPSUnlimited": "Max FPS: Korlátlan",
@@ -65,6 +66,7 @@
   "Use_Place": "Használ / Elhelyez",
   "Open_Chat": "Chat megnyitása",
   "No_Clip": "No-Clip",
+  "Change_Perspective": "Perspektívaváltás",
   "Reload_Shaders": "Shaderek újratöltése",
   "Fullscreen": "Teljes képernyő",
   "Create_New_World": "Új világ létrehozása",
@@ -108,5 +110,8 @@
   "multiplayerAddressButton": "Cím: ",
   "multiplayerJoinButton": "Csatlakozás"
   "multiplayerBadDisconnect": "Lecsatlakozva! Indok:",
-  "textDisplayInput": "Írj ide..."
+  "textDisplayInput": "Írj ide...",
+  "skinChangeLabel": "Válts kínézetet",
+  "skinFileDesc": "PNG fájl 128x64 pixellel",
+  "itemCatalogSearch": "Keresés..."
 }
