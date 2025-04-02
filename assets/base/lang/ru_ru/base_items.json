@@ -15,5 +15,9 @@
     "base:medkit": "Аптечка",
     "base:medkit_gold": "Золотая аптечка",
     "base:stick": "Палка",
-    "base:fluid_vacuum": "Жидкий вакуум"
+    "base:fluid_vacuum": "Жидкостный пылесос",
+    "base:latex": "Латекс",
+    "base:rubber_ball": "Резина",
+    "base:laser_gun": "Лазерный",
+    "base:jetpack": "Реактивный ранец"
 }
