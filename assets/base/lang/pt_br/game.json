@@ -91,5 +91,5 @@
   "mouseRightButton" : "Botão direito do mouse",
   "mouseBackButton" : "Polegar do mouse",
   "mouseForwardButton" : "Polegar do mouse 2",
-  "RuntimeException": "Não foi possível carregar o mundo: ",
+  "RuntimeException": "Não foi possível carregar o mundo: "
 }

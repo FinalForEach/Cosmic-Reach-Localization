@@ -70,6 +70,6 @@
     "Screenshot_info": "Слика сачувана у ",
     "Screenshot_error": "Грешка при чувању слике.",
     "Loading": "Учитавање",
-    "RuntimeException": "Грешка при учитавању света: ",
+    "RuntimeException": "Грешка при учитавању света: "
   }
   

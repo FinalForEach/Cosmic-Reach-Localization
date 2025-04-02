@@ -18,5 +18,6 @@
     "base:fluid_vacuum": "Fluid Vacuum",
     "base:latex": "Latex",
     "base:rubber_ball": "Rubber",
-    "base:laser_gun": "Laser Gun"
+    "base:laser_gun": "Laser Gun",
+    "base:jetpack": "Jetpack"
 }

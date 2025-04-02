@@ -65,5 +65,8 @@
     "base:rubber_block": "Kauçuk Bloğu",
     "base:gold_block": "Altın Bloğu",
     "base:wood_door": "Tahta Kapı",
-    "base:laser_emitter": "Lazer Yayıcı"
+    "base:laser_emitter": "Lazer Yayıcı",
+    "base:laser_emitter::split": "Lazer Bölücü",
+    "base:coal": "Kömür Bloğu",
+    "base:torch": "Meşale"
 }

@@ -72,8 +72,8 @@
   "off_state": "Av",
   "World_name": "Värld-",
   "Screenshot_info": "Sparade skärmdump till: ",
-  "Screenshot_error": "Fel att spara skärmdump.",
+  "Screenshot_error": "Misslyckades med att spara skärmdump.",
   "Loading": "Laddar",
-  "RuntimeException": "Kunde inte ladda världen: ",
+  "RuntimeException": "Kunde inte ladda världen: "
 }
 

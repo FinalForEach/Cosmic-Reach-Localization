@@ -108,5 +108,9 @@
     "multiplayerBadDisconnect": "断开连接了! 原因:",
     "textDisplayInput": "在这里输入...",
     "creditsAdditionalMobs": "附加生物:",
-    "Change_Perspective": "切换视角"
+    "Change_Perspective": "切换视角",
+    "musicFreqSlider": "音乐播放频率（分钟）：",
+    "skinChangeLabel": "更改皮肤",
+    "skinFileDesc": "128x64像素的PNG文件",
+    "itemCatalogSearch": "搜索..."
 }
