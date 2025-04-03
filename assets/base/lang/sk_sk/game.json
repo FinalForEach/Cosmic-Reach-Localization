@@ -70,6 +70,6 @@
     "Screenshot_info": "Uložilo snímku obrazovky do ",
     "Screenshot_error": "Chyba pri ukladaní snímky obrazovky.",
     "Loading": "Načíťava",
-    "RuntimeException": "Nemohlo načítať svet: ",
+    "RuntimeException": "Nemohlo načítať svet: "
   }
   

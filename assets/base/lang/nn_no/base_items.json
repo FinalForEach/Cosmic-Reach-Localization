@@ -18,5 +18,6 @@
     "base:fluid_vacuum": "Væskesugar",
     "base:latex": "Latex",
     "base:rubber_ball": "Gummiball",
-    "base:laser_gun": "Laserpistol"
+    "base:laser_gun": "Laserpistol",
+    "base:jetpack": "Flyvesekk"
 }

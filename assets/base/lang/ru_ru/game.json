@@ -108,7 +108,7 @@
     "multiplayerButton": "Сетевая игра",
     "multiplayerAddressButton": "Адрес: ",
     "multiplayerJoinButton": "Присоединиться",
-    "multiplayerBadDisconnect": "Соединение потеряно! Причина:"
+    "multiplayerBadDisconnect": "Соединение потеряно! Причина:",
     "textDisplayInput": "Текст набирать здесь...",
     "skinChangeLabel": "Изменить скин",
     "skinFileDesc": "Файл PNG размером 128x64 пикселей"

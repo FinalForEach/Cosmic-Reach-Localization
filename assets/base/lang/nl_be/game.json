@@ -71,5 +71,5 @@
   "World_name": "Wereld-",
   "Screenshot_info": "Schermafbeelding opgeslagen in ",
   "Loading": "Laden",
-  "RuntimeException": "Kon wereld niet laden: ",
+  "RuntimeException": "Kon wereld niet laden: "
 }
