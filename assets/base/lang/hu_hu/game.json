@@ -113,5 +113,7 @@
   "textDisplayInput": "Írj ide...",
   "skinChangeLabel": "Válts kínézetet",
   "skinFileDesc": "PNG fájl 128x64 pixellel",
-  "itemCatalogSearch": "Keresés..."
+  "itemCatalogSearch": "Keresés...",
+  "boomboxOctave": "Oktáv",
+  "boomboxPlaySound": "Lejátszás"
 }
