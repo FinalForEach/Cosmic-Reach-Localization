@@ -3,7 +3,7 @@
   "metadata":
   {
     "name": "Cebuano (Pilipinas)",
-    "fallbacks": ["fil_ph"]
+    "fallbacks": ["fil_ph", "en_us"]
   },
   "formatPercent": "#%",
   "startButton": "Sugdan",
