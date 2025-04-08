@@ -111,5 +111,7 @@
   "textDisplayInput": "Dito magsulat...",
   "skinChangeLabel": "Magpalit ng Skin",
   "skinFileDesc": "PNG na file na may sukat 128x64 na pixel",
-  "itemCatalogSearch": "Maghanap..."
+  "itemCatalogSearch": "Maghanap...",
+  "boomboxOctave": "Oktaba",
+  "boomboxPlaySound": "Patunugin"
 }
