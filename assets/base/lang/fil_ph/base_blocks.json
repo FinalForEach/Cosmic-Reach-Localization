@@ -68,5 +68,6 @@
     "base:laser_emitter": "Taga-emit ng Laser",
     "base:laser_emitter::split": "Tagahati ng Laser",
     "base:coal": "Bloke ng Batong Uling",
-    "base:torch": "Sulo"
+    "base:torch": "Sulo",
+    "base:laser_switch": "Switch ng Laser"
 }
