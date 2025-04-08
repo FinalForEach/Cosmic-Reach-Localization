@@ -114,5 +114,7 @@
   "textDisplayInput": "Díto magsulát...",
   "skinChangeLabel": "Magpalít ng Balát",
   "skinFileDesc": "PNG na ligpít na may súkat 128x64 na pixel",
-  "itemCatalogSearch": "Maghanáp..."
+  "itemCatalogSearch": "Maghanáp...",
+  "boomboxOctave": "Oktába",
+  "boomboxPlaySound": "Patunugín"
 }
