@@ -111,5 +111,6 @@
   "multiplayerJoinButton": "Motambong",
   "multiplayerBadDisconnect": "Naputol! Hinungdan:",
   "textDisplayInput": "Dinhi pagsulat...",
-  "skinChangeLabel": "Ilisan ang Panit"
+  "skinChangeLabel": "Ilisan ang Panit",
+  "skinFileDesc": "PNG nga file nga 128x64 nga pixel gidak-on"
 }
