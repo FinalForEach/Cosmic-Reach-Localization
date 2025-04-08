@@ -111,5 +111,6 @@
   "multiplayerJoinButton": "Sumáli",
   "multiplayerBadDisconnect": "Natiwalág! Dahilán:",
   "textDisplayInput": "Díto magsulát...",
-  "skinChangeLabel": "Magpalít ng Balát"
+  "skinChangeLabel": "Magpalít ng Balát",
+  "skinFileDesc": "PNG na ligpít na may súkat 128x64 na pixel"
 }
