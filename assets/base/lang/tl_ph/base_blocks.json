@@ -68,5 +68,6 @@
     "base:laser_emitter": "Pang-itíd ng Laser",
     "base:laser_emitter::split": "Tagahatì ng Laser",
     "base:coal": "Bloké ng Batóng Úling",
-    "base:torch": "Sulô"
+    "base:torch": "Sulô",
+    "base:laser_switch": "Kabtól ng Laser"
 }
