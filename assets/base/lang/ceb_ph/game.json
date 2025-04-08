@@ -114,5 +114,7 @@
   "textDisplayInput": "Dinhi pagsulat...",
   "skinChangeLabel": "Ilisan ang Panit",
   "skinFileDesc": "PNG nga file nga 128x64 nga pixel gidak-on",
-  "itemCatalogSearch": "Mangita..."
+  "itemCatalogSearch": "Mangita...",
+  "boomboxOctave": "Oktaba",
+  "boomboxPlaySound": "Patingog"
 }
