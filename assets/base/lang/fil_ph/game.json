@@ -107,5 +107,6 @@
   "multiplayerAddressButton": "Address: ",
   "multiplayerJoinButton": "Sumali",
   "multiplayerBadDisconnect": "Nadisconnect! Dahilan:",
-  "textDisplayInput": "Dito magsulat..."
+  "textDisplayInput": "Dito magsulat...",
+  "skinChangeLabel": "Magpalit ng Skin"
 }
