@@ -68,5 +68,6 @@
     "base:laser_mitter": "Tagapagawas ug Laser",
     "base:laser_emitter::split": "Tagatunga sa Laser",
     "base:coal": "Bloke sa Bato nga Uling",
-    "base:torch": "Sulo"
+    "base:torch": "Sulo",
+    "base:laser_switch": "Switch sa Laser"
 }
