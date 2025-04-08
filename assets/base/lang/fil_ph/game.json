@@ -6,7 +6,7 @@
     "fallbacks": ["tl_ph", "en_us"]
   },
   "formatPercent": "#%",
-  "startButton": "Magsimula",
+  "startButton": "Pang-isahang Laro",
   "loadButton": "Buksan ang Polder ng Save",
   "optionsButton": "Mga Opsyon",
   "quitButton": "Umalis",
