@@ -65,5 +65,6 @@
     "base:rubber_block": "Bloke sa Goma",
     "base:gold_block": "Bloke sa Bulawan",
     "base:wood_door": "Kahoy nga Pultahan",
-    "base:laser_mitter": "Tagapagawas ug Laser"
+    "base:laser_mitter": "Tagapagawas ug Laser",
+    "base:laser_emitter::split": "Tagatunga sa Laser"
 }
