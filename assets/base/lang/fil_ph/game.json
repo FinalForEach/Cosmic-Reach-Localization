@@ -108,5 +108,6 @@
   "multiplayerJoinButton": "Sumali",
   "multiplayerBadDisconnect": "Nadisconnect! Dahilan:",
   "textDisplayInput": "Dito magsulat...",
-  "skinChangeLabel": "Magpalit ng Skin"
+  "skinChangeLabel": "Magpalit ng Skin",
+  "skinFileDesc": "PNG na file na may sukat 128x64 na pixel"
 }
