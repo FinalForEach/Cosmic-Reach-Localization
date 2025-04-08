@@ -65,5 +65,6 @@
     "base:rubber_block": "Bloké ng Góma",
     "base:gold_block": "Bloké ng Gintô",
     "base:wood_door": "Káhoy na Pintô",
-    "base:laser_emitter": "Pang-itíd ng Laser"
+    "base:laser_emitter": "Pang-itíd ng Laser",
+    "base:laser_emitter::split": "Tagahatì ng Laser"
 }
