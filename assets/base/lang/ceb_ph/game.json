@@ -6,7 +6,7 @@
     "fallbacks": ["fil_ph", "en_us"]
   },
   "formatPercent": "#%",
-  "startButton": "Sugdan",
+  "startButton": "Inusara nga Dula",
   "loadButton": "Ablihon ang Direktoryo sa Naluwas",
   "optionsButton": "Kapilian",
   "quitButton": "Undang",
@@ -106,7 +106,7 @@
   "creditsAdditionalTexturing": "DUGANG NGA MGA HULAGWAY:",
   "creditsAdditionalMobs": "DUGANG NGA BINUHAT:",
   "creditsLocalization": "LOKALISASYON:",
-  "multiplayerButton": "Makigdula",
+  "multiplayerButton": "Pangdaghan nga Dula",
   "multiplayerAddressButton": "Dapit: ",
   "multiplayerJoinButton": "Motambong",
   "multiplayerBadDisconnect": "Naputol! Hinungdan:",
