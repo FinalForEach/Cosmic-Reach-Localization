@@ -6,7 +6,7 @@
     "fallbacks": ["fil_ph", "en_us"]
   },
   "formatPercent": "#%",
-  "startButton": "Magsimulâ",
+  "startButton": "Pang-isáhang Larô",
   "loadButton": "Buksán ang Taláhanapán ng Nailigtás",
   "optionsButton": "Pagpipilían",
   "quitButton": "Umalís",
@@ -106,7 +106,7 @@
   "creditsAdditionalTexturing": "KARAGDÁGANG YARÌ:",
   "creditsAdditionalMobs": "KARAGDÁGANG NILALÁNG:",
   "creditsLocalization": "PAGSASÁLIN:",
-  "multiplayerButton": "Makipaglarô",
+  "multiplayerButton": "Pangmaramíhang Larô",
   "multiplayerAddressButton": "Dáko: ",
   "multiplayerJoinButton": "Sumáli",
   "multiplayerBadDisconnect": "Natiwalág! Dahilán:",
