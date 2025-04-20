@@ -69,5 +69,7 @@
     "base:laser_emitter::split": "Rhannwr Laser",
     "base:coal": "Bloc Glo",
     "base:torch": "Tors",
-    "base:laser_switch": "Switsh Laser"
+    "base:laser_switch": "Switsh Laser",
+    "base:electric_generator": "Generadur",
+    "base:electric_furnace": "Ffwrnais Trydanol"
 }
