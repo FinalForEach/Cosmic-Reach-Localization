@@ -69,5 +69,7 @@
     "base:laser_emitter::split": "Laser Splitter",
     "base:coal": "Block of Coal",
     "base:torch": "Torch",
-    "base:laser_switch": "Laser Switch"
+    "base:laser_switch": "Laser Switch",
+    "base:electric_generator": "Generator",
+    "base:electric_furnace": "Electric Furnace"
 }
