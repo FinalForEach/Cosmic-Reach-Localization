@@ -112,7 +112,7 @@
     "multiplayerBadDisconnect": "Соединение потеряно! Причина:",
     "textDisplayInput": "Текст набирать здесь...",
     "skinChangeLabel": "Изменить скин",
-    "skinFileDesc": "Файл PNG размером 128x64 пикселей"
+    "skinFileDesc": "Файл PNG размером 128x64 пикселей",
     "itemCatalogSearch": "Поиск...",
     "boomboxOctave": "Октава",
     "boomboxPlaySound": "Играть звук"
