@@ -6,7 +6,7 @@
     "fallbacks": ["nb_no"]
   },
   "formatPercent": "#%",
-  "startButton": "Start",
+  "startButton": "Enkeltspiller",
   "loadButton": "Opne lagringsmappa",
   "optionsButton": "Innstillingar",
   "quitButton": "Avslutt",
