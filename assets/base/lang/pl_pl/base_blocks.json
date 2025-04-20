@@ -70,4 +70,6 @@
     "base:coal": "Blok węgla",
     "base:torch": "Pochodnia",
     "base:laser_switch": "Przełącznik laseru"
+    "base:electric_generator": "Generator",
+    "base:electric_furnace": "Piec elektryczny"
 }
