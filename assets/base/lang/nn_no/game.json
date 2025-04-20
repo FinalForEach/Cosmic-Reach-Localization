@@ -18,6 +18,7 @@
   "soundSlider": "Lydar: ",
   "musicSlider": "Musikk: ",
   "fovSlider": "Synsfelt: ",
+  "musicFreqSlider": "Musikkfrekvens i minutt: ",
   "maxFPS": "Maks tillatne FPS: ",
   "maxFPSUnlimited": "Maks FPS: Uavgrensa",
   "debugCrashButton": "Feilsøking: Krasj spelet",
