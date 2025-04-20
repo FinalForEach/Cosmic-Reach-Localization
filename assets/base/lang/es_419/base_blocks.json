@@ -69,5 +69,7 @@
     "base:laser_emitter::split": "Dispersor de láser",
     "base:coal": "Bloque de carbón",
     "base:torch": "Antorcha",
-    "base:laser_switch": "Interruptor láser"
+    "base:laser_switch": "Interruptor láser",
+    "base:electric_generator": "Generador",
+    "base:electric_furnace": "Horno eléctrico"
 }
