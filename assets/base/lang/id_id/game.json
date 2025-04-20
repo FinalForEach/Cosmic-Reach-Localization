@@ -113,5 +113,7 @@
   "textDisplayInput": "Ketik di sini...",
   "skinChangeLabel": "Ubah Skin Anda",
   "skinFileDesc": "File PNG dengan 128x64 piksel",
-  "itemCatalogSearch": "Cari..."
+  "itemCatalogSearch": "Cari...",
+  "boomboxOctave": "Oktaf",
+  "boomboxPlaySound": "Putar"
 }
