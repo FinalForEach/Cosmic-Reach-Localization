@@ -69,5 +69,7 @@
     "base:laser_emitter::split": "Tosidig lasersender",
     "base:coal": "Kolblokk",
     "base:torch": "Fakkel",
-    "base:laser_switch": "Laserbryter"
+    "base:laser_switch": "Laserbryter",
+    "base:electric_generator": "Generator",
+    "base:electric_furnace": "Elektrisk omn"
 }
