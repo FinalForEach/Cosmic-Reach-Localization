@@ -113,5 +113,7 @@
  "textDisplayInput": "ここに入力...",
  "skinChangeLabel": "スキンを変える",
  "skinFileDesc": "128x64ピクセルのPNGファイル",
- "itemCatalogSearch": "検索..."
+ "itemCatalogSearch": "検索...",
+ "boomboxOctave": "オクターブ",
+ "boomboxPlaySound": "再生"
 }
