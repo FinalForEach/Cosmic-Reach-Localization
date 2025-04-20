@@ -3,10 +3,10 @@
   "metadata":
   {
     "name": "Tagalog (Pilipinas)",
-    "fallbacks": ["fil_ph"]
+    "fallbacks": ["fil_ph", "en_us"]
   },
   "formatPercent": "#%",
-  "startButton": "Magsimulâ",
+  "startButton": "Pang-isáhang Larô",
   "loadButton": "Buksán ang Taláhanapán ng Nailigtás",
   "optionsButton": "Pagpipilían",
   "quitButton": "Umalís",
@@ -17,9 +17,10 @@
   "mouseSensitivitySlider": "Pagkamatugunín ng Dagâ: ",
   "soundSlider": "Tunóg: ",
   "musicSlider": "Tugtóg: ",
+  "musicFreqSlider": "Dalás ng Tugtóg sa Sandalì: ",
   "fovSlider": "Larángan ng Paningín: ",
-  "maxFPS": "Higdúling Paggúhit Báwat Ságlít: ",
-  "maxFPSUnlimited": "Higdúling Paggúhit Báwat Ságlít: Wálang Hanggáhan",
+  "maxFPS": "Higdúling Paggúhit Báwat Saglít: ",
+  "maxFPSUnlimited": "Higdúling Paggúhit Báwat Saglít: Wálang Hanggáhan",
   "debugCrashButton": "Pagdalísay: Ibagsák ang larô",
   "keybindsButton": "Áyos ng Pindútan",
   "difficultyButton": "Hírap: ",
@@ -66,6 +67,7 @@
   "Use_Place": "Gumámit / Maglagáy",
   "Open_Chat": "Buksán ang Taláusápan",
   "No_Clip": "Waláng Banggáan",
+  "Change_Perspective": "Magpalít ng Pananáw",
   "Reload_Shaders": "Mulíng isakáy ang mga Manglilílim",
   "Fullscreen": "Buóng-Tábing",
   "Create_New_World": "Gumawâ ng Bágong Daigdíg",
@@ -103,10 +105,16 @@
   "creditsAdditionalProgramming": "KARAGDÁGANG PAGPÁLATUNTÚNAN:",
   "creditsAdditionalModelling": "KARAGDÁGANG HULWÁRAN:",
   "creditsAdditionalTexturing": "KARAGDÁGANG YARÌ:",
+  "creditsAdditionalMobs": "KARAGDÁGANG NILALÁNG:",
   "creditsLocalization": "PAGSASÁLIN:",
-  "multiplayerButton": "Makipaglarô",
+  "multiplayerButton": "Pangmaramíhang Larô",
   "multiplayerAddressButton": "Dáko: ",
   "multiplayerJoinButton": "Sumáli",
   "multiplayerBadDisconnect": "Natiwalág! Dahilán:",
-  "textDisplayInput": "Díto magsulát..."
+  "textDisplayInput": "Díto magsulát...",
+  "skinChangeLabel": "Magpalít ng Balát",
+  "skinFileDesc": "PNG na ligpít na may súkat 128x64 na pixel",
+  "itemCatalogSearch": "Maghanáp...",
+  "boomboxOctave": "Oktába",
+  "boomboxPlaySound": "Patunugín"
 }

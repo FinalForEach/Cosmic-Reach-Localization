@@ -64,5 +64,10 @@
     "base:text_display": "Tanghálan ng Lamándiwà",
     "base:rubber_block": "Bloké ng Góma",
     "base:gold_block": "Bloké ng Gintô",
-    "base:wood_door": "Káhoy na Pintô"
+    "base:wood_door": "Káhoy na Pintô",
+    "base:laser_emitter": "Pang-itíd ng Laser",
+    "base:laser_emitter::split": "Tagahatì ng Laser",
+    "base:coal": "Bloké ng Batóng Úling",
+    "base:torch": "Sulô",
+    "base:laser_switch": "Kabtól ng Laser"
 }
