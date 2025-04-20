@@ -1,7 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
-  "metadata":
-  {
+  "metadata": {
       "name": "Deutsch"
   },
   "formatPercent": "#%",
@@ -112,5 +111,8 @@
   "multiplayerBadDisconnect": "Verbindung getrennt! Grund:",
   "textDisplayInput": "Text eingeben...",
   "skinChangeLabel": "Skin ändern",
-  "skinFileDesc": "PNG-Datei mit 128x64 Pixeln"
+  "skinFileDesc": "PNG-Datei mit 128x64 Pixeln",
+  "itemCatalogSearch": "Suchen...",
+  "boomboxOctave": "Oktave",
+  "boomboxPlaySound": "Abspielen"
 }
