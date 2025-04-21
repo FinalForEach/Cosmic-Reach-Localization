@@ -69,5 +69,7 @@
     "base:laser_emitter::split": "Tagatunga sa Laser",
     "base:coal": "Bloke sa Bato nga Uling",
     "base:torch": "Sulo",
-    "base:laser_switch": "Switch sa Laser"
+    "base:laser_switch": "Switch sa Laser",
+    "base:electric_generator": "Dinamo",
+    "base:electric_furnace": "Dagitabnong Kayohan"
 }
