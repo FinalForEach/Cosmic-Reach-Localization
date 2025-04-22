@@ -69,5 +69,7 @@
     "base:laser_emitter::split": "Pemisah Laser",
     "base:coal": "Blok Batubara",
     "base:torch": "Obor",
-    "base:laser_switch": "Saklar Laser"
+    "base:laser_switch": "Saklar Laser",
+    "base:electric_generator": "Generator",
+    "base:electric_furnace": "Tungku Listrik"
 }
