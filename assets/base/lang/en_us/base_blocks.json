@@ -71,5 +71,7 @@
     "base:torch": "Torch",
     "base:laser_switch": "Laser Switch",
     "base:electric_generator": "Generator",
-    "base:electric_furnace": "Electric Furnace"
+    "base:electric_furnace": "Electric Furnace",
+    "base:clay": "Clay",
+    "base:stone_shale": "Shale"
 }
