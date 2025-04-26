@@ -71,5 +71,7 @@
     "base:torch": "Pochodnia",
     "base:laser_switch": "Przełącznik laseru",
     "base:electric_generator": "Generator",
-    "base:electric_furnace": "Piec elektryczny"
+    "base:electric_furnace": "Piec elektryczny",
+    "base:clay": "Glina",
+    "base:stone_shale": "Łupek ilasty"
 }
