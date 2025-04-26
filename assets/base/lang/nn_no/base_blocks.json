@@ -71,5 +71,7 @@
     "base:torch": "Fakkel",
     "base:laser_switch": "Laserbryter",
     "base:electric_generator": "Generator",
-    "base:electric_furnace": "Elektrisk omn"
+    "base:electric_furnace": "Elektrisk omn",
+    "base:clay": "Leire",
+    "base:stone_shale": "Leirskifer"
 }
