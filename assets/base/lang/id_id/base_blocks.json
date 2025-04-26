@@ -71,5 +71,7 @@
     "base:torch": "Obor",
     "base:laser_switch": "Saklar Laser",
     "base:electric_generator": "Generator",
-    "base:electric_furnace": "Tungku Listrik"
+    "base:electric_furnace": "Tungku Listrik",
+    "base:clay": "Tanah Liat",
+    "base:stone_shale": "Serpih"
 }
