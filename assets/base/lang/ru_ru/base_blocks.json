@@ -68,7 +68,7 @@
     "base:laser_emitter": "Лазерный излучатель",
     "base:laser_emitter::split": "Лазерный разделитель",
     "base:coal": "Блок угля",
-    "base:torch": "Факел"
+    "base:torch": "Факел",
     "base:laser_switch": "Лазерный переключатель",
     "base:electric_generator": "Геператор",
     "base:electric_furnace": "Электропечь",
