@@ -73,5 +73,7 @@
     "base:electric_generator": "Generator",
     "base:electric_furnace": "Electric Furnace",
     "base:clay": "Clay",
-    "base:stone_shale": "Shale"
+    "base:stone_shale": "Shale",
+    "base:piston": "Piston",
+    "base:piston::suction": "Suction Piston"
 }
