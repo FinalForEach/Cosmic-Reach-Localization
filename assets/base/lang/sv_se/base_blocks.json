@@ -73,5 +73,7 @@
     "base:electric_generator": "Elverk",
     "base:electric_furnace": "Elugn",
     "base:clay": "Lera",
-    "base:stone_shale": "Skiffersten"
+    "base:stone_shale": "Skiffersten",
+    "base:piston": "Kolv",
+    "base:piston::suction": "Insugskolv"
 }
