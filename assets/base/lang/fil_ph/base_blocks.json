@@ -71,5 +71,7 @@
     "base:torch": "Sulo",
     "base:laser_switch": "Switch ng Laser",
     "base:electric_generator": "Generator",
-    "base:electric_furnace": "De-koryenteng Pugon"
+    "base:electric_furnace": "De-koryenteng Pugon",
+    "base:clay": "Luwad",
+    "base:stone_shale": "Batong Putik"
 }
