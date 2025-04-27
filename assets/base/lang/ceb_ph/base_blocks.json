@@ -71,5 +71,7 @@
     "base:torch": "Sulo",
     "base:laser_switch": "Switch sa Laser",
     "base:electric_generator": "Dinamo",
-    "base:electric_furnace": "Dagitabnong Kayohan"
+    "base:electric_furnace": "Dagitabnong Kayohan",
+    "base:clay": "Yutang Kulonon",
+    "base:stone_shale": "Bato nga Lapok"
 }
