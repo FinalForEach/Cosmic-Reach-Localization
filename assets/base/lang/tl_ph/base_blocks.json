@@ -71,5 +71,7 @@
     "base:torch": "Sulô",
     "base:laser_switch": "Kabtól ng Laser",
     "base:electric_generator": "Likhítab",
-    "base:electric_furnace": "Dagitbíng Dapúgan"
+    "base:electric_furnace": "Dagitbíng Dapúgan",
+    "base:clay": "Luwád",
+    "base:stone_shale": "Dakbatóng Pútik"
 }
