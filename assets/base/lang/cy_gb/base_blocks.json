@@ -73,5 +73,7 @@
     "base:electric_generator": "Generadur",
     "base:electric_furnace": "Ffwrnais Trydanol",
     "base:clay": "Clai",
-    "base:stone_shale": "Siâl"
+    "base:stone_shale": "Siâl",
+    "base:piston": "Piston",
+    "base:piston::suction": "Piston Sugnedd"	
 }
