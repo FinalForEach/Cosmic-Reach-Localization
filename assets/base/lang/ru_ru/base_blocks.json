@@ -42,7 +42,7 @@
     "base:stone_basalt": "Базальт",
     "base:glass": "Стекло",
     "base:leaves": "Листья",
-    "base:furnace": "Печка",
+    "base:furnace": "Печь",
     "base:metal_panel": "Блок железа",
     "base:leaves_poplar": "Листья тополя",
     "base:sapling_poplar": "Саженец тополя",
@@ -69,4 +69,9 @@
     "base:laser_emitter::split": "Лазерный разделитель",
     "base:coal": "Блок угля",
     "base:torch": "Факел"
+    "base:laser_switch": "Лазерный переключатель",
+    "base:electric_generator": "Геператор",
+    "base:electric_furnace": "Электропечь",
+    "base:clay": "Глина",
+    "base:stone_shale": "Глинистый сланец"
 }
