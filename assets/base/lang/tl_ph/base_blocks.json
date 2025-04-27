@@ -73,5 +73,7 @@
     "base:electric_generator": "Likhítab",
     "base:electric_furnace": "Dagitbíng Dapúgan",
     "base:clay": "Luwád",
-    "base:stone_shale": "Dakbatóng Pútik"
+    "base:stone_shale": "Dakbatóng Pútik",
+    "base:piston": "Tublík",
+    "base:piston::suction": "Pangsúyop na Tublík"
 }
