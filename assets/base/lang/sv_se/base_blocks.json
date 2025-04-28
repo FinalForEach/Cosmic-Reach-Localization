@@ -75,5 +75,5 @@
     "base:clay": "Lera",
     "base:stone_shale": "Skiffersten",
     "base:piston": "Kolv",
-    "base:piston::suction": "Insugskolv"
+    "base:piston::suction": "Dragkolv"
 }
