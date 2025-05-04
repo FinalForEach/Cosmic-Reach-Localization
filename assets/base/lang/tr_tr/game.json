@@ -112,5 +112,8 @@
   "multiplayerBadDisconnect": "Bağlantı kesildi! Sebep:",
   "textDisplayInput": "Buraya yaz...",
   "skinChangeLabel": "Skin Değiştir",
-  "skinFileDesc": "128'e 64 Pixel PNG dosyası"
+  "skinFileDesc": "128'e 64 Pixel PNG dosyası",
+  "itemCatalogSearch": "Ara...",
+  "boomboxOctave": "Oktav",
+  "boomboxPlaySound": "Oynat"
 }
