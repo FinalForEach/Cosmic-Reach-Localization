@@ -68,5 +68,10 @@
     "base:laser_emitter": "Laserstrahler",
     "base:laser_emitter::split": "Laser-Zerteiler",
     "base:coal": "Kohleblock",
-    "base:torch": "Fackel"
+    "base:torch": "Fackel",
+    "base:electric_generator": "Generator",
+    "base:electric_furnace": "Elektroofen",
+    "base:laser_switch": "Laser-Schalter",
+    "base:clay": "Ton",
+    "base:stone_shale": "Schiefer"
 }

@@ -70,6 +70,6 @@
     "Screenshot_info": "Gemmer Skærmbillede til ",
     "Screenshot_error": "Fejl under lagring af Skærmbilledet.",
     "Loading": "Indlæser",
-    "RuntimeException": "Fejl under åbningen af verdnen: ",
+    "RuntimeException": "Fejl under åbningen af verdnen: "
   }
   

@@ -90,5 +90,5 @@
     "mouseRightButton" : "Правая кнопка мышы",
     "mouseBackButton" : "Кнопка назад",
     "mouseForwardButton" : "Кнопка ўперад",
-    "RuntimeException": "Свет не змог загрузіцца: ",
+    "RuntimeException": "Свет не змог загрузіцца: "
   }

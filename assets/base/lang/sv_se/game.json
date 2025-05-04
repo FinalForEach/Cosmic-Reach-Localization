@@ -75,5 +75,7 @@
   "Screenshot_error": "Misslyckades med att spara skärmdump.",
   "Loading": "Laddar",
   "RuntimeException": "Kunde inte ladda världen: ",
+  "boomboxOctave": "Oktav",
+  "boomboxPlaySound": "Spela upp"
 }
 

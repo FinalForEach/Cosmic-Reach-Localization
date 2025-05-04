@@ -16,6 +16,7 @@
     "mouseSensitivitySlider": "Чувствительность мыши: ",
     "soundSlider": "Звук: ",
     "musicSlider": "Музыка: ",
+    "musicFreqSlider": "Частота музыки в минутах: ",
     "fovSlider": "Поле зрения: ",
     "maxFPS": "Макс. FPS: ",
     "maxFPSUnlimited": "Макс. FPS: Неограничено",
@@ -108,8 +109,11 @@
     "multiplayerButton": "Сетевая игра",
     "multiplayerAddressButton": "Адрес: ",
     "multiplayerJoinButton": "Присоединиться",
-    "multiplayerBadDisconnect": "Соединение потеряно! Причина:"
+    "multiplayerBadDisconnect": "Соединение потеряно! Причина:",
     "textDisplayInput": "Текст набирать здесь...",
     "skinChangeLabel": "Изменить скин",
-    "skinFileDesc": "Файл PNG размером 128x64 пикселей"
+    "skinFileDesc": "Файл PNG размером 128x64 пикселей",
+    "itemCatalogSearch": "Поиск...",
+    "boomboxOctave": "Октава",
+    "boomboxPlaySound": "Играть звук"
 }

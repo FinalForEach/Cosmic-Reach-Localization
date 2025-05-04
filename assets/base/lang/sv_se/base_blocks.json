@@ -69,5 +69,9 @@
     "base:laser_emitter::split": "Laserdelare",
     "base:coal": "Kolblock",
     "base:torch": "Fackla",
-    "base:laser_switch": "Laserbrytare"
+    "base:laser_switch": "Laserbrytare",
+    "base:electric_generator": "Elverk",
+    "base:electric_furnace": "Elugn",
+    "base:clay": "Lera",
+    "base:stone_shale": "Skiffersten"
 }
