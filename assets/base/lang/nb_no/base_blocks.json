@@ -71,5 +71,9 @@
     "base:torch": "Fakkel",
     "base:laser_switch": "Laserbryter",
     "base:electric_generator": "Generator",
-    "base:electric_furnace": "Elektrisk ovn"
+    "base:electric_furnace": "Elektrisk ovn",
+    "base:clay": "Leire",
+    "base:stone_shale": "Leirskifer",
+  "base:piston": "Stempel",
+  "base:piston::suction": "Sugestempel"
 }

@@ -71,5 +71,9 @@
     "base:torch": "Antorcha",
     "base:laser_switch": "Interruptor láser",
     "base:electric_generator": "Generador",
-    "base:electric_furnace": "Horno eléctrico"
+    "base:electric_furnace": "Horno eléctrico",
+    "base:clay": "Arcilla",
+    "base:stone_shale": "Lutita",
+    "base:piston": "Pistón",
+    "base:piston::suction": "Pistón de succión"
 }
