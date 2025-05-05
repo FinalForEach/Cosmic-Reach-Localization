@@ -19,5 +19,6 @@
     "base:latex": "Látex",
     "base:rubber_ball": "Caucho",
     "base:laser_gun": "Pistola láser",
-    "base:jetpack": "Mochila propulsora"
+    "base:jetpack": "Jetpack",
+    "base:flamethrower": "Lanzallamas"
 }
