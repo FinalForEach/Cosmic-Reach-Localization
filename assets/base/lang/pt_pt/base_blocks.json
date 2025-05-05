@@ -71,5 +71,7 @@
     "base:torch": "Tocha",
     "base:laser_switch": "Comutador de Laser",
     "base:electric_generator": "Gerador",
-    "base:electric_furnace": "Fornalha Elétrica"
+    "base:electric_furnace": "Fornalha Elétrica",
+    "base:clay": "Argila",
+    "base:stone_shale": "Folhelho"
 }

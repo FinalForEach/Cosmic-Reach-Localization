@@ -2,7 +2,7 @@
     "base:air": "Himpapawíd",
     "base:aluminium_panel": "Bloké ng Alumínyo",
     "base:asphalt": "Aspálto",
-    "base:ore_bauxite": "Bauksíto",
+    "base:ore_bauxite": "Bawhíta",
     "base:c4": "C4",
     "base:cheese": "Késo",
     "base:stone_limestone": "Batóng Ápog",
@@ -51,7 +51,7 @@
     "base:ore_iron": "Batóng Bákal",
     "base:ore_gold": "Batóng Gintô",
     "base:tree_log": "Tróso ng Káhoy",
-    "base:stone_gravel": "Grába",
+    "base:stone_gravel": "Gásang",
     "base:boombox": "Daktunogán",
     "base:water": "Túbig",
     "base:snow": "Niyébe",
@@ -69,5 +69,9 @@
     "base:laser_emitter::split": "Tagahatì ng Laser",
     "base:coal": "Bloké ng Batóng Úling",
     "base:torch": "Sulô",
-    "base:laser_switch": "Kabtól ng Laser"
+    "base:laser_switch": "Kabtól ng Laser",
+    "base:electric_generator": "Likhítab",
+    "base:electric_furnace": "Dagitbíng Dapúgan",
+    "base:clay": "Luwád",
+    "base:stone_shale": "Dakbatóng Pútik"
 }

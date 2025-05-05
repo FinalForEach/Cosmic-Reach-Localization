@@ -71,5 +71,7 @@
     "base:torch": "Fackel",
     "base:electric_generator": "Generator",
     "base:electric_furnace": "Elektroofen",
-    "base:laser_switch": "Laser-Schalter"
+    "base:laser_switch": "Laser-Schalter",
+    "base:clay": "Ton",
+    "base:stone_shale": "Schiefer"
 }
