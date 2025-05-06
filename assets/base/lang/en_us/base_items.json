@@ -19,5 +19,6 @@
     "base:latex": "Latex",
     "base:rubber_ball": "Rubber",
     "base:laser_gun": "Laser Gun",
-    "base:jetpack": "Jetpack"
+    "base:jetpack": "Jetpack",
+    "base:flamethrower": "Flamethrower"
 }
