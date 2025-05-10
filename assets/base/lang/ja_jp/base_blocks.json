@@ -71,5 +71,9 @@
     "base:torch": "松明",
     "base:laser_switch": "レーザースイッチ",
     "base:electric_generator": "発電機",
-    "base:electric_furnace": "電気炉"
+    "base:electric_furnace": "電気炉",
+    "base:clay": "粘土",
+    "base:stone_shale": "頁岩",
+    "base:piston": "ピストン",
+    "base:piston::suction": "吸引ピストン"
 }
