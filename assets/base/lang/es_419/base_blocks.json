@@ -75,5 +75,5 @@
     "base:clay": "Arcilla",
     "base:stone_shale": "Lutita",
     "base:piston": "Pistón",
-    "base:piston::suction": "Pistón de succión"
+    "base:piston::suction": "Pistón de tracción"
 }
