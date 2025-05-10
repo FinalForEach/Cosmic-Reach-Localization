@@ -73,5 +73,7 @@
     "base:electric_generator": "Generator",
     "base:electric_furnace": "Tungku Listrik",
     "base:clay": "Tanah Liat",
-    "base:stone_shale": "Serpih"
+    "base:stone_shale": "Batu Serpih",
+    "base:piston": "Piston",
+    "base:piston::suction": "Piston Hisap"
 }
