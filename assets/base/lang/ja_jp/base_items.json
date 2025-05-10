@@ -19,5 +19,6 @@
     "base:latex": "ラテックス",
     "base:rubber_ball": "ゴム",
     "base:laser_gun": "レーザーガン",
-    "base:jetpack": "ジェットパック"
+    "base:jetpack": "ジェットパック",
+    "base:flamethrower": "火炎放射器"
 }

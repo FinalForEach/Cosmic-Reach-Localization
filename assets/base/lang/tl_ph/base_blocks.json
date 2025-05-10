@@ -39,7 +39,7 @@
     "base:lunar_soil_packed": "Siniksík na Lupà ng Buwán",
     "base:lunar_soil": "Lupà ng Buwán",
     "base:debug": "Pagdalísay",
-    "base:stone_basalt": "Basálto",
+    "base:stone_basalt": "Batúmbakal",
     "base:glass": "Salamín",
     "base:leaves": "Dáhon",
     "base:furnace": "Dapúgan",
@@ -48,8 +48,8 @@
     "base:sapling_poplar": "Halámang Álamo",
     "base:magma": "Mágma",
     "base:coconut": "Niyóg",
-    "base:ore_iron": "Batóng Bákal",
-    "base:ore_gold": "Batóng Gintô",
+    "base:ore_iron": "Dúkaling Bákal",
+    "base:ore_gold": "Dúkaling Gintô",
     "base:tree_log": "Tróso ng Káhoy",
     "base:stone_gravel": "Gásang",
     "base:boombox": "Daktunogán",
@@ -73,5 +73,7 @@
     "base:electric_generator": "Likhítab",
     "base:electric_furnace": "Dagitbíng Dapúgan",
     "base:clay": "Luwád",
-    "base:stone_shale": "Dakbatóng Pútik"
+    "base:stone_shale": "Dakbatóng Pútik",
+    "base:piston": "Tublík",
+    "base:piston::suction": "Pangsúyop na Tublík"
 }

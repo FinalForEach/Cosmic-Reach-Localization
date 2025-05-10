@@ -73,5 +73,7 @@
     "base:electric_generator": "Dinamo",
     "base:electric_furnace": "Dagitabnong Kayohan",
     "base:clay": "Yutang Kulonon",
-    "base:stone_shale": "Bato nga Lapok"
+    "base:stone_shale": "Bato nga Lapok",
+    "base:piston": "Piston",
+    "base:piston::suction": "Pangsuyop nga Piston"
 }

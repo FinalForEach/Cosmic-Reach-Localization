@@ -73,5 +73,7 @@
     "base:electric_generator": "Gerador",
     "base:electric_furnace": "Fornalha Elétrica",
     "base:clay": "Argila",
-    "base:stone_shale": "Folhelho"
+    "base:stone_shale": "Folhelho",
+    "base:piston": "Pistão",
+    "base:piston::suction": "Pistão de Sucção"
 }
