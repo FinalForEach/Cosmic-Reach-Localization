@@ -19,5 +19,6 @@
     "base:latex": "Latex",
     "base:rubber_ball": "Gumi",
     "base:laser_gun": "Lézer fegyver",
-    "base:jetpack": "Rakétahátizsák"
+    "base:jetpack": "Rakétahátizsák",
+    "base:flamethrower": "Lángszóró"
 }
