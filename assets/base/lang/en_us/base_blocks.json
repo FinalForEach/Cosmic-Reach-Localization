@@ -75,5 +75,7 @@
     "base:clay": "Clay",
     "base:stone_shale": "Shale",
     "base:piston": "Piston",
-    "base:piston::suction": "Suction Piston"
+    "base:piston::suction": "Suction Piston",
+    "base:ore_ruby": "Ruby Ore",
+    "base:ruby_block": "Block of Ruby"
 }

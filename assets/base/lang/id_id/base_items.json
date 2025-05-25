@@ -19,5 +19,6 @@
     "base:latex": "Getah",
     "base:rubber_ball": "Karet",
     "base:laser_gun": "Senjata Laser",
-    "base:jetpack": "Jetpack"
+    "base:jetpack": "Jetpack",
+    "base:flamethrower": "Penyembur Api"
 }

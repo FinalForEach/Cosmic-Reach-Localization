@@ -73,5 +73,7 @@
     "base:electric_generator": "Generator",
     "base:electric_furnace": "De-koryenteng Pugon",
     "base:clay": "Luwad",
-    "base:stone_shale": "Batong Putik"
+    "base:stone_shale": "Batong Putik",
+    "base:piston": "Piston",
+    "base:piston::suction": "Panghigop na Piston"
 }

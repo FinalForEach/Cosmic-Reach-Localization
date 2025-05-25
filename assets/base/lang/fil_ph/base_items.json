@@ -19,5 +19,6 @@
     "base:latex": "Lateks",
     "base:rubber_ball": "Goma",
     "base:laser_gun": "Baril ng Laser",
-    "base:jetpack": "Jetpack"
+    "base:jetpack": "Jetpack",
+    "base:flamethrower": "Flamethrower"
 }
