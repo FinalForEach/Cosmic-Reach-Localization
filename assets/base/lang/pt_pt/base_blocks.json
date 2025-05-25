@@ -75,5 +75,7 @@
     "base:clay": "Argila",
     "base:stone_shale": "Folhelho",
     "base:piston": "Pistão",
-    "base:piston::suction": "Pistão de Sucção"
+    "base:piston::suction": "Pistão de Sucção",
+    "base:ore_ruby": "Minério de Rubi",
+    "base:ruby_block": "Bloco de Rubi"
 }
