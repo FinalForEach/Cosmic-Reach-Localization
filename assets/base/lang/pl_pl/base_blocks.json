@@ -75,5 +75,7 @@
     "base:clay": "Glina",
     "base:stone_shale": "Łupek ilasty",
     "base:piston": "Tłok",
-    "base:piston::suction": "Tłok ssący"
+    "base:piston::suction": "Tłok ssący",
+    "base:ore_ruby": "Ruda rubinu",
+    "base:ruby_block": "Blok rubinu"
 }
