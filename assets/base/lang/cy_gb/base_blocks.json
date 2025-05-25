@@ -75,5 +75,7 @@
     "base:clay": "Clai",
     "base:stone_shale": "Siâl",
     "base:piston": "Piston",
-    "base:piston::suction": "Piston Sugnedd"	
+    "base:piston::suction": "Piston Sugnedd",
+    "base:ore_ruby": "Mwyn Ruby",
+    "base:ruby_block": "Bloc Ruby"
 }
