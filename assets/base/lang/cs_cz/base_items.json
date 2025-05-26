@@ -1,0 +1,25 @@
+{
+    "base:axe_aluminium": "Hliníková Sekyra",
+    "base:axe_iron": "Železná Sekyra",
+    "base:axe_stone": "Kamenná Sekyra",
+    "base:pickaxe_aluminium": "Hliníkový Krumpáč",
+    "base:pickaxe_iron": "Železný Krumpáč",
+    "base:pickaxe_stone": "Kamenný Krumpáč",
+    "base:shovel_aluminium": "Hliníková Lopata",
+    "base:shovel_iron": "Železná Lopata",
+    "base:shovel_stone": "Kamenná Lopata",
+    "base:ingot_aluminium": "Hliníkový Ingot",
+    "base:ingot_iron": "Železný Ingot",
+    "base:ingot_gold": "Zlatý Ingot",
+
+    "base:medkit": "Lékárnička",
+    "base:medkit_gold": "Zlatá Lékárnička",
+    "base:stick": "Klacek",
+    "base:fluid_vacuum": "Kapalinový Vysavač",
+    "base:latex": "Latex",
+    "base:rubber_ball": "Gumový Míček",
+    "base:laser_gun": "Laserová Pistole",
+    "base:jetpack": "Jetpack",
+    "base:flamethrower": "Plamenomet",
+    "base:ruby": "Rubín"
+}
