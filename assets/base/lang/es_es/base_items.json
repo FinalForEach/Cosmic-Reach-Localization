@@ -17,5 +17,8 @@
     "base:fluid_vacuum": "Aspiradora de líquidos",
     "base:latex": "Latex",
     "base:rubber_ball": "Caucho",
-    "base:laser_gun": "Pistola láser"
+    "base:laser_gun": "Pistola láser",
+    "base:jetpack": "Jetpack",
+    "base:flamethrower": "Lanzallamas",
+    "base:ruby": "Rubí"
 }

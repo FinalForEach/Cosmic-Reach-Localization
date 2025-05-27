@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Lingote de aluminio",
     "base:ingot_iron": "Lingote de hierro",
     "base:ingot_gold": "Lingote de oro",
-
     "base:medkit": "Botiquín",
     "base:medkit_gold": "Botiquín dorado",
     "base:stick": "Palo",
@@ -20,5 +19,6 @@
     "base:rubber_ball": "Caucho",
     "base:laser_gun": "Pistola láser",
     "base:jetpack": "Jetpack",
-    "base:flamethrower": "Lanzallamas"
+    "base:flamethrower": "Lanzallamas",
+    "base:ruby": "Rubí"
 }
