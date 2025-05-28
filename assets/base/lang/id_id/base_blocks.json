@@ -75,5 +75,7 @@
     "base:clay": "Tanah Liat",
     "base:stone_shale": "Batu Serpih",
     "base:piston": "Piston",
-    "base:piston::suction": "Piston Hisap"
+    "base:piston::suction": "Piston Hisap",
+    "base:ore_ruby": "Bijih Rubi",
+    "base:ruby_block": "Blok Rubi"
 }
