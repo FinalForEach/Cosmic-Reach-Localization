@@ -75,5 +75,7 @@
     "base:clay": "Kil",
     "base:stone_shale": "Taş Şist",
     "base:piston": "Piston",
-    "base:piston::suction": "Emiş Pistonu"
+    "base:piston::suction": "Emiş Pistonu",
+    "base:ore_ruby": "Yakut Cevheri",
+    "base:ruby_block": "Yakut Bloğu"
 }
