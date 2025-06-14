@@ -20,5 +20,9 @@
     "base:rubber_ball": "Caucho",
     "base:laser_gun": "Pistola láser",
     "base:jetpack": "Jetpack",
-    "base:flamethrower": "Lanzallamas"
+    "base:flamethrower": "Lanzallamas",
+    "base:ruby": "Rubí",
+    "base:sapphire": "Zafiro",
+    "base:corn": "Mazorca",
+    "base:corn_kernels": "Granos de maíz"
 }

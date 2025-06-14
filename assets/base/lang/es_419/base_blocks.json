@@ -66,7 +66,7 @@
     "base:gold_block": "Bloque de oro",
     "base:wood_door": "Puerta de madera",
     "base:laser_emitter": "Emisor láser",
-    "base:laser_emitter::split": "Dispersor de láser",
+    "base:laser_emitter::split": "Dispersor láser",
     "base:coal": "Bloque de carbón",
     "base:torch": "Antorcha",
     "base:laser_switch": "Interruptor láser",
@@ -75,5 +75,9 @@
     "base:clay": "Arcilla",
     "base:stone_shale": "Lutita",
     "base:piston": "Pistón",
-    "base:piston::suction": "Pistón de tracción"
+    "base:piston::suction": "Pistón de tracción",
+    "base:ore_ruby": "Mineral de rubí",
+    "base:ruby_block": "Bloque de rubí",
+    "base:sapphire_block": "Bloque de zafiro",
+    "base:maize": "Maíz"
 }
