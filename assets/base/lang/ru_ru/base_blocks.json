@@ -73,5 +73,11 @@
     "base:electric_generator": "Геператор",
     "base:electric_furnace": "Электропечь",
     "base:clay": "Глина",
-    "base:stone_shale": "Глинистый сланец"
+    "base:stone_shale": "Глинистый сланец",
+    "base:piston": "Поршень",
+    "base:piston::suction": "Втягивающий поршень",
+    "base:ore_ruby": "Рубиновая руда",
+    "base:ruby_block": "Блок рубина",
+    "base:sapphire_block": "Блок сапфира",
+    "base:maize": "Кукуруза"
 }
