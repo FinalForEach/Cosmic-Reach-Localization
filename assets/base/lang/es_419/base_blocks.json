@@ -77,5 +77,7 @@
     "base:piston": "Pistón",
     "base:piston::suction": "Pistón de tracción",
     "base:ore_ruby": "Mineral de rubí",
-    "base:ruby_block": "Bloque de rubí"
+    "base:ruby_block": "Bloque de rubí",
+    "base:sapphire_block": "Bloque de zafiro",
+    "base:maize": "Maíz"
 }
