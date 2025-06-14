@@ -77,5 +77,7 @@
     "base:piston": "Tłok",
     "base:piston::suction": "Tłok z przyssawką",
     "base:ore_ruby": "Ruda rubinu",
-    "base:ruby_block": "Blok rubinu"
+    "base:ruby_block": "Blok rubinu",
+    "base:sapphire_block": "Blok szafiru",
+    "base:maize": "Kukurydza"
 }
