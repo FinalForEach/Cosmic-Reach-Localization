@@ -21,5 +21,8 @@
     "base:laser_gun": "Pistola láser",
     "base:jetpack": "Jetpack",
     "base:flamethrower": "Lanzallamas",
-    "base:ruby": "Rubí"
+    "base:ruby": "Rubí",
+    "base:sapphire": "Zafiro",
+    "base:corn": "Maíz",
+    "base:corn_kernels": "Granos de maíz"
 }
