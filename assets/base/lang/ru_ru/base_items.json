@@ -18,6 +18,11 @@
     "base:fluid_vacuum": "Жидкостный пылесос",
     "base:latex": "Латекс",
     "base:rubber_ball": "Резина",
-    "base:laser_gun": "Лазерный",
-    "base:jetpack": "Реактивный ранец"
+    "base:laser_gun": "Лазерный пистолет",
+    "base:jetpack": "Реактивный ранец",
+    "base:flamethrower": "Огнемёт",
+    "base:ruby": "Рубин",
+    "base:sapphire": "Сапфир",
+    "base:corn": "Кукурузный початок",
+    "base:corn_kernels": "Кукурузные зёрна"
 }
