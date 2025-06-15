@@ -20,5 +20,9 @@
     "base:rubber_ball": "Karet",
     "base:laser_gun": "Senjata Laser",
     "base:jetpack": "Jetpack",
-    "base:flamethrower": "Penyembur Api"
+    "base:flamethrower": "Penyembur Api",
+    "base:ruby": "Rubi",
+    "base:sapphire": "Safir",
+    "base:corn": "Jagung",
+    "base:corn_kernels": "Biji Jagung"
 }
