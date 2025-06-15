@@ -77,5 +77,7 @@
     "base:piston": "Piston",
     "base:piston::suction": "Piston Hisap",
     "base:ore_ruby": "Bijih Rubi",
-    "base:ruby_block": "Blok Rubi"
+    "base:ruby_block": "Blok Rubi",
+    "base:sapphire_block": "Blok Safir",
+    "base:maize": "Jagung"
 }
