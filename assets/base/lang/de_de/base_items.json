@@ -19,5 +19,9 @@
     "base:rubber_ball": "Gummiball",
     "base:laser_gun": "Laserpistole",
     "base:jetpack": "Jetpack",
-    "base:flamethrower": "Flammenwerfer"
+    "base:flamethrower": "Flammenwerfer",
+    "base:ruby": "Rubin",
+    "base:sapphire": "Saphir",
+    "base:corn": "Mais",
+    "base:corn_kernels": "Mais Kernel"
 }
