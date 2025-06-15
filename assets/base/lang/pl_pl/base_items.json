@@ -21,5 +21,8 @@
     "base:laser_gun": "Miotacz laseru",
     "base:jetpack": "Plecak odrzutowy",
     "base:flamethrower": "Miotacz ognia",
-    "base:ruby": "Rubin"
+    "base:ruby": "Rubin",
+    "base:sapphire": "Szafir",
+    "base:corn": "Kukurydza",
+    "base:corn_kernels": "Ziarna kukurydzy"
 }
