@@ -77,5 +77,7 @@
     "base:piston": "Piston",
     "base:piston::suction": "Suction Piston",
     "base:ore_ruby": "Ruby Ore",
-    "base:ruby_block": "Block of Ruby"
+    "base:ruby_block": "Block of Ruby",
+    "base:sapphire_block": "Block of Sapphire",
+    "base:maize": "Maize"
 }

@@ -21,5 +21,8 @@
     "base:laser_gun": "Laser Gun",
     "base:jetpack": "Jetpack",
     "base:flamethrower": "Flamethrower",
-    "base:ruby": "Ruby"
+    "base:ruby": "Ruby",
+    "base:sapphire": "Sapphire",
+    "base:corn": "Corn",
+    "base:corn_kernels": "Corn Kernels"
 }
