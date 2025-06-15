@@ -21,5 +21,8 @@
     "base:laser_gun": "Lasergevär",
     "base:jetpack": "Jetpack",
     "base:flamethrower": "Eldspruta",
-    "base:ruby": "Rubin"
+    "base:ruby": "Rubin",
+    "base:sapphire": "Safir",
+    "base:corn": "Majs",
+    "base:corn_kernels": "Majskorn"
 }
