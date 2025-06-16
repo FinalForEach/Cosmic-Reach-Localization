@@ -20,5 +20,9 @@
     "base:rubber_ball": "Gumi",
     "base:laser_gun": "Lézer fegyver",
     "base:jetpack": "Rakétahátizsák",
-    "base:flamethrower": "Lángszóró"
+    "base:flamethrower": "Lángszóró",
+    "base:ruby": "Rubin",
+    "base:sapphire": "Zafír",
+    "base:corn": "Kukorica",
+    "base:corn_kernels": "Kukoricaszemek"
 }
