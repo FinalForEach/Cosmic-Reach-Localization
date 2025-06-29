@@ -114,5 +114,6 @@
     "skinFileDesc": "ffeil PNG gyda 128x64 picseli",
     "itemCatalogSearch": "Chwilio...",
     "boomboxOctave": "Wythfed",
-    "boomboxPlaySound": "Chwarae"
+    "boomboxPlaySound": "Chwarae",
+	"worldSelectionSearch": "Chwilio Bydoedd..."
 }
