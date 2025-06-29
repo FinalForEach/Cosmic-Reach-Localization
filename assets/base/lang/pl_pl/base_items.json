@@ -24,5 +24,6 @@
     "base:ruby": "Rubin",
     "base:sapphire": "Szafir",
     "base:corn": "Kolba kukurydzy",
-    "base:corn_kernels": "Ziarna kukurydzy"
+    "base:corn_kernels": "Ziarna kukurydzy",
+    "base:debug_wrench": "Klucz debugujący"
 }
