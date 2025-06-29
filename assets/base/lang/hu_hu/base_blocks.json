@@ -75,5 +75,11 @@
     "base:clay": "Agyag",
     "base:stone_shale": "Pala",
     "base:piston": "Dugattyú",
-    "base:piston::suction": "Szívódugattyú"
+    "base:piston::suction": "Szívódugattyú",
+    "base:ore_ruby": "Rubintérc",
+    "base:ruby_block": "Rubintblokk",
+    "base:sapphire_block": "Zafírblokk",
+    "base:maize": "Kukorica",
+    "base:ore_sapphire": "Zafírérc",
+    "base:lava": "Láva"
 }
