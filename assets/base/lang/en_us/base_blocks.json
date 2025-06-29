@@ -79,5 +79,7 @@
     "base:ore_ruby": "Ruby Ore",
     "base:ruby_block": "Block of Ruby",
     "base:sapphire_block": "Block of Sapphire",
-    "base:maize": "Maize"
+    "base:maize": "Maize",
+    "base:ore_sapphire": "Sapphire Ore",
+    "base:lava": "Lava"
 }
