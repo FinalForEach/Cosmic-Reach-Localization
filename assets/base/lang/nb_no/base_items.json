@@ -23,5 +23,6 @@
     "base:ruby": "Rubin",
     "base:sapphire": "Safir",
     "base:corn": "Maiskolbe",
-    "base:corn_kernels": "Maiskorn"
+    "base:corn_kernels": "Maiskorn",
+    "base:debug_wrench": "Feilsøkingsnøkkel"
 }
