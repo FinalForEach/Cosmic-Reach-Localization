@@ -23,5 +23,6 @@
     "base:ruby": "Rubi",
     "base:sapphire": "Safira",
     "base:corn": "Milho",
-    "base:corn_kernels": "Grãos de Milho"
+    "base:corn_kernels": "Grãos de Milho",
+    "base:debug_wrench": "Chave de Debug"
 }
