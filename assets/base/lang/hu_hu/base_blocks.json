@@ -79,5 +79,7 @@
     "base:ore_ruby": "Rubintérc",
     "base:ruby_block": "Rubintblokk",
     "base:sapphire_block": "Zafírblokk",
-    "base:maize": "Kukorica"
+    "base:maize": "Kukorica",
+    "base:ore_sapphire": "Zafírérc",
+    "base:lava": "Láva"
 }
