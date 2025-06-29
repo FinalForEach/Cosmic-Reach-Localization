@@ -80,5 +80,6 @@
     "base:ruby_block": "Blok rubinu",
     "base:ore_sapphire": "Ruda szafiru",
     "base:sapphire_block": "Blok szafiru",
-    "base:maize": "Kukurydza"
+    "base:maize": "Kukurydza",
+    "base:lava": "Lawa"
 }
