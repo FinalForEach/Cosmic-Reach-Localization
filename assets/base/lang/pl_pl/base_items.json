@@ -23,6 +23,7 @@
     "base:flamethrower": "Miotacz ognia",
     "base:ruby": "Rubin",
     "base:sapphire": "Szafir",
-    "base:corn": "Kukurydza",
-    "base:corn_kernels": "Ziarna kukurydzy"
+    "base:corn": "Kolba kukurydzy",
+    "base:corn_kernels": "Ziarna kukurydzy",
+    "base:debug_wrench": "Klucz debugujący"
 }
