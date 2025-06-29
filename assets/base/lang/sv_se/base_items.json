@@ -24,5 +24,6 @@
     "base:ruby": "Rubin",
     "base:sapphire": "Safir",
     "base:corn": "Majs",
-    "base:corn_kernels": "Majskorn"
+    "base:corn_kernels": "Majskorn",
+    "base:debug_wrench": "Debug-skiftnyckel"
 }
