@@ -23,5 +23,6 @@
     "base:ruby": "Rubí",
     "base:sapphire": "Zafiro",
     "base:corn": "Mazorca",
-    "base:corn_kernels": "Granos de maíz"
+    "base:corn_kernels": "Granos de maíz",
+    "base:debug_wrench": "Llave de debug"
 }
