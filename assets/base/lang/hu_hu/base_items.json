@@ -24,5 +24,6 @@
     "base:ruby": "Rubin",
     "base:sapphire": "Zafír",
     "base:corn": "Kukorica",
-    "base:corn_kernels": "Kukoricaszemek"
+    "base:corn_kernels": "Kukoricaszemek",
+    "base:debug_wrench": "Hibakereső csavarkulcs"
 }
