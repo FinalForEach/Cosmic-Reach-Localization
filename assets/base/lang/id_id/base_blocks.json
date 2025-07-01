@@ -79,5 +79,7 @@
     "base:ore_ruby": "Bijih Rubi",
     "base:ruby_block": "Blok Rubi",
     "base:sapphire_block": "Blok Safir",
-    "base:maize": "Jagung"
+    "base:maize": "Jagung",
+    "base:ore_sapphire": "Bijih Safir",
+    "base:lava": "Lahar"
 }
