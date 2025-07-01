@@ -24,5 +24,6 @@
     "base:ruby": "Rubi",
     "base:sapphire": "Safir",
     "base:corn": "Jagung",
-    "base:corn_kernels": "Biji Jagung"
+    "base:corn_kernels": "Biji Jagung",
+    "base:debug_wrench": "Kunci Debug"
 }
