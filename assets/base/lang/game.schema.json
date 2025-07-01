@@ -149,6 +149,7 @@
     "skinFileDesc": { "type": "string" },
     "itemCatalogSearch": { "type": "string" },
     "boomboxOctave": { "type": "string" },
-    "boomboxPlaySound": { "type": "string" }
+    "boomboxPlaySound": { "type": "string" },
+    "worldSelectionSearch": { "type": "string" }
   }
 }
