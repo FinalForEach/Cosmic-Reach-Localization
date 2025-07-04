@@ -112,5 +112,9 @@
   "multiplayerBadDisconnect": "Déconnecté! Raison:",
   "textDisplayInput": "Écrivez ici...",
   "skinChangeLabel": "Changez votre revêtement",
-  "skinFileDesc": "Fichier PNG en 128x64 pixels"
+  "skinFileDesc": "Fichier PNG en 128x64 pixels",
+  "itemCatalogSearch": "Rechercher...",
+  "boomboxOctave": "Octave",
+  "boomboxPlaySound": "Jouer",
+  "worldSelectionSearch": "Rechercher des mondes..."
 }
