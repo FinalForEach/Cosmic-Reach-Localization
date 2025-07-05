@@ -69,5 +69,17 @@
     "base:laser_emitter::split": "Лазерний розподілювач",
     "base:coal": "Блок вугілля",
     "base:torch": "Факел",
-    "base:laser_switch": "Лазерний перемикач"
+    "base:laser_switch": "Лазерний перемикач",
+    "base:electric_generator": "Генератор",
+    "base:electric_furnace": "Електрична піч",
+    "base:clay": "Глина",
+    "base:stone_shale": "Сланець",
+    "base:piston": "Поршень",
+    "base:piston::suction": "Всмоктувальний поршень",
+    "base:ore_ruby": "Рубінова руда",
+    "base:ruby_block": "Блок рубінів",
+    "base:sapphire_block": "Блок сапфірів",
+    "base:maize": "Маїс",
+    "base:ore_sapphire": "Сапфірова руда",
+    "base:lava": "Лава"
 }

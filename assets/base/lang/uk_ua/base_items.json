@@ -18,5 +18,12 @@
     "base:fluid_vacuum": "Рідинотяг",
     "base:latex": "Латекс",
     "base:rubber_ball": "Ґума",
-    "base:laser_gun": "Лазерна гвинтівка"
+    "base:laser_gun": "Лазерна гвинтівка",
+    "base:jetpack": "Реактивний ранець",
+    "base:flamethrower": "Вогнемет",
+    "base:ruby": "Рубін",
+    "base:sapphire": "Сапфір",
+    "base:corn": "Кукурудза",
+    "base:corn_kernels": "Зернята кукурудзи",
+    "base:debug_wrench": "Ключ налагодження"
 }
