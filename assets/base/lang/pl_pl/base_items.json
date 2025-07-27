@@ -25,5 +25,7 @@
     "base:sapphire": "Szafir",
     "base:corn": "Kolba kukurydzy",
     "base:corn_kernels": "Ziarna kukurydzy",
-    "base:debug_wrench": "Klucz debugujący"
+    "base:debug_wrench": "Klucz debugujący",
+    "base:steak": "Stek",
+    "base:manure": "Nawóz"
 }
