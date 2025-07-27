@@ -25,5 +25,7 @@
     "base:sapphire": "Safir",
     "base:corn": "Majs",
     "base:corn_kernels": "Majskorn",
-    "base:debug_wrench": "Debug-skiftnyckel"
+    "base:debug_wrench": "Debug-skiftnyckel",
+    "base:steak": "Stek",
+    "base:manure": "Gödsel"
 }
