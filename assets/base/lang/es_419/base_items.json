@@ -24,5 +24,7 @@
     "base:sapphire": "Zafiro",
     "base:corn": "Mazorca",
     "base:corn_kernels": "Granos de maíz",
-    "base:debug_wrench": "Llave de desarrollo"
+    "base:debug_wrench": "Llave de desarrollo",
+    "base:steak": "Filete",
+    "base:manure": "Estiércol"
 }
