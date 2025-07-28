@@ -25,5 +25,7 @@
     "base:sapphire": "Safir",
     "base:corn": "Maiskolbe",
     "base:corn_kernels": "Maiskorn",
-    "base:debug_wrench": "Avlusarnøkkel"
+    "base:debug_wrench": "Avlusarnøkkel",
+    "base:steak": "Biff",
+    "base:manure": "Gjødsel"
 }
