@@ -80,6 +80,9 @@
   "Open_Worlds_Directory": "Відкрити розташування світів",
   "YT_Channel": "Переглянути прогрес розробки можна на youtube.com/@finalforeach",
   "Game_version_prealpha": "Cosmic Reach Version Pre-alpha-",
+  "Game_version_alpha": "Cosmic Reach Version Alpha-",
+  "Game_version_beta": "Cosmic Reach Version Beta-",
+  "Game_version_release": "Cosmic Reach Version ",
   "MAC_warning": "УВАГА: MacOS наразі не підтримується. Гра скоріш за все не працюватиме.",
   "Controller": "Контролер",
   "Controllers": "Контролери",
@@ -101,6 +104,7 @@
   "creditsAdditionalProgramming": "Додаткове програмування:",
   "creditsAdditionalModelling": "Додаткове моделювання:",
   "creditsAdditionalTexturing": "Додаткове текстурування:",
+  "creditsAdditionalMobs": "Додаткові істоти:",
   "creditsLocalization": "Переклад:",
   "multiplayerButton": "Гра з ватагою",
   "multiplayerAddressButton": "Адреса: ",
@@ -109,5 +113,8 @@
   "textDisplayInput": "Вводьте тут...",
   "skinChangeLabel": "Змінити своє вбрання",
   "skinFileDesc": "Файл формату PNG роздільної здатності 128x64 пікселів",
-  "itemCatalogSearch": "Пошук..."
+  "itemCatalogSearch": "Пошук...",
+  "boomboxOctave": "Октава",
+  "boomboxPlaySound": "Грати",
+  "worldSelectionSearch": "Пошук світів..."
 }

@@ -25,5 +25,7 @@
     "base:sapphire": "Sapphire",
     "base:corn": "Corn",
     "base:corn_kernels": "Corn Kernels",
-    "base:debug_wrench": "Debug Wrench"
+    "base:debug_wrench": "Debug Wrench",
+    "base:steak": "Steak",
+    "base:manure": "Manure"
 }

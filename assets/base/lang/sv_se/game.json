@@ -76,6 +76,7 @@
   "Loading": "Laddar",
   "RuntimeException": "Kunde inte ladda världen: ",
   "boomboxOctave": "Oktav",
-  "boomboxPlaySound": "Spela upp"
+  "boomboxPlaySound": "Spela upp",
+  "worldSelectionSearch": "Sök världar..."
 }
 
