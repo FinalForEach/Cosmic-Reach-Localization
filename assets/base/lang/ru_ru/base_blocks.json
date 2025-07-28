@@ -79,5 +79,7 @@
     "base:ore_ruby": "Рубиновая руда",
     "base:ruby_block": "Блок рубина",
     "base:sapphire_block": "Блок сапфира",
-    "base:maize": "Кукуруза"
+    "base:maize": "Кукуруза",
+    "base:ore_sapphire": "Сапфировая руда",
+    "base:lava": "Лава"
 }
