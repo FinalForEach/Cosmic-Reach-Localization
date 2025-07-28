@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Алюминиевый слиток",
     "base:ingot_iron": "Железный слиток",
     "base:ingot_gold": "Золотой слиток",
-
     "base:medkit": "Аптечка",
     "base:medkit_gold": "Золотая аптечка",
     "base:stick": "Палка",
@@ -24,5 +23,8 @@
     "base:ruby": "Рубин",
     "base:sapphire": "Сапфир",
     "base:corn": "Кукурузный початок",
-    "base:corn_kernels": "Кукурузные зёрна"
+    "base:corn_kernels": "Кукурузные зёрна",
+    "base:debug_wrench": "Отладочный ключ",
+    "base:steak": "Стейк",
+    "base:manure": "Навоз"
 }
