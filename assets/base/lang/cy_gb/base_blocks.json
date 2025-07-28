@@ -79,5 +79,7 @@
     "base:ore_ruby": "Mwyn Ruby",
     "base:ruby_block": "Bloc Ruby",
     "base:sapphire_block": "Bloc Saffir",
-    "base:maize": "Indrawn"
+    "base:maize": "Indrawn",
+    "base:ore_sapphire": "Mwyn Saffir",
+    "base:lava": "Lafa"
 }
