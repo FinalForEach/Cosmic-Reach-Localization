@@ -81,5 +81,6 @@
     "base:sapphire_block": "Bloque de zafiro",
     "base:maize": "Maíz",
     "base:ore_sapphire": "Mineral de zafiro",
-    "base:lava": "Lava"
+    "base:lava": "Lava",
+    "base:dispenser": "Dispensador"
 }
