@@ -24,5 +24,7 @@
     "base:sapphire": "Safira",
     "base:corn": "Milho",
     "base:corn_kernels": "Grãos de Milho",
-    "base:debug_wrench": "Chave de Debug"
+    "base:debug_wrench": "Chave de Debug",
+    "base:steak": "Bife",
+    "base:manure": "Estrume"
 }
