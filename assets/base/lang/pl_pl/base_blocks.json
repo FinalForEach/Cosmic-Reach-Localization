@@ -81,5 +81,6 @@
     "base:ore_sapphire": "Ruda szafiru",
     "base:sapphire_block": "Blok szafiru",
     "base:maize": "Kukurydza",
-    "base:lava": "Lawa"
+    "base:lava": "Lawa",
+    "base:dispenser": "Dozownik"
 }
