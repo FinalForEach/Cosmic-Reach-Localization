@@ -11,14 +11,21 @@
     "base:ingot_aluminium": "Lingote de aluminio",
     "base:ingot_iron": "Lingote de hierro ",
     "base:ingot_gold": "Lingote de oro",
+	
     "base:medkit": "Botiquín",
     "base:medkit_gold": "Botiquín dorado",
     "base:stick": "Palo",
-    "base:fluid_vacuum": "Aspiradora de líquidos",
+    "base:fluid_vacuum": "Aspirador de líquidos",
     "base:latex": "Latex",
     "base:rubber_ball": "Caucho",
     "base:laser_gun": "Pistola láser",
     "base:jetpack": "Jetpack",
     "base:flamethrower": "Lanzallamas",
     "base:ruby": "Rubí"
+	"base:sapphire": "Zafiro",
+    "base:corn": "Maíz",
+    "base:corn_kernels": "Granos de maíz",
+    "base:debug_wrench": "Llave debug",
+    "base:steak": "Filete",
+    "base:manure": "Estiércol"
 }
