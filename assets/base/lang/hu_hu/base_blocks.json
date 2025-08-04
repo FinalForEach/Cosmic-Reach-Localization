@@ -81,5 +81,6 @@
     "base:sapphire_block": "Zafírblokk",
     "base:maize": "Kukorica",
     "base:ore_sapphire": "Zafírérc",
-    "base:lava": "Láva"
+    "base:lava": "Láva",
+    "base:dispenser": "Adagoló"
 }
