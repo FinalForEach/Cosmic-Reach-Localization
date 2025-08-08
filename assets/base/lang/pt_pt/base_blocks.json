@@ -81,5 +81,6 @@
     "base:sapphire_block": "Bloco de Safira",
     "base:maize": "Milho",
     "base:ore_sapphire": "Minério de Safira",
-    "base:lava": "Lava"
+    "base:lava": "Lava",
+    "base:dispenser": "Dispensador"
 }
