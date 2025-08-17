@@ -20,5 +20,12 @@
     "base:rubber_ball": "Gummiball",
     "base:laser_gun": "Laserpistol",
     "base:jetpack": "Flyvesekk",
-    "base:flamethrower": "Flammekastar"
+    "base:flamethrower": "Flammekastar",
+    "base:ruby": "Rubin",
+    "base:sapphire": "Safir",
+    "base:corn": "Maiskolbe",
+    "base:corn_kernels": "Maiskorn",
+    "base:debug_wrench": "Avlusarnøkkel",
+    "base:steak": "Biff",
+    "base:manure": "Gjødsel"
 }

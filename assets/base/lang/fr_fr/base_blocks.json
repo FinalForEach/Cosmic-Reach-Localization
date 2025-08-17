@@ -68,5 +68,18 @@
     "base:laser_emitter": "Émetteur de laser",
     "base:laser_emitter::split": "Diviseur de laser",
     "base:coal": "Bloc de charbon",
-    "base:torch": "Torche"
+    "base:torch": "Torche",
+    "base:laser_switch": "Interrupteur Laser",
+    "base:electric_generator": "Générateur électrique",
+    "base:electric_furnace": "Four électrique",
+    "base:clay": "Argile",
+    "base:stone_shale": "Schiste",
+    "base:piston": "Piston",
+    "base:piston::suction": "Piston à aspiration",
+    "base:ore_ruby": "Minerai de rubis",
+    "base:ruby_block": "Bloc de rubis",
+    "base:sapphire_block": "Bloc de saphir",
+    "base:maize": "Maïs",
+    "base:ore_sapphire": "Minerai de saphir",
+    "base:lava": "Lave"
 }

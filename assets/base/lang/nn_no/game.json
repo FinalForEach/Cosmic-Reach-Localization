@@ -118,5 +118,6 @@
   "skinFileDesc": "Teksturen må vera ein PNG på 128x64 pikslar",
   "itemCatalogSearch": "Søk...",
   "boomboxOctave": "Oktav",
-  "boomboxPlaySound": "Spel"
+  "boomboxPlaySound": "Spel",
+  "worldSelectionSearch": "Søk etter verder…"
 }

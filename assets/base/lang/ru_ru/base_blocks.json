@@ -80,7 +80,7 @@
     "base:ruby_block": "Блок рубина",
     "base:sapphire_block": "Блок сапфира",
     "base:maize": "Кукуруза",
-    "base:lava": "Лава",
     "base:dispenser": "Выбрасыватель",
-    "base:sandstone": "Песчаник"
+    "base:sandstone": "Песчаник",
+    "base:ore_sapphire": "Сапфировая руда"
 }

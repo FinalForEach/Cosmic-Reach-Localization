@@ -114,5 +114,14 @@
     "skinFileDesc": "Ficheiro PNG com 128x64 pixeis",
     "itemCatalogSearch": "Pesquisar...",
     "boomboxOctave": "Oitava",
-    "boomboxPlaySound": "Tocar"
+    "boomboxPlaySound": "Tocar",
+    "worldSelectionSearch": "Procurar Mundos...",
+    "createWorldGamemode": "Modo de Jogo:",
+    "gamemode_survival": "Sobrevivência",
+    "gamemode_creative": "Criativo",
+    "zone_base:earth": "Terra",
+    "zone_base:flat": "Plano",
+    "zone_base:moon": "Lua",
+    "zone_base:nostalgic_island": "Ilhas Nostálgicas",
+    "zone_base:void": "Mundo Vazio"
 }

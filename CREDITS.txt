@@ -24,6 +24,7 @@
 * AlfonsoLVG
 * Faurl
 * Fett Ron
+* siljamdev
 
 == Latin America Spanish Localization ==
 * Wesly

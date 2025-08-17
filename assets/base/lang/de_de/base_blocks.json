@@ -73,5 +73,12 @@
     "base:electric_furnace": "Elektroofen",
     "base:laser_switch": "Laser-Schalter",
     "base:clay": "Ton",
-    "base:stone_shale": "Schiefer"
+    "base:stone_shale": "Schiefer",
+    "base:piston": "Kolben",
+    "base:piston::suction": "Sauge Kolben",
+    "base:ore_ruby": "Rubinerz",
+    "base:ruby_block": "Rubinblock",
+    "base:sapphire_block": "Saphirblock",
+    "base:maize": "Mais",
+    "base:sandstone": "Sandstein"
 }

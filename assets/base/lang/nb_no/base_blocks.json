@@ -74,6 +74,13 @@
     "base:electric_furnace": "Elektrisk ovn",
     "base:clay": "Leire",
     "base:stone_shale": "Leirskifer",
-  "base:piston": "Stempel",
-  "base:piston::suction": "Sugestempel"
+    "base:piston": "Stempel",
+    "base:piston::suction": "Sugestempel",
+    "base:ore_ruby": "Rubinmalm",
+    "base:ruby_block": "Rubinblokk",
+    "base:sapphire_block": "Safirblokk",
+    "base:maize": "Maisplante",
+    "base:ore_sapphire": "Safirmalm",
+    "base:lava": "Lava",
+    "base:dispenser": "Utkaster"
 }

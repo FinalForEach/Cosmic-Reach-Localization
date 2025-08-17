@@ -77,5 +77,11 @@
     "base:piston": "Piston",
     "base:piston::suction": "Piston Sugnedd",
     "base:ore_ruby": "Mwyn Ruby",
-    "base:ruby_block": "Bloc Ruby"
+    "base:ruby_block": "Bloc Ruby",
+    "base:sapphire_block": "Bloc Saffir",
+    "base:maize": "Indrawn",
+    "base:ore_sapphire": "Mwyn Saffir",
+    "base:lava": "Lafa",
+    "base:dispenser": "Dosbarthwr",
+    "base:sandstone": "Tywodfaen"
 }

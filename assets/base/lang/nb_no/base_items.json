@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Aluminiumbarre",
     "base:ingot_iron": "Jernbarre",
     "base:ingot_gold": "Gullbarre",
-
     "base:medkit": "Førstehjelpsskrin",
     "base:medkit_gold": "Førstehjelpsskrin av gull",
     "base:stick": "Pinne",
@@ -20,5 +19,10 @@
     "base:rubber_ball": "Gummiball",
     "base:laser_gun": "Laserpistol",
     "base:jetpack": "Flyvesekk",
-    "base:flamethrower": "Flammekaster"
+    "base:flamethrower": "Flammekaster",
+    "base:ruby": "Rubin",
+    "base:sapphire": "Safir",
+    "base:corn": "Maiskolbe",
+    "base:corn_kernels": "Maiskorn",
+    "base:debug_wrench": "Feilsøkingsnøkkel"
 }

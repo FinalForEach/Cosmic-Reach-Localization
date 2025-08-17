@@ -77,5 +77,11 @@
     "base:piston": "Tłok",
     "base:piston::suction": "Tłok z przyssawką",
     "base:ore_ruby": "Ruda rubinu",
-    "base:ruby_block": "Blok rubinu"
+    "base:ruby_block": "Blok rubinu",
+    "base:ore_sapphire": "Ruda szafiru",
+    "base:sapphire_block": "Blok szafiru",
+    "base:maize": "Kukurydza",
+    "base:lava": "Lawa",
+    "base:dispenser": "Dozownik",
+    "base:sandstone": "Piaskowiec"
 }
