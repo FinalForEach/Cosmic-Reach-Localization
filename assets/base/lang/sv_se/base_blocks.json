@@ -82,5 +82,6 @@
     "base:maize": "Majsplanta",
     "base:ore_sapphire": "Safirmalm",
     "base:lava": "Lava",
-    "base:dispenser": "Slunga"
+    "base:dispenser": "Slunga",
+    "base:sandstone": "Sandsten"
 }
