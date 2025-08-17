@@ -27,5 +27,7 @@
     "base:corn_kernels": "Maiskorn",
     "base:debug_wrench": "Avlusarnøkkel",
     "base:steak": "Biff",
-    "base:manure": "Gjødsel"
+    "base:manure": "Gjødsel",
+    "base:microchip": "Mikrobrikke",
+    "base:crowbar": "Brekkjern"
 }
