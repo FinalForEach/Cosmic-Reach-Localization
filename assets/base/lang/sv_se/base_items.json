@@ -27,5 +27,7 @@
     "base:corn_kernels": "Majskorn",
     "base:debug_wrench": "Debug-skiftnyckel",
     "base:steak": "Stek",
-    "base:manure": "Gödsel"
+    "base:manure": "Gödsel",
+    "base:microchip": "Mikrochip",
+    "base:crowbar": "Kofot"
 }
