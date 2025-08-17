@@ -116,5 +116,13 @@
   "itemCatalogSearch": "Search...",
   "boomboxOctave": "Octave",
   "boomboxPlaySound": "Play",
-  "worldSelectionSearch": "Search Worlds..."
+  "worldSelectionSearch": "Search Worlds...",
+  "createWorldGamemode": "Gamemode:",
+  "gamemode_survival": "Survival",
+  "gamemode_creative": "Creative",
+  "zone_base:earth": "Earth",
+  "zone_base:flat": "Flat",
+  "zone_base:moon": "Moon",
+  "zone_base:nostalgic_island": "Nostalgic Islands",
+  "zone_base:void": "Void World"
 }
