@@ -27,5 +27,7 @@
     "base:corn_kernels": "Corn Kernels",
     "base:debug_wrench": "Debug Wrench",
     "base:steak": "Steak",
-    "base:manure": "Manure"
+    "base:manure": "Manure",
+    "base:microchip": "Microchip",
+    "base:crowbar": "Crowbar"
 }

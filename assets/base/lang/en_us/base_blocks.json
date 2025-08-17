@@ -82,5 +82,6 @@
     "base:maize": "Maize",
     "base:ore_sapphire": "Sapphire Ore",
     "base:lava": "Lava",
-    "base:dispenser": "Dispenser"
+    "base:dispenser": "Dispenser",
+    "base:sandstone": "Sandstone"
 }
