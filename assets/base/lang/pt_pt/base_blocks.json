@@ -82,5 +82,6 @@
     "base:maize": "Milho",
     "base:ore_sapphire": "Minério de Safira",
     "base:lava": "Lava",
-    "base:dispenser": "Dispensador"
+    "base:dispenser": "Dispensador",
+    "base:sandstone": "Arenito"
 }
