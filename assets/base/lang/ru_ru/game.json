@@ -115,5 +115,14 @@
     "skinFileDesc": "Файл PNG размером 128x64 пикселей",
     "itemCatalogSearch": "Поиск...",
     "boomboxOctave": "Октава",
-    "boomboxPlaySound": "Играть звук"
+    "boomboxPlaySound": "Играть звук",
+    "worldSelectionSearch": "Поиск мира...",
+    "createWorldGamemode": "Режим игры:",
+    "gamemode_survival": "Выживание",
+    "gamemode_creative": "Творчество",
+    "zone_base:earth": "Земля",
+    "zone_base:flat": "Плоскость",
+    "zone_base:moon": "Луна",
+    "zone_base:nostalgic_island": "Ностальгические острова",
+    "zone_base:void": "Пустота"
 }
