@@ -27,5 +27,7 @@
     "base:corn_kernels": "Ziarna kukurydzy",
     "base:debug_wrench": "Klucz debugujący",
     "base:steak": "Stek",
-    "base:manure": "Nawóz"
+    "base:manure": "Nawóz",
+    "base:microchip": "Mikrochip",
+    "base:crowbar": "Łom"
 }
