@@ -26,5 +26,7 @@
     "base:corn_kernels": "Granos de maíz",
     "base:debug_wrench": "Llave de desarrollo",
     "base:steak": "Bistec",
-    "base:manure": "Estiércol"
+    "base:manure": "Estiércol",
+    "base:microchip": "Microchip",
+    "base:crowbar": "Barreta"
 }

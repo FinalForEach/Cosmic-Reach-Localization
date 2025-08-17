@@ -82,5 +82,6 @@
     "base:maize": "Maíz",
     "base:ore_sapphire": "Mineral de zafiro",
     "base:lava": "Lava",
-    "base:dispenser": "Dispensador"
+    "base:dispenser": "Dispensador",
+    "base:dispenser": "Arenisca"
 }

@@ -116,5 +116,13 @@
   "itemCatalogSearch": "Buscar...",
   "boomboxOctave": "Octava",
   "boomboxPlaySound": "Reproducir",
-  "worldSelectionSearch": "Buscar mundos..."
+  "worldSelectionSearch": "Buscar mundos...",
+  "createWorldGamemode": "Modo de juego:",
+  "gamemode_survival": "Supervivencia",
+  "gamemode_creative": "Creativo",
+  "zone_base:earth": "Tierra",
+  "zone_base:flat": "Plano",
+  "zone_base:moon": "Luna",
+  "zone_base:nostalgic_island": "Islas nostálgicas",
+  "zone_base:void": "Vacío"
 }
