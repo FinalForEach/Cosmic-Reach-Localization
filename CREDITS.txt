@@ -83,6 +83,7 @@
 * Samuel Deboni
 * José Siqueira
 * Tobias Aaron Hurter
+* Eri - https://github.com/StShAzzy
 
 == Portuguese Localization ==
 * DarkenLM
