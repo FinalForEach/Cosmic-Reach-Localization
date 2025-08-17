@@ -81,5 +81,6 @@
     "base:sapphire_block": "Safirblokk",
     "base:maize": "Maisplante",
     "base:ore_sapphire": "Safirmalm",
-    "base:lava": "Lava"
+    "base:lava": "Lava",
+    "base:dispenser": "Utkastar"
 }
