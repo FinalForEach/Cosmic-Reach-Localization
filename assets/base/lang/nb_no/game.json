@@ -119,5 +119,12 @@
   "itemCatalogSearch": "Søk...",
   "boomboxOctave": "Oktav",
   "boomboxPlaySound": "Spill",
-  "worldSelectionSearch": "Søk etter verdener…"
+  "worldSelectionSearch": "Søk etter verdener…",
+  "gamemode_survival": "Overlevelse",
+  "gamemode_creative": "Kreative",
+  "zone_base:earth": "Jorden",
+  "zone_base:flat": "Flat",
+  "zone_base:moon": "Månen",
+  "zone_base:nostalgic_island": "Nostalgiske øyer",
+  "zone_base:void": "Tom verden"
 }
