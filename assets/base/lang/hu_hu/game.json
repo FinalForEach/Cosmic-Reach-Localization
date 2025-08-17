@@ -115,5 +115,6 @@
   "skinFileDesc": "PNG fájl 128x64 pixellel",
   "itemCatalogSearch": "Keresés...",
   "boomboxOctave": "Oktáv",
-  "boomboxPlaySound": "Lejátszás"
+  "boomboxPlaySound": "Lejátszás",
+  "worldSelectionSearch": "Világok keresése..."
 }
