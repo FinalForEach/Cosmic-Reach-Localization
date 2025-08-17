@@ -24,5 +24,7 @@
     "base:sapphire": "Safir",
     "base:corn": "Maiskolbe",
     "base:corn_kernels": "Maiskorn",
-    "base:debug_wrench": "Feilsøkingsnøkkel"
+    "base:debug_wrench": "Feilsøkingsnøkkel",
+    "base:microchip": "Mikrobrikke",
+    "base:crowbar": "Brekkjern"
 }
