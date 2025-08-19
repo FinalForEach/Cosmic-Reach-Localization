@@ -117,6 +117,7 @@
   "boomboxOctave": "Oktawa",
   "boomboxPlaySound": "Zagraj",
   "worldSelectionSearch": "Szukaj światów...",
+  "createWorldGamemode": "Tryb gry:",
   "gamemode_survival": "Przetrwanie",
   "gamemode_creative": "Kreatywny",
   "zone_base:earth": "Ziemia",
