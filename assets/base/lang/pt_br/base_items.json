@@ -29,5 +29,6 @@
     "base:steak": "Bife",
     "base:manure": "Esterco",
     "base:microchip": "Microchip",
-    "base:crowbar": "Pé de Cabra"
+    "base:crowbar": "Pé de Cabra",
+	"base:remote_control": "Controle Remoto"
 }
