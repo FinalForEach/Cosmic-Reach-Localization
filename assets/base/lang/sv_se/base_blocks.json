@@ -83,5 +83,9 @@
     "base:ore_sapphire": "Safirmalm",
     "base:lava": "Lava",
     "base:dispenser": "Slunga",
-    "base:sandstone": "Sandsten"
+    "base:sandstone": "Sandsten",
+    "base:sandstone::bricks": "Sandstenstegel",
+    "base:stone_gabbro::bricks": "Gabbrotegel",
+    "base:stone_basalt::bricks": "Basalttegel",
+    "base:stone_limestone::bricks": "Kalkstenstegel"
 }

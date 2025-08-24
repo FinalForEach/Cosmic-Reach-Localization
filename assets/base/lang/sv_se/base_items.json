@@ -29,5 +29,7 @@
     "base:steak": "Stek",
     "base:manure": "Gödsel",
     "base:microchip": "Mikrochip",
-    "base:crowbar": "Kofot"
+    "base:crowbar": "Kofot",
+    "base:remote_control": "Fjärrkontroll"
+    
 }
