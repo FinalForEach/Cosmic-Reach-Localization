@@ -125,4 +125,6 @@
   "zone_base:moon": "Lua",
   "zone_base:nostalgic_island": "Ilhas Nostálgicas",
   "zone_base:void": "Mundo Vazio"
+  "mobUnnamed": "Sem Nome",
+  "remoteControlMobNameInputLabel": "Nome:"
 }
