@@ -83,5 +83,9 @@
     "base:ore_sapphire": "Minério de Safira",
     "base:lava": "Lava",
     "base:dispenser": "Distribuidora",
-    "base:sandstone": "Arenito"
+    "base:sandstone": "Arenito",
+	"base:sandstone::bricks": "Tijolos de Aretino",
+	"base:stone_gabbro::bricks": "Tijolos de Gabro",
+	"base:stone_basalt::bricks": "Tijolos de Basalto",
+	"base:stone_limestone::bricks": "Tijolos de Calcário"
 }
