@@ -124,5 +124,7 @@
     "zone_base:flat": "Плоскость",
     "zone_base:moon": "Луна",
     "zone_base:nostalgic_island": "Ностальгические острова",
-    "zone_base:void": "Пустота"
+    "zone_base:void": "Пустота",
+    "mobUnnamed": "Без названия",
+    "remoteControlMobNameInputLabel": "Имя:"
 }
