@@ -29,5 +29,6 @@
     "base:steak": "Stek",
     "base:manure": "Nawóz",
     "base:microchip": "Mikrochip",
-    "base:crowbar": "Łom"
+    "base:crowbar": "Łom",
+    "base:remote_control": "Pilot"
 }
