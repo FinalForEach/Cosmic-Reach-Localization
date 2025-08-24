@@ -83,5 +83,9 @@
     "base:ore_sapphire": "Сапфировая руда",
     "base:lava": "Лава",
     "base:dispenser": "Выбрасыватель",
-    "base:sandstone": "Песчаник"
+    "base:sandstone": "Песчаник",
+    "base:sandstone::bricks": "Песчаные кирпичи",
+    "base:stone_gabbro::bricks": "Габбровые кирпичи",
+    "base:stone_basalt::bricks": "Базальтовые кирпичи",
+    "base:stone_limestone::bricks": "Известняковые кирпичи"
 }
