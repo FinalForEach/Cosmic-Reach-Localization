@@ -29,5 +29,6 @@
     "base:steak": "Steak",
     "base:manure": "Fumier",
     "base:microchip": "Puce électronique",
-    "base:crowbar": "Pied-de-biche"
+    "base:crowbar": "Pied-de-biche",
+    "base:remote_control": "Télécommande"
 }
