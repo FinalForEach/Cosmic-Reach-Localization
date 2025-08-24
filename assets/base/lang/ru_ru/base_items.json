@@ -24,7 +24,10 @@
     "base:sapphire": "Сапфир",
     "base:corn": "Кукурузный початок",
     "base:corn_kernels": "Кукурузные зёрна",
-    "base:debug_wrench": "Отладочный ключ",
+    "base:debug_wrench": "Гаечный ключ отладки",
     "base:steak": "Стейк",
-    "base:manure": "Навоз"
+    "base:manure": "Навоз",
+    "base:microchip": "Микрочип",
+    "base:crowbar": "Лом",
+    "base:remote_control": "Пульт дистанционного управления"
 }
