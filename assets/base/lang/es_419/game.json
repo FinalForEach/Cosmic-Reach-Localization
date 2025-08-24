@@ -124,5 +124,7 @@
   "zone_base:flat": "Plano",
   "zone_base:moon": "Luna",
   "zone_base:nostalgic_island": "Islas nostálgicas",
-  "zone_base:void": "Vacío"
+  "zone_base:void": "Vacío",
+  "mobUnnamed": "Sin nombre",
+  "remoteControlMobNameInputLabel": "Nombre:"
 }
