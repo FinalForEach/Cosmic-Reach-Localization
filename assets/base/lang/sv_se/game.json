@@ -84,6 +84,8 @@
   "zone_base:flat": "Platt",
   "zone_base:moon": "Måne",
   "zone_base:nostalgic_island": "Nostalgiska Öar",
-  "zone_base:void": "Tomhetens Värld"
+  "zone_base:void": "Tomhetens Värld",
+  "mobUnnamed": "Namnlös",
+  "remoteControlMobNameInputLabel": "Namn:"
 }
 
