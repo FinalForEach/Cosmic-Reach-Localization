@@ -126,5 +126,7 @@
   "zone_base:flat": "Flat verden",
   "zone_base:moon": "Månen",
   "zone_base:nostalgic_island": "Nostalgiske øyer",
-  "zone_base:void": "Tom verden"
+  "zone_base:void": "Tom verden",
+  "mobUnnamed": "Navnløs skapning",
+  "remoteControlMobNameInputLabel": "Navn:"
 }
