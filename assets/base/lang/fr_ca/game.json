@@ -123,5 +123,7 @@
     "zone_base:flat": "Aplati",
     "zone_base:moon": "Lunaire",
     "zone_base:nostalgic_island": "Îles nostalgiques",
-    "zone_base:void": "Monde vide"
+    "zone_base:void": "Monde vide",
+    "mobUnnamed": "Sans nom",
+    "remoteControlMobNameInputLabel": "Nom :"
 }

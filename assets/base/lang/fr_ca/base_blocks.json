@@ -83,5 +83,9 @@
     "base:ore_sapphire": "Minerai de saphir",
     "base:lava": "Lave",
     "base:dispenser": "Distributeur",
-    "base:sandstone": "Grès"
+    "base:sandstone": "Grès",
+    "base:sandstone::bricks": "Briques de grès",
+    "base:stone_gabbro::bricks": "Briques de gabbro",
+    "base:stone_basalt::bricks": "Briques de basalte",
+    "base:stone_limestone::bricks": "Briques de calcaire"
 }
