@@ -83,5 +83,9 @@
     "base:maize": "Kukurydza",
     "base:lava": "Lawa",
     "base:dispenser": "Dozownik",
-    "base:sandstone": "Piaskowiec"
+    "base:sandstone": "Piaskowiec",
+    "base:sandstone::bricks": "Cegły z piaskowca",
+    "base:stone_gabbro::bricks": "Cegły z gabro",
+    "base:stone_basalt::bricks": "Cegły z bazaltu",
+    "base:stone_limestone::bricks": "Cegły z wapienia"
 }
