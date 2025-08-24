@@ -83,5 +83,9 @@
     "base:ore_sapphire": "Mineral de zafiro",
     "base:lava": "Lava",
     "base:dispenser": "Dispensador",
-    "base:sandstone": "Arenisca"
+    "base:sandstone": "Arenisca",
+    "base:sandstone::bricks": "Ladrillos de arenisca",
+    "base:stone_gabbro::bricks": "Ladrillos de gabro",
+    "base:stone_basalt::bricks": "Ladrillos de basalto",
+    "base:stone_limestone::bricks": "Ladrillos de caliza"
 }
