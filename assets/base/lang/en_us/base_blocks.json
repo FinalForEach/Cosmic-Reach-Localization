@@ -83,5 +83,9 @@
     "base:ore_sapphire": "Sapphire Ore",
     "base:lava": "Lava",
     "base:dispenser": "Dispenser",
-    "base:sandstone": "Sandstone"
+    "base:sandstone": "Sandstone",
+    "base:sandstone::bricks": "Sandstone Bricks",
+    "base:stone_gabbro::bricks": "Gabbro Bricks",
+    "base:stone_basalt::bricks": "Basalt Bricks",
+    "base:stone_limestone::bricks": "Limestone Bricks"
 }
