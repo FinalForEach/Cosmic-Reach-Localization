@@ -124,5 +124,7 @@
   "zone_base:flat": "Płaski",
   "zone_base:moon": "Księżyc",
   "zone_base:nostalgic_island": "Nostalgiczne wyspy",
-  "zone_base:void": "Pustka"
+  "zone_base:void": "Pustka"",
+  "mobUnnamed": "Nienazwany",
+  "remoteControlMobNameInputLabel": "Nazwa:"
 }
