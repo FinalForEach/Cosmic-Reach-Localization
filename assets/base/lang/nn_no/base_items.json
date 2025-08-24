@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Aluminiumbarre",
     "base:ingot_iron": "Jarnbarre",
     "base:ingot_gold": "Gullbarre",
-
     "base:medkit": "Førstehjelpsskrin",
     "base:medkit_gold": "Førstehjelpsskrin av gull",
     "base:stick": "Pinne",
@@ -27,5 +26,8 @@
     "base:corn_kernels": "Maiskorn",
     "base:debug_wrench": "Avlusarnøkkel",
     "base:steak": "Biff",
-    "base:manure": "Gjødsel"
+    "base:manure": "Gjødsel",
+    "base:microchip": "Mikrobrikke",
+    "base:crowbar": "Brekkjern",
+    "base:remote_control": "Fjernkontroll"
 }
