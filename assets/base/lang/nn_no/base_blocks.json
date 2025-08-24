@@ -83,5 +83,9 @@
     "base:ore_sapphire": "Safirmalm",
     "base:lava": "Lava",
     "base:dispenser": "Utkastar",
-    "base:sandstone": "Sandstein"
+    "base:sandstone": "Sandstein",
+    "base:sandstone::bricks": "Sandsteinmur",
+    "base:stone_gabbro::bricks": "Gabbromur",
+    "base:stone_basalt::bricks": "Basaltmurs",
+    "base:stone_limestone::bricks": "Kalksteinmur"
 }
