@@ -40,6 +40,7 @@
 
 == Canadian French Localization ==
 * Sinvay
+* DarkMattrMaestro
 
 == German Localization ==
 * Matze (Matze997)
