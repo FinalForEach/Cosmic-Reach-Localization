@@ -80,5 +80,9 @@
     "base:ruby_block": "Rubinblock",
     "base:sapphire_block": "Saphirblock",
     "base:maize": "Mais",
-    "base:sandstone": "Sandstein"
+    "base:sandstone": "Sandstein",
+    "base:sandstone::bricks": "Sandsteinziegel",
+    "base:stone_gabbro::bricks": "Gabbroziegel",
+    "base:stone_basalt::bricks": "Basaltziegel",
+    "base:stone_limestone::bricks": "Kalksteinziegel"
 }

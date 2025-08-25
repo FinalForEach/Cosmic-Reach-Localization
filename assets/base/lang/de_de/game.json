@@ -121,5 +121,7 @@
   "zone_base:flat": "Flachland",
   "zone_base:moon": "Mond",
   "zone_base:nostalgic_island": "Nostalgische Insel",
-  "zone_base:void": "Leere Welt"
+  "zone_base:void": "Leere Welt",
+  "mobUnnamed": "Namenlos",
+  "remoteControlMobNameInputLabel": "Name:"
 }
