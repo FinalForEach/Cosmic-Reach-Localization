@@ -14,12 +14,12 @@
   "Tip12": "Limpiando inventarios...",
   "Tip13": "Fresnelificando...",
   "Tip14": "Colonizando planetas...",
-  "Tip15": "Consejo: Selecciona bloques usando el botón central del ratón",
+  "Tip15": "Consejo: Selecciona bloques pulsando '$keybind_pickBlock'",
   "Tip16": "Consejo: Prueba a cambiar la iluminación en el menú de pausa",
   "Tip17": "Consejo: Pulsa '$keybind_hideUI' para esconder la interfaz",
   "Tip18": "Consejo: Pulsa '$keybind_screenshot' para sacar una captura de pantalla",
   "Tip19": "Consejo: Pulsa '$keybind_debugInfo' para ver la información de desarrollo",
   "Tip20": "Consejo: Pulsa '$keybind_dropItem' para soltar objetos",
   "Tip21": "Consejo: Pulsa '$keybind_openInventory' para abrir el inventario",
-  "Tip22": "Consejo: Corre contra una pared para poder llegar más lejos"
+  "Tip22": "Consejo: Corre contra una pared para poder llegar más lejos de lo que lo harías solo saltando"
 }

@@ -114,5 +114,12 @@
   "skinFileDesc": "PNG-Datei mit 128x64 Pixeln",
   "itemCatalogSearch": "Suchen...",
   "boomboxOctave": "Oktave",
-  "boomboxPlaySound": "Abspielen"
+  "boomboxPlaySound": "Abspielen",
+  "gamemode_survival": "Überlebensmodus",
+  "gamemode_creative": "Kreativmodus",
+  "zone_base:earth": "Erde",
+  "zone_base:flat": "Flachland",
+  "zone_base:moon": "Mond",
+  "zone_base:nostalgic_island": "Nostalgische Insel",
+  "zone_base:void": "Leere Welt"
 }

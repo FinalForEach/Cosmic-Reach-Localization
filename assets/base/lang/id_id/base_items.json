@@ -25,5 +25,9 @@
     "base:sapphire": "Safir",
     "base:corn": "Jagung",
     "base:corn_kernels": "Biji Jagung",
-    "base:debug_wrench": "Kunci Debug"
+    "base:debug_wrench": "Kunci Inggris Debug",
+    "base:steak": "Steak",
+    "base:manure": "Pupuk",
+    "base:microchip": "Mikrochip",
+    "base:crowbar": "Linggis"
 }

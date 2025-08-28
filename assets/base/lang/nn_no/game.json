@@ -119,5 +119,14 @@
   "itemCatalogSearch": "Søk...",
   "boomboxOctave": "Oktav",
   "boomboxPlaySound": "Spel",
-  "worldSelectionSearch": "Søk etter verder…"
+  "worldSelectionSearch": "Søk etter verder…",
+  "gamemode_survival": "Overleving",
+  "gamemode_creative": "Kreative",
+  "zone_base:earth": "Jorda",
+  "zone_base:flat": "Flat verd",
+  "zone_base:moon": "Månen",
+  "zone_base:nostalgic_island": "Nostalgiske øyar",
+  "zone_base:void": "Tom verd",
+  "mobUnnamed": "Namnlaus skapning",
+  "remoteControlMobNameInputLabel": "Namn:"
 }

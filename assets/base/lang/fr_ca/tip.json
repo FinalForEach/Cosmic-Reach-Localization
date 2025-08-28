@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/tip.schema.json",
-  "Tip1": "On télescope les textures...",
+  "Tip1": "Télescopage des textures...",
   "Tip2": "Aplatissage des vertex...",
   "Tip3": "Modelage du monde...",
   "Tip4": "Coloration des lumières...",
@@ -14,12 +14,12 @@
   "Tip12": "Nettoyage d'inventaire...",
   "Tip13": "Fresnel-isation...",
   "Tip14": "Colonisation des planètes...",
-  "Tip15": "Conseil : Choisissez un bloc en utilisant le clic molette !",
+  "Tip15": "Conseil : Appuyez '$keybind_pickBlock' pour prendre un bloc !",
   "Tip16": "Conseil : Essayez de changer les différents modes d'éclairage dans le menu pause !",
-  "Tip17": "Conseil : Pressez '$keybind_hideUI' pour cacher l'interface utilisateur",
-  "Tip18": "Conseil : Pressez '$keybind_screenshot' pour prendre une capture d'écran !",
-  "Tip19": "Conseil : Pressez '$keybind_debugInfo' pour afficher les informations de débogage !",
-  "Tip20": "Conseil : Pressez '$keybind_dropItem' pour jeter l'objet dans vos mains",
-  "Tip21": "Conseil : Pressez '$keybind_openInventory' pour ouvrir l'inventaire !",
+  "Tip17": "Conseil : Appuyez '$keybind_hideUI' pour cacher l'interface utilisateur",
+  "Tip18": "Conseil : Appuyez '$keybind_screenshot' pour prendre une capture d'écran !",
+  "Tip19": "Conseil : Appuyez '$keybind_debugInfo' pour afficher les informations de débogage !",
+  "Tip20": "Conseil : Appuyez '$keybind_dropItem' pour jeter l'objet dans vos mains !",
+  "Tip21": "Conseil : Appuyez '$keybind_openInventory' pour ouvrir l'inventaire !",
   "Tip22": "Conseil : Courez contre un mur pour effectuer un 'wall run', pour aller plus loin que si vous sautiez."
 }
