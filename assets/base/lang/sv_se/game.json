@@ -77,6 +77,15 @@
   "RuntimeException": "Kunde inte ladda världen: ",
   "boomboxOctave": "Oktav",
   "boomboxPlaySound": "Spela upp",
-  "worldSelectionSearch": "Sök världar..."
+  "worldSelectionSearch": "Sök världar...",
+  "gamemode_survival": "Överlevnad",
+  "gamemode_creative": "Kreativt",
+  "zone_base:earth": "Jorden",
+  "zone_base:flat": "Platt",
+  "zone_base:moon": "Måne",
+  "zone_base:nostalgic_island": "Nostalgiska Öar",
+  "zone_base:void": "Tomhetens Värld",
+  "mobUnnamed": "Namnlös",
+  "remoteControlMobNameInputLabel": "Namn:"
 }
 
