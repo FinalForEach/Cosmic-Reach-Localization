@@ -39,7 +39,7 @@
     "base:lunar_soil_packed": "Tanah Bulan Padat",
     "base:lunar_soil": "Tanah Bulan",
     "base:debug": "Debug",
-    "base:stone_basalt": "Basal",
+    "base:stone_basalt": "Basalt",
     "base:glass": "Kaca",
     "base:leaves": "Daun",
     "base:furnace": "Tungku",
@@ -83,5 +83,9 @@
     "base:ore_sapphire": "Bijih Safir",
     "base:lava": "Lahar",
     "base:dispenser": "Pelempar",
-    "base:sandstone": "Batu Pasir"
+    "base:sandstone": "Batu Pasir",
+    "base:sandstone::bricks": "Batu Bata Pasir",
+    "base:stone_gabbro::bricks": "Batu Bata Gabro",
+    "base:stone_basalt::bricks": "Batu Bata Basalt",
+    "base:stone_limestone::bricks": "Batu Bata Kapur"
 }
