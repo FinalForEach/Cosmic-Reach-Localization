@@ -88,4 +88,7 @@
 	"base:stone_gabbro::bricks": "Tijolos de Gabro",
 	"base:stone_basalt::bricks": "Tijolos de Basalto",
 	"base:stone_limestone::bricks": "Tijolos de Calcário"
+	"base:ladder_iron": "Escadas de Ferro",
+	"base:workbench": "Bancada de Trabalho",
+	"base:pixel_display": "Tela de Pixels"
 }
