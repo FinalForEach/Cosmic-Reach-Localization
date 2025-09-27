@@ -25,5 +25,6 @@
     "base:corn": "Mais",
     "base:corn_kernels": "Mais Kernel",
     "base:microchip": "Mikrochip",
-    "base:crowbar": "Brechstange"
+    "base:crowbar": "Brechstange",
+    "base:remote_control": "Fernsteuerung"
 }
