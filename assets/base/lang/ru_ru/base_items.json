@@ -29,5 +29,7 @@
     "base:manure": "Навоз",
     "base:microchip": "Микрочип",
     "base:crowbar": "Лом",
-    "base:remote_control": "Пульт дистанционного управления"
+    "base:remote_control": "Пульт дистанционного управления",
+    "base:revolver": "Револьвер",
+    "base:rifle": "Винтовка"
 }

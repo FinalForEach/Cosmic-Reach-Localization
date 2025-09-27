@@ -87,5 +87,8 @@
     "base:sandstone::bricks": "Песчаные кирпичи",
     "base:stone_gabbro::bricks": "Габбровые кирпичи",
     "base:stone_basalt::bricks": "Базальтовые кирпичи",
-    "base:stone_limestone::bricks": "Известняковые кирпичи"
+    "base:stone_limestone::bricks": "Известняковые кирпичи",
+    "base:ladder_iron": "Железная лестница",
+    "base:workbench": "Верстак",
+    "base:pixel_display": "Пиксельный дисплей"
 }
