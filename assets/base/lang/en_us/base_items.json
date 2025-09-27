@@ -30,5 +30,7 @@
     "base:manure": "Manure",
     "base:microchip": "Microchip",
     "base:crowbar": "Crowbar",
-    "base:remote_control": "Remote Control"
+    "base:remote_control": "Remote Control",
+    "base:revolver": "Revolver",
+    "base:rifle": "Rifle"
 }

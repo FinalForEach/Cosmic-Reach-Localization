@@ -87,5 +87,8 @@
     "base:sandstone::bricks": "Sandstone Bricks",
     "base:stone_gabbro::bricks": "Gabbro Bricks",
     "base:stone_basalt::bricks": "Basalt Bricks",
-    "base:stone_limestone::bricks": "Limestone Bricks"
+    "base:stone_limestone::bricks": "Limestone Bricks",
+    "base:ladder_iron": "Iron Ladder",
+    "base:workbench": "Workbench",
+    "base:pixel_display": "Pixel Display"
 }
