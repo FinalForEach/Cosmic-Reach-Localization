@@ -87,5 +87,8 @@
     "base:sandstone::bricks": "Briciau Tywodfaen",
     "base:stone_gabbro::bricks": "Briciau Gabro",
     "base:stone_basalt::bricks": "Briciau Pilergraig",
-    "base:stone_limestone::bricks": "Briciau Calchfaen"
+    "base:stone_limestone::bricks": "Briciau Calchfaen",
+    "base:ladder_iron": "Ysgol Haearn",
+    "base:workbench": "Mainc waith",
+    "base:pixel_display": "Arddangosydd Picsel"
 }
