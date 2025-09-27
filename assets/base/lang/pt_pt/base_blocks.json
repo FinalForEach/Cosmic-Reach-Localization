@@ -87,5 +87,8 @@
     "base:sandstone::bricks": "Tijolos de Arenito",
     "base:stone_gabbro::bricks": "Tijolos de Gabro",
     "base:stone_basalt::bricks": "Tijolos de Basalto",
-    "base:stone_limestone::bricks": "Tijolos de Calcário"
+    "base:stone_limestone::bricks": "Tijolos de Calcário",
+    "base:ladder_iron": "Escadote de Ferro",
+    "base:workbench": "Mesa de Trabalho",
+    "base:pixel_display": "Ecrã de Píxeis"
 }

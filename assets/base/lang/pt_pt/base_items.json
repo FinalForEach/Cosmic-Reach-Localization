@@ -29,5 +29,7 @@
     "base:manure": "Estrume",
     "base:microchip": "Microchipe",
     "base:crowbar": "Pé de Cabra",
-    "base:remote_control": "Controlo Remoto"
+    "base:remote_control": "Controlo Remoto",
+    "base:revolver": "Revólver",
+    "base:rifle": "Espingarda"
 }
