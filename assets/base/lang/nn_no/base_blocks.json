@@ -61,7 +61,7 @@
     "base:dirt": "Mold",
     "base:bricks": "Mur",
     "base:ice": "Is",
-    "base:text_display": "Tekstboks",
+    "base:text_display": "Tekstrute",
     "base:rubber_block": "Gummiblokk",
     "base:gold_block": "Gullblokk",
     "base:wood_door": "Tredør",
@@ -87,5 +87,8 @@
     "base:sandstone::bricks": "Sandsteinmur",
     "base:stone_gabbro::bricks": "Gabbromur",
     "base:stone_basalt::bricks": "Basaltmurs",
-    "base:stone_limestone::bricks": "Kalksteinmur"
+    "base:stone_limestone::bricks": "Kalksteinmur",
+    "base:ladder_iron": "Jarnstige",
+    "base:workbench": "Emningsbord",
+    "base:pixel_display": "Pikselrute"
 }
