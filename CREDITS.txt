@@ -127,6 +127,7 @@
 * CPUOverheating
 * ComputerFanMotor
 * Helmersoft
+* Elias Sirviö (multinode)
 
 == Bulgarian Localization ==
 * Niko
