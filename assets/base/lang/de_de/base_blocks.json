@@ -84,5 +84,11 @@
     "base:sandstone::bricks": "Sandsteinziegel",
     "base:stone_gabbro::bricks": "Gabbroziegel",
     "base:stone_basalt::bricks": "Basaltziegel",
-    "base:stone_limestone::bricks": "Kalksteinziegel"
+    "base:stone_limestone::bricks": "Kalksteinziegel",
+    "base:ore_sapphire": "Saphirerz",
+    "base:lava": "Lava",
+    "base:dispenser": "Spender",
+    "base:ladder_iron": "Eisenleiter",
+    "base:workbench": "Werkbank",
+    "base:pixel_display": "Pixelanzeige"
 }
