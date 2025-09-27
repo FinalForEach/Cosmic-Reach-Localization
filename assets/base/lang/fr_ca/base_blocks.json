@@ -87,5 +87,8 @@
     "base:sandstone::bricks": "Briques de grès",
     "base:stone_gabbro::bricks": "Briques de gabbro",
     "base:stone_basalt::bricks": "Briques de basalte",
-    "base:stone_limestone::bricks": "Briques de calcaire"
+    "base:stone_limestone::bricks": "Briques de calcaire",
+    "base:ladder_iron": "Échelle en fer",
+    "base:workbench": "Établi",
+    "base:pixel_display": "Écran de pixels"
 }
