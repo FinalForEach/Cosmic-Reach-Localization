@@ -121,10 +121,10 @@
   "gamemode_survival": "Przetrwanie",
   "gamemode_creative": "Kreatywny",
   "zone_base:earth": "Ziemia",
+  "zone_base:earth_legacy": "Ziemia (Starsza)"
   "zone_base:flat": "Płaski",
   "zone_base:moon": "Księżyc",
   "zone_base:nostalgic_island": "Nostalgiczne wyspy",
   "zone_base:void": "Pustka",
-  "mobUnnamed": "Nienazwany",
-  "remoteControlMobNameInputLabel": "Nazwa:"
+  "mobUnnamed": "Nienazwany"
 }
