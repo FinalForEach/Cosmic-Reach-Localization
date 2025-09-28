@@ -29,5 +29,7 @@
     "base:manure": "Tail",
     "base:microchip": "Microsglodyn",
     "base:crowbar": "Trosol",
-    "base:remote_control": "Rheolaeth Bell"
+    "base:remote_control": "Rheolaeth Bell",
+    "base:revolver": "Rifolfer",
+    "base:rifle": "Reiffl"
 }
