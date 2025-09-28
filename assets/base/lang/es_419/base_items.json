@@ -29,5 +29,7 @@
     "base:manure": "Estiércol",
     "base:microchip": "Microchip",
     "base:crowbar": "Barreta",
-    "base:remote_control": "Control remoto"
+    "base:remote_control": "Control remoto",
+    "base:revolver": "Revólver",
+    "base:rifle": "Rifle"
 }
