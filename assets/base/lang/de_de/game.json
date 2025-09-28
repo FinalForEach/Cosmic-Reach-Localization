@@ -123,5 +123,7 @@
   "zone_base:nostalgic_island": "Nostalgische Insel",
   "zone_base:void": "Leere Welt",
   "mobUnnamed": "Namenlos",
+  "worldSelectionSearch": "Welten durchsuchen...",
+  "createWorldGamemode": "Spielmodus:",
   "zone_base:earth_legacy": "Erde (Veraltet)"
 }

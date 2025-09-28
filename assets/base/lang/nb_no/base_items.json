@@ -29,5 +29,7 @@
     "base:manure": "Gjødsel",
     "base:microchip": "Mikrobrikke",
     "base:crowbar": "Brekkjern",
-    "base:remote_control": "Fjernkontroll"
+    "base:remote_control": "Fjernkontroll",
+    "base:revolver": "Revolver",
+    "base:rifle": "Rifle"
 }

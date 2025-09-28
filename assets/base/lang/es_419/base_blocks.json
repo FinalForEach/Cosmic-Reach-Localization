@@ -87,5 +87,8 @@
     "base:sandstone::bricks": "Ladrillos de arenisca",
     "base:stone_gabbro::bricks": "Ladrillos de gabro",
     "base:stone_basalt::bricks": "Ladrillos de basalto",
-    "base:stone_limestone::bricks": "Ladrillos de caliza"
+    "base:stone_limestone::bricks": "Ladrillos de caliza",
+    "base:ladder_iron": "Escalera de hierro",
+    "base:workbench": "Mesa de trabajo",
+    "base:pixel_display": "Visualizador de píxel"
 }

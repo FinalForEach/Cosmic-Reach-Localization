@@ -87,5 +87,8 @@
     "base:sandstone::bricks": "Cegły z piaskowca",
     "base:stone_gabbro::bricks": "Cegły z gabro",
     "base:stone_basalt::bricks": "Cegły z bazaltu",
-    "base:stone_limestone::bricks": "Cegły z wapienia"
+    "base:stone_limestone::bricks": "Cegły z wapienia",
+    "base:ladder_iron": "Żelazna drabina",
+    "base:workbench": "Stół warsztatowy",
+    "base:pixel_display": "Wyświetlacz pixelowy"
 }

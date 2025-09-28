@@ -30,5 +30,7 @@
     "base:manure": "Fumier",
     "base:microchip": "Puce électronique",
     "base:crowbar": "Pied-de-biche",
-    "base:remote_control": "Télécommande"
+    "base:remote_control": "Télécommande",
+    "base:revolver": "Révolver",
+    "base:rifle": "Fusil"
 }

@@ -31,4 +31,6 @@
     "base:microchip": "Microchip",
     "base:crowbar": "Pé de Cabra",
 	"base:remote_control": "Controle Remoto"
+	"base:revolver": "Revólver",
+	"base:rifle": "Rifle"
 }

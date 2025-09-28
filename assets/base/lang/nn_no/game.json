@@ -113,7 +113,7 @@
   "multiplayerAddressButton": "Tenaradresse: ",
   "multiplayerJoinButton": "Vert med",
   "multiplayerBadDisconnect": "Fråkopla! Grunn:",
-  "textDisplayInput": "Skriv inn her...",
+  "textDisplayInput": "Skriv her...",
   "skinChangeLabel": "Endre utsjånad",
   "skinFileDesc": "Teksturen må vera ein PNG på 128x64 pikslar",
   "itemCatalogSearch": "Søk...",
@@ -128,5 +128,5 @@
   "zone_base:nostalgic_island": "Nostalgiske øyar",
   "zone_base:void": "Tom verd",
   "mobUnnamed": "Namnlaus skapning",
-  "remoteControlMobNameInputLabel": "Namn:"
+  "zone_base:earth_legacy": "Jorda (Tidlegare versjon)"
 }
