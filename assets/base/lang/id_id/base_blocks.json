@@ -61,7 +61,7 @@
     "base:dirt": "Tanah",
     "base:bricks": "Batu bata",
     "base:ice": "Es",
-    "base:text_display": "Penampil Teks",
+    "base:text_display": "Layar Teks",
     "base:rubber_block": "Balok Karet",
     "base:gold_block": "Balok Emas",
     "base:wood_door": "Pintu Kayu",
@@ -90,5 +90,5 @@
     "base:stone_limestone::bricks": "Batu Bata Kapur",
     "base:ladder_iron": "Tangga Besi",
     "base:workbench": "Meja Kerja",
-    "base:pixel_display": "Penampil Piksel"
+    "base:pixel_display": "Layar Piksel"
 }
