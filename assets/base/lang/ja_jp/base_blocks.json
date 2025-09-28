@@ -75,5 +75,20 @@
     "base:clay": "粘土",
     "base:stone_shale": "頁岩",
     "base:piston": "ピストン",
-    "base:piston::suction": "吸引ピストン"
+    "base:piston::suction": "吸引ピストン",
+    "base:ore_ruby": "ルビー鉱石",
+    "base:ruby_block": "ルビーブロック",
+    "base:sapphire_block": "サファイアブロック",
+    "base:maize": "トウモロコシ",
+    "base:ore_sapphire": "サファイア鉱石",
+    "base:lava": "溶岩",
+    "base:dispenser": "ディスペンサー",
+    "base:sandstone": "砂岩",
+    "base:sandstone::bricks": "砂岩レンガ",
+    "base:stone_gabbro::bricks": "斑れい岩レンガ",
+    "base:stone_basalt::bricks": "玄武岩レンガ",
+    "base:stone_limestone::bricks": "石灰岩レンガ",
+    "base:ladder_iron": "鉄のはしご",
+    "base:workbench": "作業台",
+    "base:pixel_display": "ピクセルディスプレイ"
 }
