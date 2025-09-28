@@ -26,5 +26,10 @@
     "base:corn_kernels": "Mais Kernel",
     "base:microchip": "Mikrochip",
     "base:crowbar": "Brechstange",
-    "base:remote_control": "Fernsteuerung"
+    "base:remote_control": "Fernsteuerung",
+    "base:debug_wrench": "Debug-Schraubschlüssel",
+    "base:steak": "Steak",
+    "base:manure": "Dünger",
+    "base:revolver": "Revolver",
+    "base:rifle": "Gewehr"
 }
