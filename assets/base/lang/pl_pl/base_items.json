@@ -30,5 +30,7 @@
     "base:manure": "Nawóz",
     "base:microchip": "Mikrochip",
     "base:crowbar": "Łom",
-    "base:remote_control": "Pilot"
+    "base:remote_control": "Pilot",
+    "base:revolver": "Rewolwer",
+    "base:rifle": "Karabin"
 }
