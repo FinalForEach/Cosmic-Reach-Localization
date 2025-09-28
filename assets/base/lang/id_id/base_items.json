@@ -30,5 +30,7 @@
     "base:manure": "Pupuk",
     "base:microchip": "Mikrochip",
     "base:crowbar": "Linggis",
-    "base:remote_control": "Pengendali Jarak Jauh"
+    "base:remote_control": "Pengendali Jarak Jauh",
+    "base:revolver": "Pistol",
+    "base:rifle": "Senapan"
 }
