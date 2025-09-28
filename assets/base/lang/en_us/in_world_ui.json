@@ -1,4 +1,5 @@
 {
     "remoteControlMobNameInputLabel": "Name:",
-    "workbenchItemNameLabel": "Item Name:"
+    "workbenchItemNameLabel": "Item Name:",
+    "laserEmitterShoot": "Fire!"
 }
