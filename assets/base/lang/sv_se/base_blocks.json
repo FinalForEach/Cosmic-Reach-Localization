@@ -87,5 +87,7 @@
     "base:sandstone::bricks": "Sandstenstegel",
     "base:stone_gabbro::bricks": "Gabbrotegel",
     "base:stone_basalt::bricks": "Basalttegel",
-    "base:stone_limestone::bricks": "Kalkstenstegel"
+    "base:stone_limestone::bricks": "Kalkstenstegel",
+    "base:revolver": "Revolver",
+    "base:rifle": "Gevär"
 }
