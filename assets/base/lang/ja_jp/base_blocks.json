@@ -90,5 +90,6 @@
     "base:stone_limestone::bricks": "石灰岩レンガ",
     "base:ladder_iron": "鉄のはしご",
     "base:workbench": "作業台",
-    "base:pixel_display": "ピクセルディスプレイ"
+    "base:pixel_display": "ピクセルディスプレイ",
+    "base:grass_blades": "草葉"
 }
