@@ -90,5 +90,6 @@
     "base:stone_limestone::bricks": "Kalkstenstegel",
     "base:ladder_iron": "Järnstege",
     "base:workbench": "Slöjdbänk",
-    "base:pixel_display": "Pixelskärm"
+    "base:pixel_display": "Pixelskärm",
+    "base:grass_blades": "Grässtrån"
 }
