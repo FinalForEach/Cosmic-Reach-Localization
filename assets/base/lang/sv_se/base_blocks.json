@@ -87,5 +87,9 @@
     "base:sandstone::bricks": "Sandstenstegel",
     "base:stone_gabbro::bricks": "Gabbrotegel",
     "base:stone_basalt::bricks": "Basalttegel",
-    "base:stone_limestone::bricks": "Kalkstenstegel"
+    "base:stone_limestone::bricks": "Kalkstenstegel",
+    "base:ladder_iron": "Järnstege",
+    "base:workbench": "Slöjdbänk",
+    "base:pixel_display": "Pixelskärm",
+    "base:grass_blades": "Grässtrån"
 }

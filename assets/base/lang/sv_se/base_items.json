@@ -30,6 +30,7 @@
     "base:manure": "Gödsel",
     "base:microchip": "Mikrochip",
     "base:crowbar": "Kofot",
-    "base:remote_control": "Fjärrkontroll"
-    
+    "base:remote_control": "Fjärrkontroll",
+    "base:revolver": "Revolver",
+    "base:rifle": "Gevär"
 }

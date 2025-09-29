@@ -125,5 +125,6 @@
     "Game_version_beta": "Cosmic Reach Version Beta-",
     "Game_version_release": "Cosmic Reach Version ",
     "mouseBackButton": "Tillbakaknappen",
-    "mouseForwardButton": "Framåtknappen"
+    "mouseForwardButton": "Framåtknappen",
+    "zone_base:earth_legacy": "Jorden (Tidigare version)"
 }
