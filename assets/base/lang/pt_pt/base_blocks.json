@@ -90,5 +90,6 @@
     "base:stone_limestone::bricks": "Tijolos de Calcário",
     "base:ladder_iron": "Escadote de Ferro",
     "base:workbench": "Mesa de Trabalho",
-    "base:pixel_display": "Ecrã de Píxeis"
+    "base:pixel_display": "Ecrã de Píxeis",
+    "base:grass_blades": "Folhas de Relva"
 }
