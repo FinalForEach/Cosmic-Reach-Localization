@@ -90,5 +90,6 @@
     "base:stone_limestone::bricks": "Limestone Bricks",
     "base:ladder_iron": "Iron Ladder",
     "base:workbench": "Workbench",
-    "base:pixel_display": "Pixel Display"
+    "base:pixel_display": "Pixel Display",
+    "base:grass_blades": "Blades of Grass"
 }
