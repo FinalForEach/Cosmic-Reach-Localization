@@ -90,5 +90,6 @@
     "base:stone_limestone::bricks": "Kalksteinmur",
     "base:ladder_iron": "Jernstige",
     "base:workbench": "Arbeidsbenk",
-    "base:pixel_display": "Pikselrute"
+    "base:pixel_display": "Pikselrute",
+    "base:grass_blades": "Gresstrå"
 }
