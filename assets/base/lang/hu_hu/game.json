@@ -116,5 +116,15 @@
   "itemCatalogSearch": "Keresés...",
   "boomboxOctave": "Oktáv",
   "boomboxPlaySound": "Lejátszás",
-  "worldSelectionSearch": "Világok keresése..."
+  "worldSelectionSearch": "Világok keresése...",
+  "createWorldGamemode": "Játékmód:",
+  "gamemode_survival": "Túlélő",
+  "gamemode_creative": "Kreatív",
+  "zone_base:earth": "Föld",
+  "zone_base:flat": "Lapos",
+  "zone_base:moon": "Hold",
+  "zone_base:nostalgic_island": "Nosztalgikus szigetek",
+  "zone_base:void": "Üres világ",
+  "mobUnnamed": "Névtelen",
+  "zone_base:earth_legacy": "Föld (Régi)"
 }

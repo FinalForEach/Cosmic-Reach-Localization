@@ -27,5 +27,10 @@
     "base:corn_kernels": "Kukoricaszemek",
     "base:debug_wrench": "Hibakereső csavarkulcs",
     "base:steak": "Steak",
-    "base:manure": "Trágya"
+    "base:manure": "Trágya",
+    "base:microchip": "Mikrochip",
+    "base:crowbar": "Feszítővas",
+    "base:remote_control": "Távirányító",
+    "base:revolver": "Revolver",
+    "base:rifle": "Puska"
 }
