@@ -90,5 +90,21 @@
     "base:stone_limestone::bricks": "Batu Bata Kapur",
     "base:ladder_iron": "Tangga Besi",
     "base:workbench": "Meja Kerja",
-    "base:pixel_display": "Layar Piksel"
+    "base:pixel_display": "Layar Piksel",
+    "base:grass_blades": "Daun Rumput",
+    "base:plastic_block::gray": "Plastik Abu-abu",
+    "base:plastic_block::white": "Plastik Putih",
+    "base:plastic_block::black": "Plastik Hitam",
+    "base:plastic_block::red": "Plastik Merah",
+    "base:plastic_block::orange": "Plastik Oranye",
+    "base:plastic_block::yellow": "Plastik Kuning",
+    "base:plastic_block::lime": "Plastik Jeruk Nipis",
+    "base:plastic_block::green": "Plastik Hijau",
+    "base:plastic_block::spring_green": "Plastik Hijau Musim Semi",
+    "base:plastic_block::cyan": "Plastik Cyan",
+    "base:plastic_block::azure": "Plastik Biru Langit",
+    "base:plastic_block::blue": "Plastik Biru",
+    "base:plastic_block::violet": "Plastik Ungu",
+    "base:plastic_block::magenta": "Plastik Magenta",
+    "base:plastic_block::rose": "Plastik Mawar"
 }
