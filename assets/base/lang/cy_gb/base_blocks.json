@@ -91,5 +91,20 @@
     "base:ladder_iron": "Ysgol Haearn",
     "base:workbench": "Mainc waith",
     "base:pixel_display": "Arddangosydd Picsel",
-    "base:grass_blades": "Llafnau o Porfa"
+    "base:grass_blades": "Llafnau o Porfa",
+    "base:plastic_block::gray": "Plastig Llwyd",
+    "base:plastic_block::white": "Plastig Gwyn",
+    "base:plastic_block::black": "Plastig Du",
+    "base:plastic_block::red": "Plastig Coch",
+    "base:plastic_block::orange": "Plastig Oren",
+    "base:plastic_block::yellow": "Plastig Melyn",
+    "base:plastic_block::lime": "Plastig Leim",
+    "base:plastic_block::green": "Plastig Gwyrdd",
+    "base:plastic_block::spring_green": "Plastig Gwyrdd y Gwanwyn",
+    "base:plastic_block::cyan": "Plastig Gwyrddlas",
+    "base:plastic_block::azure": "Plastig Asur",
+    "base:plastic_block::blue": "Plastig Glas",
+    "base:plastic_block::violet": "Plastig Fioled",
+    "base:plastic_block::magenta": "Plastig Magenta",
+    "base:plastic_block::rose": "Plastig Rhosyn"
 }
