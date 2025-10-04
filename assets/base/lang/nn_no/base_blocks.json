@@ -91,5 +91,20 @@
     "base:ladder_iron": "Jarnstige",
     "base:workbench": "Emningsbord",
     "base:pixel_display": "Pikselrute",
-    "base:grass_blades" "Grasstrå"
+    "base:grass_blades" "Grasstrå",
+    "base:plastic_block::gray": "Grå plast",
+    "base:plastic_block::white": "Kvit plast",
+    "base:plastic_block::black": "Svart plast",
+    "base:plastic_block::red": "Raud plast",
+    "base:plastic_block::orange": "Oransje plast",
+    "base:plastic_block::yellow": "Gul plast",
+    "base:plastic_block::lime": "Limegrøn plast",
+    "base:plastic_block::green": "Grøn plast",
+    "base:plastic_block::spring_green": "Vårgrøn plast",
+    "base:plastic_block::cyan": "Blågrøn plast",
+    "base:plastic_block::azure": "Azurblå plast",
+    "base:plastic_block::blue": "Blå plast",
+    "base:plastic_block::violet": "Fiolett plast",
+    "base:plastic_block::magenta": "Ljoslilla plast",
+    "base:plastic_block::rose": "Roseraud  plast"
 }
