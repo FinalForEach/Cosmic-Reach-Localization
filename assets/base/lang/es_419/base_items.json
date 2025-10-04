@@ -31,5 +31,7 @@
     "base:crowbar": "Barreta",
     "base:remote_control": "Control remoto",
     "base:revolver": "Revólver",
-    "base:rifle": "Rifle"
+    "base:rifle": "Rifle",
+    "base:naptha": "Nafta",
+    "base:plastic_pellets": "Pélets de plástico"
 }
