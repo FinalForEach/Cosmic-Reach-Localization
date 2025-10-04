@@ -11,6 +11,7 @@
     "base:ingot_aluminium": "Алюминиевый слиток",
     "base:ingot_iron": "Железный слиток",
     "base:ingot_gold": "Золотой слиток",
+
     "base:medkit": "Аптечка",
     "base:medkit_gold": "Золотая аптечка",
     "base:stick": "Палка",
@@ -31,5 +32,7 @@
     "base:crowbar": "Лом",
     "base:remote_control": "Пульт дистанционного управления",
     "base:revolver": "Револьвер",
-    "base:rifle": "Винтовка"
+    "base:rifle": "Винтовка",
+    "base:naphtha": "Нафта",
+    "base:plastic_pellets": "Гранулы пластика"
 }
