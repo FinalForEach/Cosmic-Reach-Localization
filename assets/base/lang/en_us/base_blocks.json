@@ -91,5 +91,20 @@
     "base:ladder_iron": "Iron Ladder",
     "base:workbench": "Workbench",
     "base:pixel_display": "Pixel Display",
-    "base:grass_blades": "Blades of Grass"
+    "base:grass_blades": "Blades of Grass",
+    "base:plastic_block::gray": "Gray Plastic",
+    "base:plastic_block::white": "White Plastic",
+    "base:plastic_block::black": "Black Plastic",
+    "base:plastic_block::red": "Red Plastic",
+    "base:plastic_block::orange": "Orange Plastic",
+    "base:plastic_block::yellow": "Yellow Plastic",
+    "base:plastic_block::lime": "Lime Plastic",
+    "base:plastic_block::green": "Green Plastic",
+    "base:plastic_block::spring_green": "Spring Green Plastic",
+    "base:plastic_block::cyan": "Cyan Plastic",
+    "base:plastic_block::azure": "Azure Plastic",
+    "base:plastic_block::blue": "Blue Plastic",
+    "base:plastic_block::violet": "Violet Plastic",
+    "base:plastic_block::magenta": "Magenta Plastic",
+    "base:plastic_block::rose": "Rose Plastic"
 }
