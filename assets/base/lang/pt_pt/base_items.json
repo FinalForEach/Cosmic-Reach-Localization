@@ -31,5 +31,7 @@
     "base:crowbar": "Pé de Cabra",
     "base:remote_control": "Controlo Remoto",
     "base:revolver": "Revólver",
-    "base:rifle": "Espingarda"
+    "base:rifle": "Espingarda",
+    "base:naphtha": "Nafta",
+    "base:plastic_pellets": "Pellets de Plástico"
 }
