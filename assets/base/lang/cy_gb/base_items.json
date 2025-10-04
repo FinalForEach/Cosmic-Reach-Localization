@@ -31,5 +31,7 @@
     "base:crowbar": "Trosol",
     "base:remote_control": "Rheolaeth Bell",
     "base:revolver": "Rifolfer",
-    "base:rifle": "Reiffl"
+    "base:rifle": "Reiffl",
+    "base:naphtha": "Nafftha",
+    "base:plastic_pellets": "Pelen Plastig"
 }
