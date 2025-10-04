@@ -32,5 +32,7 @@
     "base:crowbar": "Crowbar",
     "base:remote_control": "Remote Control",
     "base:revolver": "Revolver",
-    "base:rifle": "Rifle"
+    "base:rifle": "Rifle",
+    "base:naphtha": "Naphtha",
+    "base:plastic_pellets": "Plastic Pellets"
 }
