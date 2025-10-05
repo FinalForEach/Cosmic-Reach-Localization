@@ -90,5 +90,21 @@
     "base:dispenser": "Spender",
     "base:ladder_iron": "Eisenleiter",
     "base:workbench": "Werkbank",
-    "base:pixel_display": "Pixelanzeige"
+    "base:pixel_display": "Pixelanzeige",
+    "base:grass_blades": "Grashalme",
+    "base:plastic_block::gray": "Graues Plastik",
+    "base:plastic_block::white": "Weißes Plastik",
+    "base:plastic_block::black": "Schwarzes Plastik",
+    "base:plastic_block::red": "Rotes Plastik",
+    "base:plastic_block::orange": "Oranges Plastik",
+    "base:plastic_block::yellow": "Gelbes Plastik",
+    "base:plastic_block::lime": "Hellgrünes Plastik",
+    "base:plastic_block::green": "Grünes Plastik",
+    "base:plastic_block::spring_green": "Frühlingsgrünes Plastik",
+    "base:plastic_block::cyan": "Türkises Plastik",
+    "base:plastic_block::azure": "Azurblaues Plastik",
+    "base:plastic_block::blue": "Blaues Plastik",
+    "base:plastic_block::violet": "Violettes Plastik",
+    "base:plastic_block::magenta": "Magenta Plastik",
+    "base:plastic_block::rose": "Rosa Plastik"
 }
