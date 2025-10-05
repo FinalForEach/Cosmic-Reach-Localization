@@ -91,4 +91,20 @@
 	"base:ladder_iron": "Escadas de Ferro",
 	"base:workbench": "Bancada de Trabalho",
 	"base:pixel_display": "Tela de Pixels"
+	"base:grass_blades": "Lâminas de Grama"
+	"base:plastic_block::gray": "Bloco de Plástico Cinza",
+	"base:plastic_block::white": "Bloco de Plástico Branco",
+	"base:plastic_block::black": "Bloco de Plástico Preto",
+	"base:plastic_block::red": "Bloco de Plástico Vermelho",
+	"base:plastic_block::orange": "Bloco de Plástico Laranja",
+	"base:plastic_block::yellow": "Bloco de Plástico Amarelo",
+	"base:plastic_block::lime": "Bloco de Plástico Verde-Lima",
+	"base:plastic_block::green": "Bloco de Plástico Verde",
+	"base:plastic_block::spring_green": "Bloco de Plástico Verde-Primavera",
+	"base:plastic_block::cyan": "Bloco de Plástico Ciano",
+	"base:plastic_block::azure": "Bloco de Plástico Azul-Celeste",
+	"base:plastic_block::blue": "Bloco de Plástico Azul",
+	"base:plastic_block::violet": "Bloco de Plástico Violeta",
+	"base:plastic_block::magenta": "Bloco de Plástico Magenta",
+	"base:plastic_block::rose": "Bloco de Plástico Rosado"
 }
