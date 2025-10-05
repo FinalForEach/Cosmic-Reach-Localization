@@ -31,5 +31,7 @@
     "base:steak": "Steak",
     "base:manure": "Dünger",
     "base:revolver": "Revolver",
-    "base:rifle": "Gewehr"
+    "base:rifle": "Gewehr",
+    "base:naphtha": "Rohbenzin",
+    "base:plastic_pellets": "Kunststoffgranulat"
 }
