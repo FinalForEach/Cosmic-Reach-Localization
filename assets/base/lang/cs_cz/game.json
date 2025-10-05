@@ -89,7 +89,7 @@
   "MAC_warning": "UPOZORNĚNÍ: Mac není zatím podporován. Hra nejspíše nebude fungovat.",
   "Controller": "Ovladač detekován",
   "Controllers": "Ovladače detekovány",
-  "Controller_info": "!\nPodpora ovladačů není jetě dokončená,\na bude vylepšena v budoucích updatech.",
+  "Controller_info": "!\nPodpora ovladačů není ještě dokončená,\na bude vylepšena v budoucích updatech.",
   "on_state": "Zapnuto",
   "off_state": "Vypnuto",
   "World_name": "Svět-",
@@ -118,5 +118,16 @@
   "skinFileDesc": "Soubor typu PNG se 128x64 pixely",
   "itemCatalogSearch": "Hledat...",
   "boomboxOctave": "Oktáva",
-  "boomboxPlaySound": "Přehrát"
+  "boomboxPlaySound": "Přehrát",
+  "worldSelectionSearch": "Vyhledat Světy...",
+  "createWorldGamemode": "Herní režim:",
+  "gamemode_survival": "Přežití",
+  "gamemode_creative": "Tvoření",
+  "zone_base:earth": "Země",
+  "zone_base:flat": "Placka",
+  "zone_base:moon": "Měsíc",
+  "zone_base:nostalgic_island": "Nostalgické Ostrovy",
+  "zone_base:void": "Prázdný Svět",
+  "mobUnnamed": "Nepojmenovaný",
+  "zone_base:earth_legacy": "Země (Stará)"
 }
