@@ -90,5 +90,21 @@
     "base:stone_limestone::bricks": "Tijolos de Calcário",
     "base:ladder_iron": "Escadote de Ferro",
     "base:workbench": "Mesa de Trabalho",
-    "base:pixel_display": "Ecrã de Píxeis"
+    "base:pixel_display": "Ecrã de Píxeis",
+    "base:grass_blades": "Folhas de Relva",
+    "base:plastic_block::gray": "Plástico Cinza",
+    "base:plastic_block::white": "Plástico Branco",
+    "base:plastic_block::black": "Plástico Preto",
+    "base:plastic_block::red": "Plástico Vermelho",
+    "base:plastic_block::orange": "Plástico Laranja",
+    "base:plastic_block::yellow": "Plástico Amarelo",
+    "base:plastic_block::lime": "Plástico Lima",
+    "base:plastic_block::green": "Plástico Verde",
+    "base:plastic_block::spring_green": "Plástico Verde Primavera",
+    "base:plastic_block::cyan": "Plástico Ciano",
+    "base:plastic_block::azure": "Plástico Azure",
+    "base:plastic_block::blue": "Plástico Azul",
+    "base:plastic_block::violet": "Plástico Violeta",
+    "base:plastic_block::magenta": "Plástico Magenta",
+    "base:plastic_block::rose": "Plástico Rosa"
 }
