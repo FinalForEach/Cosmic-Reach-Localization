@@ -90,5 +90,21 @@
     "base:stone_limestone::bricks": "Briques de calcaire",
     "base:ladder_iron": "Échelle en fer",
     "base:workbench": "Établi",
-    "base:pixel_display": "Écran de pixels"
+    "base:pixel_display": "Écran de pixels",
+    "base:grass_blades": "Brins d'herbe",
+    "base:plastic_block::gray": "Plastique gris",
+    "base:plastic_block::white": "Plastique blanc",
+    "base:plastic_block::black": "Plastique noir",
+    "base:plastic_block::red": "Plastique rouge",
+    "base:plastic_block::orange": "Plastique orange",
+    "base:plastic_block::yellow": "Plastique jaune",
+    "base:plastic_block::lime": "Plastique vert citron",
+    "base:plastic_block::green": "Plastique vert",
+    "base:plastic_block::spring_green": "Plastique vert printemps",
+    "base:plastic_block::cyan": "Plastique cyan",
+    "base:plastic_block::azure": "Plastique azur",
+    "base:plastic_block::blue": "Plastique bleu",
+    "base:plastic_block::violet": "Plastique violet",
+    "base:plastic_block::magenta": "Plastique magenta",
+    "base:plastic_block::rose": "Plastique rose"
 }

@@ -32,5 +32,7 @@
     "base:crowbar": "Pied-de-biche",
     "base:remote_control": "Télécommande",
     "base:revolver": "Révolver",
-    "base:rifle": "Fusil"
+    "base:rifle": "Fusil",
+    "base:naphtha": "Naphta",
+    "base:plastic_pellets": "Balles en plastique"
 }
