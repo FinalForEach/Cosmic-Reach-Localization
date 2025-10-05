@@ -32,5 +32,7 @@
     "base:crowbar": "Łom",
     "base:remote_control": "Pilot",
     "base:revolver": "Rewolwer",
-    "base:rifle": "Karabin"
+    "base:rifle": "Karabin",
+    "base:naphtha": "Nafta",
+    "base:plastic_pellets": "Plastikowe kulki"
 }

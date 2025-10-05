@@ -90,5 +90,21 @@
     "base:stone_limestone::bricks": "Cegły z wapienia",
     "base:ladder_iron": "Żelazna drabina",
     "base:workbench": "Stół warsztatowy",
-    "base:pixel_display": "Wyświetlacz pixelowy"
+    "base:pixel_display": "Wyświetlacz pixelowy",
+    "base:grass_blades": "Źdźbła trawy",
+    "base:plastic_block::gray": "Szary plastik",
+    "base:plastic_block::white": "Biały plastik",
+    "base:plastic_block::black": "Czarny plastik",
+    "base:plastic_block::red": "Czerwony plastik",
+    "base:plastic_block::orange": "Pamarańczowy plastik",
+    "base:plastic_block::yellow": "Żółty plastik",
+    "base:plastic_block::lime": "Limonkowy plastik",
+    "base:plastic_block::green": "Zielony plastik",
+    "base:plastic_block::spring_green": "Wiosenny zielony plastik",
+    "base:plastic_block::cyan": "Cyjanowy plastik",
+    "base:plastic_block::azure": "Lazurowy plastik",
+    "base:plastic_block::blue": "Niebieski plastik",
+    "base:plastic_block::violet": "Fioletowy plastik",
+    "base:plastic_block::magenta": "Fuksjowy plastik",
+    "base:plastic_block::rose": "Różowy plastik"
 }
