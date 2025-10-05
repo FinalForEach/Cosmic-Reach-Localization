@@ -90,5 +90,21 @@
     "base:stone_limestone::bricks": "Ladrillos de caliza",
     "base:ladder_iron": "Escalera de hierro",
     "base:workbench": "Mesa de trabajo",
-    "base:pixel_display": "Visualizador de píxel"
+    "base:pixel_display": "Visualizador de píxel",
+    "base:grass_blades": "Briznas de césped",
+    "base:plastic_block::gray": "Plástico gris",
+    "base:plastic_block::white": "Plástico blanco",
+    "base:plastic_block::black": "Plástico negro",
+    "base:plastic_block::red": "Plástico rojo",
+    "base:plastic_block::orange": "Plástico naranja",
+    "base:plastic_block::yellow": "Plástico amarillo",
+    "base:plastic_block::lime": "Plástico verde lima",
+    "base:plastic_block::green": "Plástico verde",
+    "base:plastic_block::spring_green": "Plástico verde primavera",
+    "base:plastic_block::cyan": "Plástico cian",
+    "base:plastic_block::azure": "Plástico azur",
+    "base:plastic_block::blue": "Plástico azul",
+    "base:plastic_block::violet": "Plástico violeta",
+    "base:plastic_block::magenta": "Plástico magenta",
+    "base:plastic_block::rose": "Plástico rosa"
 }
