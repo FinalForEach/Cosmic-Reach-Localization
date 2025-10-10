@@ -91,5 +91,20 @@
     "base:ladder_iron": "鉄のはしご",
     "base:workbench": "作業台",
     "base:pixel_display": "ピクセルディスプレイ",
-    "base:grass_blades": "草葉"
+    "base:grass_blades": "草葉",
+    "base:plastic_block::gray": "灰色のプラスチック",
+    "base:plastic_block::white": "白色のプラスチック",
+    "base:plastic_block::black": "黒色のプラスチック",
+    "base:plastic_block::red": "赤色のプラスチック",
+    "base:plastic_block::orange": "オレンジ色のプラスチック",
+    "base:plastic_block::yellow": "黄色のプラスチック",
+    "base:plastic_block::lime": "ライムグリーン色のプラスチック",
+    "base:plastic_block::green": "緑色のプラスチック",
+    "base:plastic_block::spring_green": "ミントグリーン色のプラスチック",
+    "base:plastic_block::cyan": "シアン色のプラスチック",
+    "base:plastic_block::azure": "空色のプラスチック",
+    "base:plastic_block::blue": "青色のプラスチック",
+    "base:plastic_block::violet": "紫色のプラスチック",
+    "base:plastic_block::magenta": "マゼンタ色のプラスチック",
+    "base:plastic_block::rose": "バラ色のプラスチック"
 }
