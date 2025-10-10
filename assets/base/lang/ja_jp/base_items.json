@@ -32,5 +32,7 @@
     "base:crowbar": "バール",
     "base:remote_control": "リモコン",
     "base:revolver": "レボルバー",
-    "base:rifle": "ライフル"
+    "base:rifle": "ライフル",
+    "base:naphtha": "ナフサ",
+    "base:plastic_pellets": "プラスチックペレット"
 }
