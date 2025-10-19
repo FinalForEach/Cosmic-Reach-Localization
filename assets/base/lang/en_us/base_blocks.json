@@ -106,5 +106,6 @@
     "base:plastic_block::blue": "Blue Plastic",
     "base:plastic_block::violet": "Violet Plastic",
     "base:plastic_block::magenta": "Magenta Plastic",
-    "base:plastic_block::rose": "Rose Plastic"
+    "base:plastic_block::rose": "Rose Plastic",
+    "base:stone_komatiite": "Komatiite"
 }
