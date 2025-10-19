@@ -106,5 +106,6 @@
     "base:plastic_block::blue": "青色のプラスチック",
     "base:plastic_block::violet": "紫色のプラスチック",
     "base:plastic_block::magenta": "マゼンタ色のプラスチック",
-    "base:plastic_block::rose": "バラ色のプラスチック"
+    "base:plastic_block::rose": "バラ色のプラスチック",
+    "base:stone_komatiite": "コマチアイト"
 }
