@@ -106,5 +106,7 @@
     "base:plastic_block::blue": "Blå plast",
     "base:plastic_block::violet": "Fiolett plast",
     "base:plastic_block::magenta": "Ljoslilla plast",
-    "base:plastic_block::rose": "Roseraud  plast"
+    "base:plastic_block::rose": "Roseraud  plast",
+    "base:stone_komatiite": "Komatiitt",
+    "base:stone_komatiite::bricks": "Komatiittmur"
 }

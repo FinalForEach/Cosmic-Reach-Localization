@@ -120,6 +120,7 @@
   "boomboxOctave": "Oktav",
   "boomboxPlaySound": "Spill",
   "worldSelectionSearch": "Søk etter verdener…",
+  "createWorldGamemode": "Spillmodus:",
   "gamemode_survival": "Overlevelse",
   "gamemode_creative": "Kreativ",
   "zone_base:earth": "Jorden",
