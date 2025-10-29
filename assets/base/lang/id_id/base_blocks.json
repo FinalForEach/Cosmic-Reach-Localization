@@ -92,7 +92,7 @@
     "base:workbench": "Meja Kerja",
     "base:pixel_display": "Layar Piksel",
     "base:grass_blades": "Daun Rumput",
-    "base:plastic_block::gray": "Plastik Abu-abu",
+    "base:plastic_block::gray": "Plastik Abu-Abu",
     "base:plastic_block::white": "Plastik Putih",
     "base:plastic_block::black": "Plastik Hitam",
     "base:plastic_block::red": "Plastik Merah",
@@ -106,5 +106,7 @@
     "base:plastic_block::blue": "Plastik Biru",
     "base:plastic_block::violet": "Plastik Ungu",
     "base:plastic_block::magenta": "Plastik Magenta",
-    "base:plastic_block::rose": "Plastik Mawar"
+    "base:plastic_block::rose": "Plastik Mawar",
+    "base:stone_komatiite": "Komatit",
+    "base:stone_komatiite::bricks": "Batu Bata Komatit"
 }
