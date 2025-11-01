@@ -108,5 +108,9 @@
     "base:plastic_block::magenta": "Magenta Plastic",
     "base:plastic_block::rose": "Rose Plastic",
     "base:stone_komatiite": "Komatiite",
-    "base:stone_komatiite::bricks": "Komatiite Bricks"
+    "base:stone_komatiite::bricks": "Komatiite Bricks",
+    "base:ladder_wooden": "Wooden Ladder",
+    "base:battery_block": "Battery Block",
+    "base:crusher": "Crusher",
+    "base:recycler": "Recycler"
 }
