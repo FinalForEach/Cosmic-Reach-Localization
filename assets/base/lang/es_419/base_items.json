@@ -33,5 +33,8 @@
     "base:revolver": "Revólver",
     "base:rifle": "Rifle",
     "base:naphtha": "Nafta",
-    "base:plastic_pellets": "Pélets de plástico"
+    "base:plastic_pellets": "Pélets de plástico",
+    "base:dust_gold": "Polvo de oro",
+    "base:dust_iron": "Polvo de hierro",
+    "base:dust_aluminium": "Polvo de aluminio"
 }
