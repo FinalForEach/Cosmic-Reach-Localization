@@ -106,5 +106,11 @@
     "base:plastic_block::blue": "Синий пластик",
     "base:plastic_block::violet": "Фиолетовый пластик",
     "base:plastic_block::magenta": "Пурпурный пластик",
-    "base:plastic_block::rose": "Розовый пластик"
+    "base:plastic_block::rose": "Розовый пластик",
+    "base:stone_komatiite": "Коматиит",
+    "base:stone_komatiite::bricks": "Кирпичи из коматиита",
+    "base:ladder_wooden": "Деревянная лестница",
+    "base:battery_block": "Батарея",
+    "base:crusher": "Дробилка",
+    "base:recycler": "Переработчик"
 }
