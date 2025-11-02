@@ -33,5 +33,8 @@
     "base:revolver": "Revolver",
     "base:rifle": "Rifle",
     "base:naphtha": "Nafta",
-    "base:plastic_pellets": "Plastpellets"
+    "base:plastic_pellets": "Plastpellets",
+    "base:dust_gold": "Gullstøv",
+    "base:dust_iron": "Jernstøv",
+    "base:dust_aluminium": "Aluminiumstøv"
 }
