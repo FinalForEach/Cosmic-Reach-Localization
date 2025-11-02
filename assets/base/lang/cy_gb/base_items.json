@@ -33,5 +33,8 @@
     "base:revolver": "Rifolfer",
     "base:rifle": "Reiffl",
     "base:naphtha": "Nafftha",
-    "base:plastic_pellets": "Pelen Plastig"
+    "base:plastic_pellets": "Pelen Plastig",
+    "base:dust_gold": "Llwch Aur",
+    "base:dust_iron": "Llwch Haearn",
+    "base:dust_aluminium": "Llwch Alwminiwm"
 }
