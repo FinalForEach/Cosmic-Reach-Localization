@@ -34,5 +34,8 @@
     "base:revolver": "Révolver",
     "base:rifle": "Fusil",
     "base:naphtha": "Naphta",
-    "base:plastic_pellets": "Balles en plastique"
+    "base:plastic_pellets": "Balles en plastique",
+    "base:dust_gold": "Poussière d'or",
+    "base:dust_iron": "Poussière de fer",
+    "base:dust_aluminium": "Poussière d'aluminium"
 }

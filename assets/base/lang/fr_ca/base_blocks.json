@@ -106,5 +106,11 @@
     "base:plastic_block::blue": "Plastique bleu",
     "base:plastic_block::violet": "Plastique violet",
     "base:plastic_block::magenta": "Plastique magenta",
-    "base:plastic_block::rose": "Plastique rose"
+    "base:plastic_block::rose": "Plastique rose",
+    "base:stone_komatiite": "Komatiite",
+    "base:stone_komatiite::bricks": "Briques de komatiite",
+    "base:ladder_wooden": "Échelle en bois",
+    "base:battery_block": "Bloc de batterie",
+    "base:crusher": "Broyeur",
+    "base:recycler": "Recycleur"
 }
