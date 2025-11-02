@@ -107,5 +107,10 @@
     "base:plastic_block::violet": "紫色のプラスチック",
     "base:plastic_block::magenta": "マゼンタ色のプラスチック",
     "base:plastic_block::rose": "バラ色のプラスチック",
-    "base:stone_komatiite": "コマチアイト"
+    "base:stone_komatiite": "コマチアイト",
+    "base:stone_komatiite::bricks": "コマチアイトレンガ",
+    "base:ladder_wooden": "木製のはしご",
+    "base:battery_block": "バッテリーブロック",
+    "base:crusher": "クラッシャー",
+    "base:recycler": "リサイクラー"
 }
