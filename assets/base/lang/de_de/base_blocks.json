@@ -108,5 +108,9 @@
     "base:plastic_block::magenta": "Magenta Plastik",
     "base:plastic_block::rose": "Rosa Plastik",
     "base:stone_komatiite": "Komatiit",
-    "base:stone_komatiite::bricks": "Komatiit Ziegel"
+    "base:stone_komatiite::bricks": "Komatiit Ziegel",
+    "base:ladder_wooden": "Holz Leiter",
+    "base:battery_block": "Batterie Block",
+    "base:crusher": "Zerkleinerungsmaschine",
+    "base:recycler": "Aufbereitungsmaschine"
 }
