@@ -106,5 +106,11 @@
     "base:plastic_block::blue": "Niebieski plastik",
     "base:plastic_block::violet": "Fioletowy plastik",
     "base:plastic_block::magenta": "Fuksjowy plastik",
-    "base:plastic_block::rose": "Różowy plastik"
+    "base:plastic_block::rose": "Różowy plastik",
+    "base:stone_komatiite": "Komatyt",
+    "base:stone_komatiite::bricks": "Cegły z komatytu",
+    "base:ladder_wooden": "Drewniana drabina",
+    "base:battery_block": "Blok baterii",
+    "base:crusher": "Rozdrabiarka",
+    "base:recycler": "Maszyna recyklingowa"
 }

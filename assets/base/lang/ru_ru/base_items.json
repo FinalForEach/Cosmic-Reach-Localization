@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Алюминиевый слиток",
     "base:ingot_iron": "Железный слиток",
     "base:ingot_gold": "Золотой слиток",
-
     "base:medkit": "Аптечка",
     "base:medkit_gold": "Золотая аптечка",
     "base:stick": "Палка",
@@ -34,5 +33,8 @@
     "base:revolver": "Револьвер",
     "base:rifle": "Винтовка",
     "base:naphtha": "Нафта",
-    "base:plastic_pellets": "Гранулы пластика"
+    "base:plastic_pellets": "Гранулы пластика",
+    "base:dust_gold": "Золотая пыль",
+    "base:dust_iron": "Железная пыль",
+    "base:dust_aluminium": "Алюминиевая пыль"
 }
