@@ -108,5 +108,9 @@
     "base:plastic_block::magenta": "Ljoslilla plast",
     "base:plastic_block::rose": "Roseraud  plast",
     "base:stone_komatiite": "Komatiitt",
-    "base:stone_komatiite::bricks": "Komatiittmur"
+    "base:stone_komatiite::bricks": "Komatiittmur",
+    "base:ladder_wooden": "Trestige",
+    "base:battery_block": "Batteriblokk",
+    "base:crusher": "Knuser",
+    "base:recycler": "gjenvinnar"
 }
