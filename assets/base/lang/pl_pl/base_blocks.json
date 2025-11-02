@@ -110,7 +110,7 @@
     "base:stone_komatiite": "Komatyt",
     "base:stone_komatiite::bricks": "Cegły z komatytu",
     "base:ladder_wooden": "Drewniana drabina",
-    "base:battery_block": "Blok baterii",
-    "base:crusher": "Rozdrabiarka",
-    "base:recycler": "Maszyna recyklingowa"
+    "base:battery_block": "Akumulator",
+    "base:crusher": "Rozdrabniacz",
+    "base:recycler": "Odzyskiwacz"
 }
