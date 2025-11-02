@@ -34,5 +34,8 @@
     "base:revolver": "Revolver",
     "base:rifle": "Rifle",
     "base:naphtha": "Naphtha",
-    "base:plastic_pellets": "Plastic Pellets"
+    "base:plastic_pellets": "Plastic Pellets",
+    "base:dust_gold": "Gold Dust",
+    "base:dust_iron": "Iron Dust",
+    "base:dust_aluminium": "Aluminum Dust"
 }
