@@ -38,4 +38,7 @@
 	"base:dust_gold": "Pó de Ouro",
 	"base:dust_iron": "Pó de Ferro",
 	"base:dust_aluminium": "Pó de Alumínio"
+	"base:biofuel": "Biocombustível",
+	"base:starch": "Amido",
+	"base:starch_slurry": "Pasta de Amido"
 }
