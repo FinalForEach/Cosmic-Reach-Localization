@@ -112,5 +112,12 @@
     "base:ladder_wooden": "Wooden Ladder",
     "base:battery_block": "Battery Block",
     "base:crusher": "Crusher",
-    "base:recycler": "Recycler"
+    "base:recycler": "Recycler",
+    "base:cobblestone_basalt": "Basalt Cobblestone",
+    "base:cobblestone_limestone": "Limestone Cobblestone",
+    "base:cobblestone_gabbro": "Gabbro Cobblestone",
+    "base:cobblestone_sandstone": "Sandstone Cobblestone",
+    "base:magma::bricks": "Magma Bricks",
+    "base:snow::bricks": "Snow Bricks",
+    "base:ice::bricks": "Ice Bricks"
 }
