@@ -119,5 +119,7 @@
     "base:cobblestone_sandstone": "Sandstone Cobblestone",
     "base:magma::bricks": "Magma Bricks",
     "base:snow::bricks": "Snow Bricks",
-    "base:ice::bricks": "Ice Bricks"
+    "base:ice::bricks": "Ice Bricks",
+    "base:liquefactor": "Liquefactor",
+    "base:fermenter": "Fermenter"
 }
