@@ -119,5 +119,7 @@
     "base:cobblestone_sandstone": "Arenisca labrada",
     "base:magma::bricks": "Ladrillos de magma",
     "base:snow::bricks": "Ladrillos de nieve",
-    "base:ice::bricks": "Ladrillos de hielo"
+    "base:ice::bricks": "Ladrillos de hielo",
+    "base:liquefactor": "Licuefactor",
+    "base:fermenter": "Fermentador"
 }
