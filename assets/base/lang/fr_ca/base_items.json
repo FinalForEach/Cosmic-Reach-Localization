@@ -37,5 +37,8 @@
     "base:plastic_pellets": "Balles en plastique",
     "base:dust_gold": "Poussière d'or",
     "base:dust_iron": "Poussière de fer",
-    "base:dust_aluminium": "Poussière d'aluminium"
+    "base:dust_aluminium": "Poussière d'aluminium",
+    "base:biofuel": "Biocarburant",
+    "base:starch": "Amidon",
+    "base:starch_slurry": "Suspension d'amidon"
 }
