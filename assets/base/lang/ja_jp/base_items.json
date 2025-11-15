@@ -34,5 +34,8 @@
     "base:revolver": "レボルバー",
     "base:rifle": "ライフル",
     "base:naphtha": "ナフサ",
-    "base:plastic_pellets": "プラスチックペレット"
+    "base:plastic_pellets": "プラスチックペレット",
+    "base:dust_gold": "金粉",
+    "base:dust_iron": "鉄粉",
+    "base:dust_aluminium": "アルミ粉"
 }
