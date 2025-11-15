@@ -84,7 +84,7 @@
 	"base:lava": "Lava",
 	"base:dispenser": "Distribuidora",
 	"base:sandstone": "Arenito",
-	"base:sandstone::bricks": "Tijolos de Aretino",
+	"base:sandstone::bricks": "Tijolos de Arenito",
 	"base:stone_gabbro::bricks": "Tijolos de Gabro",
 	"base:stone_basalt::bricks": "Tijolos de Basalto",
 	"base:stone_limestone::bricks": "Tijolos de Calcário"
@@ -113,4 +113,11 @@
 	"base:battery_block": "Bloco de Bateria",
 	"base:crusher": "Triturador",
 	"base:recycler": "Reciclador"
+	"base:cobblestone_basalt": "Pedregulho de Basalto",
+	"base:cobblestone_limestone": "Pedregulho de Calcário",
+	"base:cobblestone_gabbro": "Pedregulho de Grabo",
+	"base:cobblestone_sandstone": "Pedregulho de Arenito",
+	"base:magma::bricks": "Tijolos de Magma",
+	"base:snow::bricks": "Tijolos de Neve",
+	"base:ice::bricks": "Tijolos de Gelo"
 }
