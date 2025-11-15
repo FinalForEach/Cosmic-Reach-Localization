@@ -119,5 +119,7 @@
     "base:cobblestone_sandstone": "Piaskowcowy bruk",
     "base:magma::bricks": "Cegły z magmy",
     "base:snow::bricks": "Cegły z śniegu",
-    "base:ice::bricks": "Cegły z lodu"
+    "base:ice::bricks": "Cegły z lodu",
+    "base:liquefactor": "Skraplacz",
+    "base:fermenter": "Fermentor"
 }
