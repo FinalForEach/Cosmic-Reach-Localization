@@ -146,6 +146,7 @@
 * RogueByte (Discord: roguebyte)
 * minidisque
 * ReclipseTheOne (Discord: reclipse)
+* qMicu (Discord: qmicu)
 
 == Serbian Localization ==
 * Ukizam_Tukizam
