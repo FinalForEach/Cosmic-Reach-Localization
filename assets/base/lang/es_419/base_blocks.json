@@ -112,5 +112,12 @@
     "base:ladder_wooden": "Escalera de madera",
     "base:battery_block": "Bloque de batería",
     "base:crusher": "Triturador",
-    "base:recycler": "Reciclador"
+    "base:recycler": "Reciclador",
+    "base:cobblestone_basalt": "Adoquín de basalto",
+    "base:cobblestone_limestone": "Adoquín de caliza",
+    "base:cobblestone_gabbro": "Adoquín de gabro",
+    "base:cobblestone_sandstone": "Adoquín de arenisca",
+    "base:magma::bricks": "Ladrillos de magma",
+    "base:snow::bricks": "Ladrillos de nieve",
+    "base:ice::bricks": "Ladrillos de hielo"
 }
