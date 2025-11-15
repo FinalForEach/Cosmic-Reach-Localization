@@ -118,5 +118,16 @@
   "skinFileDesc": "Teksturen må være en PNG på 128x64 piksler",
   "itemCatalogSearch": "Søk...",
   "boomboxOctave": "Oktav",
-  "boomboxPlaySound": "Spill"
+  "boomboxPlaySound": "Spill",
+  "worldSelectionSearch": "Søk etter verdener…",
+  "createWorldGamemode": "Spillmodus:",
+  "gamemode_survival": "Overlevelse",
+  "gamemode_creative": "Kreativ",
+  "zone_base:earth": "Jorden",
+  "zone_base:flat": "Flat verden",
+  "zone_base:moon": "Månen",
+  "zone_base:nostalgic_island": "Nostalgiske øyer",
+  "zone_base:void": "Tom verden",
+  "mobUnnamed": "Navnløs skapning",
+  "zone_base:earth_legacy": "Jorden (Tidligere versjon)"
 }

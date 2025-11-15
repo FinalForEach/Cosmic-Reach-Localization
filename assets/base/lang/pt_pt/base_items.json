@@ -23,5 +23,18 @@
     "base:ruby": "Rubi",
     "base:sapphire": "Safira",
     "base:corn": "Milho",
-    "base:corn_kernels": "Grãos de Milho"
+    "base:corn_kernels": "Grãos de Milho",
+    "base:debug_wrench": "Chave de Debug",
+    "base:steak": "Bife",
+    "base:manure": "Estrume",
+    "base:microchip": "Microchipe",
+    "base:crowbar": "Pé de Cabra",
+    "base:remote_control": "Controlo Remoto",
+    "base:revolver": "Revólver",
+    "base:rifle": "Espingarda",
+    "base:naphtha": "Nafta",
+    "base:plastic_pellets": "Pellets de Plástico",
+    "base:dust_gold": "Pó de Ouro",
+    "base:dust_iron": "Pó de Ferro",
+    "base:dust_aluminium": "Pó de Alumínio"
 }

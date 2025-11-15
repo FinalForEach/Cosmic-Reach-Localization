@@ -114,5 +114,16 @@
     "skinFileDesc": "ffeil PNG gyda 128x64 picseli",
     "itemCatalogSearch": "Chwilio...",
     "boomboxOctave": "Wythfed",
-    "boomboxPlaySound": "Chwarae"
+    "boomboxPlaySound": "Chwarae",
+    "worldSelectionSearch": "Chwilio Bydoedd...",
+    "createWorldGamemode": "Modd y Gêm:",
+    "gamemode_survival": "Goroesi",
+    "gamemode_creative": "Creadigol",
+    "zone_base:earth": "Ddaear",
+    "zone_base:flat": "Gwastad",
+    "zone_base:moon": "Lleuad",
+    "zone_base:nostalgic_island": "Ynysoedd Hiraethus",
+    "zone_base:void": "Byd Gwagle",
+    "mobUnnamed": "Heb-enw",
+    "zone_base:earth_legacy": "Daear (Cymynrodd)"
 }

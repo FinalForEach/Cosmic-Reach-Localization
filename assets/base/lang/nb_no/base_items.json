@@ -22,6 +22,19 @@
     "base:flamethrower": "Flammekaster",
     "base:ruby": "Rubin",
     "base:sapphire": "Safir",
-    "base:corn": "Mais",
-    "base:corn_kernels": "Maiskolbe"
+    "base:corn": "Maiskolbe",
+    "base:corn_kernels": "Maiskorn",
+    "base:debug_wrench": "Feilsøkingsnøkkel",
+    "base:steak": "Biff",
+    "base:manure": "Gjødsel",
+    "base:microchip": "Mikrobrikke",
+    "base:crowbar": "Brekkjern",
+    "base:remote_control": "Fjernkontroll",
+    "base:revolver": "Revolver",
+    "base:rifle": "Rifle",
+    "base:naphtha": "Nafta",
+    "base:plastic_pellets": "Plastpellets",
+    "base:dust_gold": "Gullstøv",
+    "base:dust_iron": "Jernstøv",
+    "base:dust_aluminium": "Aluminiumstøv"
 }

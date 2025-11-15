@@ -24,6 +24,7 @@
 * AlfonsoLVG
 * Faurl
 * Fett Ron
+* siljamdev
 
 == Latin America Spanish Localization ==
 * Wesly
@@ -39,6 +40,7 @@
 
 == Canadian French Localization ==
 * Sinvay
+* DarkMattrMaestro
 
 == German Localization ==
 * Matze (Matze997)
@@ -82,6 +84,7 @@
 * Samuel Deboni
 * José Siqueira
 * Tobias Aaron Hurter
+* Eri - https://github.com/StShAzzy
 
 == Portuguese Localization ==
 * DarkenLM
@@ -124,6 +127,7 @@
 * CPUOverheating
 * ComputerFanMotor
 * Helmersoft
+* Elias Sirviö (multinode)
 
 == Bulgarian Localization ==
 * Niko

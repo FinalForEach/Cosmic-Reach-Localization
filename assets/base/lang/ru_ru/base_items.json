@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Алюминиевый слиток",
     "base:ingot_iron": "Железный слиток",
     "base:ingot_gold": "Золотой слиток",
-
     "base:medkit": "Аптечка",
     "base:medkit_gold": "Золотая аптечка",
     "base:stick": "Палка",
@@ -24,5 +23,18 @@
     "base:ruby": "Рубин",
     "base:sapphire": "Сапфир",
     "base:corn": "Кукурузный початок",
-    "base:corn_kernels": "Кукурузные зёрна"
+    "base:corn_kernels": "Кукурузные зёрна",
+    "base:debug_wrench": "Гаечный ключ отладки",
+    "base:steak": "Стейк",
+    "base:manure": "Навоз",
+    "base:microchip": "Микрочип",
+    "base:crowbar": "Лом",
+    "base:remote_control": "Пульт дистанционного управления",
+    "base:revolver": "Револьвер",
+    "base:rifle": "Винтовка",
+    "base:naphtha": "Нафта",
+    "base:plastic_pellets": "Гранулы пластика",
+    "base:dust_gold": "Золотая пыль",
+    "base:dust_iron": "Железная пыль",
+    "base:dust_aluminium": "Алюминиевая пыль"
 }

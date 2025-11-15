@@ -115,5 +115,16 @@
  "skinFileDesc": "128x64ピクセルのPNGファイル",
  "itemCatalogSearch": "検索...",
  "boomboxOctave": "オクターブ",
- "boomboxPlaySound": "再生"
+ "boomboxPlaySound": "再生",
+  "worldSelectionSearch": "ワールドの検索...",
+  "createWorldGamemode": "ゲームモード:",
+  "gamemode_survival": "サバイバル",
+  "gamemode_creative": "クリエイティブ",
+  "zone_base:earth": "地球",
+  "zone_base:flat": "フラット",
+  "zone_base:moon": "月",
+  "zone_base:nostalgic_island": "Nostalgic Islands",
+  "zone_base:void": "奈落のワールド",
+  "mobUnnamed": "無名",
+  "zone_base:earth_legacy": "地球 (レガシー)"
 }

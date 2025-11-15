@@ -23,5 +23,18 @@
     "base:ruby": "Ruby",
     "base:sapphire": "Saffir",
     "base:corn": "Corn",
-    "base:corn_kernels": "Cnewyll Corn"
+    "base:corn_kernels": "Cnewyll Corn",
+    "base:debug_wrench": "Tyndro Dadfygio",
+    "base:steak": "Stêc",
+    "base:manure": "Tail",
+    "base:microchip": "Microsglodyn",
+    "base:crowbar": "Trosol",
+    "base:remote_control": "Rheolaeth Bell",
+    "base:revolver": "Rifolfer",
+    "base:rifle": "Reiffl",
+    "base:naphtha": "Nafftha",
+    "base:plastic_pellets": "Pelen Plastig",
+    "base:dust_gold": "Llwch Aur",
+    "base:dust_iron": "Llwch Haearn",
+    "base:dust_aluminium": "Llwch Alwminiwm"
 }

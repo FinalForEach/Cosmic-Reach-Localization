@@ -25,5 +25,20 @@
     "base:sapphire": "Sapphire",
     "base:corn": "Corn",
     "base:corn_kernels": "Corn Kernels",
-    "base:debug_wrench": "Debug Wrench"
+    "base:debug_wrench": "Debug Wrench",
+    "base:steak": "Steak",
+    "base:manure": "Manure",
+    "base:microchip": "Microchip",
+    "base:crowbar": "Crowbar",
+    "base:remote_control": "Remote Control",
+    "base:revolver": "Revolver",
+    "base:rifle": "Rifle",
+    "base:naphtha": "Naphtha",
+    "base:plastic_pellets": "Plastic Pellets",
+    "base:dust_gold": "Gold Dust",
+    "base:dust_iron": "Iron Dust",
+    "base:dust_aluminium": "Aluminum Dust",
+    "base:biofuel": "Biofuel",
+    "base:starch": "Starch",
+    "base:starch_slurry": "Starch Slurry"
 }

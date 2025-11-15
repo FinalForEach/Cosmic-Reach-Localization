@@ -115,5 +115,16 @@
   "skinFileDesc": "Archivo PNG de 128×64 píxeles",
   "itemCatalogSearch": "Buscar...",
   "boomboxOctave": "Octava",
-  "boomboxPlaySound": "Reproducir"
+  "boomboxPlaySound": "Reproducir",
+  "worldSelectionSearch": "Buscar mundos...",
+  "createWorldGamemode": "Modo de juego:",
+  "gamemode_survival": "Supervivencia",
+  "gamemode_creative": "Creativo",
+  "zone_base:earth": "Tierra",
+  "zone_base:flat": "Plano",
+  "zone_base:moon": "Luna",
+  "zone_base:nostalgic_island": "Islas nostálgicas",
+  "zone_base:void": "Vacío",
+  "mobUnnamed": "Sin nombre",
+  "zone_base:earth_legacy": "Tierra (Antigua)"
 }

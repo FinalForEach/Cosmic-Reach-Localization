@@ -20,5 +20,19 @@
     "base:rubber_ball": "ゴム",
     "base:laser_gun": "レーザーガン",
     "base:jetpack": "ジェットパック",
-    "base:flamethrower": "火炎放射器"
+    "base:flamethrower": "火炎放射器",
+    "base:ruby": "ルビー",
+    "base:sapphire": "サファイア",
+    "base:corn": "トウモロコシ",
+    "base:corn_kernels": "トウモロコシの粒",
+    "base:debug_wrench": "デバッグレンチ",
+    "base:steak": "ステーキ",
+    "base:manure": "肥料",
+    "base:microchip": "マイクロチップ",
+    "base:crowbar": "バール",
+    "base:remote_control": "リモコン",
+    "base:revolver": "レボルバー",
+    "base:rifle": "ライフル",
+    "base:naphtha": "ナフサ",
+    "base:plastic_pellets": "プラスチックペレット"
 }

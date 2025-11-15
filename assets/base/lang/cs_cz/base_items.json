@@ -21,5 +21,18 @@
     "base:laser_gun": "Laserová Pistole",
     "base:jetpack": "Jetpack",
     "base:flamethrower": "Plamenomet",
-    "base:ruby": "Rubín"
+    "base:ruby": "Rubín",
+    "base:sapphire": "Safír",
+    "base:corn": "Kukuřice",
+    "base:corn_kernels": "Kukuříčná Semínka",
+    "base:debug_wrench": "Debug Klíč",
+    "base:steak": "Steak",
+    "base:manure": "Hnůj",
+    "base:microchip": "Mikročip",
+    "base:crowbar": "Páčidlo",
+    "base:remote_control": "Dálkový Ovladač",
+    "base:revolver": "Revolver",
+    "base:rifle": "Puška",
+    "base:naphtha": "Nafta",
+    "base:plastic_pellets": "Plastové Granule"
 }

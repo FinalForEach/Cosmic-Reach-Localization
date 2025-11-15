@@ -16,8 +16,8 @@
   "mouseSensitivitySlider": "Mouse Sensitivity: ",
   "soundSlider": "Sound: ",
   "musicSlider": "Music: ",
-  "musicFreqSlider": "Music Frequency In Minutes: ",
   "fovSlider": "FOV: ",
+  "musicFreqSlider": "Music Frequency In Minutes: ",
   "maxFPS": "Max FPS: ",
   "maxFPSUnlimited": "Max FPS: Unlimited",
   "debugCrashButton": "Debug: Crash the game",
@@ -115,5 +115,17 @@
   "skinFileDesc": "PNG file with 128x64 pixels",
   "itemCatalogSearch": "Search...",
   "boomboxOctave": "Octave",
-  "boomboxPlaySound": "Play"
+  "boomboxPlaySound": "Play",
+  "worldSelectionSearch": "Search Worlds...",
+  "createWorldGamemode": "Gamemode:",
+  "gamemode_survival": "Survival",
+  "gamemode_creative": "Creative",
+  "zone_base:earth": "Earth",
+  "zone_base:flat": "Flat",
+  "zone_base:moon": "Moon",
+  "zone_base:nostalgic_island": "Nostalgic Islands",
+  "zone_base:void": "Void World",
+  "mobUnnamed": "Unnamed",
+  "zone_base:earth_legacy": "Earth (Legacy)",
+  "comingSoon": "Coming soon..."
 }
