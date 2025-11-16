@@ -111,8 +111,8 @@
 	"base:stone_komatiite::bricks": "Tijolos de Komatiita",
 	"base:ladder_wooden": "Escada de Madeira",
 	"base:battery_block": "Bloco de Bateria",
-	"base:crusher": "Triturador",
-	"base:recycler": "Reciclador"
+	"base:crusher": "Trituradora",
+	"base:recycler": "Recicladora"
 	"base:cobblestone_basalt": "Pedregulho de Basalto",
 	"base:cobblestone_limestone": "Pedregulho de Calcário",
 	"base:cobblestone_gabbro": "Pedregulho de Grabo",
@@ -120,4 +120,6 @@
 	"base:magma::bricks": "Tijolos de Magma",
 	"base:snow::bricks": "Tijolos de Neve",
 	"base:ice::bricks": "Tijolos de Gelo"
+	"base:liquefactor": "Liquefatora",
+	"base:fermenter": "Fermentadora"
 }
