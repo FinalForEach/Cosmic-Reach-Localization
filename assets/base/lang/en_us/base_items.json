@@ -37,5 +37,8 @@
     "base:plastic_pellets": "Plastic Pellets",
     "base:dust_gold": "Gold Dust",
     "base:dust_iron": "Iron Dust",
-    "base:dust_aluminium": "Aluminum Dust"
+    "base:dust_aluminium": "Aluminum Dust",
+    "base:biofuel": "Biofuel",
+    "base:starch": "Starch",
+    "base:starch_slurry": "Starch Slurry"
 }
