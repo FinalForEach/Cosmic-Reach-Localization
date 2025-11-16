@@ -37,4 +37,7 @@
     "base:dust_gold": "Goldstaub",
     "base:dust_iron": "Eisenstaub",
     "base:dust_aluminium": "Aluminiumstaub"
+    "base:biofuel": "Biokraftstoff",
+    "base:starch": "Stärke",
+    "base:starch_slurry": "Stärkeschlamm"
 }
