@@ -1,5 +1,8 @@
 {
     "remoteControlMobNameInputLabel": "Navn:",
     "workbenchItemNameLabel": "Gjenstandsnavn:",
-    "laserEmitterShoot": "Skyt!"
+    "laserEmitterShoot": "Skyt!",
+    "inventoryCrafting": "Tilvirking",
+    "inventoryEquipment": "Utstyr",
+    "inventoryAchievements": "Prestasjoner"
 }

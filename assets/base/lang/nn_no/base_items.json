@@ -36,5 +36,8 @@
     "base:plastic_pellets": "Plastpellets",
     "base:dust_gold": "Gullstøv",
     "base:dust_iron": "Jarnstøv",
-    "base:dust_aluminium": "Aluminiumstøv"
+    "base:dust_aluminium": "Aluminiumstøv",
+    "base:biofuel": "Biodrivstoff",
+    "base:starch": "Stivelse",
+    "base:starch_slurry": "Stivelseslam"
 }
