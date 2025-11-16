@@ -36,5 +36,8 @@
     "base:plastic_pellets": "Pelen Plastig",
     "base:dust_gold": "Llwch Aur",
     "base:dust_iron": "Llwch Haearn",
-    "base:dust_aluminium": "Llwch Alwminiwm"
+    "base:dust_aluminium": "Llwch Alwminiwm",
+    "base:biofuel": "Biodanwydd",
+    "base:starch": "Startsh",
+    "base:starch_slurry": "Biswail Startsh"
 }
