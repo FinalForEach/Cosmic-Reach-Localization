@@ -108,5 +108,18 @@
     "base:plastic_block::magenta": "Magenta Plastik",
     "base:plastic_block::rose": "Rosa Plastik",
     "base:stone_komatiite": "Komatiit",
-    "base:stone_komatiite::bricks": "Komatiit Ziegel"
+    "base:stone_komatiite::bricks": "Komatiit Ziegel",
+    "base:ladder_wooden": "Holz Leiter",
+    "base:battery_block": "Batterie Block",
+    "base:crusher": "Zerkleinerungsmaschine",
+    "base:recycler": "Aufbereitungsmaschine",
+    "base:cobblestone_basalt": "Basaltpflasterstein",
+    "base:cobblestone_limestone": "Kopfsteinpflasterkalkstein",
+    "base:cobblestone_gabbro": "Kopfsteinpflastergabbro",
+    "base:cobblestone_sandstone": "Kopfsteinpflastersandstein",
+    "base:magma::bricks": "Magma Ziegel",
+    "base:snow::bricks": "Schnee Ziegel",
+    "base:ice::bricks": "Eis Ziegel",
+    "base:liquefactor": "Verflüssigungsgerät",
+    "base:fermenter": "Fermenter"
 }
