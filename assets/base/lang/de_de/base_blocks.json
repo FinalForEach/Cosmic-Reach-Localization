@@ -112,5 +112,14 @@
     "base:ladder_wooden": "Holz Leiter",
     "base:battery_block": "Batterie Block",
     "base:crusher": "Zerkleinerungsmaschine",
-    "base:recycler": "Aufbereitungsmaschine"
+    "base:recycler": "Aufbereitungsmaschine",
+    "base:cobblestone_basalt": "Basaltpflasterstein",
+    "base:cobblestone_limestone": "Kopfsteinpflasterkalkstein",
+    "base:cobblestone_gabbro": "Kopfsteinpflastergabbro",
+    "base:cobblestone_sandstone": "Kopfsteinpflastersandstein",
+    "base:magma::bricks": "Magma Ziegel",
+    "base:snow::bricks": "Schnee Ziegel",
+    "base:ice::bricks": "Eis Ziegel",
+    "base:liquefactor": "Verflüssigungsgerät",
+    "base:fermenter": "Fermenter"
 }

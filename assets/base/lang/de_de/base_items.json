@@ -36,5 +36,8 @@
     "base:plastic_pellets": "Kunststoffgranulat",
     "base:dust_gold": "Gold Staub",
     "base:dust_iron": "Eisen Staub",
-    "base:dust_aluminium": "Aluminium Staub"
+    "base:dust_aluminium": "Aluminium Staub",
+    "base:biofuel": "Biokraftstoff",
+    "base:starch": "Stärke",
+    "base:starch_slurry": "Stärkeschlamm"
 }
