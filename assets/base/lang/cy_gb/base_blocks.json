@@ -112,5 +112,14 @@
     "base:ladder_wooden": "Ysgol Pren",
     "base:battery_block": "Bloc Batri",
     "base:crusher": "Malwr",
-    "base:recycler": "Ailgylchwr"
+    "base:recycler": "Ailgylchwr",
+    "base:cobblestone_basalt": "Crynion Pilergraig",
+    "base:cobblestone_limestone": "Crynion Calchfaen",
+    "base:cobblestone_gabbro": "Crynion Gabro",
+    "base:cobblestone_sandstone": "Crynion Tywodfaen",
+    "base:magma::bricks": "Briciau Magma",
+    "base:snow::bricks": "Briciau Eira",
+    "base:ice::bricks": "Briciau Iâ",
+    "base:liquefactor": "Hylifydd",
+    "base:fermenter": "Eplesydd"
 }
