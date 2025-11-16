@@ -1,9 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
-  "metadata":
-  {
-    "name": "Русский"
-  },
+    "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
+    "metadata": {
+        "name": "Русский"
+    },
     "formatPercent": "#%",
     "startButton": "Играть",
     "loadButton": "Открыть папку с сохранениями",
@@ -83,7 +82,7 @@
     "Game_version_alpha": "Cosmic Reach Version Alpha-",
     "Game_version_beta": "Cosmic Reach Version Beta-",
     "Game_version_release": "Cosmic Reach Version ",
-    "MAC_warning": "ВНИМАНИЕ: На данный момент macOS не поддерживается. Игра вероятно не будет работать.",                                                                                      
+    "MAC_warning": "ВНИМАНИЕ: На данный момент macOS не поддерживается. Игра вероятно не будет работать.",
     "Controller": "Контроллер",
     "Controllers": "Контроллеры",
     "Controller_info": " обнаружен!\nПоддержка контроллеров ещё не готова до конца,\nи будет улучшена в будущих версиях.",
@@ -93,11 +92,11 @@
     "Screenshot_info": "Снимок экрана сохранён в ",
     "Screenshot_error": "Не удалось сохранить снимок экрана.",
     "Loading": "Загрузка",
-    "mouseLeftButton" : "Левая кнопка мыши",
-    "mouseMiddleButton" : "Средняя кнопка мыши",
-    "mouseRightButton" : "Правая кнопка мыши",
-    "mouseBackButton" : "Передняя боковая кнопка мыши",
-    "mouseForwardButton" : "Задняя боковая кнопка мыши",
+    "mouseLeftButton": "Левая кнопка мыши",
+    "mouseMiddleButton": "Средняя кнопка мыши",
+    "mouseRightButton": "Правая кнопка мыши",
+    "mouseBackButton": "Передняя боковая кнопка мыши",
+    "mouseForwardButton": "Задняя боковая кнопка мыши",
     "RuntimeException": "Не удалось загрузить мир: ",
     "creditsGameBy": "ИГРА СОЗДАНА:",
     "creditsMusic": "МУЗЫКА:",
@@ -126,5 +125,6 @@
     "zone_base:nostalgic_island": "Ностальгические острова",
     "zone_base:void": "Пустота",
     "mobUnnamed": "Без названия",
-    "zone_base:earth_legacy": "Земля (старая)"
+    "zone_base:earth_legacy": "Земля (старая)",
+    "comingSoon": "Скоро..."
 }
