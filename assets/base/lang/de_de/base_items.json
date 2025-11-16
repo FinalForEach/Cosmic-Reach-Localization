@@ -23,7 +23,7 @@
     "base:ruby": "Rubin",
     "base:sapphire": "Saphir",
     "base:corn": "Mais",
-    "base:corn_kernels": "Mais Kernel",
+    "base:corn_kernels": "Maiskörner",
     "base:microchip": "Mikrochip",
     "base:crowbar": "Brechstange",
     "base:remote_control": "Fernsteuerung",
@@ -34,9 +34,9 @@
     "base:rifle": "Gewehr",
     "base:naphtha": "Rohbenzin",
     "base:plastic_pellets": "Kunststoffgranulat",
-    "base:dust_gold": "Gold Staub",
-    "base:dust_iron": "Eisen Staub",
-    "base:dust_aluminium": "Aluminium Staub",
+    "base:dust_gold": "Goldstaub",
+    "base:dust_iron": "Eisenstaub",
+    "base:dust_aluminium": "Aluminiumstaub"
     "base:biofuel": "Biokraftstoff",
     "base:starch": "Stärke",
     "base:starch_slurry": "Stärkeschlamm"
