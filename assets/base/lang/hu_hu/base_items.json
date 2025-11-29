@@ -32,5 +32,13 @@
     "base:crowbar": "Feszítővas",
     "base:remote_control": "Távirányító",
     "base:revolver": "Revolver",
-    "base:rifle": "Puska"
+    "base:rifle": "Puska",
+    "base:naphtha": "Nafta",
+    "base:plastic_pellets": "Műanyag pellet",
+    "base:dust_gold": "Aranypor",
+    "base:dust_iron": "Vaspor",
+    "base:dust_aluminium": "Alumíniumpor",
+    "base:biofuel": "Bioüzemanyag",
+    "base:starch": "Keményítő",
+    "base:starch_slurry": "Keményítőpép"
 }
