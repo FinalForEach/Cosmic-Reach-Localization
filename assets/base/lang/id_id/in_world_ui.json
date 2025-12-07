@@ -1,5 +1,8 @@
 {
     "remoteControlMobNameInputLabel": "Nama:",
     "workbenchItemNameLabel": "Nama Item:",
-    "laserEmitterShoot": "Tembak!"
+    "laserEmitterShoot": "Tembak!",
+    "inventoryCrafting": "Kerajinan",
+    "inventoryEquipment": "Peralatan",
+    "inventoryAchievements": "Prestasi"
 }

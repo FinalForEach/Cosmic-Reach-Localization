@@ -16,8 +16,8 @@
   "mouseSensitivitySlider": "Sensitivitas Tetikus: ",
   "soundSlider": "Suara: ",
   "musicSlider": "Musik: ",
-  "musicFreqSlider": "Frekuensi Musik Dalam Menit: ",
   "fovSlider": "FOV: ",
+  "musicFreqSlider": "Frekuensi Musik Dalam Menit: ",
   "maxFPS": "FPS Maks: ",
   "maxFPSUnlimited": "FPS Maks: Tak terbatas",
   "debugCrashButton": "Debug: Crash permainan",
@@ -126,5 +126,6 @@
   "zone_base:nostalgic_island": "Pulau Nostalgia",
   "zone_base:void": "Dunia Hampa",
   "mobUnnamed": "Tanpa Nama",
-  "zone_base:earth_legacy": "Bumi (Legacy)"
+  "zone_base:earth_legacy": "Bumi (Legacy)",
+  "comingSoon": "Segera Hadir..."
 }

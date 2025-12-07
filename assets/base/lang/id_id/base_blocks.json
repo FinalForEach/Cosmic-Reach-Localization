@@ -108,5 +108,22 @@
     "base:plastic_block::magenta": "Plastik Magenta",
     "base:plastic_block::rose": "Plastik Mawar",
     "base:stone_komatiite": "Komatit",
-    "base:stone_komatiite::bricks": "Batu Bata Komatit"
+    "base:stone_komatiite::bricks": "Batu Bata Komatit",
+    "base:ladder_wooden": "Tangga Kayu",
+    "base:battery_block": "Blok Baterai",
+    "base:crusher": "Pemecah",
+    "base:recycler": "Pendaur Ulang",
+    "base:cobblestone_basalt": "Batu Bulat Basalt",
+    "base:cobblestone_limestone": "Batu Bulat Kapur",
+    "base:cobblestone_gabbro": "Batu Bulat Gabbro",
+    "base:cobblestone_sandstone": "Batu Bulat Pasir",
+    "base:magma::bricks": "Batu Bata Magma",
+    "base:snow::bricks": "Batu Bata Salju",
+    "base:ice::bricks": "Batu Bata Es",
+    "base:liquefactor": "Pelarut",
+    "base:fermenter": "Fermentor",
+    "base:laser_emitter_motion": "Pemancar Laser Dorong",
+    "base:piston::advancing": "Piston Maju",
+    "base:leaves_fir": "Daun Pinus",
+    "base:sapling_fir": "Pohon Muda Pinus"
 }
