@@ -36,5 +36,8 @@
     "base:plastic_pellets": "Pélets de plástico",
     "base:dust_gold": "Polvo de oro",
     "base:dust_iron": "Polvo de hierro",
-    "base:dust_aluminium": "Polvo de aluminio"
+    "base:dust_aluminium": "Polvo de aluminio",
+    "base:biofuel": "Biocarburante",
+    "base:starch": "Almidón",
+    "base:starch_slurry": "Mezcla de almidón"
 }

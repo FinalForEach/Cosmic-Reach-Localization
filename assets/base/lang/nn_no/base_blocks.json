@@ -86,7 +86,7 @@
     "base:sandstone": "Sandstein",
     "base:sandstone::bricks": "Sandsteinmur",
     "base:stone_gabbro::bricks": "Gabbromur",
-    "base:stone_basalt::bricks": "Basaltmurs",
+    "base:stone_basalt::bricks": "Basaltmur",
     "base:stone_limestone::bricks": "Kalksteinmur",
     "base:ladder_iron": "Jarnstige",
     "base:workbench": "Emningsbord",
@@ -112,5 +112,14 @@
     "base:ladder_wooden": "Trestige",
     "base:battery_block": "Batteriblokk",
     "base:crusher": "Knuser",
-    "base:recycler": "gjenvinnar"
+    "base:recycler": "gjenvinnar",
+    "base:cobblestone_basalt": "Basaltbrustein",
+    "base:cobblestone_limestone": "Kalkbrustein",
+    "base:cobblestone_gabbro": "Gabbrobrustein",
+    "base:cobblestone_sandstone": "Sandbruistein",
+    "base:magma::bricks": "Magmamur",
+    "base:snow::bricks": "Snømur",
+    "base:ice::bricks": "Ismur",
+    "base:liquefactor": "Slampresse",
+    "base:fermenter": "Gjæringstank"
 }
