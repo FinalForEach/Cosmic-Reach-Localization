@@ -65,8 +65,8 @@
     "base:rubber_block": "Gummiblokk",
     "base:gold_block": "Gullblokk",
     "base:wood_door": "Tredør",
-    "base:laser_emitter": "Lasersender",
-    "base:laser_emitter::split": "Tosidig lasersender",
+    "base:laser_emitter": "Lasersendar",
+    "base:laser_emitter::split": "Tosidig lasersendar",
     "base:coal": "Kolblokk",
     "base:torch": "Fakkel",
     "base:laser_switch": "Laserbryter",
@@ -121,5 +121,9 @@
     "base:snow::bricks": "Snømur",
     "base:ice::bricks": "Ismur",
     "base:liquefactor": "Slampresse",
-    "base:fermenter": "Gjæringstank"
+    "base:fermenter": "Gjæringstank",
+    "base:laser_emitter_motion": "Dyttaktivert lasersendar",
+    "base:piston::advancing": "Fremadgående stempel",
+    "base:leaves_fir": "Granlauv",
+    "base:sapling_fir": "Granspire"
 }
