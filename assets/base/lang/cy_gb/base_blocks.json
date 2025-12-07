@@ -121,5 +121,9 @@
     "base:snow::bricks": "Briciau Eira",
     "base:ice::bricks": "Briciau Iâ",
     "base:liquefactor": "Hylifydd",
-    "base:fermenter": "Eplesydd"
+    "base:fermenter": "Eplesydd",
+    "base:piston::advancing": "Piston Symud Ymlaen",
+    "base:leaves_fir": "Dail Ffyr",
+    "base:sapling_fir": "Glasbren Ffyr",
+    "base:laser_emitter_motion": "Allyrrydd Laser Wedi'i Ysgogi Gan Wthio"
 }
