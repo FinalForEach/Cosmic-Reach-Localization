@@ -121,5 +121,9 @@
     "base:snow::bricks": "Snow Bricks",
     "base:ice::bricks": "Ice Bricks",
     "base:liquefactor": "Liquefactor",
-    "base:fermenter": "Fermenter"
+    "base:fermenter": "Fermenter",
+    "base:laser_emitter_motion": "Push Activated Laser Emitter",
+    "base:piston::advancing": "Advancing Piston",
+    "base:leaves_fir": "Fir Leaves",
+    "base:sapling_fir": "Fir Sapling"
 }
