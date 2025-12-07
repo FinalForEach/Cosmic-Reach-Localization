@@ -121,5 +121,9 @@
     "base:snow::bricks": "Snømur",
     "base:ice::bricks": "Ismur",
     "base:liquefactor": "Slampresse",
-    "base:fermenter": "Gjæringstank"
+    "base:fermenter": "Gjæringstank",
+    "base:laser_emitter_motion": "Dyttaktivert lasersender",
+    "base:piston::advancing": "Fremadgående stempel",
+    "base:leaves_fir": "Granblader",
+    "base:sapling_fir": "Granspire"
 }
