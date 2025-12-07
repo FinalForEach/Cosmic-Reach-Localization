@@ -37,5 +37,8 @@
     "base:plastic_pellets": "プラスチックペレット",
     "base:dust_gold": "金粉",
     "base:dust_iron": "鉄粉",
-    "base:dust_aluminium": "アルミ粉"
+    "base:dust_aluminium": "アルミ粉",
+    "base:biofuel": "バイオ燃料",
+    "base:starch": "デンプン",
+    "base:starch_slurry": "デンプンスラリー"
 }

@@ -112,5 +112,14 @@
     "base:ladder_wooden": "木製のはしご",
     "base:battery_block": "バッテリーブロック",
     "base:crusher": "クラッシャー",
-    "base:recycler": "リサイクラー"
+    "base:recycler": "リサイクラー",
+    "base:cobblestone_basalt": "玄武岩の丸石",
+    "base:cobblestone_limestone": "石灰岩の丸石",
+    "base:cobblestone_gabbro": "斑れい岩の丸石",
+    "base:cobblestone_sandstone": "砂岩の丸石",
+    "base:magma::bricks": "マグマレンガ",
+    "base:snow::bricks": "雪レンガ",
+    "base:ice::bricks": "氷レンガ",
+    "base:liquefactor": "液化機",
+    "base:fermenter": "発酵機"
 }
