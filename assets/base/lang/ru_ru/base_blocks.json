@@ -112,5 +112,14 @@
     "base:ladder_wooden": "Деревянная лестница",
     "base:battery_block": "Батарея",
     "base:crusher": "Дробилка",
-    "base:recycler": "Переработчик"
+    "base:recycler": "Переработчик",
+    "base:cobblestone_basalt": "Базальтовый булыжник",
+    "base:cobblestone_limestone": "Известняковый булыжник",
+    "base:cobblestone_gabbro": "Габбро булыжник",
+    "base:cobblestone_sandstone": "Песчаниковый булыжник",
+    "base:magma::bricks": "Магмовые кирпичи",
+    "base:snow::bricks": "Снежные кирпичи",
+    "base:ice::bricks": "Ледяные кирпичи",
+    "base:fermenter": "Ферментер",
+    "base:liquefactor": "Сжижатель"
 }

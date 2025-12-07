@@ -112,5 +112,14 @@
     "base:ladder_wooden": "Échelle en bois",
     "base:battery_block": "Bloc de batterie",
     "base:crusher": "Broyeur",
-    "base:recycler": "Recycleur"
+    "base:recycler": "Recycleur",
+    "base:cobblestone_basalt": "Pavé de basalte",
+    "base:cobblestone_limestone": "Pavé de calcaire",
+    "base:cobblestone_gabbro": "Pavé de gabbro",
+    "base:cobblestone_sandstone": "Pavé de grès",
+    "base:magma::bricks": "Briques de magma",
+    "base:snow::bricks": "Briques de neige",
+    "base:ice::bricks": "Briques de glace",
+    "base:liquefactor": "Liquéfacteur",
+    "base:fermenter": "Fermentateur"
 }

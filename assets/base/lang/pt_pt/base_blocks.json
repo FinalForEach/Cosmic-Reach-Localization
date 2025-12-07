@@ -112,5 +112,14 @@
     "base:ladder_wooden": "Escadote de Madeira",
     "base:battery_block": "Bloco de Bateria",
     "base:crusher": "Triturador",
-    "base:recycler": "Reciclador"
+    "base:recycler": "Reciclador",
+    "base:cobblestone_basalt": "Empedrado de Basalto",
+    "base:cobblestone_limestone": "Empedrado de Calcário",
+    "base:cobblestone_gabbro": "Empedrado de Gabro",
+    "base:cobblestone_sandstone": "Empedrado de Arenito",
+    "base:magma::bricks": "Tijolos de Magma",
+    "base:snow::bricks": "Tijolos de Neve",
+    "base:ice::bricks": "Tijolos de Gelo",
+    "base:liquefactor": "Liquidificador",
+    "base:fermenter": "Fermentador"
 }

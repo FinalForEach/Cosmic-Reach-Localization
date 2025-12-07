@@ -112,5 +112,14 @@
     "base:ladder_wooden": "Trestige",
     "base:battery_block": "Batteriblokk",
     "base:crusher": "Knuser",
-    "base:recycler": "Gjenvinner"
+    "base:recycler": "Gjenvinner",
+    "base:cobblestone_basalt": "Basaltbrostein",
+    "base:cobblestone_limestone": "Kalkbrostein",
+    "base:cobblestone_gabbro": "Gabbrobrostein",
+    "base:cobblestone_sandstone": "Sandbroistein",
+    "base:magma::bricks": "Magmamur",
+    "base:snow::bricks": "Snømur",
+    "base:ice::bricks": "Ismur",
+    "base:liquefactor": "Slampresse",
+    "base:fermenter": "Gjæringstank"
 }
