@@ -121,5 +121,10 @@
 	"base:snow::bricks": "Tijolos de Neve",
 	"base:ice::bricks": "Tijolos de Gelo"
 	"base:liquefactor": "Liquefatora",
-	"base:fermenter": "Fermentadora"
+	"base:fermenter": "Fermentadora",
+	"base:laser_emitter_motion": "Emissor Laser Ativado por Movimento",
+	"base:piston::advancing": "Pistão de Avanço",
+	"base:leaves_fir": "Folhas de Abeto",
+	"base:sapling_fir": "Muda de Abeto"
+}
 }
