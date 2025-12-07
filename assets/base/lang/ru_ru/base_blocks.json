@@ -121,5 +121,9 @@
     "base:snow::bricks": "Снежные кирпичи",
     "base:ice::bricks": "Ледяные кирпичи",
     "base:fermenter": "Ферментер",
-    "base:liquefactor": "Сжижатель"
+    "base:liquefactor": "Сжижатель",
+    "base:laser_emitter_motion": "Лазерный излучатель, активируемый движением",
+    "base:piston::advancing": "Продвигающийся поршень",
+    "base:leaves_fir": "Листья пихты",
+    "base:sapling_fir": "Саженец пихты"
 }
