@@ -122,7 +122,7 @@
     "base:ice::bricks": "Ladrillos de hielo",
     "base:liquefactor": "Licuefactor",
     "base:fermenter": "Fermentador",
-    "base:laser_emitter_motion": "Emisor láser de empuje",
+    "base:laser_emitter_motion": "Emisor láser activado por empuje",
     "base:piston::advancing": "Pistón de avance",
     "base:leaves_fir": "Hojas de abeto",
     "base:sapling_fir": "Retoño de abeto"
