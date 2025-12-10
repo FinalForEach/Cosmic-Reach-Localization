@@ -193,3 +193,6 @@
 
 == Cebuano Localization ==
 * Jack Gabriel Acodili
+
+== Korean Localization ==
+* daa3ff
