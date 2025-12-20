@@ -87,11 +87,11 @@
 	"base:sandstone::bricks": "Tijolos de Arenito",
 	"base:stone_gabbro::bricks": "Tijolos de Gabro",
 	"base:stone_basalt::bricks": "Tijolos de Basalto",
-	"base:stone_limestone::bricks": "Tijolos de Calcário"
+	"base:stone_limestone::bricks": "Tijolos de Calcário",
 	"base:ladder_iron": "Escadas de Ferro",
 	"base:workbench": "Bancada de Trabalho",
-	"base:pixel_display": "Tela de Pixels"
-	"base:grass_blades": "Lâminas de Grama"
+	"base:pixel_display": "Tela de Pixels",
+	"base:grass_blades": "Lâminas de Grama",
 	"base:plastic_block::gray": "Bloco de Plástico Cinza",
 	"base:plastic_block::white": "Bloco de Plástico Branco",
 	"base:plastic_block::black": "Bloco de Plástico Preto",
@@ -125,5 +125,6 @@
 	"base:laser_emitter_motion": "Emissor Laser Ativado por Movimento",
 	"base:piston::advancing": "Pistão de Avanço",
 	"base:leaves_fir": "Folhas de Abeto",
-	"base:sapling_fir": "Muda de Abeto"
+	"base:sapling_fir": "Muda de Abeto",
+	"base:ore_sulfur": "Minério de Enxofre"
 }
