@@ -125,5 +125,6 @@
     "base:laser_emitter_motion": "Лазерный излучатель, активируемый движением",
     "base:piston::advancing": "Продвигающийся поршень",
     "base:leaves_fir": "Листья пихты",
-    "base:sapling_fir": "Саженец пихты"
+    "base:sapling_fir": "Саженец пихты",
+    "base:ore_sulfur": "Серная руда"
 }
