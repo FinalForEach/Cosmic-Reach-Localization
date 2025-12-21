@@ -125,5 +125,6 @@
     "base:laser_emitter_motion": "Dyttaktivert lasersendar",
     "base:piston::advancing": "Fremadgående stempel",
     "base:leaves_fir": "Granlauv",
-    "base:sapling_fir": "Granspire"
+    "base:sapling_fir": "Granspire",
+    "base:ore_sulfur": "Svovelmalm"
 }

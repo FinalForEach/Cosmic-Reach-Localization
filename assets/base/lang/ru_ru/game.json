@@ -15,8 +15,8 @@
     "mouseSensitivitySlider": "Чувствительность мыши: ",
     "soundSlider": "Звук: ",
     "musicSlider": "Музыка: ",
-    "musicFreqSlider": "Частота музыки в минутах: ",
     "fovSlider": "Поле зрения: ",
+    "musicFreqSlider": "Частота музыки в минутах: ",
     "maxFPS": "Макс. FPS: ",
     "maxFPSUnlimited": "Макс. FPS: Неограничено",
     "debugCrashButton": "Отладка: Принудительно завершить работу игры",
@@ -126,5 +126,6 @@
     "zone_base:void": "Пустота",
     "mobUnnamed": "Без названия",
     "zone_base:earth_legacy": "Земля (старая)",
-    "comingSoon": "Скоро..."
+    "comingSoon": "Скоро...",
+    "langSelectionSearch": "Найти языки..."
 }

@@ -39,5 +39,7 @@
     "base:dust_aluminium": "Алюминиевая пыль",
     "base:biofuel": "Биотопливо",
     "base:starch": "Крахмал",
-    "base:starch_slurry": "Крахмальная суспензия"
+    "base:starch_slurry": "Крахмальная суспензия",
+    "base:sulfur_crystal": "Кристалл серы",
+    "base:santa_hat": "Шапка Санты"
 }

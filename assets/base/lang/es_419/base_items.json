@@ -39,5 +39,7 @@
     "base:dust_aluminium": "Polvo de aluminio",
     "base:biofuel": "Biocarburante",
     "base:starch": "Almidón",
-    "base:starch_slurry": "Mezcla de almidón"
+    "base:starch_slurry": "Mezcla de almidón",
+    "base:sulfur_crystal": "Cristal de azufre",
+    "base:santa_hat": "Gorro de Santa"
 }

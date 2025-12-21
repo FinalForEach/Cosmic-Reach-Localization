@@ -125,5 +125,6 @@
     "base:laser_emitter_motion": "Emissor de Laser Ativado por Pressão",
     "base:piston::advancing": "Pistão em Avanço",
     "base:leaves_fir": "Folhas de Abeto",
-    "base:sapling_fir": "Muda de Abeto"
+    "base:sapling_fir": "Muda de Abeto",
+    "base:ore_sulfur": "Minério de Enxofre"
 }
