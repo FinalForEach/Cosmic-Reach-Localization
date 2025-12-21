@@ -404,7 +404,10 @@
     },
     "comingSoon": {
       "type": "string"
+    },
+    "langSelectionSearch": {
+      "type": "string"
     }
   },
-  "minProperties": 126
+  "minProperties": 127
 }
