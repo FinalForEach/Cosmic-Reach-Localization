@@ -126,5 +126,6 @@
     "base:piston::advancing": "Tłok postepujacy",
     "base:leaves_fir": "Liście jodły",
     "base:sapling_fir": "Sadzonka jodły",
-    "base:ore_sulfur": "Ruda siarki"
+    "base:ore_sulfur": "Ruda siarki",
+    "base:door_aluminium": "Aluminiowe drzwi"
 }
