@@ -126,5 +126,6 @@
     "base:piston::advancing": "Pistão em Avanço",
     "base:leaves_fir": "Folhas de Abeto",
     "base:sapling_fir": "Muda de Abeto",
-    "base:ore_sulfur": "Minério de Enxofre"
+    "base:ore_sulfur": "Minério de Enxofre",
+    "base:door_aluminium": "Porta de Alumínio"
 }

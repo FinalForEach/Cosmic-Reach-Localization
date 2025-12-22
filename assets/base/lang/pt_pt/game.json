@@ -125,5 +125,6 @@
     "zone_base:nostalgic_island": "Ilhas Nostálgicas",
     "zone_base:void": "Mundo Vazio",
     "mobUnnamed": "Não nomeado",
-    "zone_base:earth_legacy": "Terra (Legado)"
+    "zone_base:earth_legacy": "Terra (Legado)",
+    "langSelectionSearch": "Procurar linguagens..."
 }
