@@ -116,7 +116,7 @@
   "textDisplayInput": "Skriv her...",
   "skinChangeLabel": "Endre utsjånad",
   "skinFileDesc": "Teksturen må vera ein PNG på 128x64 pikslar",
-  "itemCatalogSearch": "Søk...",
+  "itemCatalogSearch": "Søk…",
   "boomboxOctave": "Oktav",
   "boomboxPlaySound": "Spel",
   "worldSelectionSearch": "Søk etter verder…",
@@ -130,5 +130,6 @@
   "zone_base:void": "Tom verd",
   "mobUnnamed": "Namnlaus skapning",
   "zone_base:earth_legacy": "Jorda (Tidlegare versjon)",
-  "comingSoon": "Kjem snart…"
+  "comingSoon": "Kjem snart…",
+  "langSelectionSearch": "Søk etter mål…"
 }
