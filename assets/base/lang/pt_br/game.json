@@ -98,7 +98,7 @@
 	"mouseRightButton" : "Botão direito do mouse",
 	"mouseBackButton" : "Polegar do mouse",
 	"mouseForwardButton" : "Polegar do mouse 2",
-	"RuntimeException": "Não foi possível carregar o mundo: "
+	"RuntimeException": "Não foi possível carregar o mundo: ",
 	"creditsGameBy": "JOGO POR:",
 	"creditsMusic": "MÚSICA POR:",
 	"creditsAdditionalProgramming": "PROGRAMAÇÃO ADICIONAL:",
@@ -126,7 +126,8 @@
 	"zone_base:nostalgic_island": "Ilhas Nostálgicas",
 	"zone_base:void": "Mundo Vazio",
 	"mobUnnamed": "Sem Nome",
-	"remoteControlMobNameInputLabel": "Nome:"
-	"zone_base:earth_legacy": "Terra (Legado)"
-	"comingSoon": "Em Breve..."
+	"remoteControlMobNameInputLabel": "Nome:",
+	"zone_base:earth_legacy": "Terra (Legado)",
+	"comingSoon": "Em Breve...",
+	"langSelectionSearch": "Pesquisar Idiomas..."
 }
