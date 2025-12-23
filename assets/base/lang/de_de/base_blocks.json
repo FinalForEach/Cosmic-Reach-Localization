@@ -121,5 +121,9 @@
     "base:snow::bricks": "Schnee Ziegel",
     "base:ice::bricks": "Eis Ziegel",
     "base:liquefactor": "Verflüssigungsgerät",
-    "base:fermenter": "Fermenter"
+    "base:fermenter": "Fermenter",
+    "base:laser_emitter_motion": "Druckaktivierter Laseremitter",
+    "base:piston::advancing": "Vorschubkolben",
+    "base:leaves_fir": "Tannenblätter",
+    "base:sapling_fir": "Tannensetzling"
 }

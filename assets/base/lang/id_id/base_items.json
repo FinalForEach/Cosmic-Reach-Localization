@@ -34,5 +34,11 @@
     "base:revolver": "Revolver",
     "base:rifle": "Senapan",
     "base:naphtha": "Nafta",
-    "base:plastic_pellets": "Butiran Plastik"
+    "base:plastic_pellets": "Butiran Plastik",
+    "base:dust_gold": "Serbuk Emas",
+    "base:dust_iron": "Serbuk Besi",
+    "base:dust_aluminium": "Serbuk Aluminium",
+    "base:biofuel": "Bahan Bakar Hayati",
+    "base:starch": "Tepung",
+    "base:starch_slurry": "Larutan Tepung"
 }

@@ -125,5 +125,6 @@
     "base:laser_emitter_motion": "Push Activated Laser Emitter",
     "base:piston::advancing": "Advancing Piston",
     "base:leaves_fir": "Fir Leaves",
-    "base:sapling_fir": "Fir Sapling"
+    "base:sapling_fir": "Fir Sapling",
+    "base:ore_sulfur": "Sulfur Ore"
 }
