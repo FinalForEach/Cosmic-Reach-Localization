@@ -11,7 +11,6 @@
 	"base:ingot_aluminium": "Barra de Alumínio",
 	"base:ingot_iron": "Barra de Ferro",
 	"base:ingot_gold": "Barra de Ouro",
-
 	"base:medkit": "Kit Médico",
 	"base:medkit_gold": "Kit Médico Dourado",
 	"base:stick": "Vareta",
@@ -30,15 +29,17 @@
 	"base:manure": "Esterco",
 	"base:microchip": "Microchip",
 	"base:crowbar": "Pé de Cabra",
-	"base:remote_control": "Controle Remoto"
+	"base:remote_control": "Controle Remoto",
 	"base:revolver": "Revólver",
 	"base:rifle": "Rifle"
 	"base:naphtha": "Nafta",
-	"base:plastic_pellets": "Pelotas de Plástico"
+	"base:plastic_pellets": "Pelotas de Plástico",
 	"base:dust_gold": "Pó de Ouro",
 	"base:dust_iron": "Pó de Ferro",
 	"base:dust_aluminium": "Pó de Alumínio"
 	"base:biofuel": "Biocombustível",
 	"base:starch": "Amido",
-	"base:starch_slurry": "Pasta de Amido"
+	"base:starch_slurry": "Pasta de Amido",
+	"base:sulfur_crystal": "Cristal de Enxofre",
+	"base:santa_hat": "Gorro do Noel"
 }

@@ -126,5 +126,6 @@
     "base:piston::advancing": "Advancing Piston",
     "base:leaves_fir": "Fir Leaves",
     "base:sapling_fir": "Fir Sapling",
-    "base:ore_sulfur": "Sulfur Ore"
+    "base:ore_sulfur": "Sulfur Ore",
+    "base:door_aluminium": "Aluminum Door"
 }

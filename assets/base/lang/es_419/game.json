@@ -127,5 +127,6 @@
   "zone_base:void": "Vacío",
   "mobUnnamed": "Sin nombre",
   "zone_base:earth_legacy": "Tierra (Antigua)",
-  "comingSoon": "Próximamente..."
+  "comingSoon": "Próximamente...",
+  "langSelectionSearch": "Buscar idiomas..."
 }

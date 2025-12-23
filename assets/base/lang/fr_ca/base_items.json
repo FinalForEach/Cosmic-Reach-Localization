@@ -40,5 +40,7 @@
     "base:dust_aluminium": "Poussière d'aluminium",
     "base:biofuel": "Biocarburant",
     "base:starch": "Amidon",
-    "base:starch_slurry": "Suspension d'amidon"
+    "base:starch_slurry": "Suspension d'amidon",
+    "base:sulfur_crystal": "Cristal de soufre",
+    "base:santa_hat": "Châpeau du père Nöel"
 }

@@ -120,10 +120,12 @@
     "base:magma::bricks": "Магмовые кирпичи",
     "base:snow::bricks": "Снежные кирпичи",
     "base:ice::bricks": "Ледяные кирпичи",
-    "base:fermenter": "Ферментер",
     "base:liquefactor": "Сжижатель",
+    "base:fermenter": "Ферментер",
     "base:laser_emitter_motion": "Лазерный излучатель, активируемый движением",
     "base:piston::advancing": "Продвигающийся поршень",
     "base:leaves_fir": "Листья пихты",
-    "base:sapling_fir": "Саженец пихты"
+    "base:sapling_fir": "Саженец пихты",
+    "base:ore_sulfur": "Серная руда",
+    "base:door_aluminium": "Алюминиевая дверь"
 }
