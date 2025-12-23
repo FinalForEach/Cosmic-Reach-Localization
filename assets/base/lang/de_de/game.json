@@ -125,5 +125,6 @@
     "mobUnnamed": "Namenlos",
     "worldSelectionSearch": "Welten durchsuchen...",
     "createWorldGamemode": "Spielmodus:",
-    "zone_base:earth_legacy": "Erde (Legacy)"
+    "zone_base:earth_legacy": "Erde (Legacy)",
+    "langSelectionSearch": "Suche Sprachen..."
 }
