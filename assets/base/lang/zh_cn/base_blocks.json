@@ -66,5 +66,8 @@
     "base:gold_block": "金块",
     "base:wood_door": "木门",
     "base:laser_emitter": "激光发射器",
-    "base:laser_emitter::split": "激光分路器"
+    "base:laser_emitter::split": "激光分路器",
+    "base:coal": "煤炭块",
+    "base:torch": "火把",
+    "base:laser_switch": "激光开关"
 }

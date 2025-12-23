@@ -17,5 +17,27 @@
     "base:fluid_vacuum": "Flüssigkeitssauger",
     "base:latex": "Latex",
     "base:rubber_ball": "Gummiball",
-    "base:laser_gun": "Laserpistole"
+    "base:laser_gun": "Laserpistole",
+    "base:jetpack": "Jetpack",
+    "base:flamethrower": "Flammenwerfer",
+    "base:ruby": "Rubin",
+    "base:sapphire": "Saphir",
+    "base:corn": "Mais",
+    "base:corn_kernels": "Maiskörner",
+    "base:microchip": "Mikrochip",
+    "base:crowbar": "Brechstange",
+    "base:remote_control": "Fernsteuerung",
+    "base:debug_wrench": "Debug-Schraubschlüssel",
+    "base:steak": "Steak",
+    "base:manure": "Dünger",
+    "base:revolver": "Revolver",
+    "base:rifle": "Gewehr",
+    "base:naphtha": "Rohbenzin",
+    "base:plastic_pellets": "Kunststoffgranulat",
+    "base:dust_gold": "Goldstaub",
+    "base:dust_iron": "Eisenstaub",
+    "base:dust_aluminium": "Aluminiumstaub"
+    "base:biofuel": "Biokraftstoff",
+    "base:starch": "Stärke",
+    "base:starch_slurry": "Stärkeschlamm"
 }

@@ -7,7 +7,7 @@
   "additionalProperties": false,
   "__HOW_TO_ADD_PROPERTY__": "First, copy-paste a previous property ({type: 'string'} etc.), then change its key. Then update the minProperties field below to match the total count of the defined properties. (e.g. add 1 if you add 1 text etc.)",
   "__SCHEMA_DOCS__": "https://json-schema.org/understanding-json-schema/reference",
-  "minProperties": 106,
+  "minProperties": 109,
   "properties": {
     "$schema": {
       "type": "string",
@@ -38,332 +38,125 @@
         "name"
       ]
     },
-    "formatPercent": {
-      "type": "string"
-    },
-    "startButton": {
-      "type": "string"
-    },
-    "loadButton": {
-      "type": "string"
-    },
-    "optionsButton": {
-      "type": "string"
-    },
-    "quitButton": {
-      "type": "string"
-    },
-    "vSyncButton": {
-      "type": "string"
-    },
-    "creditsButton": {
-      "type": "string"
-    },
-    "creditsGameBy": {
-      "type": "string"
-    },
-    "creditsMusic": {
-      "type": "string"
-    },
-    "creditsAdditionalProgramming": {
-      "type": "string"
-    },
-    "creditsAdditionalModelling": {
-      "type": "string"
-    },
-    "creditsAdditionalTexturing": {
-      "type": "string"
-    },
-    "creditsAdditionalMobs": {
-      "type": "string"
-    },
-    "creditsLocalization": {
-      "type": "string"
-    },
-    "renderDistSlider": {
-      "type": "string"
-    },
-    "invertedMouseButton": {
-      "type": "string"
-    },
-    "mouseSensitivitySlider": {
-      "type": "string"
-    },
-    "soundSlider": {
-      "type": "string"
-    },
-    "musicSlider": {
-      "type": "string"
-    },
-    "musicFreqSlider": {
-      "type": "string"
-    },
-    "fovSlider": {
-      "type": "string"
-    },
-    "maxFPS": {
-      "type": "string"
-    },
-    "maxFPSUnlimited": {
-      "type": "string"
-    },
-    "debugCrashButton": {
-      "type": "string"
-    },
-    "keybindsButton": {
-      "type": "string"
-    },
-    "difficultyButton": {
-      "type": "string"
-    },
-    "difficultyPeaceful": {
-      "type": "string"
-    },
-    "difficultyEasy": {
-      "type": "string"
-    },
-    "difficultyNormal": {
-      "type": "string"
-    },
-    "difficultyHard": {
-      "type": "string"
-    },
-    "languagesButton": {
-      "type": "string"
-    },
-    "rendererButton": {
-      "type": "string"
-    },
-    "rendererNaive": {
-      "type": "string"
-    },
-    "rendererBatched": {
-      "type": "string"
-    },
-    "doneButton": {
-      "type": "string"
-    },
-    "preAlphaText": {
-      "type": "string"
-    },
-    "okButton": {
-      "type": "string"
-    },
-    "Lighting": {
-      "type": "string"
-    },
-    "Respawn": {
-      "type": "string"
-    },
-    "YOU_ARE_DEAD": {
-      "type": "string"
-    },
-    "Return_To_Game": {
-      "type": "string"
-    },
-    "Return_To_Menu": {
-      "type": "string"
-    },
-    "Saving": {
-      "type": "string"
-    },
-    "Dynamic_Sky": {
-      "type": "string"
-    },
-    "Space_Day": {
-      "type": "string"
-    },
-    "Dark_Night": {
-      "type": "string"
-    },
-    "Earth_Day": {
-      "type": "string"
-    },
-    "Orange_Sky": {
-      "type": "string"
-    },
-    "Pitch_Dark": {
-      "type": "string"
-    },
-    "Overcast": {
-      "type": "string"
-    },
-    "Forward": {
-      "type": "string"
-    },
-    "Backward": {
-      "type": "string"
-    },
-    "Left": {
-      "type": "string"
-    },
-    "Right": {
-      "type": "string"
-    },
-    "Jump": {
-      "type": "string"
-    },
-    "Crouch": {
-      "type": "string"
-    },
-    "Sprint": {
-      "type": "string"
-    },
-    "Prone": {
-      "type": "string"
-    },
-    "Inventory": {
-      "type": "string"
-    },
-    "Cycle_Item_Type": {
-      "type": "string"
-    },
-    "Drop_Item": {
-      "type": "string"
-    },
-    "Hide_UI": {
-      "type": "string"
-    },
-    "Screenshot": {
-      "type": "string"
-    },
-    "Debug_Info": {
-      "type": "string"
-    },
-    "Attack_Break": {
-      "type": "string"
-    },
-    "Pick_Block": {
-      "type": "string"
-    },
-    "Use_Place": {
-      "type": "string"
-    },
-    "Open_Chat": {
-      "type": "string"
-    },
-    "No_Clip": {
-      "type": "string"
-    },
-    "Change_Perspective": {
-      "type": "string"
-    },
-    "Reload_Shaders": {
-      "type": "string"
-    },
-    "Fullscreen": {
-      "type": "string"
-    },
-    "Create_New_World": {
-      "type": "string"
-    },
-    "worldNameButton": {
-      "type": "string"
-    },
-    "defaultWorldName": {
-      "type": "string"
-    },
-    "worldSeedLabel": {
-      "type": "string"
-    },
-    "worldSeedLabel2": {
-      "type": "string"
-    },
-    "worldType": {
-      "type": "string"
-    },
-    "Return_to_Main_Menu": {
-      "type": "string"
-    },
-    "returnButton": {
-      "type": "string"
-    },
-    "Open_Worlds_Directory": {
-      "type": "string"
-    },
-    "YT_Channel": {
-      "type": "string"
-    },
-    "Game_version_prealpha": {
-      "type": "string"
-    },
-    "Game_version_alpha": {
-      "type": "string"
-    },
-    "Game_version_beta": {
-      "type": "string"
-    },
-    "Game_version_release": {
-      "type": "string"
-    },
-    "MAC_warning": {
-      "type": "string"
-    },
-    "Controller": {
-      "type": "string"
-    },
-    "Controllers": {
-      "type": "string"
-    },
-    "Controller_info": {
-      "type": "string"
-    },
-    "on_state": {
-      "type": "string"
-    },
-    "off_state": {
-      "type": "string"
-    },
-    "World_name": {
-      "type": "string"
-    },
-    "Screenshot_info": {
-      "type": "string"
-    },
-    "Screenshot_error": {
-      "type": "string"
-    },
-    "Loading": {
-      "type": "string"
-    },
-    "mouseLeftButton": {
-      "type": "string"
-    },
-    "mouseMiddleButton": {
-      "type": "string"
-    },
-    "mouseRightButton": {
-      "type": "string"
-    },
-    "mouseBackButton": {
-      "type": "string"
-    },
-    "mouseForwardButton": {
-      "type": "string"
-    },
-    "RuntimeException": {
-      "type": "string"
-    },
-    "multiplayerButton": {
-      "type": "string"
-    },
-    "multiplayerAddressButton": {
-      "type": "string"
-    },
-    "multiplayerJoinButton": {
-      "type": "string"
-    },
-    "multiplayerBadDisconnect": {
-      "type": "string"
-    },
-    "textDisplayInput": {
-      "type": "string"
-    },
-    "skinChangeLabel": {
-      "type": "string"
-    },
-    "skinFileDesc": {
-      "type": "string"
-    }
+    "formatPercent": { "type": "string" },
+    "startButton": { "type": "string" },
+    "loadButton": { "type": "string" },
+    "optionsButton": { "type": "string" },
+    "quitButton": { "type": "string" },
+    "vSyncButton": { "type": "string" },
+    "creditsButton": { "type": "string" },
+    "creditsGameBy": { "type": "string" },
+    "creditsMusic": { "type": "string" },
+    "creditsAdditionalProgramming": { "type": "string" },
+    "creditsAdditionalModelling": { "type": "string" },
+    "creditsAdditionalTexturing": { "type": "string" },
+    "creditsAdditionalMobs": { "type": "string" },
+    "creditsLocalization": { "type": "string" },
+    "renderDistSlider": { "type": "string" },
+    "invertedMouseButton": { "type": "string" },
+    "mouseSensitivitySlider": { "type": "string" },
+    "soundSlider": { "type": "string" },
+    "musicSlider": { "type": "string" },
+    "musicFreqSlider": { "type": "string" },
+    "fovSlider": { "type": "string" },
+    "maxFPS": { "type": "string" },
+    "maxFPSUnlimited": { "type": "string" },
+    "debugCrashButton": { "type": "string" },
+    "keybindsButton": { "type": "string" },
+    "difficultyButton": { "type": "string" },
+    "difficultyPeaceful": { "type": "string" },
+    "difficultyEasy": { "type": "string" },
+    "difficultyNormal": { "type": "string" },
+    "difficultyHard": { "type": "string" },
+    "languagesButton": { "type": "string" },
+    "rendererButton": { "type": "string" },
+    "rendererNaive": { "type": "string" },
+    "rendererBatched": { "type": "string" },
+    "doneButton": { "type": "string" },
+    "preAlphaText": { "type": "string" },
+    "okButton": { "type": "string" },
+    "Lighting": { "type": "string" },
+    "Respawn": { "type": "string" },
+    "YOU_ARE_DEAD": { "type": "string" },
+    "Return_To_Game": { "type": "string" },
+    "Return_To_Menu": { "type": "string" },
+    "Saving": { "type": "string" },
+    "Dynamic_Sky": { "type": "string" },
+    "Space_Day": { "type": "string" },
+    "Dark_Night": { "type": "string" },
+    "Earth_Day": { "type": "string" },
+    "Orange_Sky": { "type": "string" },
+    "Pitch_Dark": { "type": "string" },
+    "Overcast": { "type": "string" },
+    "Forward": { "type": "string" },
+    "Backward": { "type": "string" },
+    "Left": { "type": "string" },
+    "Right": { "type": "string" },
+    "Jump": { "type": "string" },
+    "Crouch": { "type": "string" },
+    "Sprint": { "type": "string" },
+    "Prone": { "type": "string" },
+    "Inventory": { "type": "string" },
+    "Cycle_Item_Type": { "type": "string" },
+    "Drop_Item": { "type": "string" },
+    "Hide_UI": { "type": "string" },
+    "Screenshot": { "type": "string" },
+    "Debug_Info": { "type": "string" },
+    "Attack_Break": { "type": "string" },
+    "Pick_Block": { "type": "string" },
+    "Use_Place": { "type": "string" },
+    "Open_Chat": { "type": "string" },
+    "No_Clip": { "type": "string" },
+    "Change_Perspective": { "type": "string" },
+    "Reload_Shaders": { "type": "string" },
+    "Fullscreen": { "type": "string" },
+    "Create_New_World": { "type": "string" },
+    "worldNameButton": { "type": "string" },
+    "defaultWorldName": { "type": "string" },
+    "worldSeedLabel": { "type": "string" },
+    "worldSeedLabel2": { "type": "string" },
+    "worldType": { "type": "string" },
+    "Return_to_Main_Menu": { "type": "string" },
+    "returnButton": { "type": "string" },
+    "Open_Worlds_Directory": { "type": "string" },
+    "YT_Channel": { "type": "string" },
+    "Game_version_prealpha": { "type": "string" },
+    "Game_version_alpha": { "type": "string" },
+    "Game_version_beta": { "type": "string" },
+    "Game_version_release": { "type": "string" },
+    "MAC_warning": { "type": "string" },
+    "Controller": { "type": "string" },
+    "Controllers": { "type": "string" },
+    "Controller_info": { "type": "string" },
+    "on_state": { "type": "string" },
+    "off_state": { "type": "string" },
+    "World_name": { "type": "string" },
+    "Screenshot_info": { "type": "string" },
+    "Screenshot_error": { "type": "string" },
+    "Loading": { "type": "string" },
+    "mouseLeftButton": { "type": "string" },
+    "mouseMiddleButton": { "type": "string" },
+    "mouseRightButton": { "type": "string" },
+    "mouseBackButton": { "type": "string" },
+    "mouseForwardButton": { "type": "string" },
+    "RuntimeException": { "type": "string" },
+    "multiplayerButton": { "type": "string" },
+    "multiplayerAddressButton": { "type": "string" },
+    "multiplayerJoinButton": { "type": "string" },
+    "multiplayerBadDisconnect": { "type": "string" },
+    "textDisplayInput": { "type": "string" },
+    "skinChangeLabel": { "type": "string" },
+    "skinFileDesc": { "type": "string" },
+    "itemCatalogSearch": { "type": "string" },
+    "boomboxOctave": { "type": "string" },
+    "boomboxPlaySound": { "type": "string" },
+    "worldSelectionSearch": { "type": "string" },
+    "gamemode_survival": { "type": "string" },
+    "gamemode_creative": { "type": "string" },
+    "zone_base:earth": { "type": "string" },
+    "zone_base:flat": { "type": "string" },
+    "zone_base:moon": { "type": "string" },
+    "zone_base:nostalgic_island": { "type": "string" },
+    "zone_base:void": { "type": "string" }
   }
 }

@@ -2,7 +2,7 @@
     "base:air": "Himpapawid",
     "base:aluminium_panel": "Bloke ng Aluminyo",
     "base:asphalt": "Aspalto",
-    "base:ore_bauxite": "Bauxite",
+    "base:ore_bauxite": "Bawhita",
     "base:c4": "C4",
     "base:cheese": "Keso",
     "base:stone_limestone": "Batong Apog",
@@ -64,5 +64,16 @@
     "base:text_display": "Pangdisplay ng Teksto",
     "base:rubber_block": "Bloke ng Goma",
     "base:gold_block": "Bloke ng Ginto",
-    "base:wood_door": "Kahoy na Pinto"
+    "base:wood_door": "Kahoy na Pinto",
+    "base:laser_emitter": "Taga-emit ng Laser",
+    "base:laser_emitter::split": "Tagahati ng Laser",
+    "base:coal": "Bloke ng Batong Uling",
+    "base:torch": "Sulo",
+    "base:laser_switch": "Switch ng Laser",
+    "base:electric_generator": "Generator",
+    "base:electric_furnace": "De-koryenteng Pugon",
+    "base:clay": "Luwad",
+    "base:stone_shale": "Batong Putik",
+    "base:piston": "Piston",
+    "base:piston::suction": "Panghigop na Piston"
 }

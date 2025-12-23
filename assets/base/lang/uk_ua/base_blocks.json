@@ -64,5 +64,22 @@
     "base:text_display": "Текстове табло",
     "base:rubber_block": "Блок ґуми",
     "base:gold_block": "Блок золота",
-    "base:wood_door": "Дерев'яні двері"
+    "base:wood_door": "Дерев'яні двері",
+    "base:laser_emitter": "Лазерний випромінювач",
+    "base:laser_emitter::split": "Лазерний розподілювач",
+    "base:coal": "Блок вугілля",
+    "base:torch": "Факел",
+    "base:laser_switch": "Лазерний перемикач",
+    "base:electric_generator": "Генератор",
+    "base:electric_furnace": "Електрична піч",
+    "base:clay": "Глина",
+    "base:stone_shale": "Сланець",
+    "base:piston": "Поршень",
+    "base:piston::suction": "Всмоктувальний поршень",
+    "base:ore_ruby": "Рубінова руда",
+    "base:ruby_block": "Блок рубінів",
+    "base:sapphire_block": "Блок сапфірів",
+    "base:maize": "Маїс",
+    "base:ore_sapphire": "Сапфірова руда",
+    "base:lava": "Лава"
 }

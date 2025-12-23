@@ -65,5 +65,17 @@
     "base:rubber_block": "Kauçuk Bloğu",
     "base:gold_block": "Altın Bloğu",
     "base:wood_door": "Tahta Kapı",
-    "base:laser_emitter": "Lazer Yayıcı"
+    "base:laser_emitter": "Lazer Yayıcı",
+    "base:laser_emitter::split": "Lazer Bölücü",
+    "base:coal": "Kömür Bloğu",
+    "base:torch": "Meşale",
+    "base:laser_switch": "Lazer Şalteri",
+    "base:electric_generator": "Jeneratör",
+    "base:electric_furnace": "Elektrik Fırını",
+    "base:clay": "Kil",
+    "base:stone_shale": "Taş Şist",
+    "base:piston": "Piston",
+    "base:piston::suction": "Emiş Pistonu",
+    "base:ore_ruby": "Yakut Cevheri",
+    "base:ruby_block": "Yakut Bloğu"
 }

@@ -18,5 +18,8 @@
     "base:fluid_vacuum": "Sıvı Emicisi",
     "base:latex": "Lateks",
     "base:rubber_ball": "Kauçuk",
-    "base:laser_gun": "Lazer Silahı"
+    "base:laser_gun": "Lazer Silahı",
+    "base:jetpack": "Sırt Roketi",
+    "base:flamethrower": "Alev Makinesi",
+    "base:ruby": "Yakut"
 }

@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/tip.schema.json",
+    "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/tip.schema.json",
     "Tip1": "Calculăm unghiuri...",
     "Tip2": "Se aplica regula de trei simplă...",
     "Tip3": "Se modelează lumea...",
@@ -21,5 +21,5 @@
     "Tip19": "Tip: Apasă '$keybind_debugInfo' ca să vezi informațiile de debug",
     "Tip20": "Tip: Apasă '$keybind_dropItem' ca să arunci obiectul din mână!",
     "Tip21": "Tip: Apasă '$keybind_openInventory' ca să deschizi inventarul!",
-    "Tip22": "Tip: Alearga lipit de un perete ca să 'alergi pe el', traversând o distanță mai mare decât dacă ai sări.",
+    "Tip22": "Tip: Alearga lipit de un perete ca să 'alergi pe el', traversând o distanță mai mare decât dacă ai sări."
 }
