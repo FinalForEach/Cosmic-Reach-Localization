@@ -122,8 +122,10 @@
     "base:ice::bricks": "Briciau Iâ",
     "base:liquefactor": "Hylifydd",
     "base:fermenter": "Eplesydd",
+    "base:laser_emitter_motion": "Allyrrydd Laser Wedi'i Ysgogi Gan Wthio",
     "base:piston::advancing": "Piston Symud Ymlaen",
     "base:leaves_fir": "Dail Ffyr",
     "base:sapling_fir": "Glasbren Ffyr",
-    "base:laser_emitter_motion": "Allyrrydd Laser Wedi'i Ysgogi Gan Wthio"
+    "base:ore_sulfur": "Mwyn Sylffwr",
+    "base:door_aluminium": "Drws Alwminiwm"
 }
