@@ -115,5 +115,18 @@
   "skinFileDesc": "128'e 64 Pixel PNG dosyası",
   "itemCatalogSearch": "Ara...",
   "boomboxOctave": "Oktav",
-  "boomboxPlaySound": "Oynat"
+  "boomboxPlaySound": "Oynat",
+  "worldSelectionSearch": "Dünya Ara...",
+  "createWorldGamemode": "Oyun Modu:",
+  "gamemode_survival": "Hayatta Kalma",
+  "gamemode_creative": "Yaratıcı",
+  "zone_base:earth": "Dünya",
+  "zone_base:flat": "Düzlük",
+  "zone_base:moon": "Ay",
+  "zone_base:nostalgic_island": "Nostalji Adaları",
+  "zone_base:void": "Boşluk Dünyası",
+  "mobUnnamed": "İsimsiz",
+  "zone_base:earth_legacy": "Dünya (Eski)",
+  "comingSoon": "Çok Yakında...",
+  "langSelectionSearch": "Dil Ara..."
 }
