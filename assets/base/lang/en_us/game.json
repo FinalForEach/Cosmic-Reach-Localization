@@ -127,5 +127,6 @@
   "zone_base:void": "Void World",
   "mobUnnamed": "Unnamed",
   "zone_base:earth_legacy": "Earth (Legacy)",
-  "comingSoon": "Coming soon..."
+  "comingSoon": "Coming soon...",
+  "langSelectionSearch": "Search Languages..."
 }

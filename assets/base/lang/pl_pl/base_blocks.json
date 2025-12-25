@@ -125,5 +125,6 @@
     "base:laser_emitter_motion": "Emiter laseru aktywowany popchnięciem",
     "base:piston::advancing": "Tłok postepujacy",
     "base:leaves_fir": "Liście jodły",
-    "base:sapling_fir": "Sadzonka jodły"
+    "base:sapling_fir": "Sadzonka jodły",
+    "base:ore_sulfur": "Ruda siarki"
 }

@@ -125,5 +125,6 @@
     "base:laser_emitter_motion": "Émetteur de laser activé par déplacement",
     "base:piston::advancing": "Piston avançant",
     "base:leaves_fir": "Feuilles de sapin",
-    "base:sapling_fir": "Pousse de sapin"
+    "base:sapling_fir": "Pousse de sapin",
+    "base:ore_sulfur": "Minerai de soufre"
 }
