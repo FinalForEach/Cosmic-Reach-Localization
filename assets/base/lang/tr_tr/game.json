@@ -70,7 +70,7 @@
   "Reload_Shaders": "Gölgelendirmeleri Yenile",
   "Fullscreen": "Tam Ekran",
   "Create_New_World": "Yeni Dünya Oluştur",
-  "worldNameButton": "Dünya ismi: ",
+  "worldNameButton": "Dünya Adı: ",
   "defaultWorldName": "Yeni Dünya",
   "worldSeedLabel": "Dünya tohumu: <Rastgele>",
   "worldSeedLabel2": "Dünya tohumu: ",
@@ -125,7 +125,7 @@
   "zone_base:moon": "Ay",
   "zone_base:nostalgic_island": "Nostalji Adaları",
   "zone_base:void": "Boşluk Dünyası",
-  "mobUnnamed": "İsimsiz",
+  "mobUnnamed": "Adsız",
   "zone_base:earth_legacy": "Dünya (Eski)",
   "comingSoon": "Çok Yakında...",
   "langSelectionSearch": "Dil Ara..."
