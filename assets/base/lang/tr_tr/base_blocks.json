@@ -125,5 +125,7 @@
     "base:laser_emitter_motion": "Basınçlı Lazer Yayıcı",
     "base:piston::advancing": "İlerleyen Piston",
     "base:leaves_fir": "Köknar Yaprakları",
-    "base:sapling_fir": "Köknar Fidesi"
+    "base:sapling_fir": "Köknar Fidesi",
+    "base:ore_sulfur": "Sülfür Cevheri",
+    "base:door_aluminium": "Alüminyum Kapı"
 }
