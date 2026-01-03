@@ -15,8 +15,8 @@
     "mouseSensitivitySlider": "Mausempfindlichkeit: ",
     "soundSlider": "Ton: ",
     "musicSlider": "Musik: ",
-    "musicFreqSlider": "Musikhäufigkeit in Minuten: ",
     "fovSlider": "Sichtfeld: ",
+    "musicFreqSlider": "Musikhäufigkeit in Minuten: ",
     "maxFPS": "Maximale Bildrate: ",
     "maxFPSUnlimited": "Maximale Bildrate: Unbegrenzt",
     "debugCrashButton": "Debug: Spielabsturz erzwingen",
@@ -115,6 +115,8 @@
     "itemCatalogSearch": "Suchen...",
     "boomboxOctave": "Oktave",
     "boomboxPlaySound": "Abspielen",
+    "worldSelectionSearch": "Welten durchsuchen...",
+    "createWorldGamemode": "Spielmodus:",
     "gamemode_survival": "Überlebensmodus",
     "gamemode_creative": "Kreativmodus",
     "zone_base:earth": "Erde",
@@ -122,8 +124,8 @@
     "zone_base:moon": "Mond",
     "zone_base:nostalgic_island": "Nostalgische Insel",
     "zone_base:void": "Leere Welt",
-    "mobUnnamed": "Namenlos",
-    "worldSelectionSearch": "Welten durchsuchen...",
-    "createWorldGamemode": "Spielmodus:",
-    "zone_base:earth_legacy": "Erde (Legacy)"
+    "zone_base:earth_legacy": "Erde (Legacy)",
+    "mobUnnamed": "Unbennant",
+    "comingSoon": "Kommt bald...",
+    "langSelectionSearch": "Sprachen durchsuchen..."
 }
