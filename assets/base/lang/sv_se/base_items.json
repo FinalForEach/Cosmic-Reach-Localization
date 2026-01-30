@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Aluminiumtacka",
     "base:ingot_iron": "Järntacka",
     "base:ingot_gold": "Guldtacka",
-
     "base:medkit": "Mediciner",
     "base:medkit_gold": "Gyllene Mediciner",
     "base:stick": "Pinne",
@@ -33,4 +32,14 @@
     "base:remote_control": "Fjärrkontroll",
     "base:revolver": "Revolver",
     "base:rifle": "Gevär"
+    "base:naphtha": "Nafta",
+    "base:plastic_pellets": "Plastpellets",
+    "base:dust_gold": "Guldstoff",
+    "base:dust_iron": "Järnstoff",
+    "base:dust_aluminium": "Aluminiumstoff",
+    "base:biofuel": "Biobränsle",
+    "base:starch": "Stärkelse",
+    "base:starch_slurry": "Stärkelsesörja",
+    "base:sulfur_crystal": "Svavelkristall",
+    "base:santa_hat": "Tomteluva"
 }
