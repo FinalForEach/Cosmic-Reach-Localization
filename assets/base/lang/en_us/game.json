@@ -128,5 +128,12 @@
   "mobUnnamed": "Unnamed",
   "zone_base:earth_legacy": "Earth (Legacy)",
   "comingSoon": "Coming soon...",
-  "langSelectionSearch": "Search Languages..."
+  "langSelectionSearch": "Search Languages...",
+  "worldDescriptionName": "World Name:",
+  "worldDescriptionHeader": "Description",
+  "worldDescriptionGamemode": "Gamemode: ",
+  "worldDescriptionGenerator": "World Type: ",
+  "worldDescriptionDefaultText": "Enter World Description...",
+  "worldSelectPlayWorld": "Play",
+  "worldSelectSaveChanges": "Save Changes"
 }
