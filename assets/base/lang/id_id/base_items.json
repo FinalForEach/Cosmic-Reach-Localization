@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Aluminium Batangan",
     "base:ingot_iron": "Besi Batangan",
     "base:ingot_gold": "Emas Batangan",
-
     "base:medkit": "Obat-Obatan",
     "base:medkit_gold": "Obat-Obatan Emas",
     "base:stick": "Tongkat",
@@ -40,5 +39,10 @@
     "base:dust_aluminium": "Serbuk Aluminium",
     "base:biofuel": "Bahan Bakar Hayati",
     "base:starch": "Tepung",
-    "base:starch_slurry": "Larutan Tepung"
+    "base:starch_slurry": "Larutan Tepung",
+    "base:sulfur_crystal": "Kristal Belerang",
+    "base:santa_hat": "Topi Santa",
+    "base:wood_chips": "Serpihan Kayu",
+    "base:wood_pulp": "Serat Kayu",
+    "base:cardboard_sheet": "Lembaran Karton"
 }
