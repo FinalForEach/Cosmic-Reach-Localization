@@ -128,5 +128,12 @@
   "mobUnnamed": "Sin nombre",
   "zone_base:earth_legacy": "Tierra (Antigua)",
   "comingSoon": "Próximamente...",
-  "langSelectionSearch": "Buscar idiomas..."
+  "langSelectionSearch": "Buscar idiomas...",
+  "worldDescriptionName": "Nombre del mundo:",
+  "worldDescriptionHeader": "Descripción",
+  "worldDescriptionGamemode": "Modo de juego: ",
+  "worldDescriptionGenerator": "Tipo de mundo: ",
+  "worldDescriptionDefaultText": "Escribe la descripción del mundo...",
+  "worldSelectPlayWorld": "Jugar",
+  "worldSelectSaveChanges": "Guardar cambios"
 }
