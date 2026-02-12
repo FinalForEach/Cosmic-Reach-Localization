@@ -127,5 +127,15 @@
     "base:leaves_fir": "Granlauv",
     "base:sapling_fir": "Granspire",
     "base:ore_sulfur": "Svovelmalm",
-    "base:door_aluminium": "Aluminiumdør"
+    "base:door_aluminium": "Aluminiumdør",
+    "base:presser": "Presser",
+    "base:cardboard_box": "Pappeske",
+    "base:planteater_flower": "planteeterblomst",
+    "base:conveyor_belt": "Transportbelte",
+    "base:hazard::caution": "Åtvaringsstriper",
+    "base:hazard::defective": "Defektstriper",
+    "base:hazard::operational": "Operativstriper",
+    "base:hazard::protection": "Vernstriper",
+    "base:hazard::radiation": "Strålingsstriper",
+    "base:hazard::safety": "Tryggleikstriper"
 }

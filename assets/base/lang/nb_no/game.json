@@ -131,5 +131,12 @@
   "mobUnnamed": "Navnløs skapning",
   "zone_base:earth_legacy": "Jorden (Tidligere versjon)",
   "comingSoon": "Kommer snart…",
-  "langSelectionSearch": "Søk etter språk…"
+  "langSelectionSearch": "Søk etter språk…",
+  "worldDescriptionName": "Verdensnavn:",
+  "worldDescriptionHeader": "Beskrivelse",
+  "worldDescriptionGamemode": "Spillmodus: ",
+  "worldDescriptionGenerator": "Verdenstype: ",
+  "worldDescriptionDefaultText": "Skriv inn beskrivelse for verdenen…",
+  "worldSelectPlayWorld": "Spill",
+  "worldSelectSaveChanges": "Lagre endringer"
 }
