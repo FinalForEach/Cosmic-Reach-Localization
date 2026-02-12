@@ -128,5 +128,12 @@
   "zone_base:void": "Pustka",
   "mobUnnamed": "Nienazwany",
   "comingSoon": "Wkrótce...",
-  "langSelectionSearch": "Szukaj języków..."
+  "langSelectionSearch": "Szukaj języków...",
+  "worldDescriptionName": "Nazwa świata:",
+  "worldDescriptionHeader": "Opis",
+  "worldDescriptionGamemode": "Tryb gry: ",
+  "worldDescriptionGenerator": "Typ świata: ",
+  "worldDescriptionDefaultText": "Wprowadź opis świata...",
+  "worldSelectPlayWorld": "Graj",
+  "worldSelectSaveChanges": "Zapisz zmiany"
 }
