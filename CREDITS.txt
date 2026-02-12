@@ -194,5 +194,8 @@
 == Cebuano Localization ==
 * Jack Gabriel Acodili
 
+== British Localization ==
+* Spicylemon2623
+
 == Korean Localization ==
 * daa3ff
