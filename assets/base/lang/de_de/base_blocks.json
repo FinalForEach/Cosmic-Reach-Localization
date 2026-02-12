@@ -126,6 +126,6 @@
     "base:piston::advancing": "Vorschubkolben",
     "base:leaves_fir": "Tannenblätter",
     "base:sapling_fir": "Tannensetzling",
-    "base:ore_sulfur": "Schwefelerz",
-    "base:door_aluminium": "Aluminumtür"
+    "base:ore_sulfur": "Schwefel Erz",
+    "base:door_aluminium": "Aluminium Tür"
 }

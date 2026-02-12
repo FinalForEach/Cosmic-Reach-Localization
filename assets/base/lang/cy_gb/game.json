@@ -16,6 +16,7 @@
     "soundSlider": "Swn: ",
     "musicSlider": "Cerddoriaeth: ",
     "fovSlider": "Maes Golwg: ",
+    "musicFreqSlider": "Amledd Cerddoriaeth Yn Funudau",
     "maxFPS": "FPS Uchafswm: ",
     "maxFPSUnlimited": "FPS Uchafswm: Anghyfyngedig",
     "debugCrashButton": "Dadfygio: Chwalu y gêm",
@@ -64,6 +65,7 @@
     "Use_Place": "Defnyddio / Gosod",
     "Open_Chat": "Agor Sgwrs",
     "No_Clip": "Dim-clipio",
+    "Change_Perspective": "Newid Safbwynt",
     "Reload_Shaders": "Ail-lwytho Arlliw-wyr",
     "Fullscreen": "Sgrîn lawn",
     "Create_New_World": "Creu Byd Newydd",
@@ -108,8 +110,6 @@
     "multiplayerJoinButton": "Ymuno",
     "multiplayerBadDisconnect": "Datgysylltwyd! Rheswm: ",
     "textDisplayInput": "Teipiwch yma...",
-    "musicFreqSlider": "Amledd Cerddoriaeth Yn Funudau",
-    "Change_Perspective": "Newid Safbwynt",
     "skinChangeLabel": "Newid Eich Edrychiad",
     "skinFileDesc": "ffeil PNG gyda 128x64 picseli",
     "itemCatalogSearch": "Chwilio...",
@@ -127,5 +127,5 @@
     "mobUnnamed": "Heb-enw",
     "zone_base:earth_legacy": "Daear (Cymynrodd)",
     "comingSoon": "Yn dod yn fuan...",
-    "langSelectionSearch": "Search Languages..."
+    "langSelectionSearch": "Chwilio Ieithoedd..."
 }

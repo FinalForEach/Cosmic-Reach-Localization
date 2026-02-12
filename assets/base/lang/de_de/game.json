@@ -124,8 +124,9 @@
     "zone_base:moon": "Mond",
     "zone_base:nostalgic_island": "Nostalgische Insel",
     "zone_base:void": "Leere Welt",
+    "mobUnnamed": "Namenlos",
+    "worldSelectionSearch": "Welten durchsuchen...",
+    "createWorldGamemode": "Spielmodus:",
     "zone_base:earth_legacy": "Erde (Legacy)",
-    "mobUnnamed": "Unbennant",
-    "comingSoon": "Kommt bald...",
-    "langSelectionSearch": "Sprachen durchsuchen..."
+    "langSelectionSearch": "Suche Sprachen..."
 }
