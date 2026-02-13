@@ -137,5 +137,7 @@
     "base:hazard::operational": "Franjas operativas",
     "base:hazard::protection": "Franjas de protección",
     "base:hazard::radiation": "Franjas de radiación",
-    "base:hazard::safety": "Franjas de seguridad"
+    "base:hazard::safety": "Franjas de seguridad",
+    "base:door_iron": "Puerta de hierro",
+    "base:ladder_aluminium": "Escalera de aluminio"
 }
