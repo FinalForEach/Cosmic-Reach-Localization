@@ -137,5 +137,7 @@
     "base:hazard::operational": "Operational Stripes",
     "base:hazard::protection": "Protection Stripes",
     "base:hazard::radiation": "Radiation Stripes",
-    "base:hazard::safety": "Safety Stripes"
+    "base:hazard::safety": "Safety Stripes",
+    "base:door_iron": "Iron Door",
+    "base:ladder_aluminium": "Aluminum Ladder"
 }
