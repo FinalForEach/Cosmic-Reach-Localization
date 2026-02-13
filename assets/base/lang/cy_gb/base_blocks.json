@@ -137,5 +137,7 @@
     "base:hazard::operational": "Streipen Gweithredol",
     "base:hazard::protection": "Streipen Amddiffyn",
     "base:hazard::radiation": "Streipen Ymbelydredd",
-    "base:hazard::safety": "Streipen Diogelwch"
+    "base:hazard::safety": "Streipen Diogelwch",
+    "base:door_iron": "Drws Haearn",
+    "base:ladder_aluminium": "Ysgol Alwminiwm"
 }
