@@ -131,5 +131,12 @@
   "mobUnnamed": "Namnlaus skapning",
   "zone_base:earth_legacy": "Jorda (Tidlegare versjon)",
   "comingSoon": "Kjem snart…",
-  "langSelectionSearch": "Søk etter mål…"
+  "langSelectionSearch": "Søk etter mål…",
+  "worldDescriptionName": "Verdsnamn:",
+  "worldDescriptionHeader": "Beskriving",
+  "worldDescriptionGamemode": "Spillmodus: ",
+  "worldDescriptionGenerator": "Verdstype: ",
+  "worldDescriptionDefaultText": "Skriv inn beskriving for verda…",
+  "worldSelectPlayWorld": "Spel",
+  "worldSelectSaveChanges": "Lagre endringar"
 }

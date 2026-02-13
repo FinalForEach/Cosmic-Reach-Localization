@@ -57,7 +57,7 @@
     "base:snow": "Nieve",
     "base:grass": "Césped",
     "base:sand": "Arena",
-    "base:hazard": "Franjas de advertencia",
+    "base:hazard": "Franjas de peligro",
     "base:dirt": "Tierra",
     "base:bricks": "Ladrillos",
     "base:ice": "Hielo",
@@ -127,5 +127,15 @@
     "base:leaves_fir": "Hojas de abeto",
     "base:sapling_fir": "Retoño de abeto",
     "base:ore_sulfur": "Mineral de azufre",
-    "base:door_aluminium": "Puerta de aluminio"
+    "base:door_aluminium": "Puerta de aluminio",
+    "base:presser": "Prensa",
+    "base:cardboard_box": "Caja de cartón",
+    "base:planteater_flower": "Flor de planteater",
+    "base:conveyor_belt": "Cinta transportadora",
+    "base:hazard::caution": "Franjas de precaución",
+    "base:hazard::defective": "Franjas de deficiencia",
+    "base:hazard::operational": "Franjas operativas",
+    "base:hazard::protection": "Franjas de protección",
+    "base:hazard::radiation": "Franjas de radiación",
+    "base:hazard::safety": "Franjas de seguridad"
 }
