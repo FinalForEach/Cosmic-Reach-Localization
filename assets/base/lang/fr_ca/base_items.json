@@ -42,5 +42,8 @@
     "base:starch": "Amidon",
     "base:starch_slurry": "Suspension d'amidon",
     "base:sulfur_crystal": "Cristal de soufre",
-    "base:santa_hat": "Châpeau du père Nöel"
+    "base:santa_hat": "Châpeau du père Nöel",
+    "base:wood_chips": "Copeaux",
+    "base:wood_pulp": "Pulpe de bois",
+    "base:cardboard_sheet": "Feuille de carton"
 }
