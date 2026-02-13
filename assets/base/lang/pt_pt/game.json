@@ -126,5 +126,13 @@
     "zone_base:void": "Mundo Vazio",
     "mobUnnamed": "Não nomeado",
     "zone_base:earth_legacy": "Terra (Legado)",
-    "langSelectionSearch": "Procurar linguagens..."
+    "comingSoon": "Em breve...",
+    "langSelectionSearch": "Procurar linguagens...",
+    "worldDescriptionName": "Nome do Mundo:",
+    "worldDescriptionHeader": "Descrição",
+    "worldDescriptionGamemode": "Modo de Jogo:",
+    "worldDescriptionGenerator": "Tipo de Mundo:",
+    "worldDescriptionDefaultText": "Escreva Descrição do Mundo...",
+    "worldSelectPlayWorld": "Jogar",
+    "worldSelectSaveChanges": "Salvar Alterações"
 }

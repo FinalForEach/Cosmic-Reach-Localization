@@ -41,5 +41,8 @@
     "base:starch": "Amido",
     "base:starch_slurry": "Pasta de Amido",
     "base:sulfur_crystal": "Cristal de Enxofre",
-    "base:santa_hat": "Chapéu de Pai Natal"
+    "base:santa_hat": "Chapéu de Pai Natal",
+    "base:wood_chips": "Cavacos",
+    "base:wood_pulp": "Polpa de Madeira",
+    "base:cardboard_sheet": "Folha de Cartão"
 }
