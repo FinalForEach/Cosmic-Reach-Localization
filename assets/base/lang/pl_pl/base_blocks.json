@@ -139,5 +139,7 @@
     "base:planteater_flower": "Kwiat roślinojada",
     "base:conveyor_belt": "Taśma produkcyjna",
     "base:structure_saver": "Blok zapisu konstrukcji",
-    "base:structure_loader": "Blok wczytania konstrukcji"
+    "base:structure_loader": "Blok wczytania konstrukcji",
+    "base:door_iron": "Żelazne drzwi",
+    "base:ladder_aluminium": "Aluminiowa drabina"
 }
