@@ -1,6 +1,6 @@
 {
     "base:air": "Udara",
-    "base:aluminium_panel": "Aluminium",
+    "base:aluminium_panel": "Balok Aluminium",
     "base:asphalt": "Aspal",
     "base:ore_bauxite": "Bauksit",
     "base:c4": "C4",
@@ -125,5 +125,17 @@
     "base:laser_emitter_motion": "Pemancar Laser Dorong",
     "base:piston::advancing": "Piston Maju",
     "base:leaves_fir": "Daun Pinus",
-    "base:sapling_fir": "Pohon Muda Pinus"
+    "base:sapling_fir": "Pohon Muda Pinus",
+    "base:ore_sulfur": "Bijih Belerang",
+    "base:door_aluminium": "Pintu Aluminium",
+    "base:presser": "Penekan",
+    "base:cardboard_box": "Kotak Kardus",
+    "base:planteater_flower": "Bunga Planteater",
+    "base:conveyor_belt": "Ban Berjalan",
+    "base:hazard::caution": "Garis Peringatan",
+    "base:hazard::defective": "Garis Cacat",
+    "base:hazard::operational": "Garis Operasional",
+    "base:hazard::protection": "Garis Pelindung",
+    "base:hazard::radiation": "Garis Radiasi",
+    "base:hazard::safety": "Garis Keamanan"
 }

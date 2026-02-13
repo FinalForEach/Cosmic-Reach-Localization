@@ -127,5 +127,17 @@
     "base:leaves_fir": "Fir Leaves",
     "base:sapling_fir": "Fir Sapling",
     "base:ore_sulfur": "Sulfur Ore",
-    "base:door_aluminium": "Aluminum Door"
+    "base:door_aluminium": "Aluminum Door",
+    "base:presser": "Presser",
+    "base:cardboard_box": "Cardboard Box",
+    "base:planteater_flower": "Planteater Flower",
+    "base:conveyor_belt": "Conveyor Belt",
+    "base:hazard::caution": "Caution Stripes",
+    "base:hazard::defective": "Defective Stripes",
+    "base:hazard::operational": "Operational Stripes",
+    "base:hazard::protection": "Protection Stripes",
+    "base:hazard::radiation": "Radiation Stripes",
+    "base:hazard::safety": "Safety Stripes",
+    "base:door_iron": "Iron Door",
+    "base:ladder_aluminium": "Aluminum Ladder"
 }

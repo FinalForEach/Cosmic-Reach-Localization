@@ -126,5 +126,6 @@
     "base:piston::advancing": "Piston avançant",
     "base:leaves_fir": "Feuilles de sapin",
     "base:sapling_fir": "Pousse de sapin",
-    "base:ore_sulfur": "Minerai de soufre"
+    "base:ore_sulfur": "Minerai de soufre",
+    "base:door_aluminium": "Porte en aluminium"
 }
