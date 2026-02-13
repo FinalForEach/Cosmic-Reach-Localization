@@ -41,5 +41,8 @@
     "base:starch": "Startsh",
     "base:starch_slurry": "Biswail Startsh",
     "base:sulfur_crystal": "Grisial Sylffwr",
-    "base:santa_hat": "Het Siôn Corn"
+    "base:santa_hat": "Het Siôn Corn",
+    "base:wood_chips": "Naddu Pren",
+    "base:wood_pulp": "Mwydion Pren",
+    "base:cardboard_sheet": "Taflen Chardfwrdd"
 }
