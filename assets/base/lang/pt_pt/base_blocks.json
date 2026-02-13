@@ -137,5 +137,7 @@
     "base:hazard::operational": "Listras Operacionais",
     "base:hazard::protection": "Listras de Proteção",
     "base:hazard::radiation": "Listras de Radiação",
-    "base:hazard::safety": "Listras de Segurança"
+    "base:hazard::safety": "Listras de Segurança",
+    "base:door_iron": "Porta de Ferro",
+    "base:ladder_aluminium": "Escadote de Alumínio"
 }
