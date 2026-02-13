@@ -137,5 +137,7 @@
     "base:hazard::operational": "Strisce Operative",
     "base:hazard::protection": "Strisce Protettive",
     "base:hazard::radiation": "Strisce di Radiazione",
-    "base:hazard::safety": "Strisce di Sicurezza"
+    "base:hazard::safety": "Strisce di Sicurezza",
+    "base:door_iron": "Porta di Ferro",
+    "base:ladder_aluminium": "Scala a Pioli di Alluminio"
 }
