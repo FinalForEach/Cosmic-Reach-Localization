@@ -127,5 +127,12 @@
     "mobUnnamed": "Heb-enw",
     "zone_base:earth_legacy": "Daear (Cymynrodd)",
     "comingSoon": "Yn dod yn fuan...",
-    "langSelectionSearch": "Chwilio Ieithoedd..."
+    "langSelectionSearch": "Chwilio Ieithoedd...",
+    "worldDescriptionName": "Enw Byd:",
+    "worldDescriptionHeader": "Disgrifiad",
+    "worldDescriptionGamemode": "Modd Gêm: ",
+    "worldDescriptionGenerator": "Math Byd:",
+    "worldDescriptionDefaultText": "Nodwch y Disgrifiad Byd",
+    "worldSelectPlayWorld": "Chwarae",
+    "worldSelectSaveChanges": "Cadw Newidiadau"
 }
