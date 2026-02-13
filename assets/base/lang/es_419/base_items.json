@@ -41,5 +41,8 @@
     "base:starch": "Almidón",
     "base:starch_slurry": "Mezcla de almidón",
     "base:sulfur_crystal": "Cristal de azufre",
-    "base:santa_hat": "Gorro de Santa"
+    "base:santa_hat": "Gorro de Santa",
+    "base:wood_chips": "Astillas de madera",
+    "base:wood_pulp": "Pulpa de madera",
+    "base:cardboard_sheet": "Lámina de cartón",
 }

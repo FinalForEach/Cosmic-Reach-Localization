@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Aluminum Ingot",
     "base:ingot_iron": "Iron Ingot",
     "base:ingot_gold": "Gold Ingot",
-
     "base:medkit": "Medkit",
     "base:medkit_gold": "Gold Medkit",
     "base:stick": "Stick",
@@ -42,5 +41,8 @@
     "base:starch": "Starch",
     "base:starch_slurry": "Starch Slurry",
     "base:sulfur_crystal": "Sulfur Crystal",
-    "base:santa_hat": "Santa Hat"
+    "base:santa_hat": "Santa Hat",
+    "base:wood_chips": "Wood Chips",
+    "base:wood_pulp": "Wood Pulp",
+    "base:cardboard_sheet": "Cardboard Sheet",
 }

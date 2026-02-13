@@ -407,7 +407,28 @@
     },
     "langSelectionSearch": {
       "type": "string"
+    },
+    "worldDescriptionName": {
+      "type": "string"
+    },
+    "worldDescriptionHeader": {
+      "type": "string"
+    },
+    "worldDescriptionGamemode": {
+      "type": "string"
+    },
+    "worldDescriptionGenerator": {
+      "type": "string"
+    },
+    "worldDescriptionDefaultText": {
+      "type": "string"
+    },
+    "worldSelectPlayWorld": {
+      "type": "string"
+    },
+    "worldSelectSaveChanges": {
+      "type": "string"
     }
   },
-  "minProperties": 127
+  "minProperties": 134
 }

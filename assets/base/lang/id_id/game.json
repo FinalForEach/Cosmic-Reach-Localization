@@ -127,5 +127,13 @@
   "zone_base:void": "Dunia Hampa",
   "mobUnnamed": "Tanpa Nama",
   "zone_base:earth_legacy": "Bumi (Legacy)",
-  "comingSoon": "Segera Hadir..."
+  "comingSoon": "Segera Hadir...",
+  "langSelectionSearch": "Cari Bahasa...",
+  "worldDescriptionName": "Nama Dunia:",
+  "worldDescriptionHeader": "Deskripsi",
+  "worldDescriptionGamemode": "Mode Permainan: ",
+  "worldDescriptionGenerator": "Jenis Dunia: ",
+  "worldDescriptionDefaultText": "Masukkan Deskripsi Dunia...",
+  "worldSelectPlayWorld": "Mainkan",
+  "worldSelectSaveChanges": "Simpan Perubahan"
 }
