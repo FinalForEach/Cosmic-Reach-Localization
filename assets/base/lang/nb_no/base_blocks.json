@@ -137,5 +137,7 @@
     "base:hazard::operational": "Operativstriper",
     "base:hazard::protection": "Beskyttelsesstriper",
     "base:hazard::radiation": "Strålingsstriper",
-    "base:hazard::safety": "Sikkerhetsstriper"
+    "base:hazard::safety": "Sikkerhetsstriper",
+    "base:door_iron": "Jerndør",
+    "base:ladder_aluminium": "Aluminiumstige"
 }
