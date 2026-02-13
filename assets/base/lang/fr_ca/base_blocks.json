@@ -96,6 +96,7 @@
     "base:stone_basalt::bricks": "Briques de basalte",
     "base:stone_limestone::bricks": "Briques de calcaire",
     "base:ladder_iron": "Échelle en fer",
+    "base:ladder_aluminium": "Échelle en aluminium",
     "base:workbench": "Établi",
     "base:pixel_display": "Écran de pixels",
     "base:grass_blades": "Brins d'herbe",
@@ -135,6 +136,7 @@
     "base:sapling_fir": "Pousse de sapin",
     "base:ore_sulfur": "Minerai de soufre",
     "base:door_aluminium": "Porte en aluminium",
+    "base:door_iron": "Porte en fer",
     "base:presser": "Compresseur",
     "base:cardboard_box": "Boîte en carton",
     "base:planteater_flower": "Fleur d'herbivore"
