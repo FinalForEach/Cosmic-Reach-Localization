@@ -125,8 +125,14 @@
     "zone_base:nostalgic_island": "Nostalgische Insel",
     "zone_base:void": "Leere Welt",
     "mobUnnamed": "Namenlos",
-    "worldSelectionSearch": "Welten durchsuchen...",
-    "createWorldGamemode": "Spielmodus:",
     "zone_base:earth_legacy": "Erde (Legacy)",
-    "langSelectionSearch": "Suche Sprachen..."
+    "comingSoon": "Kommt bald...",
+    "langSelectionSearch": "Suche Sprachen...",
+    "worldDescriptionName": "Weltenname:",
+    "worldDescriptionHeader": "Beschreibung",
+    "worldDescriptionGamemode": "Spielmodus: ",
+    "worldDescriptionGenerator": "Weltentyp: ",
+    "worldDescriptionDefaultText": "Weltenbeschreibung eingeben...",
+    "worldSelectPlayWorld": "Spielen",
+    "worldSelectSaveChanges": "Änderungen speichern"
 }
