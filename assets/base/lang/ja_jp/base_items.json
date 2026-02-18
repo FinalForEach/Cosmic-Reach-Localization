@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "アルミインゴット",
     "base:ingot_iron": "鉄インゴット",
     "base:ingot_gold": "金インゴット",
-
     "base:medkit": "医療キット",
     "base:medkit_gold": "金の医療キット",
     "base:stick": "棒",
@@ -40,5 +39,10 @@
     "base:dust_aluminium": "アルミ粉",
     "base:biofuel": "バイオ燃料",
     "base:starch": "デンプン",
-    "base:starch_slurry": "デンプンスラリー"
+    "base:starch_slurry": "デンプンスラリー",
+    "base:sulfur_crystal": "硫黄結晶",
+    "base:santa_hat": "サンタ帽子",
+    "base:wood_chips": "ウッドチップ",
+    "base:wood_pulp": "木材パルプ",
+    "base:cardboard_sheet": "段ボールシート"
 }
