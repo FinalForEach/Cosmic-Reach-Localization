@@ -127,5 +127,13 @@
   "zone_base:void": "奈落のワールド",
   "mobUnnamed": "無名",
   "zone_base:earth_legacy": "地球 (レガシー)",
-  "comingSoon": "近日公開..."
+  "comingSoon": "近日公開...",
+  "langSelectionSearch": "言語の検索...",
+  "worldDescriptionName": "ワールド名:",
+  "worldDescriptionHeader": "説明",
+  "worldDescriptionGamemode": "ゲームモード: ",
+  "worldDescriptionGenerator": "ワールドタイプ: ",
+  "worldDescriptionDefaultText": "ワールドの説明を入力...",
+  "worldSelectPlayWorld": "プレイ",
+  "worldSelectSaveChanges": "変更内容を保存"
 }
