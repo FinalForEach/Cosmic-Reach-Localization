@@ -127,5 +127,17 @@
     "base:leaves_fir": "Листья пихты",
     "base:sapling_fir": "Саженец пихты",
     "base:ore_sulfur": "Серная руда",
-    "base:door_aluminium": "Алюминиевая дверь"
+    "base:door_aluminium": "Алюминиевая дверь",
+    "base:presser": "Пресс",
+    "base:cardboard_box": "Картонная коробка",
+    "base:planteater_flower": "Цветок Растениееда",
+    "base:conveyor_belt": "Конвейерная лента",
+    "base:hazard::caution": "Предупредительные полосы",
+    "base:hazard::defective": "Дефективные полосы",
+    "base:hazard::operational": "Операционные полосы",
+    "base:hazard::protection": "Защитные полосы",
+    "base:hazard::radiation": "Радиационные полосы",
+    "base:hazard::safety": "Полосы безопасности",
+    "base:door_iron": "Железная дверь",
+    "base:ladder_aluminium": "Алюминиевая лестница"
 }
