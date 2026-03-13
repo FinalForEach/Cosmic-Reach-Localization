@@ -129,5 +129,12 @@
 	"remoteControlMobNameInputLabel": "Nome:",
 	"zone_base:earth_legacy": "Terra (Legado)",
 	"comingSoon": "Em Breve...",
-	"langSelectionSearch": "Pesquisar Idiomas..."
+	"langSelectionSearch": "Pesquisar Idiomas...",
+	"worldDescriptionName": "Nome do Mundo:",
+	"worldDescriptionHeader": "Descrição",
+	"worldDescriptionGamemode": "Modo de Jogo: ",
+	"worldDescriptionGenerator": "Tipo do Mundo: ",
+	"worldDescriptionDefaultText": "Insira Descrição do Mundo...",
+	"worldSelectPlayWorld": "Jogar",
+	"worldSelectSaveChanges": "Salvar Mudanças"
 }
