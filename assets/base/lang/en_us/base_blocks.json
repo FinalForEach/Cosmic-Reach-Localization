@@ -139,5 +139,6 @@
     "base:hazard::radiation": "Radiation Stripes",
     "base:hazard::safety": "Safety Stripes",
     "base:door_iron": "Iron Door",
-    "base:ladder_aluminium": "Aluminum Ladder"
+    "base:ladder_aluminium": "Aluminum Ladder",
+    "base:table_pedestal_glass": "Glass Pedestal Table"
 }

@@ -4,5 +4,9 @@
     "laserEmitterShoot": "Fire!",
     "inventoryCrafting": "Crafting",
     "inventoryEquipment": "Equipment",
-    "inventoryAchievements": "Achievements"
+    "inventoryAchievements": "Achievements",
+    "inventorySpaceship": "Spaceship",
+    "spaceshipTabTitle": "Spaceship Map",
+    "spaceshipTravelButton": "Travel to {0}",
+    "beamUpButton": "Teleport to Spaceship"
 }
