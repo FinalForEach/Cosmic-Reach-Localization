@@ -139,5 +139,6 @@
     "base:hazard::radiation": "Franjas de radiación",
     "base:hazard::safety": "Franjas de seguridad",
     "base:door_iron": "Puerta de hierro",
-    "base:ladder_aluminium": "Escalera de aluminio"
+    "base:ladder_aluminium": "Escalera de aluminio",
+    "base:table_pedestal_glass": "Mesa pedestal de vidrio"
 }
