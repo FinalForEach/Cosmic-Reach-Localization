@@ -41,5 +41,8 @@
     "base:starch": "Stärke",
     "base:starch_slurry": "Stärkeschlamm",
     "base:sulfur_crystal": "Schwefel Kristall",
-    "base:santa_hat": "Weihnachtsmütze"
+    "base:santa_hat": "Weihnachtsmütze",
+    "base:wood_chips": "Holzchips",
+    "base:wood_pulp": "Holzbrei",
+    "base:cardboard_sheet": "Karton"
 }
