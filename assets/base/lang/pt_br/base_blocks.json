@@ -127,5 +127,17 @@
 	"base:leaves_fir": "Folhas de Abeto",
 	"base:sapling_fir": "Muda de Abeto",
 	"base:ore_sulfur": "Minério de Enxofre",
-	"base:door_aluminium": "Porta de Alumínio"
+	"base:door_aluminium": "Porta de Alumínio",
+	"base:presser": "Prensa",
+	"base:cardboard_box": "Caixa de Papelão",
+	"base:planteater_flower": "Flor Herbívora",
+	"base:conveyor_belt": "Esteira Rolante",
+	"base:hazard::caution": "Faixas de Atenção",
+	"base:hazard::defective": "Faixas de Defeituosos",
+	"base:hazard::operational": "Faixas de Operações",
+	"base:hazard::protection": "Faixas de Proteção",
+	"base:hazard::radiation": "Faixas de Radiação",
+	"base:hazard::safety": "Faixas de Segurança",
+	"base:door_iron": "Porta de Ferro",
+	"base:ladder_aluminium": "Escada de Alumínio"                  
 }
