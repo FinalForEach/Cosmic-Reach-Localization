@@ -4,5 +4,9 @@
     "laserEmitterShoot": "Skyt!",
     "inventoryCrafting": "Tilvirking",
     "inventoryEquipment": "Utstyr",
-    "inventoryAchievements": "Prestasjoner"
+    "inventoryAchievements": "Prestasjoner",
+    "inventorySpaceship": "Romskip",
+    "spaceshipTabTitle": "Romskipskart",
+    "spaceshipTravelButton": "Reis til {0}",
+    "beamUpButton": "Teleportér til romskip"
 }
