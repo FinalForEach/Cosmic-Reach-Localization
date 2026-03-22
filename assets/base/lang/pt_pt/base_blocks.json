@@ -139,5 +139,6 @@
     "base:hazard::radiation": "Listras de Radiação",
     "base:hazard::safety": "Listras de Segurança",
     "base:door_iron": "Porta de Ferro",
-    "base:ladder_aluminium": "Escadote de Alumínio"
+    "base:ladder_aluminium": "Escadote de Alumínio",
+    "base:table_pedestal_glass": "Mesa de Pedestal de Vidro"
 }
