@@ -139,5 +139,6 @@
     "base:hazard::radiation": "Strålingsstriper",
     "base:hazard::safety": "Tryggleikstriper",
     "base:door_iron": "Jarndør",
-    "base:ladder_aluminium": "Aluminiumstige"
+    "base:ladder_aluminium": "Aluminiumstige",
+    "base:table_pedestal_glass": "Glashøgbord"
 }
