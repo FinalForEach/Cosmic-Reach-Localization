@@ -4,5 +4,9 @@
     "laserEmitterShoot": "Strzelaj!",
     "inventoryCrafting": "Wytwarzanie",
     "inventoryEquipment": "Wyposażenie",
-    "inventoryAchievements": "Osiągnięcia"
+    "inventoryAchievements": "Osiągnięcia",
+    "inventorySpaceship": "Statek",
+    "spaceshipTabTitle": "Mapa statku",
+    "spaceshipTravelButton": "Podróżuj na {0}",
+    "beamUpButton": "Przenieś na statek"
 }
