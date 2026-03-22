@@ -141,5 +141,6 @@
     "base:structure_saver": "Blok zapisu konstrukcji",
     "base:structure_loader": "Blok wczytania konstrukcji",
     "base:door_iron": "Żelazne drzwi",
-    "base:ladder_aluminium": "Aluminiowa drabina"
+    "base:ladder_aluminium": "Aluminiowa drabina",
+    "base:table_pedestal_glass": "Szklany piedestał"
 }
