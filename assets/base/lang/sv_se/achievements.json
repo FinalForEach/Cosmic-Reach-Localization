@@ -1,4 +1,4 @@
 {
-    "grantAchievementTemplate": "{0} uppnådde [{1}]-bragden!",
+    "grantAchievementTemplate": "{0} åstadkom [{1}]-bragden!",
     "achievement_base:intercepted": "Avledare avled. Avlivad av avledd."
 }
