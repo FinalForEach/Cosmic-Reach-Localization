@@ -137,5 +137,8 @@
     "base:hazard::operational": "Garis Operasional",
     "base:hazard::protection": "Garis Pelindung",
     "base:hazard::radiation": "Garis Radiasi",
-    "base:hazard::safety": "Garis Keamanan"
+    "base:hazard::safety": "Garis Keamanan",
+    "base:door_iron": "Pintu Besi",
+    "base:ladder_aluminium": "Tangga Aluminium",
+    "base:table_pedestal_glass": "Meja Kaki Kaca"
 }
