@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Alumíniumrúd",
     "base:ingot_iron": "Vasrúd",
     "base:ingot_gold": "Aranyrúd",
-
     "base:medkit": "Elsősegély csomag",
     "base:medkit_gold": "Arany elsősegély csomag",
     "base:stick": "Bot",
@@ -40,5 +39,10 @@
     "base:dust_aluminium": "Alumíniumpor",
     "base:biofuel": "Bioüzemanyag",
     "base:starch": "Keményítő",
-    "base:starch_slurry": "Keményítőpép"
+    "base:starch_slurry": "Keményítőpép",
+    "base:sulfur_crystal": "Kénkristály",
+    "base:santa_hat": "Mikulássapka",
+    "base:wood_chips": "Faforgács",
+    "base:wood_pulp": "Fapép",
+    "base:cardboard_sheet": "Kartonlap"
 }

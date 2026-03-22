@@ -127,5 +127,12 @@
     "mobUnnamed": "Без названия",
     "zone_base:earth_legacy": "Земля (старая)",
     "comingSoon": "Скоро...",
-    "langSelectionSearch": "Найти языки..."
+    "langSelectionSearch": "Найти языки...",
+    "worldDescriptionName": "Название Мира:",
+    "worldDescriptionHeader": "Описание",
+    "worldDescriptionGamemode": "Игровой режим:",
+    "worldDescriptionGenerator": "Тип Мира:",
+    "worldDescriptionDefaultText": "Введите Описание Мира...",
+    "worldSelectPlayWorld": "Играть",
+    "worldSelectSaveChanges": "Сохранить Изменения"
 }

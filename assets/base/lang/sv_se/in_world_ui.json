@@ -4,5 +4,9 @@
     "laserEmitterShoot": "Skjut!",
     "inventoryCrafting": "Crafting",
     "inventoryEquipment": "Utrustning",
-    "inventoryAchievements": "Bragder"
+    "inventoryAchievements": "Bragder",
+    "inventorySpaceship": "Rymdskepp",
+    "spaceshipTabTitle": "Rymdskeppskarta",
+    "spaceshipTravelButton": "Res till {0}",
+    "beamUpButton": "Teleportera till Rymdskepp"
 }
