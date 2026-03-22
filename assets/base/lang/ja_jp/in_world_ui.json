@@ -4,5 +4,9 @@
     "laserEmitterShoot": "発射!",
     "inventoryCrafting": "クラフト",
     "inventoryEquipment": "装備",
-    "inventoryAchievements": "実績"
+    "inventoryAchievements": "実績",
+    "inventorySpaceship": "宇宙船",
+    "spaceshipTabTitle": "宇宙船のマップ",
+    "spaceshipTravelButton": "{0}へ行く",
+    "beamUpButton": "宇宙船へテレポート"
 }
