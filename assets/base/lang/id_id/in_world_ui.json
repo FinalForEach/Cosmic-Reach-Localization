@@ -4,5 +4,9 @@
     "laserEmitterShoot": "Tembak!",
     "inventoryCrafting": "Kerajinan",
     "inventoryEquipment": "Peralatan",
-    "inventoryAchievements": "Pencapaian"
+    "inventoryAchievements": "Pencapaian",
+    "inventorySpaceship": "Pesawat Luar Angkasa",
+    "spaceshipTabTitle": "Peta Pesawat Luar Angkasa",
+    "spaceshipTravelButton": "Pergi ke {0}",
+    "beamUpButton": "Teleportasi ke Pesawat Luar Angkasa"
 }
