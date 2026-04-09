@@ -139,5 +139,6 @@
     "base:hazard::radiation": "Strisce di Radiazione",
     "base:hazard::safety": "Strisce di Sicurezza",
     "base:door_iron": "Porta di Ferro",
-    "base:ladder_aluminium": "Scala a Pioli di Alluminio"
+    "base:ladder_aluminium": "Scala a Pioli di Alluminio",
+    "base:table_pedestal_glass": "Tavolo con Piedistallo in Vetro"
 }
