@@ -4,5 +4,9 @@
     "laserEmitterShoot": "Fuoco!",
     "inventoryCrafting": "Crafting",
     "inventoryEquipment": "Equipaggiamento",
-    "inventoryAchievements": "Obiettivi"
+    "inventoryAchievements": "Obiettivi",
+    "inventorySpaceship": "Astronave",
+    "spaceshipTabTitle": "Mappa dell'Astronave",
+    "spaceshipTravelButton": "Viaggia verso {0}",
+    "beamUpButton": "Teletrasportati all'Astronave"
 }
