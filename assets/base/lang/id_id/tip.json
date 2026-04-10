@@ -19,7 +19,7 @@
   "Tip17": "Tip: Tekan '$keybind_hideUI' untuk menyembunyikan antarmuka pengguna",
   "Tip18": "Tip: Tekan '$keybind_screenshot' untuk mengambil tangkapan layar!",
   "Tip19": "Tip: Tekan '$keybind_debugInfo' untuk melihat informasi debug",
-  "Tip20": "Tip: Tekan '$keybind_dropItem' untuk menjatuhkan item saat ini!",
-  "Tip21": "Tip: Tekan '$keybind_openInventory' untuk membuka inventaris!",
-  "Tip22": "Tip: Berlari ke dinding untuk 'berlari di dinding', melangkah lebih jauh dari yang Kamu lakukan hanya dengan melompat."
+  "Tip20": "Tip: Tekan '$keybind_dropItem' untuk menjatuhkan barang yang sedang dipegang!",
+  "Tip21": "Tip: Tekan '$keybind_openInventory' untuk membuka persediaan!",
+  "Tip22": "Tip: Berlari ke dinding untuk 'berlari di dinding', melangkah lebih jauh dari yang kamu lakukan hanya dengan melompat."
 }
