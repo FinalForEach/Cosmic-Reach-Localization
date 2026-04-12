@@ -141,7 +141,7 @@
   "loadingWorld": "Mundo",
   "multiplayerServerName": "Nombre del servidor: ",
   "multiplayerAddServer": "Añadir servidor",
-  "multiplayerNewServerDefaultName": "Nuevo servidor",
+  "multiplayerNewServerDefaultName": "Servidor nuevo",
   "multiplayerDeleteServer": "Eliminar servidor",
   "multiplayerDeleteConfirmPrompt": "¿Seguro que quieres eliminar {0}?",
   "multiplayerEditServer": "Editar servidor",
