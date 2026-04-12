@@ -1,7 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
-  "metadata":
-  {
+  "$schema": "../game.schema.json",
+  "metadata": {
     "name": "English (United States)"
   },
   "formatPercent": "#%",
@@ -94,11 +93,11 @@
   "Screenshot_info": "Saved screenshot to ",
   "Screenshot_error": "Error saving screenshot.",
   "Loading": "Loading",
-  "mouseLeftButton" : "Left Button",
-  "mouseMiddleButton" : "Middle Button",
-  "mouseRightButton" : "Right Button",
-  "mouseBackButton" : "Back Button",
-  "mouseForwardButton" : "Forward Button",
+  "mouseLeftButton": "Left Button",
+  "mouseMiddleButton": "Middle Button",
+  "mouseRightButton": "Right Button",
+  "mouseBackButton": "Back Button",
+  "mouseForwardButton": "Forward Button",
   "RuntimeException": "Could not load world: ",
   "creditsGameBy": "GAME BY:",
   "creditsMusic": "MUSIC:",
@@ -136,5 +135,14 @@
   "worldDescriptionGenerator": "World Type: ",
   "worldDescriptionDefaultText": "Enter World Description...",
   "worldSelectPlayWorld": "Play",
-  "worldSelectSaveChanges": "Save Changes"
+  "worldSelectSaveChanges": "Save Changes",
+  "loadingAssets": "Assets",
+  "loadingWorld": "World",
+  "multiplayerServerName": "Server Name: ",
+  "multiplayerAddServer": "Add Server",
+  "multiplayerNewServerDefaultName": "New Server",
+  "multiplayerDeleteServer": "Delete Server",
+  "multiplayerDeleteConfirmPrompt": "Are you sure you want to delete {0}?",
+  "multiplayerEditServer": "Edit Server",
+  "genericSelectionSearch": "Search..."
 }
