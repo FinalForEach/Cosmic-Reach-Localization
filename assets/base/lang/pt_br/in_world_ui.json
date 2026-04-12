@@ -4,5 +4,9 @@
 	"laserEmitterShoot": "Disparar!",
 	"inventoryCrafting": "Criação",
 	"inventoryEquipment": "Equipamento",
-	"inventoryAchievements": "Conquistas"
+	"inventoryAchievements": "Conquistas",
+	"inventorySpaceship": "Espaço-nave",
+	"spaceshipTabTitle": "Mapa da Espaço-nave",
+	"spaceshipTravelButton": "Viajar até {0}",
+	"beamUpButton": "Teleportar até Espaço-nave"
 }
