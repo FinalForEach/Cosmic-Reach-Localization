@@ -126,5 +126,8 @@
     "Game_version_release": "Cosmic Reach Version ",
     "mouseBackButton": "Tillbakaknappen",
     "mouseForwardButton": "Framåtknappen",
-    "zone_base:earth_legacy": "Jorden (Tidigare version)"
+    "zone_base:earth_legacy": "Jorden (Tidigare version)",
+    "comingSoon": "Kommer snart...",
+    "langSelectionSearch": "Sök språk..."
+    
 }

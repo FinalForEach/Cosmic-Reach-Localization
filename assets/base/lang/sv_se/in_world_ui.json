@@ -1,5 +1,12 @@
 {
     "remoteControlMobNameInputLabel": "Namn:",
     "workbenchItemNameLabel": "Sakens namn:",
-    "laserEmitterShoot": "Skjut!"
+    "laserEmitterShoot": "Skjut!",
+    "inventoryCrafting": "Crafting",
+    "inventoryEquipment": "Utrustning",
+    "inventoryAchievements": "Bragder",
+    "inventorySpaceship": "Rymdskepp",
+    "spaceshipTabTitle": "Rymdskeppskarta",
+    "spaceshipTravelButton": "Res till {0}",
+    "beamUpButton": "Teleportera till Rymdskepp"
 }

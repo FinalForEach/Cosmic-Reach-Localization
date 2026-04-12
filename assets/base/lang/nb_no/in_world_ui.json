@@ -1,5 +1,12 @@
 {
     "remoteControlMobNameInputLabel": "Navn:",
     "workbenchItemNameLabel": "Gjenstandsnavn:",
-    "laserEmitterShoot": "Skyt!"
+    "laserEmitterShoot": "Skyt!",
+    "inventoryCrafting": "Tilvirking",
+    "inventoryEquipment": "Utstyr",
+    "inventoryAchievements": "Prestasjoner",
+    "inventorySpaceship": "Romskip",
+    "spaceshipTabTitle": "Romskipskart",
+    "spaceshipTravelButton": "Reis til {0}",
+    "beamUpButton": "Teleportér til romskip"
 }

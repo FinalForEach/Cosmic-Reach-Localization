@@ -146,6 +146,7 @@
 * RogueByte (Discord: roguebyte)
 * minidisque
 * ReclipseTheOne (Discord: reclipse)
+* qMicu (Discord: qmicu)
 
 == Serbian Localization ==
 * Ukizam_Tukizam
@@ -192,3 +193,9 @@
 
 == Cebuano Localization ==
 * Jack Gabriel Acodili
+
+== British Localization ==
+* Spicylemon2623
+
+== Korean Localization ==
+* daa3ff

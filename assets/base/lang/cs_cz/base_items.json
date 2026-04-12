@@ -34,5 +34,11 @@
     "base:revolver": "Revolver",
     "base:rifle": "Puška",
     "base:naphtha": "Nafta",
-    "base:plastic_pellets": "Plastové Granule"
+    "base:plastic_pellets": "Plastové Granule",
+    "base:dust_gold": "Zlatý Prach",
+    "base:dust_iron": "Železný Prach",
+    "base:dust_aluminium": "Hliníkový Prach",
+    "base:biofuel": "Biopalivo",
+    "base:starch": "Škrob",
+    "base:starch_slurry": "Škrobová Kaše"
 }

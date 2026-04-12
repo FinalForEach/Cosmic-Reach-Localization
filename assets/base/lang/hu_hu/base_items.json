@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Alumíniumrúd",
     "base:ingot_iron": "Vasrúd",
     "base:ingot_gold": "Aranyrúd",
-
     "base:medkit": "Elsősegély csomag",
     "base:medkit_gold": "Arany elsősegély csomag",
     "base:stick": "Bot",
@@ -32,5 +31,18 @@
     "base:crowbar": "Feszítővas",
     "base:remote_control": "Távirányító",
     "base:revolver": "Revolver",
-    "base:rifle": "Puska"
+    "base:rifle": "Puska",
+    "base:naphtha": "Nafta",
+    "base:plastic_pellets": "Műanyag pellet",
+    "base:dust_gold": "Aranypor",
+    "base:dust_iron": "Vaspor",
+    "base:dust_aluminium": "Alumíniumpor",
+    "base:biofuel": "Bioüzemanyag",
+    "base:starch": "Keményítő",
+    "base:starch_slurry": "Keményítőpép",
+    "base:sulfur_crystal": "Kénkristály",
+    "base:santa_hat": "Mikulássapka",
+    "base:wood_chips": "Faforgács",
+    "base:wood_pulp": "Fapép",
+    "base:cardboard_sheet": "Kartonlap"
 }

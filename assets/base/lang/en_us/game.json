@@ -1,7 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
-  "metadata":
-  {
+  "$schema": "../game.schema.json",
+  "metadata": {
     "name": "English (United States)"
   },
   "formatPercent": "#%",
@@ -42,6 +41,7 @@
   "Saving": "Saving...",
   "Dynamic_Sky": "Dynamic Sky",
   "Space_Day": "Space Day",
+  "Space_Sky": "Space Sky",
   "Dark_Night": "Dark Night",
   "Earth_Day": "Earth Day",
   "Orange_Sky": "Orange Sky",
@@ -93,11 +93,11 @@
   "Screenshot_info": "Saved screenshot to ",
   "Screenshot_error": "Error saving screenshot.",
   "Loading": "Loading",
-  "mouseLeftButton" : "Left Button",
-  "mouseMiddleButton" : "Middle Button",
-  "mouseRightButton" : "Right Button",
-  "mouseBackButton" : "Back Button",
-  "mouseForwardButton" : "Forward Button",
+  "mouseLeftButton": "Left Button",
+  "mouseMiddleButton": "Middle Button",
+  "mouseRightButton": "Right Button",
+  "mouseBackButton": "Back Button",
+  "mouseForwardButton": "Forward Button",
   "RuntimeException": "Could not load world: ",
   "creditsGameBy": "GAME BY:",
   "creditsMusic": "MUSIC:",
@@ -126,5 +126,23 @@
   "zone_base:nostalgic_island": "Nostalgic Islands",
   "zone_base:void": "Void World",
   "mobUnnamed": "Unnamed",
-  "zone_base:earth_legacy": "Earth (Legacy)"
+  "zone_base:earth_legacy": "Earth (Legacy)",
+  "comingSoon": "Coming soon...",
+  "langSelectionSearch": "Search Languages...",
+  "worldDescriptionName": "World Name:",
+  "worldDescriptionHeader": "Description",
+  "worldDescriptionGamemode": "Gamemode: ",
+  "worldDescriptionGenerator": "World Type: ",
+  "worldDescriptionDefaultText": "Enter World Description...",
+  "worldSelectPlayWorld": "Play",
+  "worldSelectSaveChanges": "Save Changes",
+  "loadingAssets": "Assets",
+  "loadingWorld": "World",
+  "multiplayerServerName": "Server Name: ",
+  "multiplayerAddServer": "Add Server",
+  "multiplayerNewServerDefaultName": "New Server",
+  "multiplayerDeleteServer": "Delete Server",
+  "multiplayerDeleteConfirmPrompt": "Are you sure you want to delete {0}?",
+  "multiplayerEditServer": "Edit Server",
+  "genericSelectionSearch": "Search..."
 }

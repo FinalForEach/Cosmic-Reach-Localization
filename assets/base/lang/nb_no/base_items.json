@@ -36,5 +36,14 @@
     "base:plastic_pellets": "Plastpellets",
     "base:dust_gold": "Gullstøv",
     "base:dust_iron": "Jernstøv",
-    "base:dust_aluminium": "Aluminiumstøv"
+    "base:dust_aluminium": "Aluminiumstøv",
+    "base:biofuel": "Biodrivstoff",
+    "base:starch": "Stivelse",
+    "base:starch_slurry": "Stivelseslam",
+    "base:sulfur_crystal": "Svovelkrystall",
+    "base:santa_hat": "Nisselue",
+    "base:wood_chips": "Treflis",
+    "base:wood_pulp": "Tremasse",
+    "base:cardboard_sheet": "Papplate",
+    "base:rotor_blades": "Rotorblader"
 }

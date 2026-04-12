@@ -127,4 +127,13 @@
   "zone_base:void": "Üres világ",
   "mobUnnamed": "Névtelen",
   "zone_base:earth_legacy": "Föld (Régi)"
+  "comingSoon": "Hamarosan...",
+  "langSelectionSearch": "Nyelvek keresése...",
+  "worldDescriptionName": "Világ neve:",
+  "worldDescriptionHeader": "Leírás",
+  "worldDescriptionGamemode": "Játékmód: ",
+  "worldDescriptionGenerator": "Világ típusa: ",
+  "worldDescriptionDefaultText": "Világ leírás megadása...",
+  "worldSelectPlayWorld": "Játék",
+  "worldSelectSaveChanges": "Változtatások mentése"
 }

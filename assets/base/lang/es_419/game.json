@@ -42,6 +42,7 @@
   "Saving": "Guardando...",
   "Dynamic_Sky": "Cielo dinámico",
   "Space_Day": "Día espacial",
+  "Space_Sky": "Cielo espacial",
   "Dark_Night": "Noche oscura",
   "Earth_Day": "Día terrestre",
   "Orange_Sky": "Cielo naranja",
@@ -126,5 +127,14 @@
   "zone_base:nostalgic_island": "Islas nostálgicas",
   "zone_base:void": "Vacío",
   "mobUnnamed": "Sin nombre",
-  "zone_base:earth_legacy": "Tierra (Antigua)"
+  "zone_base:earth_legacy": "Tierra (Antigua)",
+  "comingSoon": "Próximamente...",
+  "langSelectionSearch": "Buscar idiomas...",
+  "worldDescriptionName": "Nombre del mundo:",
+  "worldDescriptionHeader": "Descripción",
+  "worldDescriptionGamemode": "Modo de juego: ",
+  "worldDescriptionGenerator": "Tipo de mundo: ",
+  "worldDescriptionDefaultText": "Escribe la descripción del mundo...",
+  "worldSelectPlayWorld": "Jugar",
+  "worldSelectSaveChanges": "Guardar cambios"
 }

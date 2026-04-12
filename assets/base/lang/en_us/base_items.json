@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Aluminum Ingot",
     "base:ingot_iron": "Iron Ingot",
     "base:ingot_gold": "Gold Ingot",
-
     "base:medkit": "Medkit",
     "base:medkit_gold": "Gold Medkit",
     "base:stick": "Stick",
@@ -37,5 +36,15 @@
     "base:plastic_pellets": "Plastic Pellets",
     "base:dust_gold": "Gold Dust",
     "base:dust_iron": "Iron Dust",
-    "base:dust_aluminium": "Aluminum Dust"
+    "base:dust_aluminium": "Aluminum Dust",
+    "base:biofuel": "Biofuel",
+    "base:starch": "Starch",
+    "base:starch_slurry": "Starch Slurry",
+    "base:sulfur_crystal": "Sulfur Crystal",
+    "base:santa_hat": "Santa Hat",
+    "base:wood_chips": "Wood Chips",
+    "base:wood_pulp": "Wood Pulp",
+    "base:cardboard_sheet": "Cardboard Sheet",
+    "base:rotor_blades": "Rotor Blades",
+    "base:ingot_steel": "Steel Ingot"
 }
