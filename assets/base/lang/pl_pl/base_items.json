@@ -11,6 +11,7 @@
     "base:ingot_aluminium": "Sztabka aluminium",
     "base:ingot_iron": "Sztabka żelaza",
     "base:ingot_gold": "Sztabka złota",
+    "base:ingot_steel": "Sztabka stali",
     "base:medkit": "Apteczka",
     "base:medkit_gold": "Złota apteczka",
     "base:stick": "Patyk",
@@ -44,5 +45,6 @@
     "base:santa_hat": "Czapka Mikołaja",
     "base:wood_chips": "Zrębki drewna",
     "base:wood_pulp": "Pulpa drzewna",
-    "base:cardboard_sheet": "Arkusz tektury"
+    "base:cardboard_sheet": "Arkusz tektury",
+    "base:rotor_blades": "Śmigła"
 }

@@ -1,0 +1,4 @@
+{
+    "grantAchievementTemplate": "Gracz {0} zdobył osiągniecie [{1}]!",
+    "achievement_base:intercepted": "Przechwycony!"
+}
