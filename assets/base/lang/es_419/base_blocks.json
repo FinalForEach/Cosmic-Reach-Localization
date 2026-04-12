@@ -140,5 +140,18 @@
     "base:hazard::safety": "Franjas de seguridad",
     "base:door_iron": "Puerta de hierro",
     "base:ladder_aluminium": "Escalera de aluminio",
-    "base:table_pedestal_glass": "Mesa pedestal de vidrio"
+    "base:table_pedestal_glass": "Mesa pedestal de vidrio",
+    "base:aluminium_handrail": "Barandilla de aluminio",
+    "base:aluminium_walkway": "Pasarela de aluminio",
+    "base:door_steel": "Puerta de acero",
+    "base:iron_handrail": "Barandilla de hierro",
+    "base:iron_walkway": "Pasarela de hierro",
+    "base:ladder_steel": "Escalera de acero",
+    "base:splitter_belt": "Cinta bifurcadora",
+    "base:steel_handrail": "Barandilla de acero",
+    "base:steel_panel": "Bloque de acero",
+    "base:steel_walkway": "Pasarela de acero",
+    "base:structure_loader": "Cargador de estructuras",
+    "base:structure_saver": "Guardador de estructuras",
+    "base:piston::heavy": "Pistón pesado"
 }
