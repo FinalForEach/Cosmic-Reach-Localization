@@ -42,6 +42,7 @@
     "Saving": "Сохранение...",
     "Dynamic_Sky": "Динамичное небо",
     "Space_Day": "Космический день",
+                           
     "Dark_Night": "Тёмная ночь",
     "Earth_Day": "Земной день",
     "Orange_Sky": "Оранжевое небо",
@@ -126,5 +127,23 @@
     "zone_base:nostalgic_island": "Ностальгические острова",
     "zone_base:void": "Пустота",
     "mobUnnamed": "Без названия",
-    "zone_base:earth_legacy": "Земля (старая)"
+    "zone_base:earth_legacy": "Земля (старая)",
+    "comingSoon": "Скоро...",
+    "langSelectionSearch": "Поиск языка...",
+    "worldDescriptionName": "Имя мира:",
+    "worldDescriptionHeader": "Описание",
+    "worldDescriptionGamemode": "Режим игры: ",
+    "worldDescriptionGenerator": "Тип мира: ",
+    "worldDescriptionDefaultText": "Введите описание мира...",
+    "worldSelectPlayWorld": "Играть",
+    "worldSelectSaveChanges": "Сохранить изменения",
+    "loadingAssets": "Ресурсы",
+    "loadingWorld": "Мир",
+    "multiplayerServerName": "Имя сервера: ",
+    "multiplayerAddServer": "Добавить сервер",
+    "multiplayerNewServerDefaultName": "Новый сервер",
+    "multiplayerDeleteServer": "Удалить сервер",
+    "multiplayerDeleteConfirmPrompt": "Действительно удалить {0}?",
+    "multiplayerEditServer": "Редактировать сервер",
+    "genericSelectionSearch": "Поиск..."
 }
