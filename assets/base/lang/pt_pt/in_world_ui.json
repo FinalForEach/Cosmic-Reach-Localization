@@ -1,5 +1,12 @@
 {
     "remoteControlMobNameInputLabel": "Nome:",
     "workbenchItemNameLabel": "Nome do Item:",
-    "laserEmitterShoot": "Disparar!"
+    "laserEmitterShoot": "Disparar!",
+    "inventoryCrafting": "Criação",
+    "inventoryEquipment": "Equipamento",
+    "inventoryAchievements": "Conquistas",
+    "inventorySpaceship": "Nave Espacial",
+    "spaceshipTabTitle": "Mapa da Nave Espacial",
+    "spaceshipTravelButton": "Viajar para {0}",
+    "beamUpButton": "Teletransportar para Nave Espacial"
 }
