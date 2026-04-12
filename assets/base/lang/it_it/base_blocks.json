@@ -66,7 +66,7 @@
     "base:gold_block": "Blocco d'Oro",
     "base:wood_door": "Porta di Legno",
     "base:laser_emitter": "Emettitore Laser",
-    "base:laser_emitter::split": "Divisore Laser",
+    "base:laser_emitter::split": "Ripartitore Laser",
     "base:coal": "Blocco di Carbone",
     "base:torch": "Torch",
     "base:laser_switch": "Selettore Laser",
