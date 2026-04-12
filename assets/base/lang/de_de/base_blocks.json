@@ -139,5 +139,19 @@
     "base:hazard::radiation": "Strahlungsstreifen",
     "base:hazard::safety": "Sicherheitsstreifen",
     "base:door_iron": "Eisentür",
-    "base:ladder_aluminium": "Aluminiumleiter"
+    "base:ladder_aluminium": "Aluminiumleiter",
+    "base:table_pedestal_glass": "Glas Tischfuß",
+    "base:aluminium_handrail": "Aluminium Handlauf",
+    "base:aluminium_walkway": "Aluminium Laufsteg",
+    "base:door_steel": "Stahl Tür",
+    "base:iron_handrail": "Eisen Handlauf",
+    "base:iron_walkway": "Eisen Laufsteg",
+    "base:ladder_steel": "Stahl Leiter",
+    "base:splitter_belt": "Spaltriemen",
+    "base:steel_handrail": "Stahl Handlauf",
+    "base:steel_panel": "Stahlblock",
+    "base:steel_walkway": "Stahl Laufweg",
+    "base:structure_loader": "Strukturen Lader",
+    "base:structure_saver": "Strukturen Speicher",
+    "base:piston::heavy": "Schwerkolben"
 }
