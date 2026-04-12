@@ -44,5 +44,7 @@
     "base:santa_hat": "Weihnachtsmütze",
     "base:wood_chips": "Holzchips",
     "base:wood_pulp": "Holzbrei",
-    "base:cardboard_sheet": "Karton"
+    "base:cardboard_sheet": "Karton",
+    "base:rotor_blades": "Rotorblätter",
+    "base:ingot_steel": "Stahlbarren"
 }
