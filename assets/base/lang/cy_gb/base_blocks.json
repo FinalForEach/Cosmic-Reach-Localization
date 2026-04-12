@@ -139,5 +139,19 @@
     "base:hazard::radiation": "Streipen Ymbelydredd",
     "base:hazard::safety": "Streipen Diogelwch",
     "base:door_iron": "Drws Haearn",
-    "base:ladder_aluminium": "Ysgol Alwminiwm"
+    "base:ladder_aluminium": "Ysgol Alwminiwm",
+    "base:table_pedestal_glass": "Tabl Pedestal Gwydr",
+    "base:aluminium_handrail": "Canllaw Alwminiwm",
+    "base:aluminium_walkway": "Llwybr Alwminiwm",
+    "base:door_steel": "Drws Dur",
+    "base:iron_handrail": "Canllaw Haearn",
+    "base:iron_walkway": "Llwybr Haearn",
+    "base:ladder_steel": "Ysgol DUr",
+    "base:splitter_belt": "Belt Holltwr",
+    "base:steel_handrail": "Canllaw Dur",
+    "base:steel_panel": "Bloc Dur",
+    "base:steel_walkway": "Llwybr Dur",
+    "base:structure_loader": "Llwythwr Strwythur",
+    "base:structure_saver": "Cynilwr Strwythur",
+    "base:piston::heavy": "Piston Trwm"
 }

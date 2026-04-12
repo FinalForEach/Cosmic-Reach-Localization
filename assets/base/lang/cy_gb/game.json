@@ -134,5 +134,14 @@
     "worldDescriptionGenerator": "Math Byd:",
     "worldDescriptionDefaultText": "Nodwch y Disgrifiad Byd",
     "worldSelectPlayWorld": "Chwarae",
-    "worldSelectSaveChanges": "Cadw Newidiadau"
+    "worldSelectSaveChanges": "Cadw Newidiadau",
+    "loadingAssets": "Asedau",
+    "loadingWorld": "Byd",
+    "multiplayerServerName": "Enw Gweinydd: ",
+    "multiplayerAddServer": "Ychwanegu Gweinydd",
+    "multiplayerNewServerDefaultName": "Gweinydd Newydd",
+    "multiplayerDeleteServer": "Dileu Gweinydd",
+    "multiplayerDeleteConfirmPrompt": "Ydych chi'n siŵr eich bod chi eisiau dileu {0}?",
+    "multiplayerEditServer": "Golygu Gweinydd",
+    "genericSelectionSearch": "Chwilio..."
 }

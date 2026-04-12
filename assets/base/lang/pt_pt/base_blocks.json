@@ -139,5 +139,19 @@
     "base:hazard::radiation": "Listras de Radiação",
     "base:hazard::safety": "Listras de Segurança",
     "base:door_iron": "Porta de Ferro",
-    "base:ladder_aluminium": "Escadote de Alumínio"
+    "base:ladder_aluminium": "Escadote de Alumínio",
+    "base:table_pedestal_glass": "Mesa de Pedestal de Vidro",
+    "base:aluminium_handrail": "Corrimão de Alumínio",
+    "base:aluminium_walkway": "Passadeira de Alumúnio",
+    "base:door_steel": "Porta de Aço",
+    "base:iron_handrail": "Corrimão de Ferro",
+    "base:iron_walkway": "Passadeira de Ferro",
+    "base:ladder_steel": "Escadote de Ferro",
+    "base:splitter_belt": "Esteira Divisora",
+    "base:steel_handrail": "Corrimão de Aço",
+    "base:steel_panel": "Bloco de Aço",
+    "base:steel_walkway": "Passadeira de Aço",
+    "base:structure_loader": "Carregador de Estruturas",
+    "base:structure_saver": "Guardador de Estruturas",
+    "base:piston::heavy": "Pistão Pesado"
 }
