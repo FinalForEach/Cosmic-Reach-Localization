@@ -139,5 +139,6 @@
     "base:hazard::radiation": "Радиационные полосы",
     "base:hazard::safety": "Полосы безопасности",
     "base:door_iron": "Железная дверь",
-    "base:ladder_aluminium": "Алюминиевая лестница"
+    "base:ladder_aluminium": "Алюминиевая лестница",
+    "base:table_pedestal_glass": "Стеклянный стол"
 }

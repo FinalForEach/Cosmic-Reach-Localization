@@ -4,5 +4,9 @@
     "laserEmitterShoot": "Выстрел!",
     "inventoryCrafting": "Создание",
     "inventoryEquipment": "Снаряжение",
-    "inventoryAchievements": "Достижения"
+    "inventoryAchievements": "Достижения",
+    "inventorySpaceship": "Космический корабль",
+    "spaceshipTabTitle": "Карта космического корабля",
+    "spaceshipTravelButton": "Путешествовать к {0}",
+    "beamUpButton": "Телепортироваться к космическому кораблю"
 }
