@@ -1,5 +1,12 @@
 {
     "remoteControlMobNameInputLabel": "Имя:",
     "workbenchItemNameLabel": "Название предмета:",
-    "laserEmitterShoot": "Выстрел!"
+    "laserEmitterShoot": "Выстрел!",
+    "inventoryCrafting": "Создание",
+    "inventoryEquipment": "Снаряжение",
+    "inventoryAchievements": "Достижения",
+    "inventorySpaceship": "Космический корабль",
+    "spaceshipTabTitle": "Карта космического корабля",
+    "spaceshipTravelButton": "Путешествовать на {0}",
+    "beamUpButton": "Телепортироваться на космический корабль"
 }
