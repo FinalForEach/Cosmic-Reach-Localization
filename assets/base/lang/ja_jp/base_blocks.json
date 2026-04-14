@@ -139,5 +139,6 @@
     "base:hazard::radiation": "放射線テープブロック",
     "base:hazard::safety": "安全テープブロック",
     "base:door_iron": "鉄のドア",
-    "base:ladder_aluminium": "アルミのはしご"
+    "base:ladder_aluminium": "アルミのはしご",
+    "base:table_pedestal_glass": "ガラスの台座"
 }

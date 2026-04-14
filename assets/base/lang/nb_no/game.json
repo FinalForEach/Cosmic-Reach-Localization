@@ -139,5 +139,14 @@
   "worldDescriptionGenerator": "Verdenstype: ",
   "worldDescriptionDefaultText": "Skriv inn beskrivelse for verdenen…",
   "worldSelectPlayWorld": "Spill",
-  "worldSelectSaveChanges": "Lagre endringer"
+  "worldSelectSaveChanges": "Lagre endringer",
+  "loadingAssets": "Innhold",
+  "loadingWorld": "Verden",
+  "multiplayerServerName": "Servernavn: ",
+  "multiplayerAddServer": "Legg til server",
+  "multiplayerNewServerDefaultName": "Ny server",
+  "multiplayerDeleteServer": "Slett server",
+  "multiplayerDeleteConfirmPrompt": "Er du sikker på at du vil slette {0}?",
+  "multiplayerEditServer": "Rediger server",
+  "genericSelectionSearch": "Søk etter server…"
 }

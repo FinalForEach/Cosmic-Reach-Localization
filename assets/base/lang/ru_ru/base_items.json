@@ -42,7 +42,9 @@
     "base:starch_slurry": "Крахмальная суспензия",
     "base:sulfur_crystal": "Кристалл серы",
     "base:santa_hat": "Шапка Санты",
-    "base:wood_chips": "Древесная щепа",
-    "base:wood_pulp": "Древесная масса",
-    "base:cardboard_sheet": "Лист картона"
+    "base:wood_chips": "Древесные щепки",
+    "base:cardboard_sheet": "Лист картона",
+    "base:rotor_blades": "Лопасти ротора",
+    "base:ingot_steel": "Стальной слиток"
+    "base:wood_pulp": "Древесная масса"
 }

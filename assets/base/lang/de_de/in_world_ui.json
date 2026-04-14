@@ -4,5 +4,9 @@
   "laserEmitterShoot": "Feuer!",
   "inventoryCrafting": "Fertigen",
   "inventoryEquipment": "Ausrüstung",
-  "inventoryAchievements": "Erfolge"
+  "inventoryAchievements": "Erfolge",
+  "inventorySpaceship": "Raumschiff",
+  "spaceshipTabTitle": "Raumschiff Karte",
+  "spaceshipTravelButton": "Nach {0} reisen",
+  "beamUpButton": "Zum Raumschiff teleportieren"
 }

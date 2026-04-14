@@ -139,5 +139,19 @@
     "base:hazard::radiation": "Strisce di Radiazione",
     "base:hazard::safety": "Strisce di Sicurezza",
     "base:door_iron": "Porta di Ferro",
-    "base:ladder_aluminium": "Scala a Pioli di Alluminio"
+    "base:ladder_aluminium": "Scala a Pioli di Alluminio",
+    "base:table_pedestal_glass": "Tavolo con Piedistallo in Vetro",
+    "base:aluminium_handrail": "Corrimano di Alluminio",
+    "base:aluminium_walkway": "Passerella di Alluminio",
+    "base:door_steel": "Porta di Acciaio",
+    "base:iron_handrail": "Corrimano di Ferro",
+    "base:iron_walkway": "Passerella di Ferro",
+    "base:ladder_steel": "Scala a Pioli di Ferro",
+    "base:splitter_belt": "Ripartitore",
+    "base:steel_handrail": "Corrimano di Acciaio",
+    "base:steel_panel": "Blocco di Acciaio",
+    "base:steel_walkway": "Passerella di Acciaio",
+    "base:structure_loader": "Loader di Strutture",
+    "base:structure_saver": "Saver di Strutture",
+    "base:piston::heavy": "Pistone Pesante"
 }

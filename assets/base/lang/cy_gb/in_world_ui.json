@@ -4,5 +4,9 @@
     "laserEmitterShoot": "Saethu!",
     "inventoryCrafting": "Crefftio",
     "inventoryEquipment": "Offer",
-    "inventoryAchievements": "Cyflawniadau"
+    "inventoryAchievements": "Cyflawniadau",
+    "inventorySpaceship": "Llong-ofod",
+    "spaceshipTabTitle": "Map Llong-ofod",
+    "spaceshipTravelButton": "Teithio i {0}",
+    "beamUpButton": "Delegludo i Llon-ofod"
 }

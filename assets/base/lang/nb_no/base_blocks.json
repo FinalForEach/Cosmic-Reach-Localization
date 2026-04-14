@@ -1,6 +1,6 @@
 {
     "base:air": "Luft",
-    "base:aluminium_panel": "Aluminium",
+    "base:aluminium_panel": "Aluminiumsblokk",
     "base:asphalt": "Asfalt",
     "base:ore_bauxite": "Bauksitt",
     "base:c4": "C4",
@@ -140,5 +140,18 @@
     "base:hazard::safety": "Sikkerhetsstriper",
     "base:door_iron": "Jerndør",
     "base:ladder_aluminium": "Aluminiumstige",
-    "base:table_pedestal_glass": "Glasshøybord"
+    "base:table_pedestal_glass": "Glasshøybord",
+    "base:aluminium_handrail": "Aluminumsrekkverk",
+    "base:aluminium_walkway": "Aluminumsgangbro",
+    "base:door_steel": "Ståldør",
+    "base:iron_handrail": "Jernrekkverk",
+    "base:iron_walkway": "Jerngangbro",
+    "base:ladder_steel": "Stålstige",
+    "base:splitter_belt": "Transportbeltesplitter",
+    "base:steel_handrail": "Stålrekkverk",
+    "base:steel_panel": "Stålblokk",
+    "base:steel_walkway": "Stålgangbro",
+    "base:structure_loader": "Strukturinnlaster",
+    "base:structure_saver": "Strukturlagrer",
+    "base:piston::heavy": "Tungt stempel"  
 }
