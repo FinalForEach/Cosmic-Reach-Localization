@@ -24,7 +24,7 @@
     "base:sapphire": "Safir",
     "base:corn": "Jagung",
     "base:corn_kernels": "Biji Jagung",
-    "base:debug_wrench": "Kunci Inggris Debug",
+    "base:debug_wrench": "Kunci Inggris Awakutu",
     "base:steak": "Steak",
     "base:manure": "Pupuk",
     "base:microchip": "Mikrochip",
@@ -44,5 +44,6 @@
     "base:santa_hat": "Topi Santa",
     "base:wood_chips": "Serpihan Kayu",
     "base:wood_pulp": "Serat Kayu",
-    "base:cardboard_sheet": "Lembaran Karton"
+    "base:cardboard_sheet": "Lembaran Karton",
+    "base:rotor_blades": "Bilah Rotor"
 }
