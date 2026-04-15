@@ -140,5 +140,18 @@
 	"base:hazard::safety": "Faixas de Segurança",
 	"base:door_iron": "Porta de Ferro",
 	"base:ladder_aluminium": "Escada de Alumínio",
-	"base:table_pedestal_glass": "Mesa de Pedestal de Vidro"
+	"base:table_pedestal_glass": "Mesa de Pedestal de Vidro",
+	"base:aluminium_handrail": "Corrimão de Alumínio",
+	"base:aluminium_walkway": "Passarela de Alumínio",
+	"base:door_steel": "Porta de Aço",
+	"base:iron_handrail": "Corrimão de Ferro",
+	"base:iron_walkway": "Passarela de Ferro",
+	"base:ladder_steel": "Escadas de Aço",
+	"base:splitter_belt": "Esteira Divisora",
+	"base:steel_handrail": "Corrimão de Aço",
+	"base:steel_panel": "Bloco de Aço",
+	"base:steel_walkway": "Passarela de Aço",
+	"base:structure_loader": "Carregador de Estrutura",
+	"base:structure_saver": "Salvador de Estrutura",
+	"base:piston::heavy": "Pistão Pesado"
 }
