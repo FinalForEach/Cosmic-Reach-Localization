@@ -136,5 +136,14 @@
   "worldDescriptionGenerator": "ワールドタイプ: ",
   "worldDescriptionDefaultText": "ワールドの説明を入力...",
   "worldSelectPlayWorld": "プレイ",
-  "worldSelectSaveChanges": "変更内容を保存"
+  "worldSelectSaveChanges": "変更内容を保存",
+  "loadingAssets": "アセット",
+  "loadingWorld": "ワールド",
+  "multiplayerServerName": "サーバー名: ",
+  "multiplayerAddServer": "サーバーを追加",
+  "multiplayerNewServerDefaultName": "新しいサーバー",
+  "multiplayerDeleteServer": "サーバーを削除",
+  "multiplayerDeleteConfirmPrompt": "{0}を削除しますか?",
+  "multiplayerEditServer": "サーバーの編集",
+  "genericSelectionSearch": "検索..."
 }
