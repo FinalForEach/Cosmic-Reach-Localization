@@ -5,4 +5,8 @@
     "inventoryCrafting": "Üretim",
     "inventoryEquipment": "Ekipman",
     "inventoryAchievements": "Başarımlar"
+    "inventorySpaceship": "Uzay Gemisi",
+    "spaceshipTabTitle": "Uzay Gemisi Haritası",
+    "spaceshipTravelButton": "{0}'i seyehat et",
+    "beamUpButton": "Uzay Gemisine Işınlan"
 }
