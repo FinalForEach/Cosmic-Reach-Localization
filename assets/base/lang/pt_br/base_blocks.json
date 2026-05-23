@@ -153,5 +153,10 @@
 	"base:steel_walkway": "Passarela de Aço",
 	"base:structure_loader": "Carregador de Estrutura",
 	"base:structure_saver": "Salvador de Estrutura",
-	"base:piston::heavy": "Pistão Pesado"
+	"base:piston::heavy": "Pistão Pesado",
+	"base:cloning_vat": "Tanque de Clonagem",
+	"base:door_gold": "Porta Dourada",
+	"base:gold_handrail": "Corrimão Dourado",
+	"base:gold_walkway": "Passarela Dourada",
+	"base:green_biomass": "Biomassa Verde"
 }
