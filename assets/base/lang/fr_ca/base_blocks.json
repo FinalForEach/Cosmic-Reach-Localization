@@ -153,5 +153,10 @@
     "base:steel_panel": "Bloc d'acier",
     "base:structure_loader": "Chargeur de structure",
     "base:structure_saver": "Sauveur de structure",
-    "base:piston::heavy": "Piston robuste"
+    "base:piston::heavy": "Piston robuste",
+    "base:cloning_vat": "Cuve de clonage",
+    "base:door_gold": "Porte dorée",
+    "base:gold_handrail": "Garde-corps doré",
+    "base:gold_walkway": "Passerelle dorée",
+    "base:green_biomass": "Biomasse verte"
 }
