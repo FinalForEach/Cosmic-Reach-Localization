@@ -158,6 +158,12 @@
     "base:door_gold": "Gulldør",
     "base:gold_handrail": "Gullrekkverk",
     "base:gold_walkway": "Gullgangbro",
-    "base:green_biomass": "Grønn biomasse"
+    "base:green_biomass": "Grønn biomasse",
+    "base:ladder_gold": "Gullstige",
+    "base:table_pedestal_wood": "Trehøgbord",
+    "base:table_pedestal_gold": "Gullhøgbord",
+    "base:table_pedestal_iron": "Jarnhøgbord",
+    "base:table_pedestal_aluminium": "Aluminiumshøgbord",
+    "base:table_pedestal_steel": "Stålhøgbord"
   
 }
