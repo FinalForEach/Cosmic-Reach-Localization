@@ -140,5 +140,18 @@
     "base:hazard::safety": "安全テープブロック",
     "base:door_iron": "鉄のドア",
     "base:ladder_aluminium": "アルミのはしご",
-    "base:table_pedestal_glass": "ガラスの台座"
+    "base:table_pedestal_glass": "ガラスの台座",
+    "base:aluminium_handrail": "アルミの手すり",
+    "base:aluminium_walkway": "アルミの歩道",
+    "base:door_steel": "鋼のドア",
+    "base:iron_handrail": "鉄の手すり",
+    "base:iron_walkway": "鉄の歩道",
+    "base:ladder_steel": "鋼のはしご",
+    "base:splitter_belt": "スプリッターベルト",
+    "base:steel_handrail": "鋼の手すり",
+    "base:steel_panel": "鋼ブロック",
+    "base:steel_walkway": "鋼の歩道",
+    "base:structure_loader": "ストラクチャーローダー",
+    "base:structure_saver": "ストラクチャーセーバー",
+    "base:piston::heavy": "重量ピストン"  
 }

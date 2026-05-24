@@ -153,5 +153,17 @@
     "base:steel_walkway": "Stålgangbro",
     "base:structure_loader": "Strukturinnlaster",
     "base:structure_saver": "Strukturlagrer",
-    "base:piston::heavy": "Tungt stempel"  
+    "base:piston::heavy": "Tungt stempel",
+    "base:cloning_vat": "kloningstanke",
+    "base:door_gold": "Gulldør",
+    "base:gold_handrail": "Gullrekkverk",
+    "base:gold_walkway": "Gullgangbro",
+    "base:green_biomass": "Grønn biomasse",
+    "base:ladder_gold": "Gullstige",
+    "base:table_pedestal_wood": "Trehøybord",
+    "base:table_pedestal_gold": "Gullhøybord",
+    "base:table_pedestal_iron": "Jernhøybord",
+    "base:table_pedestal_aluminium": "Aluminiumshøybord",
+    "base:table_pedestal_steel": "Stålhøybord"
+  
 }
