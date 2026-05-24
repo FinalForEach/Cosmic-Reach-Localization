@@ -155,8 +155,14 @@
 	"base:structure_saver": "Salvador de Estrutura",
 	"base:piston::heavy": "Pistão Pesado",
 	"base:cloning_vat": "Tanque de Clonagem",
-	"base:door_gold": "Porta Dourada",
-	"base:gold_handrail": "Corrimão Dourado",
-	"base:gold_walkway": "Passarela Dourada",
-	"base:green_biomass": "Biomassa Verde"
+	"base:door_gold": "Porta de Ouro",
+	"base:gold_handrail": "Corrimão de Ouro",
+	"base:gold_walkway": "Passarela de Ouro",
+	"base:green_biomass": "Biomassa Verde",
+	"base:ladder_gold": "Escada de Ouro",
+	"base:table_pedestal_wood": "Mesa Pedestal de Madeira",
+	"base:table_pedestal_gold": "Mesa Pedestal de Ouro",
+	"base:table_pedestal_iron": "Mesa Pedestal de Ferro",
+	"base:table_pedestal_aluminium": "Mesa Pedestal de Alumínio",
+	"base:table_pedestal_steel": "Mesa Pedestal de Aço"
 }
