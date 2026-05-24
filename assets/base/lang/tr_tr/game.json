@@ -129,4 +129,20 @@
   "zone_base:earth_legacy": "Dünya (Eski)",
   "comingSoon": "Çok Yakında...",
   "langSelectionSearch": "Dil Ara..."
+  "worldDescriptionName": "Dünya Adı:",
+  "worldDescriptionHeader": "Açıklama",
+  "worldDescriptionGamemode": "Oyun Modu: ",
+  "worldDescriptionGenerator": "Dünya Tipi: ",
+  "worldDescriptionDefaultText": "Dünya Açıklaması Girin...",
+  "worldSelectPlayWorld": "Oyna",
+  "worldSelectSaveChanges": "Değişiklikleri Kaydet",
+  "loadingAssets": "Kaynaklar",
+  "loadingWorld": "Dünya",
+  "multiplayerServerName": "Sunucu İsmi: ",
+  "multiplayerAddServer": "Dunucu Ekle",
+  "multiplayerNewServerDefaultName": "Yeni Sunucu",
+  "multiplayerDeleteServer": "Sunucuyu Sil",
+  "multiplayerDeleteConfirmPrompt": "{0}'yı silmek istediğinize emin misiniz?",
+  "multiplayerEditServer": "Sunucuyu Düzenle",
+  "genericSelectionSearch": "Ara..."
 }
