@@ -7,6 +7,6 @@
     "inventoryAchievements": "Osiągnięcia",
     "inventorySpaceship": "Statek",
     "spaceshipTabTitle": "Nawigator pokładowy",
-    "spaceshipTravelButton": "Podróżuj na {0}",
+    "spaceshipTravelButton": "Kierunek podróży: {0}",
     "beamUpButton": "Przenieś na statek"
 }
