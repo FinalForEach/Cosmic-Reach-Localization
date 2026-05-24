@@ -158,5 +158,11 @@
     "base:door_gold": "Porta Dourada",
     "base:gold_handrail": "Corrimão Dourado",
     "base:gold_walkway": "Passadeira de Ouro",
-    "base:green_biomass": "Biomassa Verde"
+    "base:green_biomass": "Biomassa Verde",
+    "base:ladder_gold": "Escadote de Ouro",
+    "base:table_pedestal_wood": "Mesa de Pedestal de Madeira",
+    "base:table_pedestal_gold": "Mesa de Pedestal de Ouro",
+    "base:table_pedestal_iron": "Mesa de Pedestal de Ferro",
+    "base:table_pedestal_aluminium": "Mesa de Pedestal de Alumínio",
+    "base:table_pedestal_steel": "Mesa de Pedestal de Aço"
 }
