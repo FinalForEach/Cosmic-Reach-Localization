@@ -159,5 +159,11 @@
     "base:door_gold": "Золотая дверь",
     "base:gold_handrail": "Золотые перила",
     "base:gold_walkway": "Золотая дорожка",
-    "base:green_biomass": "Зелёная биомасса"
+    "base:green_biomass": "Зелёная биомасса",
+    "base:ladder_gold": "Золотая лестница",
+    "base:table_pedestal_wood": "Деревянный стол",
+    "base:table_pedestal_gold": "Золотой стол",
+    "base:table_pedestal_iron": "Железный стол",
+    "base:table_pedestal_aluminium": "Алюминиевый стол",
+    "base:table_pedestal_steel": "Стальной стол"
 }
