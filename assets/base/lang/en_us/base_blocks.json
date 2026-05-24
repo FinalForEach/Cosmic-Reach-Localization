@@ -158,6 +158,11 @@
     "base:door_gold": "Golden Door",
     "base:gold_handrail": "Golden Handrail",
     "base:gold_walkway": "Golden Walkway",
-    "base:green_biomass": "Green Biomass"
-  
+    "base:green_biomass": "Green Biomass",
+    "base:ladder_gold": "Golden Ladder",
+    "base:table_pedestal_wood": "Wooden Pedestal Table",
+    "base:table_pedestal_gold": "Golden Pedestal Table",
+    "base:table_pedestal_iron": "Iron Pedestal Table",
+    "base:table_pedestal_aluminium": "Aluminium Pedestal Table",
+    "base:table_pedestal_steel": "Steel Pedestal Table"
 }
