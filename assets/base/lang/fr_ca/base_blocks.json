@@ -158,5 +158,11 @@
     "base:door_gold": "Porte dorée",
     "base:gold_handrail": "Garde-corps doré",
     "base:gold_walkway": "Passerelle dorée",
-    "base:green_biomass": "Biomasse verte"
+    "base:green_biomass": "Biomasse verte",
+    "base:ladder_gold": "Échelle dorée",
+    "base:table_pedestal_wood": "Guéridon en bois",
+    "base:table_pedestal_gold": "Guéridon doré",
+    "base:table_pedestal_iron": "Guéridon en fer",
+    "base:table_pedestal_aluminium": "Guéridon en aluminium",
+    "base:table_pedestal_steel": "Guéridon en acier"
 }
