@@ -11,7 +11,6 @@
     "base:ingot_aluminium": "Alüminyum Cevheri",
     "base:ingot_iron": "Demir Cevgeri",
     "base:ingot_gold": "Altın Cevheri",
-
     "base:medkit": "İlk Yardım Çantası",
     "base:medkit_gold": "Altın İlk Yardım Çantası",
     "base:stick": "Çubuk",
@@ -43,4 +42,8 @@
     "base:starch_slurry": "Nişasta Bulamacı",
     "base:sulfur_crystal": "Sülfür Kristali",
     "base:santa_hat": "Noel Baba Şapkası"
+    "base:wood_pulp": "Talaş",
+    "base:cardboard_sheet": "Karton Şerit",
+    "base:rotor_blades": "Pervane Kanatları",
+    "base:ingot_steel": "Çelik Cevheri"
 }
