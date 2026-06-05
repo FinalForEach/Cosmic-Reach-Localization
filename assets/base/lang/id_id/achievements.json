@@ -1,4 +1,4 @@
 {
-    "grantAchievementTemplate": "{0} telah meraih pencapaian [{1}]!",
+    "grantAchievementTemplate": "{0} mendapatkan prestasi [{1}]!",
     "achievement_base:intercepted": "Tercegat!"
 }

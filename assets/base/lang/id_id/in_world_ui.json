@@ -1,12 +1,12 @@
 {
     "remoteControlMobNameInputLabel": "Nama:",
-    "workbenchItemNameLabel": "Nama Item:",
+    "workbenchItemNameLabel": "Nama Barang:",
     "laserEmitterShoot": "Tembak!",
     "inventoryCrafting": "Kerajinan",
-    "inventoryEquipment": "Peralatan",
-    "inventoryAchievements": "Pencapaian",
-    "inventorySpaceship": "Pesawat Luar Angkasa",
-    "spaceshipTabTitle": "Peta Pesawat Luar Angkasa",
+    "inventoryEquipment": "Perlengkapan",
+    "inventoryAchievements": "Prestasi",
+    "inventorySpaceship": "Pesawat Antariksa",
+    "spaceshipTabTitle": "Peta Pesawat Antariksa",
     "spaceshipTravelButton": "Pergi ke {0}",
-    "beamUpButton": "Teleportasi ke Pesawat Luar Angkasa"
+    "beamUpButton": "Teleportasi ke Pesawat Antariksa"
 }
