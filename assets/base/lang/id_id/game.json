@@ -142,7 +142,7 @@
   "multiplayerAddServer": "Tambah Peladen",
   "multiplayerNewServerDefaultName": "Peladen Baru",
   "multiplayerDeleteServer": "Hapus Peladen",
-  "multiplayerDeleteConfirmPrompt": "Apakah Anda yakin ingin menghapus {0}?",
+  "multiplayerDeleteConfirmPrompt": "Apakah kamu yakin ingin menghapus {0}?",
   "multiplayerEditServer": "Sunting Peladen",
   "genericSelectionSearch": "Telusuri..."
 }
