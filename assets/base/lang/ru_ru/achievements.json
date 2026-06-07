@@ -1,4 +1,11 @@
 {
     "grantAchievementTemplate": "{0} заработал достижение [{1}]",
-    "achievement_base:intercepted": "Перехвачено!"
+    "grantSecretAchievementTemplate": "{0} открыл секретное: [{1}]!",
+    "achievement_base:intercepted": "Перехвачено!",
+    "achievement_base:the_final_frontier": "Последний рубеж",
+    "achievement_base:0_0_11": "Версия 0.0.11",
+    "achievement_base:right_back_at_ya": "Right Back At Ya!",
+    "achievementUnlocked": "Разблокировано",
+    "achievementLocked": "Заблокировано",
+    "achievementRequires": "Требует"
 }
