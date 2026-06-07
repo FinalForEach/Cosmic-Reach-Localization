@@ -128,5 +128,18 @@
     "base:sapling_fir": "Ädelgranstelning",
     "base:ore_sulfur": "Svavelmalm",
     "base:door_aluminium": "Aluminiumdörr",
-    "base:table_pedestal_glass": "Glaspiedestalsbord"
+    "base:table_pedestal_glass": "Glaspiedestalsbord",
+    "base:aluminium_handrail": "Aluminiumräcke",
+    "base:aluminium_walkway": "Aluminiumgång",
+    "base:door_steel": "Ståldörr",
+    "base:iron_handrail": "Järnräcke",
+    "base:iron_walkway": "Järngång",
+    "base:ladder_steel": "Stålstege",
+    "base:splitter_belt": "Bältförgrening",
+    "base:steel_handrail": "Stålräcke",
+    "base:steel_panel": "Block of Steel",
+    "base:steel_walkway": "Stålgång",
+    "base:structure_loader": "Strukturladdare",
+    "base:structure_saver": "Struktursparare",
+    "base:piston::heavy": "Tungviktspistongen"
 }

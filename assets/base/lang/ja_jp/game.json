@@ -42,6 +42,7 @@
  "Saving": "セーブ中...",
  "Dynamic_Sky": "ダイナミックな空",
  "Space_Day": "宇宙の昼",
+ "Space_Sky": "宇宙の空",
  "Dark_Night": "暗い夜",
  "Earth_Day": "地球の昼",
  "Orange_Sky": "オレンジ色の空",
@@ -135,5 +136,14 @@
   "worldDescriptionGenerator": "ワールドタイプ: ",
   "worldDescriptionDefaultText": "ワールドの説明を入力...",
   "worldSelectPlayWorld": "プレイ",
-  "worldSelectSaveChanges": "変更内容を保存"
+  "worldSelectSaveChanges": "変更内容を保存",
+  "loadingAssets": "アセット",
+  "loadingWorld": "ワールド",
+  "multiplayerServerName": "サーバー名: ",
+  "multiplayerAddServer": "サーバーを追加",
+  "multiplayerNewServerDefaultName": "新しいサーバー",
+  "multiplayerDeleteServer": "サーバーを削除",
+  "multiplayerDeleteConfirmPrompt": "{0}を削除しますか?",
+  "multiplayerEditServer": "サーバーの編集",
+  "genericSelectionSearch": "検索..."
 }

@@ -45,5 +45,6 @@
     "base:wood_chips": "Treflis",
     "base:wood_pulp": "Tremasse",
     "base:cardboard_sheet": "Papplate",
-    "base:rotor_blades": "Rotorblad"
+    "base:rotor_blades": "Rotorblad",
+    "base:ingot_steel": "Stålbarre"
 }

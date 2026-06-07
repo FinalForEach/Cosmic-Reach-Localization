@@ -41,6 +41,7 @@
     "Saving": "Salvataggio in corso...",
     "Dynamic_Sky": "Cielo Dinamico",
     "Space_Day": "Giorno Spaziale",
+    "Space_Sky": "Cielo Spaziale",
     "Dark_Night": "Notte Oscura",
     "Earth_Day": "Giorno Terrestre",
     "Orange_Sky": "Cielo Arancione",
@@ -134,5 +135,14 @@
     "worldDescriptionGenerator": "Tipo Mondo:",
     "worldDescriptionDefaultText": "Inserisci la Descrizione del Mondo...",
     "worldSelectPlayWorld": "Gioca",
-    "worldSelectSaveChanges": "Salva Cambiamenti"
+    "worldSelectSaveChanges": "Salva Cambiamenti",
+    "loadingAssets": "Asset",
+    "loadingWorld": "Mondo",
+    "multiplayerServerName": "Nome Server: ",
+    "multiplayerAddServer": "Aggiungi Server",
+    "multiplayerNewServerDefaultName": "Nuovo Server",
+    "multiplayerDeleteServer": "Elimina Server",
+    "multiplayerDeleteConfirmPrompt": "Sei sicuro di voler eliminare {0}?",
+    "multiplayerEditServer": "Modifica Server",
+    "genericSelectionSearch": "Cerca..."
 }

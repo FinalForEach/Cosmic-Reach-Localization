@@ -11,6 +11,7 @@
     "base:ingot_aluminium": "Lingot d'aluminium",
     "base:ingot_iron": "Lingot de fer",
     "base:ingot_gold": "Lingot d'or",
+    "base:ingot_steel": "Lingot d'acier",
 
     "base:medkit": "Kit de soin",
     "base:medkit_gold": "Kit de soin doré",
@@ -45,5 +46,6 @@
     "base:santa_hat": "Châpeau du père Nöel",
     "base:wood_chips": "Copeaux",
     "base:wood_pulp": "Pulpe de bois",
-    "base:cardboard_sheet": "Feuille de carton"
+    "base:cardboard_sheet": "Feuille de carton",
+    "base:rotor_blades": "Lame de rotor"
 }

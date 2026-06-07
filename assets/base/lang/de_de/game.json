@@ -134,5 +134,14 @@
     "worldDescriptionGenerator": "Weltentyp: ",
     "worldDescriptionDefaultText": "Weltenbeschreibung eingeben...",
     "worldSelectPlayWorld": "Spielen",
-    "worldSelectSaveChanges": "Änderungen speichern"
+    "worldSelectSaveChanges": "Änderungen speichern",
+    "loadingAssets": "Assets",
+    "loadingWorld": "Welt",
+    "multiplayerServerName": "Server Name: ",
+    "multiplayerAddServer": "Server hinzufügen",
+    "multiplayerNewServerDefaultName": "Neuer Server",
+    "multiplayerDeleteServer": "Server löschen",
+    "multiplayerDeleteConfirmPrompt": "Bist du dir sicher, dass du {0} löschen möchtest?",
+    "multiplayerEditServer": "Server bearbeiten",
+    "genericSelectionSearch": "Suche..."
 }

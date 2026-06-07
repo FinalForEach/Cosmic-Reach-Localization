@@ -139,5 +139,14 @@
   "worldDescriptionGenerator": "Verdstype: ",
   "worldDescriptionDefaultText": "Skriv inn beskriving for verda…",
   "worldSelectPlayWorld": "Spel",
-  "worldSelectSaveChanges": "Lagre endringar"
+  "worldSelectSaveChanges": "Lagre endringar",
+  "loadingAssets": "Innhald",
+  "loadingWorld": "Verd",
+  "multiplayerServerName": "Servernamn: ",
+  "multiplayerAddServer": "Legg til servar",
+  "multiplayerNewServerDefaultName": "Ny servar",
+  "multiplayerDeleteServer": "Slett servar",
+  "multiplayerDeleteConfirmPrompt": "Er du sikker på at du vil sletta {0}?",
+  "multiplayerEditServer": "Rediger servar",
+  "genericSelectionSearch": "Søk etter servar…"
 }

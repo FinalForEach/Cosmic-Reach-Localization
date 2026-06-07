@@ -4,7 +4,7 @@
     "base:asphalt": "Asphalt",
     "base:ore_bauxite": "Bauxite",
     "base:c4": "C4",
-    "base:cheese": "Cheese",
+    "base:cheese": "Block of Cheese",
     "base:stone_limestone": "Limestone",
     "base:crate_wooden": "Wooden Crate",
     "base:stone_gabbro": "Gabbro",
@@ -153,5 +153,16 @@
     "base:steel_walkway": "Steel Walkway",
     "base:structure_loader": "Structure Loader",
     "base:structure_saver": "Structure Saver",
-    "base:piston::heavy": "Heavy Piston"  
+    "base:piston::heavy": "Heavy Piston",
+    "base:cloning_vat": "Cloning Vat",
+    "base:door_gold": "Golden Door",
+    "base:gold_handrail": "Golden Handrail",
+    "base:gold_walkway": "Golden Walkway",
+    "base:green_biomass": "Green Biomass",
+    "base:ladder_gold": "Golden Ladder",
+    "base:table_pedestal_wood": "Wooden Pedestal Table",
+    "base:table_pedestal_gold": "Golden Pedestal Table",
+    "base:table_pedestal_iron": "Iron Pedestal Table",
+    "base:table_pedestal_aluminium": "Aluminium Pedestal Table",
+    "base:table_pedestal_steel": "Steel Pedestal Table"
 }

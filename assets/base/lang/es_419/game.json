@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
+  "$schema": "../game.schema.json",
   "metadata":
   {
     "name": "Español (América Latina)",
@@ -72,7 +72,7 @@
   "Fullscreen": "Pantalla completa",
   "Create_New_World": "Crear un mundo nuevo",
   "worldNameButton": "Nombre del mundo: ",
-  "defaultWorldName": "Mundo nuevo",
+  "defaultWorldName": "Nuevo mundo",
   "worldSeedLabel": "Semilla del mundo: <Aleatoria>",
   "worldSeedLabel2": "Semilla del mundo: ",
   "worldType": "Tipo de mundo: ",
@@ -94,11 +94,11 @@
   "Screenshot_info": "Captura de pantalla guardada en ",
   "Screenshot_error": "Error al guardar la captura de pantalla.",
   "Loading": "Cargando",
-  "mouseLeftButton" : "Clic izquierdo",
-  "mouseMiddleButton" : "Botón central",
-  "mouseRightButton" : "Clic derecho",
-  "mouseBackButton" : "Botón de retroceso",
-  "mouseForwardButton" : "Botón de avance",
+  "mouseLeftButton": "Clic izquierdo",
+  "mouseMiddleButton": "Botón central",
+  "mouseRightButton": "Clic derecho",
+  "mouseBackButton": "Botón de retroceso",
+  "mouseForwardButton": "Botón de avance",
   "RuntimeException": "No se pudo cargar el mundo: ",
   "creditsGameBy": "DESARROLLADO POR:",
   "creditsMusic": "MÚSICA:",
@@ -136,5 +136,14 @@
   "worldDescriptionGenerator": "Tipo de mundo: ",
   "worldDescriptionDefaultText": "Escribe la descripción del mundo...",
   "worldSelectPlayWorld": "Jugar",
-  "worldSelectSaveChanges": "Guardar cambios"
+  "worldSelectSaveChanges": "Guardar cambios",
+  "loadingAssets": "Recursos",
+  "loadingWorld": "Mundo",
+  "multiplayerServerName": "Nombre del servidor: ",
+  "multiplayerAddServer": "Añadir servidor",
+  "multiplayerNewServerDefaultName": "Nuevo servidor",
+  "multiplayerDeleteServer": "Eliminar servidor",
+  "multiplayerDeleteConfirmPrompt": "¿Seguro que quieres eliminar {0}?",
+  "multiplayerEditServer": "Editar servidor",
+  "genericSelectionSearch": "Buscar..."
 }
