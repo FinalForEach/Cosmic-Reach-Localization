@@ -66,6 +66,13 @@
   "Pick_Block": "Copiar bloque",
   "Use_Place": "Usar / Colocar",
   "Open_Chat": "Abrir chat",
+  "Push_To_Talk": "Pulsar para hablar",
+  "Toggle_Mute": "Activar o desactivar silencio",
+  "Voice_Mode": "Modo de voz",
+  "Voice_Settings": "Ajustes de voz",
+  "Microphone": "Micrófono",
+  "Disabled": "Desactivado",
+  "voiceVolume": "Volumen de voz",
   "No_Clip": "Sin colisión",
   "Change_Perspective": "Cambiar perspectiva",
   "Reload_Shaders": "Recargar shaders",
@@ -145,5 +152,6 @@
   "multiplayerDeleteServer": "Eliminar servidor",
   "multiplayerDeleteConfirmPrompt": "¿Seguro que quieres eliminar {0}?",
   "multiplayerEditServer": "Editar servidor",
-  "genericSelectionSearch": "Buscar..."
+  "genericSelectionSearch": "Buscar...",
+  "multiplayerLanLabel": "Mundos en LAN"
 }
