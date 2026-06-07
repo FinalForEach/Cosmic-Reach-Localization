@@ -31,7 +31,7 @@
   "rendererButton": "Renderowanie: ",
   "rendererNaive": "Naiwne",
   "rendererBatched": "Grupowe",
-  "doneButton": "Gotowe",
+  "doneButton": "Gotowe",`
   "preAlphaText": "Witaj w Cosmic Reach! \n Ta gra jest w bardzo wczesnej fazie rozwoju, brakuje w niej funkcji i nie jest jeszcze kompletna \n oraz prawdopodobnie będzie zawierać błędy, usterki, awarie i psucie się światów. \n Wszystko może ulec zmianie, więc nie odzwierciedla to ostatecznej wersji gry.\n Możesz w nią grać, dzięki czemu możesz wyrazić opinię, która pomoże wytyczyć przyszłość gry.\n Miłego testowania... i psucia gry!",
   "okButton": "Ok",
   "Lighting": "Oświetlenie: ",
@@ -65,6 +65,13 @@
   "Pick_Block": "Wybierz blok",
   "Use_Place": "Użyj / Postaw",
   "Open_Chat": "Otwórz czat",
+  "Push_To_Talk": "Naciśnij i Mów",
+  "Toggle_Mute": "Przełącz wyciszenie",
+  "Voice_Mode": "Tryb głosowy",
+  "Voice_Settings": "Ustawienia głosu",
+  "Microphone": "Mikrofon",
+  "Disabled": "Wyłączony",
+  "voiceVolume": "Głośność głosu",
   "No_Clip": "No-Clip",
   "Change_Perspective": "Zmień perspektywę",
   "Reload_Shaders": "Przeładuj shadery",
@@ -144,5 +151,6 @@
   "multiplayerDeleteServer": "Usuń serwer",
   "multiplayerDeleteConfirmPrompt": "Jesteś pewien, że chcesz usunąć {0}?",
   "multiplayerEditServer": "Edytuj serwer",
-  "genericSelectionSearch": "Szukaj..."
+  "genericSelectionSearch": "Szukaj...",
+  "multiplayerLanLabel": "Serwery lokalne"
 }
