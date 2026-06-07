@@ -153,5 +153,16 @@
     "base:steel_walkway": "Llwybr Dur",
     "base:structure_loader": "Llwythwr Strwythur",
     "base:structure_saver": "Cynilwr Strwythur",
-    "base:piston::heavy": "Piston Trwm"
+    "base:piston::heavy": "Piston Trwm",
+    "base:cloning_vat": "Cerwyn Clonio",
+    "base:door_gold": "Drws Aur",
+    "base:gold_handrail": "Canllaw Aur",
+    "base:gold_walkway": "Brigdrawst Aur",
+    "base:green_biomass": "Biomas Gwyrdd",
+    "base:ladder_gold": "Ysgol Aur",
+    "base:table_pedestal_wood": "Tabl Pedestal Pren",
+    "base:table_pedestal_gold": "Tabl Pedestal Aur",
+    "base:table_pedestal_iron": "Tabl Pedestal Haearn",
+    "base:table_pedestal_aluminium": "Tabl Pedestal Alwminiwm",
+    "base:table_pedestal_steel": "Tabl Pedestal Dur"
 }

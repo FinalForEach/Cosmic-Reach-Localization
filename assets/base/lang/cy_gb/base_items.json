@@ -46,5 +46,13 @@
     "base:wood_pulp": "Mwydion Pren",
     "base:cardboard_sheet": "Taflen Chardfwrdd",
     "base:rotor_blades": "Llafn Rotor",
-    "base:ingot_steel": "Bar Dur"
+    "base:ingot_steel": "Bar Dur",
+    "base:milk_can": "Jwg Llaeth",
+    "base:cheese_piece": "Pisyn Caws",
+    "base:spawn_disk_laser_interceptor": "Disg Geni Rhyng-gipio Laser",
+    "base:spawn_disk_planteater": "Disg Geni Bwytawrplanhigyn",
+    "base:spawn_disk_interceptor_trap": "Disg Geni Rhyng-gipio Trap",
+    "base:spawn_disk_tundramel": "Disg Geni Twndramel",
+    "base:spawn_disk_incinerator": "Disg Geni Llosgwyr",
+    "base:spawn_disk_interceptor": "Disg Geni Rhyng-gipio"
 }
