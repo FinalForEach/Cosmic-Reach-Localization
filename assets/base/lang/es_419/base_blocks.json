@@ -153,5 +153,16 @@
     "base:steel_walkway": "Pasarela de acero",
     "base:structure_loader": "Cargador de estructuras",
     "base:structure_saver": "Guardador de estructuras",
-    "base:piston::heavy": "Pistón pesado"
+    "base:piston::heavy": "Pistón pesado",
+    "base:cloning_vat": "Tanque de clonación",
+    "base:door_gold": "Puerta de oro",
+    "base:gold_handrail": "Barandilla de oro",
+    "base:gold_walkway": "Pasarela de oro",
+    "base:green_biomass": "Biomasa verde",
+    "base:ladder_gold": "Escalera de oro",
+    "base:table_pedestal_wood": "Mesa pedestal de madera",
+    "base:table_pedestal_gold": "Mesa pedestal de oro",
+    "base:table_pedestal_iron": "Mesa pedestal de hierro",
+    "base:table_pedestal_aluminium": "Mesa pedestal de aluminio",
+    "base:table_pedestal_steel": "Mesa pedestal de acero"
 }

@@ -143,7 +143,7 @@
     "base:steel_walkway": "Стальной подмост",
     "base:structure_loader": "Загрузчик структур",
     "base:structure_saver": "Сохранятель структур",
-    "base:piston::heavy": "Тяжёлый поршень"  
+    "base:piston::heavy": "Тяжёлый поршень",  
     "base:planteater_flower": "Цветок Растениееда",
     "base:conveyor_belt": "Конвейерная лента",
     "base:hazard::caution": "Предупредительные полосы",
@@ -154,5 +154,16 @@
     "base:hazard::safety": "Полосы безопасности",
     "base:door_iron": "Железная дверь",
     "base:ladder_aluminium": "Алюминиевая лестница",
-    "base:table_pedestal_glass": "Стеклянный стол"
+    "base:table_pedestal_glass": "Стеклянный стол",
+    "base:cloning_vat": "Капсула клонирования",
+    "base:door_gold": "Золотая дверь",
+    "base:gold_handrail": "Золотые перила",
+    "base:gold_walkway": "Золотая дорожка",
+    "base:green_biomass": "Зелёная биомасса",
+    "base:ladder_gold": "Золотая лестница",
+    "base:table_pedestal_wood": "Деревянный стол",
+    "base:table_pedestal_gold": "Золотой стол",
+    "base:table_pedestal_iron": "Железный стол",
+    "base:table_pedestal_aluminium": "Алюминиевый стол",
+    "base:table_pedestal_steel": "Стальной стол"
 }
