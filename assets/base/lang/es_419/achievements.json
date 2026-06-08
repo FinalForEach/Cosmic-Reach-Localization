@@ -1,4 +1,11 @@
 {
-    "grantAchievementTemplate": "{0} ha conseguido el logro [{1}]",
-    "achievement_base:intercepted": "¡Interceptado!"
+    "grantAchievementTemplate": "{0} ha desbloqueado el logro [{1}]",
+    "grantSecretAchievementTemplate": "{0} ha descubierto un logro oculto: [{1}]",
+    "achievement_base:intercepted": "¡Interceptado!",
+    "achievement_base:the_final_frontier": "The Final Frontier",
+    "achievement_base:0_0_11": "Versión 0.0.11",
+    "achievement_base:right_back_at_ya": "¡Espejito rebotín!",
+    "achievementUnlocked": "Desbloqueado",
+    "achievementLocked": "Bloqueado",
+    "achievementRequires": "Requiere"
 }
