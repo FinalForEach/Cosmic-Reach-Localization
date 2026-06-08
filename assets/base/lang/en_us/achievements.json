@@ -1,4 +1,11 @@
 {
     "grantAchievementTemplate": "{0} got the [{1}] achievement!",
-    "achievement_base:intercepted": "Intercepted!"
+    "grantSecretAchievementTemplate": "{0} discovered a secret achievement: [{1}]!",
+    "achievement_base:intercepted": "Intercepted!",
+    "achievement_base:the_final_frontier": "The Final Frontier",
+    "achievement_base:0_0_11": "Version 0.0.11",
+    "achievement_base:right_back_at_ya": "Right Back At Ya!",
+    "achievementUnlocked": "Unlocked",
+    "achievementLocked": "Locked",
+    "achievementRequires": "Requires"
 }
