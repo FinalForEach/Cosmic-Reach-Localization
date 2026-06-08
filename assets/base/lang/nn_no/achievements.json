@@ -1,4 +1,11 @@
 {
     "grantAchievementTemplate": "{0} fekk bragda [{1}]!",
-    "achievement_base:intercepted": "Avskoren!"
+    "grantSecretAchievementTemplate": "{0} oppdaga ei skjult bragd: [{1}]!",
+    "achievement_base:intercepted": "Avskoren!",
+    "achievement_base:the_final_frontier": "Det siste grenselandet",
+    "achievement_base:0_0_11": "Versjon 0.0.11",
+    "achievement_base:right_back_at_ya": "Får smaka din eigen medisin!",
+    "achievementUnlocked": "Låst opp",
+    "achievementLocked": "Låst",
+    "achievementRequires": "Krevst"
 }

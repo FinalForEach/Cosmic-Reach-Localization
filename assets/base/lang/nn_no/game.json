@@ -67,6 +67,13 @@
   "Pick_Block": "Kopier blokkar",
   "Use_Place": "Bruk / Plasser",
   "Open_Chat": "Opne kommandolinja",
+  "Push_To_Talk": "Trykk for å snakka",
+  "Toggle_Mute": "Skift demping",
+  "Voice_Mode": "Talemodus",
+  "Voice_Settings": "Taleinnstillingar",
+  "Microphone": "Mikrofon",
+  "Disabled": "Deaktivert",
+  "voiceVolume": "Talevolum",
   "No_Clip": "Spøkjelsesmodus",
   "Change_Perspective": "Skift perspektiv",
   "Reload_Shaders": "Last inn Shaders på nytt",
@@ -148,5 +155,6 @@
   "multiplayerDeleteServer": "Slett servar",
   "multiplayerDeleteConfirmPrompt": "Er du sikker på at du vil sletta {0}?",
   "multiplayerEditServer": "Rediger servar",
-  "genericSelectionSearch": "Søk etter servar…"
+  "genericSelectionSearch": "Søk etter servar…",
+  "multiplayerLanLabel": "LAN-servere"
 }

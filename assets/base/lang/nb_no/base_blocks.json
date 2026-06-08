@@ -130,7 +130,7 @@
     "base:door_aluminium": "Aluminiumdør",
     "base:presser": "Presser",
     "base:cardboard_box": "Pappeske",
-    "base:planteater_flower": "planteeterblomst",
+    "base:planteater_flower": "snabeldyrblomst",
     "base:conveyor_belt": "Transportbelte",
     "base:hazard::caution": "Advarslingsstriper",
     "base:hazard::defective": "Defektstriper",
@@ -164,6 +164,5 @@
     "base:table_pedestal_gold": "Gullhøybord",
     "base:table_pedestal_iron": "Jernhøybord",
     "base:table_pedestal_aluminium": "Aluminiumshøybord",
-    "base:table_pedestal_steel": "Stålhøybord"
-  
+    "base:table_pedestal_steel": "Stålhøybord" 
 }

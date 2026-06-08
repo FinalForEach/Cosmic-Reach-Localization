@@ -46,5 +46,13 @@
     "base:wood_pulp": "Tremasse",
     "base:cardboard_sheet": "Papplate",
     "base:rotor_blades": "Rotorblad",
-    "base:ingot_steel": "Stålbarre"
+    "base:ingot_steel": "Stålbarre",
+    "base:milk_can": "Mjølkeboks",
+    "base:cheese_piece": "Ostebit",
+    "base:spawn_disk_laser_interceptor": "Framkalleplate for laseravskjerar",
+    "base:spawn_disk_planteater": "Framkalleplate for blomesnabeldyr",
+    "base:spawn_disk_interceptor_trap": "Framkalleplate for avskjerarfelle",
+    "base:spawn_disk_tundramel": "Framkalleplate for tundramel",
+    "base:spawn_disk_incinerator": "Framkalleplate for forbrennar",
+    "base:spawn_disk_interceptor": "Framkalleplate for avskjerar"
 }
