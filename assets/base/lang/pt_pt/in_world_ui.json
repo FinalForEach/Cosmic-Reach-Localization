@@ -6,6 +6,7 @@
     "inventoryEquipment": "Equipamento",
     "inventoryAchievements": "Conquistas",
     "inventorySpaceship": "Nave Espacial",
+    "inventoryVoiceSettings": "Voz",
     "spaceshipTabTitle": "Mapa da Nave Espacial",
     "spaceshipTravelButton": "Viajar para {0}",
     "beamUpButton": "Teletransportar para Nave Espacial"
