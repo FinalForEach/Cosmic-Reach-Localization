@@ -6,6 +6,7 @@
     "inventoryEquipment": "Equipment",
     "inventoryAchievements": "Achievements",
     "inventorySpaceship": "Spaceship",
+    "inventoryVoiceSettings": "Voice",
     "spaceshipTabTitle": "Spaceship Map",
     "spaceshipTravelButton": "Travel to {0}",
     "beamUpButton": "Teleport to Spaceship"

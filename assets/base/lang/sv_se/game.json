@@ -137,6 +137,14 @@
     "multiplayerDeleteServer": "Ta Bort Server",
     "multiplayerDeleteConfirmPrompt": "Är du säker på att du vill ta bort {0}?",
     "multiplayerEditServer": "Redigera Server",
-    "genericSelectionSearch": "Sök..."
+    "genericSelectionSearch": "Sök...",
+    "Push_To_Talk": "Tryck-För-Tal",
+    "Toggle_Mute": "Växla Tystnad",
+    "Voice_Mode": "Röstläge",
+    "Voice_Settings": "Röstinställningar",
+    "Microphone": "Mikrofon",
+    "Disabled": "Avstängd",
+    "voiceVolume": "Röstvolym",
+    "multiplayerLanLabel": "LAN-Servrar"
     
 }
