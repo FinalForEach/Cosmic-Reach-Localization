@@ -143,5 +143,14 @@
     "multiplayerDeleteServer": "Supprimer le serveur",
     "multiplayerDeleteConfirmPrompt": "Êtes-vous certain de vouloir supprimer {0} ?",
     "multiplayerEditServer": "Modifier le serveur",
-    "genericSelectionSearch": "Rechercher..."
+    "genericSelectionSearch": "Rechercher...",
+    "Push_To_Talk": "Push-to-talk",
+    "Toggle_Mute": "Basculer la sourdine",
+    "Voice_Mode": "Mode voix",
+    "Voice_Settings": "Paramètres de voix",
+    "Microphone": "Microphone",
+    "Disabled": "Désactivé",
+    "voiceVolume": "Volume de la voix",
+    "micVolume": "Volume du microphone",
+    "multiplayerLanLabel": "Serveurs LAN"
 }

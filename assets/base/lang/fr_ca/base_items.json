@@ -48,12 +48,12 @@
     "base:wood_pulp": "Pulpe de bois",
     "base:cardboard_sheet": "Feuille de carton",
     "base:rotor_blades": "Lame de rotor",
-    "Push_To_Talk": "Push-to-talk",
-    "Toggle_Mute": "Basculer la sourdine",
-    "Voice_Mode": "Mode voix",
-    "Voice_Settings": "Paramètres de voix",
-    "Microphone": "Microphone",
-    "Disabled": "Désactivé",
-    "voiceVolume": "Volume de la voix",
-    "multiplayerLanLabel": "Serveurs LAN"
+    "base:milk_can": "Canette de lait",
+    "base:cheese_piece": "Morceau de fromage",
+    "base:spawn_disk_laser_interceptor": "Disquette de frai d'intercepteur à laser",
+    "base:spawn_disk_planteater": "Disquette de frai d'herbivore",
+    "base:spawn_disk_interceptor_trap": "Disquette de frai de piège à intercepteur",
+    "base:spawn_disk_tundramel": "Disquette de frai de toundrameau",
+    "base:spawn_disk_incinerator": "Disquette de frai d'incinérateur",
+    "base:spawn_disk_interceptor": "Disquette de frai d'intercepteur"
 }

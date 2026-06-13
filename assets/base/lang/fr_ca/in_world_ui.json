@@ -8,5 +8,6 @@
     "inventorySpaceship": "Vaisseau spatial",
     "spaceshipTabTitle": "Carte spatiale",
     "spaceshipTravelButton": "Voyager à {0}",
-    "beamUpButton": "Téléporter vers le vaisseau spatial"
+    "beamUpButton": "Téléporter vers le vaisseau spatial",
+    "inventoryVoiceSettings": "Voix"
 }

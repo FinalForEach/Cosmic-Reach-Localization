@@ -164,13 +164,5 @@
     "base:table_pedestal_gold": "Guéridon doré",
     "base:table_pedestal_iron": "Guéridon en fer",
     "base:table_pedestal_aluminium": "Guéridon en aluminium",
-    "base:table_pedestal_steel": "Guéridon en acier",
-    "base:milk_can": "Canette de lait",
-    "base:cheese_piece": "Morceau de fromage",
-    "base:spawn_disk_laser_interceptor": "Disquette de frai d'intercepteur à laser",
-    "base:spawn_disk_planteater": "Disquette de frai d'herbivore",
-    "base:spawn_disk_interceptor_trap": "Disquette de frai de piège à intercepteur",
-    "base:spawn_disk_tundramel": "Disquette de frai de toundrameau",
-    "base:spawn_disk_incinerator": "Disquette de frai d'incinérateur",
-    "base:spawn_disk_interceptor": "Disquette de frai d'intercepteur"
+    "base:table_pedestal_steel": "Guéridon en acier"
 }
