@@ -6,6 +6,7 @@
     "inventoryEquipment": "Wyposażenie",
     "inventoryAchievements": "Osiągnięcia",
     "inventorySpaceship": "Statek",
+    "inventoryVoiceSettings": "Głos",
     "spaceshipTabTitle": "Nawigator pokładowy",
     "spaceshipTravelButton": "Kierunek podróży: {0}",
     "beamUpButton": "Przenieś na statek"
