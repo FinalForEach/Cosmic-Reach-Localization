@@ -46,5 +46,13 @@
     "base:wood_pulp": "Wood Pulp",
     "base:cardboard_sheet": "Cardboard Sheet",
     "base:rotor_blades": "Rotor Blades",
-    "base:ingot_steel": "Steel Ingot"
+    "base:ingot_steel": "Steel Ingot",
+    "base:milk_can": "Milk Can",
+    "base:cheese_piece": "Cheese Piece",
+    "base:spawn_disk_laser_interceptor": "Laser Interceptor Spawn Disk",
+    "base:spawn_disk_planteater": "Planteater Spawn Disk",
+    "base:spawn_disk_interceptor_trap": "Interceptor Trap Spawn Disk",
+    "base:spawn_disk_tundramel": "Tundramel Spawn Disk",
+    "base:spawn_disk_incinerator": "Incinerator Spawn Disk",
+    "base:spawn_disk_interceptor": "Interceptor Spawn Disk"
 }
