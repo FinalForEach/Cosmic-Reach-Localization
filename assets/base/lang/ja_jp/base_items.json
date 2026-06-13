@@ -46,5 +46,13 @@
     "base:wood_pulp": "木材パルプ",
     "base:cardboard_sheet": "段ボールシート",
     "base:rotor_blades": "ローターブレード",
-    "base:ingot_steel": "鋼インゴット"
+    "base:ingot_steel": "鋼インゴット",
+    "base:milk_can": "ミルク缶",
+    "base:cheese_piece": "チーズ",
+    "base:spawn_disk_laser_interceptor": "レーザーインターセプタースポーンディスク",
+    "base:spawn_disk_planteater": "プラントイータースポーンディスク",
+    "base:spawn_disk_interceptor_trap": "インターセプタートラップスポーンディスク",
+    "base:spawn_disk_tundramel": "ツンドラクダスポーンディスク",
+    "base:spawn_disk_incinerator": "インシネレータースポーンディスク",
+    "base:spawn_disk_interceptor": "インターセプタースポーンディスク"
 }
