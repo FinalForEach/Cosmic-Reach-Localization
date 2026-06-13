@@ -1,4 +1,11 @@
 {
     "grantAchievementTemplate": "Cafodd {0} y [{1}] cyflawniad!",
-    "achievement_base:intercepted": "Rhyng-gipiad!"
+    "grantSecretAchievementTemplate": "Darganfod {0} cyflawniad cyfrinachol: [{1}]!",
+    "achievement_base:intercepted": "Rhyng-gipiad!",
+    "achievement_base:the_final_frontier": "Y Ffin Terfynol",
+    "achievement_base:0_0_11": "Fersiwn 0.0.11",
+    "achievement_base:right_back_at_ya": "Nôl I Ti!",
+    "achievementUnlocked": "Datgloi",
+    "achievementLocked": "Ar glo",
+    "achievementRequires": "Yn Ceisio"
 }

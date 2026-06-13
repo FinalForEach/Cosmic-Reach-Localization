@@ -41,6 +41,7 @@
     "Saving": "Arbediad...",
     "Dynamic_Sky": "Awyr deinamig",
     "Space_Day": "Dydd Gofod",
+    "Space_Sky": "Awyr Gofod",
     "Dark_Night": "Nos Tywyll",
     "Earth_Day": "Dydd Daear",
     "Orange_Sky": "Awyr Oren",
@@ -64,6 +65,13 @@
     "Pick_Block": "Casglwyd",
     "Use_Place": "Defnyddio / Gosod",
     "Open_Chat": "Agor Sgwrs",
+    "Push_To_Talk": "Gwthio-I-Siarad",
+    "Toggle_Mute": "Toglo Mud",
+    "Voice_Mode": "Modd Llais",
+    "Voice_Settings": "Gosodiadau Llais",
+    "Microphone": "Microffon",
+    "Disabled": "Anabl",
+    "voiceVolume": "Lefel Sain Llais",
     "No_Clip": "Dim-clipio",
     "Change_Perspective": "Newid Safbwynt",
     "Reload_Shaders": "Ail-lwytho Arlliw-wyr",
@@ -143,5 +151,6 @@
     "multiplayerDeleteServer": "Dileu Gweinydd",
     "multiplayerDeleteConfirmPrompt": "Ydych chi'n siŵr eich bod chi eisiau dileu {0}?",
     "multiplayerEditServer": "Golygu Gweinydd",
-    "genericSelectionSearch": "Chwilio..."
+    "genericSelectionSearch": "Chwilio...",
+    "multiplayerLanLabel": "Gweinyddion LAN"
 }
