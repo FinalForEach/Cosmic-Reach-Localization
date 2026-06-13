@@ -65,6 +65,14 @@
   "Pick_Block": "Wybierz blok",
   "Use_Place": "Użyj / Postaw",
   "Open_Chat": "Otwórz czat",
+  "Push_To_Talk": "Naciśnij i Mów",
+  "Toggle_Mute": "Przełącz wyciszenie",
+  "Voice_Mode": "Tryb głosowy",
+  "Voice_Settings": "Ustawienia głosu",
+  "Microphone": "Mikrofon",
+  "Disabled": "Wyłączony",
+  "voiceVolume": "Głośność innych graczy",
+  "micVolume": "Głośność mikrofonu",
   "No_Clip": "No-Clip",
   "Change_Perspective": "Zmień perspektywę",
   "Reload_Shaders": "Przeładuj shadery",
@@ -144,5 +152,6 @@
   "multiplayerDeleteServer": "Usuń serwer",
   "multiplayerDeleteConfirmPrompt": "Jesteś pewien, że chcesz usunąć {0}?",
   "multiplayerEditServer": "Edytuj serwer",
-  "genericSelectionSearch": "Szukaj..."
+  "genericSelectionSearch": "Szukaj...",
+  "multiplayerLanLabel": "Serwery lokalne"
 }

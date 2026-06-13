@@ -46,5 +46,13 @@
     "base:wood_chips": "Zrębki drewna",
     "base:wood_pulp": "Pulpa drzewna",
     "base:cardboard_sheet": "Arkusz tektury",
-    "base:rotor_blades": "Śmigła"
+    "base:rotor_blades": "Śmigła",
+    "base:milk_can": "Kanka mleka",
+    "base:cheese_piece": "Kawałek sera",
+    "base:spawn_disk_laser_interceptor": "Dysk startowy laserowego przechwytywacza",
+    "base:spawn_disk_planteater": "Dysk startowy roślinojada",
+    "base:spawn_disk_interceptor_trap": "Dysk startowy zasadzki przechwytywaczy",
+    "base:spawn_disk_tundramel": "Dysk startowy tundramela",
+    "base:spawn_disk_incinerator": "Dysk startowy spopielacza",
+    "base:spawn_disk_interceptor": "Dysk startowy przechwytywacza"
 }
