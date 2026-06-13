@@ -66,7 +66,15 @@
  "Pick_Block": "ブロック選択",
  "Use_Place": "アイテムの使用/設置",
  "Open_Chat": "チャットを開く",
- "No_Clip": "ノー クリップ",
+ "Push_To_Talk": "プッシュトゥトーク",
+ "Toggle_Mute": "ミュート切り替え",
+ "Voice_Mode": "音声モード",
+ "Voice_Settings": "音声設定",
+ "Microphone": "マイク",
+ "Disabled": "無効",
+ "voiceVolume": "他のプレイヤーの音量",
+ "micVolume": "マイク音量",
+ "No_Clip": "ノークリップ",
  "Change_Perspective": "視点を切り替える",
  "Reload_Shaders": "シェーダーをリロード",
  "Fullscreen": "フルスクリーン",
@@ -124,7 +132,7 @@
   "zone_base:earth": "地球",
   "zone_base:flat": "フラット",
   "zone_base:moon": "月",
-  "zone_base:nostalgic_island": "Nostalgic Islands",
+  "zone_base:nostalgic_island": "懐かしい島々",
   "zone_base:void": "奈落のワールド",
   "mobUnnamed": "無名",
   "zone_base:earth_legacy": "地球 (レガシー)",
@@ -145,5 +153,6 @@
   "multiplayerDeleteServer": "サーバーを削除",
   "multiplayerDeleteConfirmPrompt": "{0}を削除しますか?",
   "multiplayerEditServer": "サーバーの編集",
-  "genericSelectionSearch": "検索..."
+  "genericSelectionSearch": "検索...",
+  "multiplayerLanLabel": "LANサーバー"
 }
