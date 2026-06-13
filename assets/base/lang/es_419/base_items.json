@@ -46,5 +46,13 @@
     "base:wood_pulp": "Pulpa de madera",
     "base:cardboard_sheet": "Lámina de cartón",
     "base:rotor_blades": "Palas de rotor",
-    "base:ingot_steel": "Lingote de acero"
+    "base:ingot_steel": "Lingote de acero",
+    "base:milk_can": "Lata con leche",
+    "base:cheese_piece": "Pedazo de queso",
+    "base:spawn_disk_laser_interceptor": "Disco de creación de interceptor láser",
+    "base:spawn_disk_planteater": "Disco de creación de planteater",
+    "base:spawn_disk_interceptor_trap": "Disco de creación de trampa de interceptor",
+    "base:spawn_disk_tundramel": "Disco de creación de tundramel",
+    "base:spawn_disk_incinerator": "Disco de creación de incinerador",
+    "base:spawn_disk_interceptor": "Disco de creación de interceptor"
 }
