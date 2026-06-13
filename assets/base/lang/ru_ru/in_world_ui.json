@@ -6,6 +6,7 @@
     "inventoryEquipment": "Снаряжение",
     "inventoryAchievements": "Достижения",
     "inventorySpaceship": "Космический корабль",
+    "inventoryVoiceSettings": "Голос",
     "spaceshipTabTitle": "Карта космического корабля",
     "spaceshipTravelButton": "Путешествовать к {0}",
     "beamUpButton": "Телепортироваться к космическому кораблю"
