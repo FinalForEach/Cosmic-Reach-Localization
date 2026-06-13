@@ -8,5 +8,6 @@
     "inventorySpaceship": "Romskip",
     "spaceshipTabTitle": "Romskipskart",
     "spaceshipTravelButton": "Reis til {0}",
-    "beamUpButton": "Teleportér til romskip"
+    "beamUpButton": "Teleportér til romskip",
+    "inventoryVoiceSettings": "Tale"
 }
