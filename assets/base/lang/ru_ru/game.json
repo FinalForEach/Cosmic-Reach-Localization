@@ -65,6 +65,14 @@
     "Pick_Block": "Поднять блок",
     "Use_Place": "Использовать / Поставить",
     "Open_Chat": "Открыть чат",
+    "Push_To_Talk": "Нажать, чтобы говорить",
+    "Toggle_Mute": "Переключить заглушивание",
+    "Voice_Mode": "Голосовой режим",
+    "Voice_Settings": "Голосовые настройки",
+    "Microphone": "Микрофон",
+    "Disabled": "Отключено",
+    "voiceVolume": "Громкость голоса",
+    "micVolume": "Громкость микрофона",
     "No_Clip": "Ноуклип",
     "Change_Perspective": "Изменить перспективу",
     "Reload_Shaders": "Перезагрузить шейдеры",
@@ -144,5 +152,6 @@
     "multiplayerDeleteServer": "Удалить сервер",
     "multiplayerDeleteConfirmPrompt": "Действительно удалить {0}?",
     "multiplayerEditServer": "Редактировать сервер",
-    "genericSelectionSearch": "Поиск..."
+    "genericSelectionSearch": "Поиск...",
+    "multiplayerLanLabel": "Сервера LAN"
 }

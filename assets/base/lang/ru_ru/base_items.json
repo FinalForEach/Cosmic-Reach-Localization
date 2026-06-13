@@ -43,8 +43,16 @@
     "base:sulfur_crystal": "Кристалл серы",
     "base:santa_hat": "Шапка Санты",
     "base:wood_chips": "Древесные щепки",
+    "base:wood_pulp": "Древесная масса"
     "base:cardboard_sheet": "Лист картона",
     "base:rotor_blades": "Лопасти ротора",
     "base:ingot_steel": "Стальной слиток",
-    "base:wood_pulp": "Древесная масса"
+    "base:milk_can": "Банка молока",
+    "base:cheese_piece": "Кусок выра",
+    "base:spawn_disk_laser_interceptor": "Диск призыва лазерного перехвадчика",
+    "base:spawn_disk_planteater": "Диск призыва плантитера",
+    "base:spawn_disk_interceptor_trap": "Диск призыва ловушки-перехвадчика",
+    "base:spawn_disk_tundramel": "Диск призыва тундрамели",
+    "base:spawn_disk_incinerator": "Диск призыва выжигателя",
+    "base:spawn_disk_interceptor": "Диск призыва перехвадчика"
 }
