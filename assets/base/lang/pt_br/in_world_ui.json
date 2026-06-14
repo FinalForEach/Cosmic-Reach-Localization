@@ -8,5 +8,6 @@
 	"inventorySpaceship": "Espaço-nave",
 	"spaceshipTabTitle": "Mapa da Espaço-nave",
 	"spaceshipTravelButton": "Viajar até {0}",
-	"beamUpButton": "Teleportar até Espaço-nave"
+	"beamUpButton": "Teleportar até Espaço-nave",
+	"inventoryVoiceSettings": "Voz"
 }
