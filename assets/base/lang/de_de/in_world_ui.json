@@ -6,6 +6,7 @@
   "inventoryEquipment": "Ausrüstung",
   "inventoryAchievements": "Erfolge",
   "inventorySpaceship": "Raumschiff",
+  "inventoryVoiceSettings": "Stimmen",
   "spaceshipTabTitle": "Raumschiff Karte",
   "spaceshipTravelButton": "Nach {0} reisen",
   "beamUpButton": "Zum Raumschiff teleportieren"
