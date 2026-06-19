@@ -1,4 +1,11 @@
 {
     "grantAchievementTemplate": "{0} hat den [{1}] Erfolg erhalten!",
-    "achievement_base:intercepted": "Abgefangen!"
+    "grantSecretAchievementTemplate": "{0} hat einen versteckten Erfolg entdeckt: [{1}]!",
+    "achievement_base:intercepted": "Abgefangen!",
+    "achievement_base:the_final_frontier": "Die letzte Grenze",
+    "achievement_base:0_0_11": "Version 0.0.11",
+    "achievement_base:right_back_at_ya": "Zurück mit dir!",
+    "achievementUnlocked": "Freigeschalten",
+    "achievementLocked": "Gesperrt",
+    "achievementRequires": "Benötigt"
 }

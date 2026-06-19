@@ -153,5 +153,16 @@
     "base:steel_walkway": "Stahl Laufweg",
     "base:structure_loader": "Strukturen Lader",
     "base:structure_saver": "Strukturen Speicher",
-    "base:piston::heavy": "Schwerkolben"
+    "base:piston::heavy": "Schwerkolben",
+    "base:cloning_vat": "Klonbehälter",
+    "base:door_gold": "Goldene Tür",
+    "base:gold_handrail": "Goldener Handlauf",
+    "base:gold_walkway": "Goldener Laufsteg",
+    "base:green_biomass": "Grüne Biomasse",
+    "base:ladder_gold": "Goldene Leiter",
+    "base:table_pedestal_wood": "Hölzener Sockeltisch",
+    "base:table_pedestal_gold": "Goldener Sockeltisch",
+    "base:table_pedestal_iron": "Eisener Sockeltisch",
+    "base:table_pedestal_aluminium": "Aluminium Sockeltisch",
+    "base:table_pedestal_steel": "Stahl Sockeltisch"
 }
