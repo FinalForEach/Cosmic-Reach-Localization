@@ -54,5 +54,8 @@
     "base:spawn_disk_interceptor_trap": "Disco de creación de trampa de interceptor",
     "base:spawn_disk_tundramel": "Disco de creación de tundrélido",
     "base:spawn_disk_incinerator": "Disco de creación de incinerador",
-    "base:spawn_disk_interceptor": "Disco de creación de interceptor"
+    "base:spawn_disk_interceptor": "Disco de creación de interceptor",
+    "base:cell_planteater": "Célula de planteater",
+    "base:cell_tundramel": "Célula de tundrélido",
+    "base:syringe": "Jeringa"
 }
