@@ -153,5 +153,8 @@
   "multiplayerDeleteConfirmPrompt": "Are you sure you want to delete {0}?",
   "multiplayerEditServer": "Edit Server",
   "genericSelectionSearch": "Search...",
-  "multiplayerLanLabel": "LAN Servers"
+  "multiplayerLanLabel": "LAN Servers",
+  "fullscreenModeButton": "Fullscreen Mode: ",
+  "fullscreenExclusive": "Exclusive",
+  "fullscreenBorderless": "Borderless"
 }

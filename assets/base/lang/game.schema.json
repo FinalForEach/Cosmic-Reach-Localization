@@ -458,6 +458,15 @@
     },
     "genericSelectionSearch": {
       "type": "string"
+    },
+    "fullscreenModeButton": {
+      "type": "string"
+    },
+    "fullscreenExclusive": {
+      "type": "string"
+    },
+    "fullscreenBorderless": {
+      "type": "string"
     }
   },
   "minProperties": 144
