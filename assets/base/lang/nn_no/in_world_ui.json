@@ -6,8 +6,8 @@
     "inventoryEquipment": "Utstyr",
     "inventoryAchievements": "Bragder",
     "inventorySpaceship": "Romskip",
+    "inventoryVoiceSettings": "Tale",
     "spaceshipTabTitle": "Romskipskart",
     "spaceshipTravelButton": "Reis til {0}",
-    "beamUpButton": "Teleportér til romskip",
-    "inventoryVoiceSettings": "Tale"
+    "beamUpButton": "Teleportér til romskip"
 }

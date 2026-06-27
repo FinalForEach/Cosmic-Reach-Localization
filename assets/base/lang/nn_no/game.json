@@ -149,12 +149,15 @@
   "worldSelectSaveChanges": "Lagre endringar",
   "loadingAssets": "Innhald",
   "loadingWorld": "Verd",
-  "multiplayerServerName": "Servernamn: ",
-  "multiplayerAddServer": "Legg til servar",
-  "multiplayerNewServerDefaultName": "Ny servar",
-  "multiplayerDeleteServer": "Slett servar",
+  "multiplayerServerName": "Sørvarnamn: ",
+  "multiplayerAddServer": "Legg til sørvar",
+  "multiplayerNewServerDefaultName": "Ny sørvar",
+  "multiplayerDeleteServer": "Slett sørvar",
   "multiplayerDeleteConfirmPrompt": "Er du sikker på at du vil sletta {0}?",
-  "multiplayerEditServer": "Rediger servar",
-  "genericSelectionSearch": "Søk etter servar…",
-  "multiplayerLanLabel": "LAN-servere"
+  "multiplayerEditServer": "Rediger sørvar",
+  "genericSelectionSearch": "Søk etter sørvarar…",
+  "multiplayerLanLabel": "LAN-sørvarar…",
+  "fullscreenModeButton": "Fullskjermsmodus: ",
+  "fullscreenExclusive": "Eksklusiv",
+  "fullscreenBorderless": "Kantlaus"
 }
