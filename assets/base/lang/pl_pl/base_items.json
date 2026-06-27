@@ -54,5 +54,8 @@
     "base:spawn_disk_interceptor_trap": "Dysk startowy zasadzki przechwytywaczy",
     "base:spawn_disk_tundramel": "Dysk startowy tundramela",
     "base:spawn_disk_incinerator": "Dysk startowy spopielacza",
-    "base:spawn_disk_interceptor": "Dysk startowy przechwytywacza"
+    "base:spawn_disk_interceptor": "Dysk startowy przechwytywacza",
+    "base:cell_planteater": "Komórka roślinojada",
+    "base:cell_tundramel": "Komórka tundramela",
+    "base:syringe": "Strzykawka"
 }
