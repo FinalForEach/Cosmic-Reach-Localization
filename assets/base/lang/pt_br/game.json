@@ -155,5 +155,8 @@
 	"multiplayerDeleteConfirmPrompt": "Tem certeza que deseja remover {0}?",
 	"multiplayerEditServer": "Editar Servidor",
 	"genericSelectionSearch": "Buscar...",
-	"multiplayerLanLabel": "Servidores em LAN"
+	"multiplayerLanLabel": "Servidores em LAN",
+	"fullscreenModeButton": "Modo de Tela Cheia: ",
+	"fullscreenExclusive": "Exclusivo",
+	"fullscreenBorderless": "Sem Bordas"
 }
