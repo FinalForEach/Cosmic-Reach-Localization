@@ -51,6 +51,8 @@
     "base:ore_iron": "Jernmalm",
     "base:ore_gold": "Gullmalm",
     "base:tree_log": "Tretømmer",
+    "base:tree_log::bark": "Trebark",
+    "base:tree_log::coconut_bark": "Kokosbark",
     "base:stone_gravel": "Grus",
     "base:boombox": "Boombox",
     "base:water": "Vann",

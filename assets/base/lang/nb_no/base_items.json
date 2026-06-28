@@ -49,10 +49,13 @@
     "base:ingot_steel": "Stålbarre",
     "base:milk_can": "Melkeboks",
     "base:cheese_piece": "Ostebit",
-    "base:spawn_disk_laser_interceptor": "Fremkallingsplate for laseravskjærer",
-    "base:spawn_disk_planteater": "Fremkallingsplate for blomstersnabeldyr",
-    "base:spawn_disk_interceptor_trap": "Fremkallingsplate for avskjærerfelle",
-    "base:spawn_disk_tundramel": "Fremkallingsplate for tundramel",
-    "base:spawn_disk_incinerator": "Fremkallingsplate for forbrenner",
-    "base:spawn_disk_interceptor": "Fremkallingsplate for avskjærer"
+    "base:spawn_disk_laser_interceptor": "Fremkallingsdiskett for laseravskjærer",
+    "base:spawn_disk_planteater": "Fremkallingsdiskett for blomstersnabeldyr",
+    "base:spawn_disk_interceptor_trap": "Fremkallingsdiskett for avskjærerfelle",
+    "base:spawn_disk_tundramel": "Fremkallingsdiskett for tundramedar",
+    "base:spawn_disk_incinerator": "Fremkallingsdiskett for forbrenner",
+    "base:spawn_disk_interceptor": "Fremkallingsdiskett for avskjærer",
+    "base:cell_planteater": "Blomstersnabeldyr-celle",
+    "base:cell_tundramel": "Tundramedarcelle",
+    "base:syringe": "Sprøyte"
 }

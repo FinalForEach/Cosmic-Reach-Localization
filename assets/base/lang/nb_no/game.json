@@ -74,6 +74,7 @@
   "Microphone": "Mikrofon",
   "Disabled": "Deaktivert",
   "voiceVolume": "Andres talevolum",
+  "micVolume": "Mikrofonvolum",
   "No_Clip": "Spøkelsesmodus",
   "Change_Perspective": "Veksle perspektiv",
   "Reload_Shaders": "Last inn Shaders på nytt",
@@ -156,5 +157,8 @@
   "multiplayerDeleteConfirmPrompt": "Er du sikker på at du vil slette {0}?",
   "multiplayerEditServer": "Rediger server",
   "genericSelectionSearch": "Søk etter server…",
-  "multiplayerLanLabel": "LAN-sørvarar"
+  "multiplayerLanLabel": "LAN-servere",
+  "fullscreenModeButton": "Fullskjermsmodus: ",
+  "fullscreenExclusive": "Eksklusiv",
+  "fullscreenBorderless": "Kantløs"
 }
