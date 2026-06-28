@@ -54,5 +54,8 @@
     "base:spawn_disk_interceptor_trap": "Disco de Geração de Armadilha de Interceptor",
     "base:spawn_disk_tundramel": "Disco de Geração de Tundramelo",
     "base:spawn_disk_incinerator": "Disco de Geração de Incenerador",
-    "base:spawn_disk_interceptor": "Disco de Geração de Interceptor"
+    "base:spawn_disk_interceptor": "Disco de Geração de Interceptor",
+    "base:cell_planteater": "Célula de Comedor de Plantas",
+    "base:cell_tundramel": "Célula de Tundramelo",
+    "base:syringe": "Seringa"
 }
