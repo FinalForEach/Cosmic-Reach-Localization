@@ -153,5 +153,8 @@
   "multiplayerDeleteConfirmPrompt": "Jesteś pewien, że chcesz usunąć {0}?",
   "multiplayerEditServer": "Edytuj serwer",
   "genericSelectionSearch": "Szukaj...",
-  "multiplayerLanLabel": "Serwery lokalne"
+  "multiplayerLanLabel": "Serwery lokalne",
+  "fullscreenModeButton": "Tryb pełnoekranowy: ",
+  "fullscreenExclusive": "Na wyłączność",
+  "fullscreenBorderless": "Bez ramek"
 }

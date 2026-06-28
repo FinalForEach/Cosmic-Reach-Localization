@@ -42,6 +42,8 @@
     "base:magma": "Magma",
     "base:magma::bricks": "Cegły z magmy",
     "base:tree_log": "Kłoda drzewa",
+    "base:tree_log::bark": "Kora drzewa",
+    "base:tree_log::coconut_bark": "Kora palmy kokosowej",
     "base:leaves": "Liście palmy",
     "base:coconut": "Orzech kokosowy",
     "base:leaves_poplar": "Liście topoli",
@@ -164,6 +166,7 @@
     "base:laser_switch": "Przełącznik laseru",
     "base:green_biomass": "Zielona biomasa",
     "base:cloning_vat": "Komora klonowania",
+    "base:biomass_decomposer": "Rozkładacz biomasy",
     
     "base:structure_saver": "Blok zapisu konstrukcji",
     "base:structure_loader": "Blok wczytania konstrukcji"
