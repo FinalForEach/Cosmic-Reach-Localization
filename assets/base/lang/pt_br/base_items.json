@@ -46,5 +46,13 @@
 	"base:wood_pulp": "Polpa de Madeira",
 	"base:cardboard_sheet": "Folha de Papelão",
 	"base:rotor_blades": "Pás de Rotor",
-	"base:ingot_steel": "Barra de Aço"
+	"base:ingot_steel": "Barra de Aço",
+	"base:milk_can": "Lata de Leite",
+	"base:cheese_piece": "Pedaço de Queijo",
+	"base:spawn_disk_laser_interceptor": "Disco Invocador de Interceptador Laser",
+	"base:spawn_disk_planteater": "Disco Invocador de Devorador de Plantas",
+	"base:spawn_disk_interceptor_trap": "Disco Invocador de Interceptador Falso",
+	"base:spawn_disk_tundramel": "Disco Invocador de Tundramel",
+	"base:spawn_disk_incinerator": "Disco Invocador de Incinerador", 
+	"base:spawn_disk_interceptor": "Disco Invocador de Interceptador"
 }

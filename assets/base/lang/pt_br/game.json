@@ -42,6 +42,7 @@
 	"Saving": "Salvando...",
 	"Dynamic_Sky": "Céu Dinâmico",
 	"Space_Day": "Dia Espacial",
+	"Space_Sky": "Espaço",
 	"Dark_Night": "Noite Escura",
 	"Earth_Day": "Dia Terrestre",
 	"Orange_Sky": "Céu Laranja",
@@ -65,6 +66,14 @@
 	"Pick_Block": "Pegar bloco",
 	"Use_Place": "Usar / Colocar",
 	"Open_Chat": "Abrir o Chat",
+	"Push_To_Talk": "Aperte pra Falar",
+	"Toggle_Mute": "Alternar Silenciamento",
+	"Voice_Mode": "Modo de Voz",
+	"Voice_Settings": "Opções de Voz",
+	"Microphone": "Microfone",
+	"Disabled": "Desativado",
+	"voiceVolume": "Volume de Outros Jogadores",
+	"micVolume": "Volume do Microfone",
 	"No_Clip": "No-Clip",
 	"Change_Perspective": "Mudar Perspectiva",
 	"Reload_Shaders": "Recarregar shaders",
@@ -145,5 +154,6 @@
 	"multiplayerDeleteServer": "Remover Servidor",
 	"multiplayerDeleteConfirmPrompt": "Tem certeza que deseja remover {0}?",
 	"multiplayerEditServer": "Editar Servidor",
-	"genericSelectionSearch": "Buscar..."
+	"genericSelectionSearch": "Buscar...",
+	"multiplayerLanLabel": "Servidores em LAN"
 }
