@@ -46,5 +46,13 @@
     "base:wood_pulp": "Holzbrei",
     "base:cardboard_sheet": "Karton",
     "base:rotor_blades": "Rotorblätter",
-    "base:ingot_steel": "Stahlbarren"
+    "base:ingot_steel": "Stahlbarren",
+    "base:milk_can": "Milchkanne",
+    "base:cheese_piece": "Käsestück",
+    "base:spawn_disk_laser_interceptor": "Laser Abfangjäger Spawn Scheibe",
+    "base:spawn_disk_planteater": "Pflanzenfresser Spawn Scheibe",
+    "base:spawn_disk_interceptor_trap": "Abfangjäger-Falle Spawn Scheibe",
+    "base:spawn_disk_tundramel": "Tundramel Spawn Scheibe",
+    "base:spawn_disk_incinerator": "Müllverbrennungsanlage Spawn Scheibe",
+    "base:spawn_disk_interceptor": "Abfangjäger Spawn Scheibe"
 }
