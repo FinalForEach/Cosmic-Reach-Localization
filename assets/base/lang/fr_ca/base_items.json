@@ -55,5 +55,8 @@
     "base:spawn_disk_interceptor_trap": "Disquette de frai de piège à intercepteur",
     "base:spawn_disk_tundramel": "Disquette de frai de toundrameau",
     "base:spawn_disk_incinerator": "Disquette de frai d'incinérateur",
-    "base:spawn_disk_interceptor": "Disquette de frai d'intercepteur"
+    "base:spawn_disk_interceptor": "Disquette de frai d'intercepteur",
+    "base:cell_planteater": "Cellule d'herbivore",
+    "base:cell_tundramel": "Cellule de toundrameau",
+    "base:syringe": "Seringue"
 }

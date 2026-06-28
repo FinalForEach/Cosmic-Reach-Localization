@@ -152,5 +152,8 @@
     "Disabled": "Désactivé",
     "voiceVolume": "Volume de la voix",
     "micVolume": "Volume du microphone",
-    "multiplayerLanLabel": "Serveurs LAN"
+    "multiplayerLanLabel": "Serveurs LAN",
+    "fullscreenModeButton": "Mode plein écran : ",
+    "fullscreenExclusive": "Exclusif",
+    "fullscreenBorderless": "Sans bordures"
 }

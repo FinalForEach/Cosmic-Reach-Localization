@@ -164,5 +164,8 @@
     "base:table_pedestal_gold": "Guéridon doré",
     "base:table_pedestal_iron": "Guéridon en fer",
     "base:table_pedestal_aluminium": "Guéridon en aluminium",
-    "base:table_pedestal_steel": "Guéridon en acier"
+    "base:table_pedestal_steel": "Guéridon en acier",
+    "base:tree_log::bark": "Écorce d'arbre",
+    "base:tree_log::coconut_bark": "Écorce de noix de coco",
+    "base:biomass_decomposer": "Décomposeur de biomasse"
 }
