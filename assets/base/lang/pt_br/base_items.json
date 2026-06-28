@@ -54,5 +54,8 @@
 	"base:spawn_disk_interceptor_trap": "Disco Invocador de Interceptador Falso",
 	"base:spawn_disk_tundramel": "Disco Invocador de Tundramel",
 	"base:spawn_disk_incinerator": "Disco Invocador de Incinerador", 
-	"base:spawn_disk_interceptor": "Disco Invocador de Interceptador"
+	"base:spawn_disk_interceptor": "Disco Invocador de Interceptador",
+	"base:cell_planteater": "Célula de Devorador de Plantas",
+	"base:cell_tundramel": "Célula de Tundramel",
+	"base:syringe": "Seringa"
 }
