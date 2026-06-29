@@ -145,6 +145,9 @@
     "Microphone": "Mikrofon",
     "Disabled": "Avstängd",
     "voiceVolume": "Röstvolym",
-    "multiplayerLanLabel": "LAN-Servrar"
+    "multiplayerLanLabel": "LAN-Servrar",
+    "fullscreenModeButton": "Fullskärmsläge: ",
+    "fullscreenExclusive": "Exklusivt",
+    "fullscreenBorderless": "Gränslöst"
     
 }
