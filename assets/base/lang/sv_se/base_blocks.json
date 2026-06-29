@@ -152,5 +152,8 @@
     "base:table_pedestal_gold": "Gyllene Piedestalsbord",
     "base:table_pedestal_iron": "Järnpiedestalsbord",
     "base:table_pedestal_aluminium": "Aluminiumpiedestalsbord",
-    "base:table_pedestal_steel": "Stålpiedestalsbord"
+    "base:table_pedestal_steel": "Stålpiedestalsbord",
+    "base:tree_log::bark": "Träbark",
+    "base:tree_log::coconut_bark": "Kokosbark",
+    "base:biomass_decomposer": "Biomassaförmultnare"
 }
