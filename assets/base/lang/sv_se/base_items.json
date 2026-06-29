@@ -51,5 +51,8 @@
     "base:spawn_disk_interceptor_trap": "Avledaranhåll - Spawn Disk",
     "base:spawn_disk_tundramel": "Tundramel - Spawn Disk",
     "base:spawn_disk_incinerator": "Förbrännare - Spawn Disk",
-    "base:spawn_disk_interceptor": "Avledare - Spawn Disk"
+    "base:spawn_disk_interceptor": "Avledare - Spawn Disk",
+    "base:cell_planteater": "Växtätarcell",
+    "base:cell_tundramel": "Tundramelcell",
+    "base:syringe": "Spruta"
 }
