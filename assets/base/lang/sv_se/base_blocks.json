@@ -155,5 +155,14 @@
     "base:table_pedestal_steel": "Stålpiedestalsbord",
     "base:tree_log::bark": "Träbark",
     "base:tree_log::coconut_bark": "Kokosbark",
-    "base:biomass_decomposer": "Biomassoförmultnare"
+    "base:biomass_decomposer": "Biomassoförmultnare",
+    "base:lunar_soil_packed::bricks": "Packed Lunar Soil Bricks",
+    "base:sandstone::pillar": "Sandstenspelare",
+    "base:stone_gabbro::pillar": "Gabbropelare",
+    "base:stone_basalt::pillar": "Basaltpelare",
+    "base:stone_limestone::pillar": "Kalkstenspelare",
+    "base:stone_komatiite::pillar": "Komatiitpelare",
+    "base:magma::pillar": "Magmapelare",
+    "base:snow::pillar": "Snöpelare",
+    "base:ice::pillar": "Ispelare"
 }
