@@ -50,12 +50,12 @@
     "base:milk_can": "Lata de leche",
     "base:cheese_piece": "Cuña de queso",
     "base:spawn_disk_laser_interceptor": "Disquete generador de interceptor láser",
-    "base:spawn_disk_planteater": "Disquete generador de planteater",
+    "base:spawn_disk_planteater": "Disquete generador de oso plantívoro",
     "base:spawn_disk_interceptor_trap": "Disquete generador de trampa de interceptor",
-    "base:spawn_disk_tundramel": "Disquete generador de tundramel",
+    "base:spawn_disk_tundramel": "Disquete generador de tundramello",
     "base:spawn_disk_incinerator": "Disquete generador de incinerador",
     "base:spawn_disk_interceptor": "Disquete generador de interceptor",
-    "base:cell_planteater": "Célula de planteater",
-    "base:cell_tundramel": "Célula de tundramel",
+    "base:cell_planteater": "Célula de oso plantívoro",
+    "base:cell_tundramel": "Célula de tundramello",
     "base:syringe": "Jeringuilla"
 }
