@@ -1,0 +1,13 @@
+{
+    "remoteControlMobNameInputLabel": "Όνομα:",
+    "workbenchItemNameLabel": "Όνομα Αντικειμένου:",
+    "laserEmitterShoot": "Πυρ!",
+    "inventoryCrafting": "Χειροτεχνίες",
+    "inventoryEquipment": "Εξωπλισμός",
+    "inventoryAchievements": "Επιτεύγματα",
+    "inventorySpaceship": "Διαστημόπλοιο",
+    "inventoryVoiceSettings": "Φωνή",
+    "spaceshipTabTitle": "Χάρτης Διαστημόπλοιου",
+    "spaceshipTravelButton": "Ταξίδι στον/η/ο {0}",
+    "beamUpButton": "Τηλεμεταφορά στο Διαστημόπλοιο"
+}
