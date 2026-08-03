@@ -23,4 +23,4 @@ jobs:
           pip install -r assets/base/scripts/requirements.txt
 
       - name: Validate JSON files
-        run: python assets/base/scripts/validate_json.py Cosmic-Reach-Localization/assets/base/lang/ --github
+        run: python assets/base/scripts/validate-lang.py assets/base/lang/ --github
