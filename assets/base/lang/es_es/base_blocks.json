@@ -80,12 +80,12 @@
     "base:piston": "Pistón",
     "base:piston::suction": "Pistón de succión",
     "base:ore_ruby": "Mena de rubí",
-    "base:ruby_block": "Bloque de rubí"
+    "base:ruby_block": "Bloque de rubí",
 	"base:sapphire_block": "Bloque de zafiro",
     "base:maize": "Cultivo de maíz",
     "base:ore_sapphire": "Mena de zafiro",
     "base:lava": "Lava",
-    "base:dispenser": "Dispensador"
+    "base:dispenser": "Dispensador",
 	"base:sandstone": "Arenisca",
     "base:sandstone::bricks": "Ladrillos de arenisca",
     "base:sandstone::pillar": "Pilar de arenisca",

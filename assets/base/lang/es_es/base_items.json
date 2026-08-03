@@ -20,13 +20,13 @@
     "base:laser_gun": "Pistola láser",
     "base:jetpack": "Jetpack",
     "base:flamethrower": "Lanzallamas",
-    "base:ruby": "Rubí"
+    "base:ruby": "Rubí",
 	"base:sapphire": "Zafiro",
     "base:corn": "Maíz",
     "base:corn_kernels": "Granos de maíz",
     "base:debug_wrench": "Llave debug",
     "base:steak": "Filete",
-    "base:manure": "Estiércol"
+    "base:manure": "Estiércol",
 	"base:microchip": "Microchip",
     "base:crowbar": "Palanca",
     "base:remote_control": "Control remoto",

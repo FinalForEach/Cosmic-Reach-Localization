@@ -118,13 +118,13 @@
   "multiplayerAddressButton": "Dirección: ",
   "multiplayerJoinButton": "Unirse",
   "multiplayerBadDisconnect": "Desconectado! Motivo:",
-  "textDisplayInput": "Escriba aquí..."
+  "textDisplayInput": "Escriba aquí...",
   "skinChangeLabel": "Cambia tu apariencia",
   "skinFileDesc": "Archivo PNG de 128x64 píxeles",
   "itemCatalogSearch": "Buscar...",
   "boomboxOctave": "Octava",
   "boomboxPlaySound": "Reproducir",
-  "worldSelectionSearch": "Buscar mundos..."
+  "worldSelectionSearch": "Buscar mundos...",
   "createWorldGamemode": "Modo de juego:",
   "gamemode_survival": "Supervivencia",
   "gamemode_creative": "Creativo",
