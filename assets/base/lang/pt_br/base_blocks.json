@@ -106,20 +106,20 @@
 	"base:plastic_block::blue": "Bloco de Plástico Azul",
 	"base:plastic_block::violet": "Bloco de Plástico Violeta",
 	"base:plastic_block::magenta": "Bloco de Plástico Magenta",
-	"base:plastic_block::rose": "Bloco de Plástico Rosado"
+	"base:plastic_block::rose": "Bloco de Plástico Rosado",
 	"base:stone_komatiite": "Komatiita",
 	"base:stone_komatiite::bricks": "Tijolos de Komatiita",
 	"base:ladder_wooden": "Escada de Madeira",
 	"base:battery_block": "Bloco de Bateria",
 	"base:crusher": "Trituradora",
-	"base:recycler": "Recicladora"
+	"base:recycler": "Recicladora",
 	"base:cobblestone_basalt": "Pedregulho de Basalto",
 	"base:cobblestone_limestone": "Pedregulho de Calcário",
 	"base:cobblestone_gabbro": "Pedregulho de Grabo",
 	"base:cobblestone_sandstone": "Pedregulho de Arenito",
 	"base:magma::bricks": "Tijolos de Magma",
 	"base:snow::bricks": "Tijolos de Neve",
-	"base:ice::bricks": "Tijolos de Gelo"
+	"base:ice::bricks": "Tijolos de Gelo",
 	"base:liquefactor": "Liquefatora",
 	"base:fermenter": "Fermentadora",
 	"base:laser_emitter_motion": "Emissor Laser Ativado por Movimento",
