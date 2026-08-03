@@ -115,7 +115,7 @@
 	"base:recycler": "Recicladora"
 	"base:cobblestone_basalt": "Pedregulho de Basalto",
 	"base:cobblestone_limestone": "Pedregulho de Calcário",
-	"base:cobblestone_gabbro": "Pedregulho de Grabo",
+	"base:cobblestone_gabbro": "Pedregulho de Gabro",
 	"base:cobblestone_sandstone": "Pedregulho de Arenito",
 	"base:magma::bricks": "Tijolos de Magma",
 	"base:snow::bricks": "Tijolos de Neve",
@@ -167,5 +167,14 @@
 	"base:table_pedestal_steel": "Mesa Pedestal de Aço",
 	"base:tree_log::bark": "Casca de Arvore",
 	"base:tree_log::coconut_bark": "Casca de Coco",
-	"base:biomass_decomposer": "Decompositor de Biomassa"
+	"base:biomass_decomposer": "Decompositor de Biomassa",
+	"base:lunar_soil_packed::bricks": "Packed Lunar Soil Bricks",
+"base:sandstone::pillar": "Pilar de Arenito",
+"base:stone_gabbro::pillar": "Pilar de Gabro",
+"base:stone_basalt::pillar": "Pilar de Basalto",
+"base:stone_limestone::pillar": "Pilar de Calcário",
+"base:stone_komatiite::pillar": "Pilar de Comatiíto",
+"base:magma::pillar": "Pilar de Magma",
+"base:snow::pillar": "Pilar de Neve",
+"base:ice::pillar": "Pilar de Gelo"
 }
