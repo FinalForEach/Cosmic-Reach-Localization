@@ -1,0 +1,12 @@
+{
+    "grantAchievementTemplate": "Ο/Η {0} απέκτησε το [{1}] επίτευγμα!",
+    "grantSecretAchievementTemplate": "Ο/Η {0} ανακάλυψε ένα μυστικό επίτευγμα: [{1}]!",
+    "achievement_base:intercepted": "Αναχαιτίστηκε!",
+    "achievement_base:the_final_frontier": "Το Τελευταίο Εμπόδιο!",
+    "achievement_base:0_0_11": "Έκδοση 0.0.11",
+    "achievement_base:right_back_at_ya": "Πίσω Σε Εσένα!",
+    "achievement_base:dolly": "Dolly",
+    "achievementUnlocked": "Ξεκλειδωμένο",
+    "achievementLocked": "Κλειδωμένο",
+    "achievementRequires": "Απαιτεί"
+}

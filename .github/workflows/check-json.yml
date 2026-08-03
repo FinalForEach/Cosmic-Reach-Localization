@@ -1,0 +1,26 @@
+name: Validate JSON Files
+
+on:
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.14'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r assets/base/scripts/requirements.txt
+
+      - name: Validate JSON files
+        run: python assets/base/scripts/validate-lang.py assets/base/lang/ --github
