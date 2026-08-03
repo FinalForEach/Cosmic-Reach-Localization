@@ -3,6 +3,7 @@ name: Validate JSON Files
 on:
   pull_request:
     branches: [ master ]
+  workflow_dispatch:
 
 jobs:
   run-script:
