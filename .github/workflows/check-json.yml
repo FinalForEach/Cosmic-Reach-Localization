@@ -18,7 +18,7 @@ jobs:
           python-version: '3.14'
 
       - name: Cd into scripts
-        run: cd ./Cosmic-Reach-Localization/assets/base/scripts/
+        run: cd /assets/base/scripts/
 
       - name: Install dependencies
         run: |
