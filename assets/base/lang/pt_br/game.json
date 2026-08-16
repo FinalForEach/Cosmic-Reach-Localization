@@ -158,5 +158,7 @@
 	"multiplayerLanLabel": "Servidores em LAN",
 	"fullscreenModeButton": "Modo de Tela Cheia: ",
 	"fullscreenExclusive": "Exclusivo",
-	"fullscreenBorderless": "Sem Bordas"
+	"fullscreenBorderless": "Sem Bordas",
+	"Lux_Sky": "Céu Luminoso",
+	"zone_base:lux": "Luminoso"
 }
