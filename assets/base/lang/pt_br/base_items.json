@@ -57,5 +57,6 @@
 	"base:spawn_disk_interceptor": "Disco Invocador de Interceptador",
 	"base:cell_planteater": "Célula de Devorador de Plantas",
 	"base:cell_tundramel": "Célula de Tundramel",
-	"base:syringe": "Seringa"
+	"base:syringe": "Seringa",
+	"base:lux_sap": "Seiva Luminosa"
 }
