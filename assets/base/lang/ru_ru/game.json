@@ -42,6 +42,7 @@
     "Dynamic_Sky": "Динамичное небо",
     "Space_Day": "Космический день",
     "Space_Sky": "Космическое небо",
+    "Lux_Sky": "Небо Люкса",
     "Dark_Night": "Тёмная ночь",
     "Earth_Day": "Земной день",
     "Orange_Sky": "Оранжевое небо",
@@ -135,6 +136,7 @@
     "zone_base:void": "Пустота",
     "mobUnnamed": "Без названия",
     "zone_base:earth_legacy": "Земля (старая)",
+    "zone_base:lux": "Люкс",
     "comingSoon": "Скоро...",
     "langSelectionSearch": "Поиск языка...",
     "worldDescriptionName": "Название мира:",
@@ -153,5 +155,8 @@
     "multiplayerDeleteConfirmPrompt": "Действительно удалить {0}?",
     "multiplayerEditServer": "Редактировать сервер",
     "genericSelectionSearch": "Поиск...",
-    "multiplayerLanLabel": "Сервера LAN"
+    "multiplayerLanLabel": "Сервера LAN",
+    "fullscreenModeButton": "Полный экран: ",
+    "fullscreenExclusive": "Эксклюзивное",
+    "fullscreenBorderless": "Безрамочное"
 }
