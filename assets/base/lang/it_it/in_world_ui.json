@@ -6,6 +6,7 @@
     "inventoryEquipment": "Equipaggiamento",
     "inventoryAchievements": "Obiettivi",
     "inventorySpaceship": "Astronave",
+    "inventoryVoiceSettings": "Voce",
     "spaceshipTabTitle": "Mappa dell'Astronave",
     "spaceshipTravelButton": "Viaggia verso {0}",
     "beamUpButton": "Teletrasportati all'Astronave"
