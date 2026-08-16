@@ -106,20 +106,20 @@
 	"base:plastic_block::blue": "Bloco de Plástico Azul",
 	"base:plastic_block::violet": "Bloco de Plástico Violeta",
 	"base:plastic_block::magenta": "Bloco de Plástico Magenta",
-	"base:plastic_block::rose": "Bloco de Plástico Rosado"
+	"base:plastic_block::rose": "Bloco de Plástico Rosado",
 	"base:stone_komatiite": "Komatiita",
 	"base:stone_komatiite::bricks": "Tijolos de Komatiita",
 	"base:ladder_wooden": "Escada de Madeira",
 	"base:battery_block": "Bloco de Bateria",
 	"base:crusher": "Trituradora",
-	"base:recycler": "Recicladora"
+	"base:recycler": "Recicladora",
 	"base:cobblestone_basalt": "Pedregulho de Basalto",
 	"base:cobblestone_limestone": "Pedregulho de Calcário",
-	"base:cobblestone_gabbro": "Pedregulho de Grabo",
+	"base:cobblestone_gabbro": "Pedregulho de Gabro",
 	"base:cobblestone_sandstone": "Pedregulho de Arenito",
 	"base:magma::bricks": "Tijolos de Magma",
 	"base:snow::bricks": "Tijolos de Neve",
-	"base:ice::bricks": "Tijolos de Gelo"
+	"base:ice::bricks": "Tijolos de Gelo",
 	"base:liquefactor": "Liquefatora",
 	"base:fermenter": "Fermentadora",
 	"base:laser_emitter_motion": "Emissor Laser Ativado por Movimento",
@@ -164,5 +164,17 @@
 	"base:table_pedestal_gold": "Mesa Pedestal Dourada",
 	"base:table_pedestal_iron": "Mesa Pedestal de Ferro",
 	"base:table_pedestal_aluminium": "Mesa Pedestal de Alumínio",
-	"base:table_pedestal_steel": "Mesa Pedestal de Aço"
+	"base:table_pedestal_steel": "Mesa Pedestal de Aço",
+	"base:tree_log::bark": "Casca de Arvore",
+	"base:tree_log::coconut_bark": "Casca de Coco",
+	"base:biomass_decomposer": "Decompositor de Biomassa",
+	"base:lunar_soil_packed::bricks": "Packed Lunar Soil Bricks",
+"base:sandstone::pillar": "Pilar de Arenito",
+"base:stone_gabbro::pillar": "Pilar de Gabro",
+"base:stone_basalt::pillar": "Pilar de Basalto",
+"base:stone_limestone::pillar": "Pilar de Calcário",
+"base:stone_komatiite::pillar": "Pilar de Comatiíto",
+"base:magma::pillar": "Pilar de Magma",
+"base:snow::pillar": "Pilar de Neve",
+"base:ice::pillar": "Pilar de Gelo"
 }

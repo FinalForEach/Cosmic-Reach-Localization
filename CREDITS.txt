@@ -24,7 +24,7 @@
 * AlfonsoLVG
 * Faurl
 * Fett Ron
-* siljamdev
+* Siljam - https://github.com/siljamdev
 
 == Latin America Spanish Localization ==
 * Wesly

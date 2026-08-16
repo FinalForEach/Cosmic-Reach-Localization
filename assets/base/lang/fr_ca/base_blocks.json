@@ -167,5 +167,14 @@
     "base:table_pedestal_steel": "Guéridon en acier",
     "base:tree_log::bark": "Écorce d'arbre",
     "base:tree_log::coconut_bark": "Écorce de noix de coco",
-    "base:biomass_decomposer": "Décomposeur de biomasse"
+    "base:biomass_decomposer": "Décomposeur de biomasse",
+    "base:lunar_soil_packed::bricks": "Briques de sol lunaire compacté",
+    "base:sandstone::pillar": "Pilier de grès",
+    "base:stone_gabbro::pillar": "Pilier de gabbro",
+    "base:stone_basalt::pillar": "Pilier de basalte",
+    "base:stone_limestone::pillar": "Pilier de calcaire",
+    "base:stone_komatiite::pillar": "Pilier de komatiite",
+    "base:magma::pillar": "Pilier de magma",
+    "base:snow::pillar": "Pilier de neige",
+    "base:ice::pillar": "Pilier de glace"
 }
