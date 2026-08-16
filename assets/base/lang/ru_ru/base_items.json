@@ -16,6 +16,7 @@
     "base:stick": "Палка",
     "base:fluid_vacuum": "Жидкостный пылесос",
     "base:latex": "Латекс",
+    "base:lux_sap": "Смола Люкса",
     "base:rubber_ball": "Резина",
     "base:laser_gun": "Лазерный пистолет",
     "base:jetpack": "Реактивный ранец",
@@ -54,5 +55,8 @@
     "base:spawn_disk_interceptor_trap": "Диск призыва ловушки-перехвадчика",
     "base:spawn_disk_tundramel": "Диск призыва тундрамели",
     "base:spawn_disk_incinerator": "Диск призыва выжигателя",
-    "base:spawn_disk_interceptor": "Диск призыва перехвадчика"
+    "base:spawn_disk_interceptor": "Диск призыва перехвадчика" Disk",
+    "base:cell_planteater": "Клетка плантитера",
+    "base:cell_tundramel": "Клетка тундрамели",
+    "base:syringe": "Шприц"
 }
