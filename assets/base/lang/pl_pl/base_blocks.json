@@ -177,5 +177,15 @@
     "base:biomass_decomposer": "Rozkładacz biomasy",
     
     "base:structure_saver": "Blok zapisu konstrukcji",
-    "base:structure_loader": "Blok wczytania konstrukcji"
+    "base:structure_loader": "Blok wczytania konstrukcji",
+    
+    "base:leaves_lux": "Liście z Luxu",
+    "base:sapling_lux": "Sadzonka z Luxu",
+    "base:tree_log_lux": "Kłoda z Luxu",
+    "base:tree_log_lux::glow": "Świecąca kłoda z Luxu",
+    "base:grass_lux": "Trawa z Luxu",
+    "base:item_hologram": "Projektor hologramów przedmiotów",
+    "base:grass_blades_lux": "Źdzbła trawy z Luxu",
+    "base:chute": "Zsyp"
+    
 }

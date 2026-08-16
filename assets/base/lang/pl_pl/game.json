@@ -44,6 +44,7 @@
             "zone_base:moon": "Księżyc",
             "zone_base:nostalgic_island": "Nostalgiczne wyspy",
             "zone_base:void": "Pustka",
+            "zone_base:lux": "Lux",
         "createWorldGamemode": "Tryb gry:",
             "gamemode_survival": "Przetrwanie",
             "gamemode_creative": "Kreatywny",
@@ -154,6 +155,7 @@
 
     "Lighting": "Oświetlenie: ",
         "Dynamic_Sky": "Dynamiczne niebo",
+        "Lux_Sky": "Niebo Luxu",
         "Space_Day": "Dzień kosmiczny",
         "Dark_Night": "Ciemna noc",
         "Earth_Day": "Dzień ziemski",
