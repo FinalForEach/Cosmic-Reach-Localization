@@ -125,7 +125,7 @@
     "base:laser_emitter_motion": "Putta Aktiverad Laserutsöndrare",
     "base:piston::advancing": "Avancerande Pistong",
     "base:leaves_fir": "Ädelgransbarr",
-    "base:sapling_fir": "Ädelgranstelning",
+    "base:sapling_fir": "Ädelgransplanta",
     "base:ore_sulfur": "Svavelmalm",
     "base:door_aluminium": "Aluminiumdörr",
     "base:table_pedestal_glass": "Glaspiedestalsbord",
@@ -156,7 +156,7 @@
     "base:tree_log::bark": "Träbark",
     "base:tree_log::coconut_bark": "Kokosbark",
     "base:biomass_decomposer": "Biomassoförmultnare",
-    "base:lunar_soil_packed::bricks": "Packed Lunar Soil Bricks",
+    "base:lunar_soil_packed::bricks": "Hårdpackade Månjordstegelstenar",
     "base:sandstone::pillar": "Sandstenspelare",
     "base:stone_gabbro::pillar": "Gabbropelare",
     "base:stone_basalt::pillar": "Basaltpelare",
@@ -164,5 +164,13 @@
     "base:stone_komatiite::pillar": "Komatiitpelare",
     "base:magma::pillar": "Magmapelare",
     "base:snow::pillar": "Snöpelare",
-    "base:ice::pillar": "Ispelare"
+    "base:ice::pillar": "Ispelare",
+    "base:leaves_lux": "Luxlöv",
+    "base:sapling_lux": "Luxplanta",
+    "base:tree_log_lux": "Luxstock",
+    "base:tree_log_lux::glow": "Glödande Luxstock",
+    "base:grass_lux": "Luxgräs",
+    "base:item_hologram": "Artikelhologram",
+    "base:grass_blades_lux": "Luxgrässtrån",
+    "base:chute": "Ränna"
 }
