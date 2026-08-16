@@ -54,5 +54,6 @@
     "base:spawn_disk_interceptor": "Avledare - Spawn Disk",
     "base:cell_planteater": "Växtätarcell",
     "base:cell_tundramel": "Tundramelcell",
-    "base:syringe": "Spruta"
+    "base:syringe": "Spruta",
+    "base:lux_sap": "Luxsav"
 }

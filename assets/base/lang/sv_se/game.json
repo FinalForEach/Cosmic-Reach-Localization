@@ -148,6 +148,8 @@
     "multiplayerLanLabel": "LAN-Servrar",
     "fullscreenModeButton": "Fullskärmsläge: ",
     "fullscreenExclusive": "Exklusivt",
-    "fullscreenBorderless": "Gränslöst"
+    "fullscreenBorderless": "Gränslöst",
+    "Lux_Sky": "Lux Himmel",
+    "zone_base:lux": "Lux"
     
 }
