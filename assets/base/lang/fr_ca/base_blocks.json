@@ -176,5 +176,13 @@
     "base:stone_komatiite::pillar": "Pilier de komatiite",
     "base:magma::pillar": "Pilier de magma",
     "base:snow::pillar": "Pilier de neige",
-    "base:ice::pillar": "Pilier de glace"
+    "base:ice::pillar": "Pilier de glace",
+    "base:leaves_lux": "Feuilles de Lux",
+    "base:sapling_lux": "Pousse de Lux",
+    "base:tree_log_lux": "Tronc d'arbre de Lux",
+    "base:tree_log_lux::glow": "Tronc d'arbre de Lux lumineux",
+    "base:grass_lux": "Herbe de Lux",
+    "base:item_hologram": "Hologramme d'item",
+    "base:grass_blades_lux": "Brins d'herbe de Lux",
+    "base:chute": "Chute"
 }
