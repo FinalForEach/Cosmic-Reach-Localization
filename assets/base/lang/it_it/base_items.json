@@ -16,6 +16,7 @@
     "base:stick": "Bastone",
     "base:fluid_vacuum": "Aspirafluidi",
     "base:latex": "Lattice",
+    "base:lux_sap": "Linfa di Lux",
     "base:rubber_ball": "Gomma",
     "base:laser_gun": "Pistola Laser",
     "base:jetpack": "Jetpack",
@@ -46,5 +47,16 @@
     "base:wood_pulp": "Pasta di Legno",
     "base:cardboard_sheet": "Foglio di Cartone",
     "base:rotor_blades": "Pale del Rotore",
-    "base:ingot_steel": "Lingotto di Acciaio"
+    "base:ingot_steel": "Lingotto di Acciaio",
+    "base:milk_can": "Bidone di Latte",
+    "base:cheese_piece": "Pezzo di Formaggio",
+    "base:spawn_disk_laser_interceptor": "Disco di Spawn dell'Interceptor Laser",
+    "base:spawn_disk_planteater": "Disco di Spawn dell'Erbivoro",
+    "base:spawn_disk_interceptor_trap": "Disco di Spawn dell'Interceptor Trappola",
+    "base:spawn_disk_tundramel": "Disco di Spawn del Tundramel",
+    "base:spawn_disk_incinerator": "Disco di Spawn dell'Inceneratore",
+    "base:spawn_disk_interceptor": "Disco di Spawn dell'Interceptor",
+    "base:cell_planteater": "Cellula di Erbivoro",
+    "base:cell_tundramel": "Cellula di Tundramel",
+    "base:syringe": "Siringa"
 }

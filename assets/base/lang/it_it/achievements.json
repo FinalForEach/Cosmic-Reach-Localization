@@ -1,4 +1,12 @@
 {
     "grantAchievementTemplate": "{0} ha ottenuto l'obiettivo [{1}]!",
-    "achievement_base:intercepted": "Intercettato!"
+    "grantSecretAchievementTemplate": "{0} ha scoperto un obiettivo segreto: [{1}}!",
+    "achievement_base:intercepted": "Intercettato!",
+    "achievement_base:the_final_frontier": "La Frontiera Finale",
+    "achievement_base:0_0_11": "Versione 0.0.11",
+    "achievement_base:right_back_at_ya": "Dritto indietro!",
+    "achievement_base:dolly": "Dolly",
+    "achievementUnlocked": "Sbloccato",
+    "achievementLocked": "Bloccato",
+    "achievementRequires": "Richiede"
 }
