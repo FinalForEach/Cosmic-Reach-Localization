@@ -155,7 +155,7 @@
     "multiplayerDeleteConfirmPrompt": "Действительно удалить {0}?",
     "multiplayerEditServer": "Редактировать сервер",
     "genericSelectionSearch": "Поиск...",
-    "multiplayerLanLabel": "Сервера LAN"
+    "multiplayerLanLabel": "Сервера LAN",
     "fullscreenModeButton": "Полный экран: ",
     "fullscreenExclusive": "Эксклюзивное",
     "fullscreenBorderless": "Безрамочное"
