@@ -157,5 +157,6 @@
     "fullscreenExclusive": "Exclusif",
     "fullscreenBorderless": "Sans bordures",
     "Lux_Sky": "Ciel Luxéen",
-    "zone_base:lux": "Lux"
+    "zone_base:lux": "Lux",
+    "cloudsButton": "Nuages : "
 }
