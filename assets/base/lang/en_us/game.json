@@ -9,6 +9,7 @@
   "optionsButton": "Options",
   "quitButton": "Quit",
   "vSyncButton": "Vsync: ",
+  "cloudsButton": "Clouds: ",
   "creditsButton": "Credits",
   "renderDistSlider": "Render Distance: ",
   "invertedMouseButton": "Inverted Mouse: ",
