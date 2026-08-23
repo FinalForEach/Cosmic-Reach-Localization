@@ -184,5 +184,17 @@
 	"base:grass_lux": "Grama Luminosa",
 	"base:item_hologram": "Holograma de Itens",
 	"base:grass_blades_lux": "Lâminas de Grama Luminosa",
-	"base:chute": "Duto"
+	"base:chute": "Duto",
+	"base:luxshroom_small": "Pequeno Cogumelo Luminoso",
+	"base:luxshroom_small::blue": "Pequeno Cogumelo Luminoso Azul",
+	"base:luxshroom_small::purple": "Pequeno Cogumelo Luminoso Roxo",
+	"base:luxshroom_small::brown": "Pequeno Cogumelo Luminoso Marrom", 
+	"base:luxshroom_big::stem": "Caule Cogumelo Luminoso",
+	"base:luxshroom_big::canopy_blue": "Dossel de Cogumelo Luminoso Azul",
+	"base:luxshroom_big::canopy_purple": "Dossel de Cogumelo Luminoso Roxo",
+	"base:luxshroom_big::canopy_brown": "Dossel de Cogumelo Luminoso Marrom",
+	"base:flower_cosmos": "Flor dos Cosmos",
+	"base:flower_cosmos::lux": "Flor dos Cosmos Luminoso",
+	"base:flower_lavender": "Lavanda",
+	"base:flower_lavender::lux": "Lavanda Luminosa"
 }

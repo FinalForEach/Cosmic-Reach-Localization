@@ -160,5 +160,6 @@
 	"fullscreenExclusive": "Exclusivo",
 	"fullscreenBorderless": "Sem Bordas",
 	"Lux_Sky": "Céu Luminoso",
-	"zone_base:lux": "Luminoso"
+	"zone_base:lux": "Luminoso",
+	"cloudsButton": "Nuvens: "
 }
