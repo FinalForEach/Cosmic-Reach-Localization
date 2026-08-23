@@ -193,7 +193,7 @@
     "base:presser": "Prasa",
     "base:conveyor_belt": "Taśma produkcyjna",
         "base:splitter_belt": "Taśma rozdzielająca",
-    "base:chute": "Zsyp"
+    "base:chute": "Zsyp",
     
     "base:piston": "Tłok",
         "base:piston::suction": "Tłok z przyssawką",
