@@ -58,5 +58,6 @@
     "base:spawn_disk_interceptor": "Disquette de frai d'intercepteur",
     "base:cell_planteater": "Cellule d'herbivore",
     "base:cell_tundramel": "Cellule de toundrameau",
-    "base:syringe": "Seringue"
+    "base:syringe": "Seringue",
+    "base:lux_sap": "Sève de Lux"
 }
