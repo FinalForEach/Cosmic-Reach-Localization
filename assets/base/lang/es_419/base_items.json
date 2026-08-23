@@ -51,12 +51,12 @@
     "base:milk_can": "Lata con leche",
     "base:cheese_piece": "Pedazo de queso",
     "base:spawn_disk_laser_interceptor": "Disco de creación de interceptor láser",
-    "base:spawn_disk_planteater": "Disco de creación de planteater",
+    "base:spawn_disk_planteater": "Disco de creación de devoraplantas",
     "base:spawn_disk_interceptor_trap": "Disco de creación de trampa de interceptor",
     "base:spawn_disk_tundramel": "Disco de creación de tundrélido",
     "base:spawn_disk_incinerator": "Disco de creación de incinerador",
     "base:spawn_disk_interceptor": "Disco de creación de interceptor",
-    "base:cell_planteater": "Célula de planteater",
+    "base:cell_planteater": "Célula de devoraplantas",
     "base:cell_tundramel": "Célula de tundrélido",
     "base:syringe": "Jeringa"
 }
