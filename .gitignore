@@ -146,6 +146,7 @@ nb-configuration.xml
 
 # VSCode
 /.vscode/
+.vscode/**
 
 ## OS-Specific:
 .DS_Store
