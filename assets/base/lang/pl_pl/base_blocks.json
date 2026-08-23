@@ -180,7 +180,7 @@
     "base:crate_wooden": "Drewniana skrzynia",
     "base:cardboard_box": "Karton",
     "base:electric_generator": "Generator",
-        "base:battery_block": "Akumulator",  
+        "base:battery_block": "Akumulator",
     "base:electric_furnace": "Piec elektryczny",
     "base:recycler": "Odzyskiwacz",
     "base:crusher": "Rozdrabniacz",
@@ -211,5 +211,5 @@
 
     
     "base:structure_saver": "Blok zapisu konstrukcji",
-    "base:structure_loader": "Blok wczytania konstrukcji",    
+    "base:structure_loader": "Blok wczytania konstrukcji"
 }
