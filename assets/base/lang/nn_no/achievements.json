@@ -5,7 +5,12 @@
     "achievement_base:the_final_frontier": "Det siste grenselandet",
     "achievement_base:0_0_11": "Versjon 0.0.11",
     "achievement_base:right_back_at_ya": "Får smaka sin eigen medisin!",
-    "achievement_base:dolly": "Dolly",
+    "achievement_base:dolly": "Dolly",    
+    "achievement_desc_base:dolly": "Klon ein tundramedar.",
+    "achievement_base:jetpack": "Privat flyging... frå ryggen",
+    "achievement_desc_base:jetpack": "Ikle ein flygesekk.",
+    "achievement_base:light_show": "Laserljos",
+    "achievement_desc_base:light_show": "Endre fargen på en laserpistol i en arbeidsbenk.",
     "achievementUnlocked": "Låst opp",
     "achievementLocked": "Låst",
     "achievementRequires": "Krevst"
