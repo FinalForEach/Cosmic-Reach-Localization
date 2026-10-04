@@ -9,5 +9,15 @@
     "inventoryVoiceSettings": "Voice",
     "spaceshipTabTitle": "Spaceship Map",
     "spaceshipTravelButton": "Travel to {0}",
-    "beamUpButton": "Teleport to Spaceship"
+    "beamUpButton": "Teleport to Spaceship",
+    "inventoryBlueprints": "Blueprints",
+    "blueprintTabTitle": "Active Blueprints",
+    "blueprintEntryTitle": "Blueprint #{0} (x: {1}, y: {2}, z: {3})",
+    "blueprintNoActive": "No active blueprint construction",
+    "blueprintProgress": "{0} / {1} blocks ({2}%)",
+    "blueprintHide": "Hide",
+    "blueprintShow": "Show",
+    "blueprintPause": "Pause",
+    "blueprintResume": "Resume",
+    "blueprintCancel": "Cancel"
 }

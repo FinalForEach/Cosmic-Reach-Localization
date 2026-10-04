@@ -58,6 +58,8 @@
     "base:tree_log::coconut_bark": "Coconut Bark",
     "base:tree_log_lux": "Lux Log",
     "base:tree_log_lux::glow": "Glowing Lux Log",
+    "base:tree_log_lux::bark": "Lux Bark",
+    "base:tree_log_lux::glow_bark": "Glowing Lux Bark",
     "base:luxshroom_small": "Small Luxshroom",
     "base:luxshroom_small::blue": "Small Blue Luxshroom",
     "base:luxshroom_small::purple": "Small Purple Luxshroom",
@@ -195,5 +197,6 @@
     "base:table_pedestal_gold": "Golden Pedestal Table",
     "base:table_pedestal_iron": "Iron Pedestal Table",
     "base:table_pedestal_aluminium": "Aluminium Pedestal Table",
-    "base:table_pedestal_steel": "Steel Pedestal Table"
+    "base:table_pedestal_steel": "Steel Pedestal Table",
+    "base:mob_telepad": "Hostile Telepad"
 }
