@@ -1,12 +1,23 @@
 {
     "grantAchievementTemplate": "Gracz {0} zdobył osiągniecie: [{1}]!",
     "grantSecretAchievementTemplate": "Gracz {0} odkrył sekretne osiągnięcie: [{1}]!",
+    
     "achievementUnlocked": "Odblokowane",
-    "achievementLocked": "Zablokowane",
-    "achievementRequires": "Wymaga",
+    "achievementLocked": "Nieodblokowane",
+    "achievementRequires": "Wymaga osiągnięcia",
+    
     "achievement_base:intercepted": "Przechwycony!",
+        "achievement_desc_base:intercepted": "Pokonaj przechwytywacza.",
     "achievement_base:the_final_frontier": "Ostateczna granica",
+        "achievement_desc_base:the_final_frontier": "Wejdź w przesterzeń kosmiczną.",
     "achievement_base:0_0_11": "Wersja 0.0.11",
-    "achievement_base:right_back_at_ya": "Z wzajemością!",
-    "achievement_base:dolly": "Dolly"
+        "achievement_desc_base:0_0_11": "Pozyskaj blok debugowania.",
+    "achievement_base:right_back_at_ya": "Rewanż!",
+        "achievement_desc_base:right_back_at_ya": "Zniszcz przechwytywacza używając śmigieł.",
+    "achievement_base:dolly": "Dolly",
+        "achievement_desc_base:dolly": "Skolonuj tundramela.",
+    "achievement_base:jetpack": "Prywatny odrzutowiec?",
+        "achievement_desc_base:jetpack": "Załóź plecak odrzutowy.",
+    "achievement_base:light_show": "Pokaz świateł",
+        "achievement_desc_base:light_show": "Zabarw laser miotacza w stole warsztatowym."
 }
