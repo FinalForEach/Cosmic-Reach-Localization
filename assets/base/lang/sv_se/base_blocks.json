@@ -172,5 +172,17 @@
     "base:grass_lux": "Luxgräs",
     "base:item_hologram": "Artikelhologram",
     "base:grass_blades_lux": "Luxgrässtrån",
-    "base:chute": "Ränna"
+    "base:chute": "Ränna",
+    "base:luxshroom_small": "Small Luxshroom",
+    "base:luxshroom_small::blue": "Liten Blå Luxsvamp",
+    "base:luxshroom_small::purple": "Liten Lila Luxsvamp",
+    "base:luxshroom_small::brown": "Liten Brun Luxsvamp",
+    "base:luxshroom_big::stem": "Luxsvampstjälke",
+    "base:luxshroom_big::canopy_blue": "Blå Luxsvampkanopé",
+    "base:luxshroom_big::canopy_purple": "Lila Luxsvampkanopé",
+    "base:luxshroom_big::canopy_brown": "Brun Luxsvampkanopé",
+    "base:flower_cosmos": "Kosmosblomma",
+    "base:flower_cosmos::lux": "Luxkosmosblomma",
+    "base:flower_lavender": "Lavendelblomma",
+    "base:flower_lavender::lux": "Luxlavendelblomma"
 }
