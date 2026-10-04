@@ -4,6 +4,7 @@
     
     "base:c4": "C4",
     "base:rubber_block": "Blok gumy",
+    "base:mob_telepad": "Lądowisko wrogów",
     
     "base:stone_gravel": "Żwir",
     "base:stone_shale": "Łupek ilasty",
@@ -68,10 +69,25 @@
         "base:coconut": "Orzech kokosowy",
     "base:leaves_lux": "Liście z Luxu",
         "base:sapling_lux": "Sadzonka z Luxu",
+    "base:leaves_luminous": "Świetliste liście",
     "base:wood_planks": "Drewniane deski",
         "base:wood_door": "Drewniane drzwi",
         "base:ladder_wooden": "Drewniana drabina",
         "base:table_pedestal_wood": "Drewniany piedestał",
+    
+    "base:luminous_fruit": "Świetlisty owoc",
+        "base:luminous_fruit::red": "Czerwony świetlisty owoc",
+        "base:luminous_fruit::orange": "Pamarańczowy świetlisty owoc",
+        "base:luminous_fruit::yellow": "Żółty świetlisty owoc",
+        "base:luminous_fruit::lime": "Limonkowy świetlisty owoc",
+        "base:luminous_fruit::green": "Zielony świetlisty owoc",
+        "base:luminous_fruit::spring_green": "Wiosenno zielony świetlisty owoc",
+        "base:luminous_fruit::cyan": "Cyjanowy świetlisty owoc",
+        "base:luminous_fruit::azure": "Lazurowy świetlisty owoc",
+        "base:luminous_fruit::blue": "Niebieski świetlisty owoc",
+        "base:luminous_fruit::violet": "Fioletowy świetlisty owoc",
+        "base:luminous_fruit::magenta": "Fuksjowy świetlisty owoc",
+        "base:luminous_fruit::rose": "Różowy świetlisty owoc",
     
     "base:maize": "Kukurydza",
     "base:planteater_flower": "Kwiat roślinojada",
