@@ -58,5 +58,8 @@
     "base:spawn_disk_interceptor": "Disco de Geração de Interceptor",
     "base:cell_planteater": "Célula de Comedor de Plantas",
     "base:cell_tundramel": "Célula de Tundramelo",
-    "base:syringe": "Seringa"
+    "base:syringe": "Seringa",
+    "base:blueprint": "Planta",
+    "base:paper": "Papel",
+    "base:spawn_disk_builder_drone": "Drone Construtor"
 }
