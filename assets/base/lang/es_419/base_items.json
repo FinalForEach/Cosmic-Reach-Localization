@@ -58,5 +58,8 @@
     "base:spawn_disk_interceptor": "Disco de creación de interceptor",
     "base:cell_planteater": "Célula de devoraplantas",
     "base:cell_tundramel": "Célula de tundrélido",
-    "base:syringe": "Jeringa"
+    "base:syringe": "Jeringa",
+    "base:blueprint": "Proyecto",
+    "base:paper": "Papel",
+    "base:spawn_disk_builder_drone": "Dron constructor"
 }

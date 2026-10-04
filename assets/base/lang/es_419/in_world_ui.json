@@ -9,5 +9,15 @@
     "inventoryVoiceSettings": "Voz",
     "spaceshipTabTitle": "Mapa de la nave espacial",
     "spaceshipTravelButton": "Viajar a {0}",
-    "beamUpButton": "Teletransportarse a la nave espacial"
+    "beamUpButton": "Teletransportarse a la nave espacial",
+    "inventoryBlueprints": "Proyectos",
+    "blueprintTabTitle": "Proyectos activos",
+    "blueprintEntryTitle": "Proyecto #{0} (x: {1}, y: {2}, z: {3})",
+    "blueprintNoActive": "No hay ningún proyecto de construcción activo",
+    "blueprintProgress": "{0} / {1} bloques ({2}%)",
+    "blueprintHide": "Ocultar",
+    "blueprintShow": "Mostrar",
+    "blueprintPause": "Pausar",
+    "blueprintResume": "Continuar",
+    "blueprintCancel": "Cancelar"
 }
