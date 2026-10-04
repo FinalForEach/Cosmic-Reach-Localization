@@ -9,5 +9,15 @@
     "inventoryVoiceSettings": "Голос",
     "spaceshipTabTitle": "Карта космического корабля",
     "spaceshipTravelButton": "Путешествовать к {0}",
-    "beamUpButton": "Телепортироваться к космическому кораблю"
+    "beamUpButton": "Телепортироваться к космическому кораблю",
+    "inventoryBlueprints": "Чертежи",
+    "blueprintTabTitle": "Активные чертежи",
+    "blueprintEntryTitle": "Чертёж #{0} (x: {1}, y: {2}, z: {3})",
+    "blueprintNoActive": "Нет активного строительства",
+    "blueprintProgress": "{0} / {1} блоков ({2}%)",
+    "blueprintHide": "Скрыть",
+    "blueprintShow": "Показать",
+    "blueprintPause": "Приостановить",
+    "blueprintResume": "Продолжить",
+    "blueprintCancel": "Отменить"
 }
