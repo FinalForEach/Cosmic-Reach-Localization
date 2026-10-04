@@ -58,5 +58,8 @@
     "base:spawn_disk_interceptor": "Fremkallingsdiskett for avskjærer",
     "base:cell_planteater": "Blomstersnabeldyr-celle",
     "base:cell_tundramel": "Tundramedarcelle",
-    "base:syringe": "Sprøyte"
+    "base:syringe": "Sprøyte",
+    "base:blueprint": "Plantegning",
+    "base:paper": "Papir",
+    "base:spawn_disk_builder_drone": "Konstruksjonsdrone"
 }
