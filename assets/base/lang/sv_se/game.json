@@ -150,6 +150,7 @@
     "fullscreenExclusive": "Exklusivt",
     "fullscreenBorderless": "Gränslöst",
     "Lux_Sky": "Lux Himmel",
-    "zone_base:lux": "Lux"
+    "zone_base:lux": "Lux",
+    "cloudsButton": "Moln: "
     
 }

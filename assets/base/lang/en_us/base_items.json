@@ -58,5 +58,8 @@
     "base:spawn_disk_interceptor": "Interceptor Spawn Disk",
     "base:cell_planteater": "Planteater Cell",
     "base:cell_tundramel": "Tundramel Cell",
-    "base:syringe": "Syringe"
+    "base:syringe": "Syringe",
+    "base:blueprint": "Blueprint",
+    "base:paper": "Paper",
+    "base:spawn_disk_builder_drone": "Constructor Drone"
 }
