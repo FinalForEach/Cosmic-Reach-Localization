@@ -9,5 +9,15 @@
     "inventoryVoiceSettings": "Voz",
     "spaceshipTabTitle": "Mapa da Nave Espacial",
     "spaceshipTravelButton": "Viajar para {0}",
-    "beamUpButton": "Teletransportar para Nave Espacial"
+    "beamUpButton": "Teletransportar para Nave Espacial",
+    "inventoryBlueprints": "Plantas",
+    "blueprintTabTitle": "Plantas Ativas",
+    "blueprintEntryTitle": "Planta #{0} (x: {1}, y: {2}, z: {3})",
+    "blueprintNoActive": "Nenhuma planta de construção ativa",
+    "blueprintProgress": "{0} / {1} blocos ({2}%)",
+    "blueprintHide": "Esconder",
+    "blueprintShow": "Mostrar",
+    "blueprintPause": "Pausar",
+    "blueprintResume": "Resumir",
+    "blueprintCancel": "Cancelar"
 }
