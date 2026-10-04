@@ -9,5 +9,15 @@
     "inventoryVoiceSettings": "Głos",
     "spaceshipTabTitle": "Nawigator pokładowy",
     "spaceshipTravelButton": "Kierunek podróży: {0}",
-    "beamUpButton": "Przenieś na statek"
+    "beamUpButton": "Przenieś na statek",
+    "inventoryBlueprints": "Schematy",
+    "blueprintTabTitle": "Aktywne schematy",
+    "blueprintEntryTitle": "Schemat #{0} (x: {1}, y: {2}, z: {3})",
+    "blueprintNoActive": "Brak aktywnych schematów w budowie",
+    "blueprintProgress": "{0} / {1} bloków ({2}%)",
+    "blueprintHide": "Ukryj",
+    "blueprintShow": "Pokaż",
+    "blueprintPause": "Wstrzymaj",
+    "blueprintResume": "Wznów",
+    "blueprintCancel": "Anuluj"
 }
