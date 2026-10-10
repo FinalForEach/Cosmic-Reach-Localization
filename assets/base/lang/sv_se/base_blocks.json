@@ -184,5 +184,22 @@
     "base:flower_cosmos": "Kosmosblomma",
     "base:flower_cosmos::lux": "Luxkosmosblomma",
     "base:flower_lavender": "Lavendelblomma",
-    "base:flower_lavender::lux": "Luxlavendelblomma"
+    "base:flower_lavender::lux": "Luxlavendelblomma",
+    "base:tree_log_lux::bark": "Lux Bark",
+    "base:tree_log_lux::glow_bark": "Glödande Luxbark",
+    "base:mob_telepad": "Fientlig Teleplatta",
+    "base:leaves_luminous": "Strålande löv",
+    "base:luminous_fruit": "Strålfrukt",
+    "base:luminous_fruit::yellow": "Gul Strålfrukt",
+    "base:luminous_fruit::orange": "Orange Strålfrukt",
+    "base:luminous_fruit::red": "Röd Strålfrukt",
+    "base:luminous_fruit::lime": "Limefärgad Strålfrukt",
+    "base:luminous_fruit::rose": "Rosfärgad Strålfrukt",
+    "base:luminous_fruit::magenta": "Magentafärgad Strålfrukt",
+    "base:luminous_fruit::azure": "Azurfärgad Strålfrukt",
+    "base:luminous_fruit::green": "Grön Strålfrukt",
+    "base:luminous_fruit::cyan": "Cyan Strålfrukt",
+    "base:luminous_fruit::blue": "Blå Strålfrukt",
+    "base:luminous_fruit::spring_green": "Vårgrön Strålfrukt",
+    "base:luminous_fruit::violet": "Violett Strålfrukt"
 }
