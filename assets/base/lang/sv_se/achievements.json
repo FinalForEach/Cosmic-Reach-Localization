@@ -8,5 +8,14 @@
     "achievementUnlocked": "Upplåst",
     "achievementLocked": "Låst",
     "achievementRequires": "Kräver",
-    "achievement_base:dolly": "Dolly"
+    "achievement_base:dolly": "Dolly",
+    "achievement_desc_base:intercepted": "Besegra en Avledare.",
+    "achievement_desc_base:the_final_frontier": "Nå rymden.",
+    "achievement_desc_base:0_0_11": "Införskaffa ett debug-block.",
+    "achievement_desc_base:right_back_at_ya": "Förgör en Avledare med användning av rotorblad.",
+    "achievement_desc_base:dolly": "Klona en tundramel.",
+    "achievement_base:jetpack": "Privatjet... Pack",
+    "achievement_desc_base:jetpack": "Ta på dig ett jetpack.",
+    "achievement_base:light_show": "Ljusshow",
+    "achievement_desc_base:light_show": "Färga om ett lasergäver i en arbetsbänk."
 }
