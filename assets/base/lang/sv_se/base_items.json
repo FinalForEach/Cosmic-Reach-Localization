@@ -55,5 +55,8 @@
     "base:cell_planteater": "Växtätarcell",
     "base:cell_tundramel": "Tundramelcell",
     "base:syringe": "Spruta",
-    "base:lux_sap": "Luxsav"
+    "base:lux_sap": "Luxsav",
+    "base:blueprint": "Ritning",
+    "base:paper": "Papper",
+    "base:spawn_disk_builder_drone": "Konstruktionsdrönare"
 }
