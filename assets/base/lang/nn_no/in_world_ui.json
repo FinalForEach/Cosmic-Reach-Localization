@@ -9,5 +9,15 @@
     "inventoryVoiceSettings": "Tale",
     "spaceshipTabTitle": "Romskipskart",
     "spaceshipTravelButton": "Reis til {0}",
-    "beamUpButton": "Teleportér til romskip"
+    "beamUpButton": "Teleportér til romskip",
+    "inventoryBlueprints": "Planteikning",
+    "blueprintTabTitle": "Aktiv planteikning",
+    "blueprintEntryTitle": "Planteikning #{0} (X: {1}, Y: {2}, Z: {3})",
+    "blueprintNoActive": "Ingen aktiv konstruksjon frå planteikning",
+    "blueprintProgress": "{0} / {1} blokkar ({2}%)",
+    "blueprintHide": "Gøym",
+    "blueprintShow": "Vis",
+    "blueprintPause": "pause",
+    "blueprintResume": "Hald fram",
+    "blueprintCancel": "Avbryt"
 }

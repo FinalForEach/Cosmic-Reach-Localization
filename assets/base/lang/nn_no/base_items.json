@@ -19,7 +19,7 @@
     "base:lux_sap": "Lux-sevje",
     "base:rubber_ball": "Gummiball",
     "base:laser_gun": "Laserpistol",
-    "base:jetpack": "Flyvesekk",
+    "base:jetpack": "Flygesekk",
     "base:flamethrower": "Flammekastar",
     "base:ruby": "Rubin",
     "base:sapphire": "Safir",
@@ -58,5 +58,8 @@
     "base:spawn_disk_interceptor": "Framkallediskett for avskjerar",
     "base:cell_planteater": "Blomesnabeldyr-celle",
     "base:cell_tundramel": "Tundramedarcelle",
-    "base:syringe": "Sprøyte"
+    "base:syringe": "Sprøyte",
+    "base:blueprint": "Planteikning",
+    "base:paper": "Papir",
+    "base:spawn_disk_builder_drone": "Konstruksjonsdrone"
 }
