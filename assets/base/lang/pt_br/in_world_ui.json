@@ -9,5 +9,15 @@
 	"spaceshipTabTitle": "Mapa da Espaço-nave",
 	"spaceshipTravelButton": "Viajar até {0}",
 	"beamUpButton": "Teleportar até Espaço-nave",
-	"inventoryVoiceSettings": "Voz"
+	"inventoryVoiceSettings": "Voz",
+	"inventoryBlueprints": "Projetos",
+	"blueprintTabTitle": "Projetos Ativos",
+	"blueprintEntryTitle": "Projeto #{0} (x: {1}, y: {2}, z: {3})",
+	"blueprintNoActive": "Nenhum Projeto de Construção Ativo.",
+	"blueprintProgress": "Blocos {0} / {1} ({2}%)",
+	"blueprintHide": "Esconder",
+	"blueprintShow": "Mostrar",
+	"blueprintPause": "Pausar",
+	"blueprintResume": "Prosseguir",
+	"blueprintCancel": "Cancelar"
 }
