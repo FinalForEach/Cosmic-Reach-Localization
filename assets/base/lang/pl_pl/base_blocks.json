@@ -203,7 +203,7 @@
         "base:chair::swivel": "Krzesło obrotowe",
         "base:chair::wood": "Drewniane krzesło",
         "base:chair::aluminium": "Aluminiowe krzesło",
-        "base:chair::gold": "Złote krzesło"
+        "base:chair::gold": "Złote krzesło",
     "base:electric_generator": "Generator",
         "base:battery_block": "Akumulator",
     "base:electric_furnace": "Piec elektryczny",
