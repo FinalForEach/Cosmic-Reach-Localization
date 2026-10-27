@@ -212,5 +212,12 @@
     "base:luminous_fruit::cyan": "Голубой светящийся фрукт",
     "base:luminous_fruit::blue": "Синий светящийся фрукт",
     "base:luminous_fruit::spring_green": "Светло-зелёный светящийся фрукт",
-    "base:luminous_fruit::violet": "Фиолетовый светящийся фрукт"
+    "base:luminous_fruit::violet": "Фиолетовый светящийся фрукт",
+    "base:tomato": "Помидор",
+    "base:chair": "Стул",
+    "base:chair::aluminium": "Алюминиевый стул",
+    "base:chair::wood": "Дверевянный стул",
+    "base:chair::gold": "Золотой стул",
+    "base:chair::swivel": "Вращающееся кресло",
+    "base:chair::stool": "Табурет"
 }

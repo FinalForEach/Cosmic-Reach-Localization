@@ -61,5 +61,7 @@
     "base:syringe": "Шприц",
     "base:blueprint": "Чертёж",
     "base:paper": "Бумага",
-    "base:spawn_disk_builder_drone": "Дрон-строитель"
+    "base:spawn_disk_builder_drone": "Дрон-строитель",
+    "base:tomato": "Помидор",
+    "base:tomato_seeds": "Семена помидора"
 }
