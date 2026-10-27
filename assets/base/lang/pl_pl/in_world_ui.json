@@ -1,7 +1,8 @@
 {
     "remoteControlMobNameInputLabel": "Nazwa:",
     "workbenchItemNameLabel": "Nazwa przedmiotu:",
-    "laserEmitterShoot": "Strzelaj!",
+    "laserEmitterShoot": "Wystrzał!",
+    "dispenserShoot": "Wystrzał!",
     "inventoryCrafting": "Wytwarzanie",
     "inventoryEquipment": "Wyposażenie",
     "inventoryAchievements": "Osiągnięcia",
