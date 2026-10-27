@@ -199,7 +199,7 @@
     "base:crate_wooden": "Drewniana skrzynia",
     "base:cardboard_box": "Karton",
     "base:chair": "Krzesło",
-        "base:chair::stool": "Stołek"
+        "base:chair::stool": "Stołek",
         "base:chair::swivel": "Krzesło obrotowe",
         "base:chair::wood": "Drewniane krzesło",
         "base:chair::aluminium": "Aluminiowe krzesło",
