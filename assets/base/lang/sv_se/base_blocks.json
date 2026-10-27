@@ -201,5 +201,12 @@
     "base:luminous_fruit::cyan": "Cyan Strålfrukt",
     "base:luminous_fruit::blue": "Blå Strålfrukt",
     "base:luminous_fruit::spring_green": "Vårgrön Strålfrukt",
-    "base:luminous_fruit::violet": "Violett Strålfrukt"
+    "base:luminous_fruit::violet": "Violett Strålfrukt",
+    "base:tomato": "Tomat",
+    "base:chair": "Stol",
+    "base:chair::aluminium": "Aluminiumstol",
+    "base:chair::wood": "Trästol",
+    "base:chair::gold": "Guldstol",
+    "base:chair::swivel": "Snurrstol",
+    "base:chair::stool": "Pall"
 }

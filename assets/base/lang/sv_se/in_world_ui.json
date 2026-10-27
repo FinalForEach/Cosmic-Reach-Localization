@@ -1,7 +1,7 @@
 {
     "remoteControlMobNameInputLabel": "Namn:",
     "workbenchItemNameLabel": "Sakens namn:",
-    "laserEmitterShoot": "Skjut!",
+    "laserEmitterShoot": "Avfyra!",
     "inventoryCrafting": "Slöjd",
     "inventoryEquipment": "Utrustning",
     "inventoryAchievements": "Bragder",
@@ -19,5 +19,6 @@
     "blueprintShow": "Visa",
     "blueprintPause": "Pausa",
     "blueprintResume": "Återuppta",
-    "blueprintCancel": "Avbryt"
+    "blueprintCancel": "Avbryt",
+    "dispenserShoot": "Avfyra!"
 }

@@ -58,5 +58,7 @@
     "base:lux_sap": "Luxsav",
     "base:blueprint": "Ritning",
     "base:paper": "Papper",
-    "base:spawn_disk_builder_drone": "Konstruktionsdrönare"
+    "base:spawn_disk_builder_drone": "Konstruktionsdrönare",
+    "base:tomato": "Tomat",
+    "base:tomato_seeds": "Tomatfrön"
 }
