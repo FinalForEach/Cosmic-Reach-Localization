@@ -58,5 +58,8 @@
 	"base:cell_planteater": "Célula de Devorador de Plantas",
 	"base:cell_tundramel": "Célula de Tundramel",
 	"base:syringe": "Seringa",
-	"base:lux_sap": "Seiva Luminosa"
+	"base:lux_sap": "Seiva Luminosa",
+	"base:blueprint": "Cópia Heliográfica",
+	"base:paper": "Papel",
+	"base:spawn_disk_builder_drone": "Drone Construtor"
 }
