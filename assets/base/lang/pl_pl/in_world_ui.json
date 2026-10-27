@@ -1,7 +1,7 @@
 {
     "remoteControlMobNameInputLabel": "Nazwa:",
     "workbenchItemNameLabel": "Nazwa przedmiotu:",
-    "laserEmitterShoot": "Strzelaj!",
+    "laserEmitterShoot": "Wystrzał!",
     "inventoryCrafting": "Wytwarzanie",
     "inventoryEquipment": "Wyposażenie",
     "inventoryAchievements": "Osiągnięcia",
@@ -19,5 +19,6 @@
     "blueprintShow": "Pokaż",
     "blueprintPause": "Wstrzymaj",
     "blueprintResume": "Wznów",
-    "blueprintCancel": "Anuluj"
+    "blueprintCancel": "Anuluj",
+    "dispenserShoot": "Wystrzał!"
 }

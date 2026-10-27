@@ -61,7 +61,9 @@
     "base:santa_hat": "Czapka Mikołaja",
     
     "base:corn": "Kolba kukurydzy",
-    "base:corn_kernels": "Ziarna kukurydzy",
+        "base:corn_kernels": "Ziarna kukurydzy",
+    "base:tomato": "Pomidor",
+        "base:tomato_seeds": "Nasiona pomidora",
     "base:milk_can": "Kanka mleka",
     "base:cheese_piece": "Kawałek sera",
     "base:steak": "Stek",
