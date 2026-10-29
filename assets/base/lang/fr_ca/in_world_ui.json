@@ -9,5 +9,16 @@
     "spaceshipTabTitle": "Carte spatiale",
     "spaceshipTravelButton": "Voyager à {0}",
     "beamUpButton": "Téléporter vers le vaisseau spatial",
-    "inventoryVoiceSettings": "Voix"
+    "inventoryVoiceSettings": "Voix",
+    "inventoryBlueprints": "Dessins de définition",
+    "blueprintTabTitle": "Dessins de définition actifs",
+    "blueprintEntryTitle": "Dessin de définition #{0} (x: {1}, y: {2}, z: {3})",
+    "blueprintNoActive": "Aucun dessin de définition n'est en construction",
+    "blueprintProgress": "{0} / {1} blocs ({2}%)",
+    "blueprintHide": "Masquer",
+    "blueprintShow": "Afficher",
+    "blueprintPause": "Suspendre",
+    "blueprintResume": "Reprendre",
+    "blueprintCancel": "Annuler",
+    "dispenserShoot": "Tirer !"
 }
