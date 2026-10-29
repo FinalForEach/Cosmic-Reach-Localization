@@ -62,5 +62,7 @@
     "base:lux_sap": "Sève de Lux",
     "base:blueprint": "Dessin de définition",
     "base:paper": "Papier",
-    "base:spawn_disk_builder_drone": "Drone constructeur"
+    "base:spawn_disk_builder_drone": "Drone constructeur",
+    "base:tomato": "Tomate",
+    "base:tomato_seeds": "Graines de tomate"
 }

@@ -213,5 +213,12 @@
     "base:luminous_fruit::cyan": "Fruit lumineux cyan",
     "base:luminous_fruit::blue": "Fruit lumineux bleue",
     "base:luminous_fruit::spring_green": "Fruit lumineux vert printemps",
-    "base:luminous_fruit::violet": "Fruit lumineux violet"
+    "base:luminous_fruit::violet": "Fruit lumineux violet",
+    "base:tomato": "Tomate",
+    "base:chair": "Chaise",
+    "base:chair::aluminium": "Chaise en aluminium",
+    "base:chair::wood": "Chaise en bois",
+    "base:chair::gold": "Chaise en or",
+    "base:chair::swivel": "Chaise tournante",
+    "base:chair::stool": "Tabouret"
 }
