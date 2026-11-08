@@ -9,6 +9,7 @@
     "optionsButton": "Optionen",
     "quitButton": "Verlassen",
     "vSyncButton": "VSync: ",
+    "cloudsButton": "Wolken: ",
     "creditsButton": "Credits",
     "renderDistSlider": "Sichtweite: ",
     "invertedMouseButton": "Maus umkehren: ",
@@ -40,6 +41,7 @@
     "Return_To_Menu": "Zurück zum Hauptmenü",
     "Saving": "Welt wird gespeichert...",
     "Dynamic_Sky": "Dynamischer Himmel",
+    "Lux_Sky": "Luxhimmel",
     "Space_Day": "Weltraum bei Tag",
     "Space_Sky": "Weltraumhimmel",
     "Dark_Night": "Dunkle Nacht",
@@ -135,6 +137,7 @@
     "zone_base:void": "Leere Welt",
     "mobUnnamed": "Namenlos",
     "zone_base:earth_legacy": "Erde (Legacy)",
+    "zone_base:lux": "Lux",
     "comingSoon": "Kommt bald...",
     "langSelectionSearch": "Suche Sprachen...",
     "worldDescriptionName": "Weltenname:",
@@ -153,5 +156,8 @@
     "multiplayerDeleteConfirmPrompt": "Bist du dir sicher, dass du {0} löschen möchtest?",
     "multiplayerEditServer": "Server bearbeiten",
     "genericSelectionSearch": "Suche...",
-    "multiplayerLanLabel": "LAN Server"
+    "multiplayerLanLabel": "LAN Server",
+    "fullscreenModeButton": "Vollbildmodus: ",
+    "fullscreenExclusive": "Exklusiv",
+    "fullscreenBorderless": "Rahmenlos"
 }
