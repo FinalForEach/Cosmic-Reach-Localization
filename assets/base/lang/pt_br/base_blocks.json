@@ -213,5 +213,12 @@
 	"base:luminous_fruit::cyan": "Fruta Luminanate Ciano",
 	"base:luminous_fruit::blue": "Fruta Luminanate Azul",
 	"base:luminous_fruit::spring_green": "Fruta Luminanate Verde-Primavera",
-	"base:luminous_fruit::violet": "Fruta Luminanate Violeta"
+	"base:luminous_fruit::violet": "Fruta Luminanate Violeta",
+	"base:tomato": "Tomate",
+	"base:chair": "Cadeira",
+	"base:chair::aluminium": "Cadeira de Alumínio",
+	"base:chair::wood": "Cadeira de Madeira",
+	"base:chair::gold": "Cadeira de Ouro",
+	"base:chair::swivel": "Cadeira Giratória",
+	"base:chair::stool": "Banquinho"
 }

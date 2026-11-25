@@ -61,5 +61,7 @@
 	"base:lux_sap": "Seiva Luminosa",
 	"base:blueprint": "Cópia Heliográfica",
 	"base:paper": "Papel",
-	"base:spawn_disk_builder_drone": "Drone Construtor"
+	"base:spawn_disk_builder_drone": "Drone Construtor",
+	"base:tomato": "Tomate",
+	"base:tomato_seeds": "Sementes de Tomate"
 }
